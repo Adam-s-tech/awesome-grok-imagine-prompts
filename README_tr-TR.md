@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2902** |
+| 📝 Total Prompts | **2912** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-27** |
 
@@ -189,6 +189,120 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Ay Işığında Dans Promptu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için, birinin bahçesinde ay ışığında dans ettiği huzurlu bir video promptu.
+
+#### 📝 Prompt
+
+```
+evde güvende ve sağlıklı, sonbaharın yeni ay ışığında arka bahçesinde dans ediyor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104086089120014337/img/WVLbXRJpXGEX7D28.jpg" width="600" alt="Ay Işığında Dans Promptu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11436)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2104086484248666366) | **Published:** Sep 27, 2026
+
+---
+### Kanat Sarma Hareketli Ejderha Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yoğun göz teması ve karmaşık kanat hareketleriyle bir ejderhayı canlandırmak için video üretim istemi.
+
+#### 📝 Prompt
+
+```
+canlandır, öne doğru ilerlerken yoğun göz teması kur, kanatlar tamamen görünür kalsın, hatta ejderhanın etrafını sarıp döndürmeleri gerekse bile, derin siyah abanoz kenarlar
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103965700519780353/img/DiUBmvWl-C1oWMxH.jpg" width="600" alt="Kanat Sarma Hareketli Ejderha Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11437)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2103966528035344692) | **Published:** Sep 26, 2026
+
+---
+### Grok Imagine Deve Sürme Düzenlemesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine kullanarak bir öznenin kıyafetini değiştirmek, başörtüsü eklemek, deveye bindirmek ve arka plan müziğini ayarlamak için kullanılan bir görüntü düzenleme/dönüştürme istemi.
+
+#### 📝 Prompt
+
+```
+Bu görseli, aynı kıyafeti giyen ve saçlarında mavi bir peçe olan bir kadın olarak düzenle. Arka planda Tinariwen müziği çalarken deve sürsün. Görselin geri kalanını sil, sadece deve üzerinde dik durduğu kısmı koru. Neden geriye doğru sürdüğünü açıklayan diyalogları kaldır. Tiwhyye ekle...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103955134158139392/img/MvjAt0JRB1vKO7Ss.jpg" width="600" alt="Grok Imagine Deve Sürme Düzenlemesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11431)**
+
+**Author:** [Ileana](https://x.com/Ileana19551955) | **Source:** [Link](https://x.com/Ileana19551955/status/2103955146946576571) | **Published:** Sep 26, 2026
+
+---
+### Grok Imagine Kırmızı Balık ve Canavarlar Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine kullanılarak kırmızı balıklar, kelebekler, deniz çiçekleri, şimşekler ve sisli canavarları içeren detaylı sinematik bir istem.
+
+#### 📝 Prompt
+
+```
+Sakin sularda yüzen kırmızı balıklar. Bir kelebek güzel bir deniz çiçeğine konar. Uzakta şimşekler çakar ve içinde canavarların olduğu yoğun bir sis yayılır.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103936592003919872/img/KkL8CDJ6qbhZivJs.jpg" width="600" alt="Grok Imagine Kırmızı Balık ve Canavarlar Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11430)**
+
+**Author:** [Lilbit2020](https://x.com/Lilbit20203) | **Source:** [Link](https://x.com/Lilbit20203/status/2103936631405240751) | **Published:** Sep 26, 2026
+
+---
+### Fuji Dağı drone çekimi video istemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Opus tarafından Grok'a verilen talimatlar olarak açıkça belirtilen, gün doğumunda Fuji Dağı'nın sinematik bir drone çekimi için video üretim istemi.
+
+#### 📝 Prompt
+
+```
+Gün doğumunda Fuji Dağı'nın sinematik fotogerçekçi drone çekimi, dağın yansıdığı Kawaguchi Gölü, ön planda kiraz çiçeği dalları, yumuşak sabah sisi, yavaş ileri dolly hareketi, 4K film görünümü
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103932166124322816/img/8ZkWhrHivAmVum7H.jpg" width="600" alt="Fuji Dağı drone çekimi video istemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11439)**
+
+**Author:** [なお｜AIで仕事を自動化する会社員](https://x.com/nao_desk) | **Source:** [Link](https://x.com/nao_desk/status/2103932712755318860) | **Published:** Sep 26, 2026
+
+---
+### Grok Imagine Video İstemi: Yaprakların Üzerindeki Yağmur
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yapraklara gümüş çanlar gibi hafifçe vuran yağmuru görselleştirmek için Grok Imagine'a yönelik betimleyici bir video istemi.
+
+#### 📝 Prompt
+
+```
+Şıp şıp, şıp şıp… Ben yumuşacık yağan yağmurum; rüzgârda minik gümüş çanlar gibi yapraklara nazikçe dokunuyorum....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103808899803402240/img/h1i_WEF1orBrosP9.jpg" width="600" alt="Grok Imagine Video İstemi: Yaprakların Üzerindeki Yağmur">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11433)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2103808977339584611) | **Published:** Sep 26, 2026
+
+---
 ### Grok Imagine Video İstemi: Kare En Boy Oranına Dönüştürme
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +320,29 @@ Bu görüntüyü 1:1 kare en boy oranına dönüştürün. Ana konuyu (parlayan 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11345)**
 
 **Author:** [Katrina](https://x.com/sLuTmEoUt1988) | **Source:** [Link](https://x.com/sLuTmEoUt1988/status/2103680519401799927) | **Published:** Sep 26, 2026
+
+---
+### Sinematik Uzaylı Keşif İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Referans bir görselden başlayan, uzaylı ortamının kesintisiz sinematik keşfini oluşturmak için hazırlanmış detaylı uzun form istem.
+
+#### 📝 Prompt
+
+```
+Bu tam görselden başlayarak kesintisiz 15 saniyelik sinematik bir keşif oluşturun. Kesme yok.
+
+Uzaylı YÜRÜMEZ, UÇMAZ veya insan gibi hareket etmez.
+
+0–3 saniye: Kamera yavaşça uzaylının arkasına yaklaşır. Neredeyse hareketsiz kalır, aşağı...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103659926031622145/img/h4Sxj6VYFQp0ay4l.jpg" width="600" alt="Sinematik Uzaylı Keşif İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11435)**
+
+**Author:** [LisaVale](https://x.com/DriftNShadow) | **Source:** [Link](https://x.com/DriftNShadow/status/2103659984508666283) | **Published:** Sep 26, 2026
 
 ---
 ### Bilim Kurgu Western Holodeck Geçişi
@@ -273,6 +410,65 @@ Yalnızca doğal diegetic ses. Müzik, anlatım, CGI görünümü, yapay yağmur
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11348)**
 
 **Author:** [Yogi](https://x.com/cyberyogiii) | **Source:** [Link](https://x.com/cyberyogiii/status/2103629403284742531) | **Published:** Sep 25, 2026
+
+---
+### Sinematik Sürrealist Sekans
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Başlangıç görselinden 15 saniyelik sinematik bir sürrealist sekans oluşturmak için detaylı istem.
+
+#### 📝 Prompt
+
+```
+Bu tam başlangıç görselinden 15 saniyelik sinematik bir sürrealist sekans oluşturun. Fotoğrafsal ama imkansız niteliğini ve dikey kompozisyonunu koruyun.
+
+Mevcut garip manzara boyunca yavaş bir ileri kamera hareketiyle başlayın. Her şey...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103611709537624064/img/5lu0RjC6fleUkER1.jpg" width="600" alt="Sinematik Sürrealist Sekans">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11438)**
+
+**Author:** [LisaVale](https://x.com/DriftNShadow) | **Source:** [Link](https://x.com/DriftNShadow/status/2103611793473937901) | **Published:** Sep 25, 2026
+
+---
+### Grok Imagine Video İstemi: Venüs'e Gülen Albatros
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Venüs'ü yansıtan okyanusun üzerinde uçan bir albatrosu betimleyen, Grok Imagine için şiirsel ve sürreal bir video istemi.
+
+#### 📝 Prompt
+
+```
+gece gökyüzünde parlayan Venüs'ün durgun okyanusa yansımasına gülen uçan bir albatros
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103600920189677568/img/X1Qa43FIrZnSXNXV.jpg" width="600" alt="Grok Imagine Video İstemi: Venüs'e Gülen Albatros">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11432)**
+
+**Author:** [@Z_&Axis](https://x.com/AlbatrossBanter) | **Source:** [Link](https://x.com/AlbatrossBanter/status/2103600940284547249) | **Published:** Sep 25, 2026
+
+---
+### Eva Karikatür Tarzı Rap Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için Eva'yı karikatür tarzında betimleyen, özel anlatım ve ses talimatları içeren detaylı bir video istemi.
+
+#### 📝 Prompt
+
+```
+Kalbi altın gibi olan, Tanrı'dan gelen bir kapının açılmak üzere olduğu, onu ölesiye seven ve onun için her şeyi yapacak bir finansal güce sahip Elvira'ya benzeyen karikatür tarzında Eva. 30 saniyelik rap tarzı bir şarkı ile hazırla.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103595120083775488/img/bxYET1ReOpZfLJqe.jpg" width="600" alt="Eva Karikatür Tarzı Rap Video İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11434)**
+
+**Author:** [Joseph Buttacavole](https://x.com/Joebutter1111) | **Source:** [Link](https://x.com/Joebutter1111/status/2103595177101361391) | **Published:** Sep 25, 2026
 
 ---
 ### Kırmızı At Üzerinde Kanatlı Şövalye
@@ -1943,198 +2139,6 @@ Yolda ilerleyen genç bir kadın, arkasını döner ve savaşçı bir prenseste 
 **Author:** [Grok Builder](https://x.com/grok_builder) | **Source:** [Link](https://x.com/grok_builder/status/2099107995028201539) | **Published:** Sep 13, 2026
 
 ---
-### Yüksek Moda Hareket Bulanıklığı Portresi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Hareket bulanıklığı efektlerine sahip yüksek moda editoryal portre için kısaltılmış bir istem.
-
-#### 📝 Prompt
-
-```
-Rüzgârda şiddetle savrulan uzun saçlı genç bir kadının yüksek moda editoryal portresi. Üzerinde bol kollu, akıcı, tül dokulu parlak ateş kırmızısı-turuncu bir giysi var. Görüntü, kasıtlı olarak güçlü hareket bulanıklığı ile yakalanmış, özellikle...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098923245168693249/img/cKyXwL4mhKF-cmvx.jpg" width="600" alt="Yüksek Moda Hareket Bulanıklığı Portresi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10817)**
-
-**Author:** [Sadie 🕊🖼️](https://x.com/poetrynthings) | **Source:** [Link](https://x.com/poetrynthings/status/2098923257428595019) | **Published:** Sep 12, 2026
-
----
-### Grok Imagine Video İstemi: Parkta Fütüristik Robot Kadın
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Açık bir parkta çocukları oyun oynamaya götüren, yetişkin bir erkek tarafından gözetilen fütüristik robot kadının videosunu oluşturmak için kullanılan istem. Tweet ayrıca aracı reklamlardan kaçınmaya yönelik yorumlar içeriyor.
-
-#### 📝 Prompt
-
-```
-Açık bir parkta çocukları oyun oynamaya götüren ve yetişkin bir erkek tarafından gözetlenen fütüristik bir robot kadın videosu oluşturun.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098900315579842571/img/MjFbW2hN62cWdrcJ.jpg" width="600" alt="Grok Imagine Video İstemi: Parkta Fütüristik Robot Kadın">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10822)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2098900366523879801) | **Published:** Sep 12, 2026
-
----
-### Hayat Ağacına Yürüyen Kadın
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Dikenli tellerin arasından çıkan bir kadının, güneş ışığıyla aydınlanmış mistik bir ormanda parlayan kadim Hayat Ağacı'na doğru yürüdüğü videoyu oluşturmak için bir istem.
-
-#### 📝 Prompt
-
-```
-Kadın, dikenli tellerin arasından tamamen ayağa kalkar ve ardından güneş ışığıyla aydınlanmış ormanda zarif adımlarla ilerleyerek görkemli kadim Hayat Ağacı'na doğru yürür. Hayat Ağacı, karmaşık parlayan köklere ve dallara sahip, altın rengi...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098898023116087296/img/uYV8dK2Lbog8JyNN.jpg" width="600" alt="Hayat Ağacına Yürüyen Kadın">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10816)**
-
-**Author:** [Barbara 💕🕊️🌎](https://x.com/BarbaraCbroker1) | **Source:** [Link](https://x.com/BarbaraCbroker1/status/2098898374229680514) | **Published:** Sep 12, 2026
-
----
-### Fütüristik Şehir Gemisi Bilim Kurgu İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Devasa uçan bir şehir gemisini, motorları ve derin uzay yolculuğunu içeren 10 saniyelik sinematik bir bilim kurgu sekansı oluşturmak için kullanılan istem.
-
-#### 📝 Prompt
-
-```
-10 saniyelik dikey sinematik bilim kurgu sekansı: Gün doğumunda bulutların üzerinde devasa fütüristik uçan bir şehir gemisiyle başlayın; parlayan itki motorlarının, otonom trafiğin ve gökdelenlerin yakın çekimlerine geçiş yapın; ardından insan siluetinin şehri izlediğini gösterin ve devasa geminin Dünya'dan derin uzaya doğru hızlandığını ortaya koyun. Dramatik kamera hareketleri, fotogerçekçi detaylar, hacimsel ışıklandırma, gerçekçi yansımalar, güçlü motor parlaması, derin sinematik ses tasarımı ve şu son metinle bitirin:
-“GELECEK GERÇEK — BİR SONRAKİ SEVİYE BİLİM KURGU.”
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098743153834815488/img/4CFRkXpoLIHXBsAE.jpg" width="600" alt="Fütüristik Şehir Gemisi Bilim Kurgu İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10819)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2098745738398494723) | **Published:** Sep 12, 2026
-
----
-### Parkta Yürüyen İki Optimus Robotu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için iki Optimus Prime robotunun güzel bir park ortamında birlikte yürüdüğü bir video üretim istemi.
-
-#### 📝 Prompt
-
-```
-İki Optimus, güzel bir park ve geleceğin ötesinde bir sohbet. Bugün birlikte yürüyorlar… yarını şekillendiriyorlar.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098709643119984641/img/34m6mk7nCDDO2AqR.jpg" width="600" alt="Parkta Yürüyen İki Optimus Robotu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10821)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2098710365307830738) | **Published:** Sep 12, 2026
-
----
-### I Am Legend Optimus Prime Fragmanı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Will Smith'in yerine bir Tesla Optimus robotunun geçtiği bir film fragmanı senaryosu oluşturmak için Grok Imagine'e yönelik sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-I Am Legend film fragmanı; ancak Will Smith yerine Tesla Optimus var, insanlar yok olduktan sonra ayakta kalan son robot o.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098674271413280775/img/ASmQlDMZovJCgISu.jpg" width="600" alt="I Am Legend Optimus Prime Fragmanı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10802)**
-
-**Author:** [PokeDon](https://x.com/Pokedoncards) | **Source:** [Link](https://x.com/Pokedoncards/status/2098674288786084172) | **Published:** Sep 12, 2026
-
----
-### Lady StarWeaver ve Leopar Yavruları
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Elf ormanında bir kadın ve leopar yavrularını içeren fantastik bir sahne için betimleyici bir istem.
-
-#### 📝 Prompt
-
-```
-Lady StarWeaver ve iki Siyah Leopar yavrusu, derin Elf Ormanı'nda yaşamaktadır.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098670972870025224/img/Skv-29rGkaq6s5Xl.jpg" width="600" alt="Lady StarWeaver ve Leopar Yavruları">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10803)**
-
-**Author:** [Judy Powell](https://x.com/Judy_2026) | **Source:** [Link](https://x.com/Judy_2026/status/2098671027093905837) | **Published:** Sep 12, 2026
-
----
-### Şekil Değiştirici Metamorfoz Dizisi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ardışık hayvan dönüşümlerini detaylandıran, çok aşamalı ve dinamik bir karmaşık video istemi.
-
-#### 📝 Prompt
-
-```
-Bir kadın beyaz dev bir baykuşa dönüşüyor, baykuş uçuyor ve bir nehri geçerken kar leoparına dönüşüyor, nehri geçerken tekrar kadına dönüşüyor
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098604983788736518/img/JavVvbe4J-KCAUJi.jpg" width="600" alt="Şekil Değiştirici Metamorfoz Dizisi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10795)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2098605006433779873) | **Published:** Sep 12, 2026
-
----
-### Yalnız Balıkçı Sakin Sahne
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kalabalık dağıldıktan sonraki sessiz atmosferi vurgulayan, göl kenarında tek başına balık tutan yaşlı bir adamı betimleyen melankolik ama huzurlu bir video istemi.
-
-#### 📝 Prompt
-
-```
-Tek başına balık tutan yaşlı adam tam aranan görüntü; yaz kalabalığı gitmiş, göl hala ılık ve artık kimseye bir şey kanıtlamasına gerek yok. Hissiyat tam olarak bu: üzücü değil, sadece partiden sonraki o sessizlik.
-Onu suyun önünde küçük bir figür olarak çiz, elinde oltası olsun ve gölün kadrajın büyük bir kısmını kaplamasına izin ver. Önemli olan o boşluk hissi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098537834567135238/img/PjRyNL9hr8-vBhk-.jpg" width="600" alt="Yalnız Balıkçı Sakin Sahne">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10800)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2098537884756189577) | **Published:** Sep 11, 2026
-
----
-### Yavaş Neon Renk Patlaması
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Canlı neon renklerin ve geometrik şekillerin yumuşak, parlayan radyal bir patlaması için oldukça detaylı bir video istemi.
-
-#### 📝 Prompt
-
-```
-Sadece yavaş renk patlaması. Yumuşak merkezi parlayan ışık. Canlı neon soyut renk yamaları ve geometrik şekiller, her yöne nazikçe yavaşça patlıyor ve dışa doğru genişliyor. Spiral yok, girdap hareketi yok, dönme yok. Saf yavaş radyal patlama
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098529372018036736/img/X6hmQQrvrHZNwk-A.jpg" width="600" alt="Yavaş Neon Renk Patlaması">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10796)**
-
-**Author:** [Roy](https://x.com/RoyRoy67196892) | **Source:** [Link](https://x.com/RoyRoy67196892/status/2098529438338371682) | **Published:** Sep 11, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2196,6 +2200,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-27T05:04:04.588Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-27T14:17:10.918Z</sub>
 
 </div>

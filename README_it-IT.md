@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2902** |
+| 📝 Total Prompts | **2912** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-27** |
 
@@ -189,6 +189,120 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt: Danza sotto la Luna
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video sereno per Grok Imagine che mostra una persona che danza in un giardino sul retro sotto la luce della luna.
+
+#### 📝 Prompt
+
+```
+ancora al sicuro e tranquilla a casa, danzava nel suo giardino sul retro sotto la nuova luce lunare autunnale
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104086089120014337/img/WVLbXRJpXGEX7D28.jpg" width="600" alt="Prompt: Danza sotto la Luna">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11436)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2104086484248666366) | **Published:** Sep 27, 2026
+
+---
+### Animazione del drago con avvolgimento delle ali
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt per la generazione di video per animare un drago con uno sguardo intenso e movimenti complessi delle ali.
+
+#### 📝 Prompt
+
+```
+anima, contatto visivo intenso mentre avanza, le ali rimangono completamente visibili anche se devono avvolgersi attorno al drago e farlo roteare, bordi in ebano nero profondo
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103965700519780353/img/DiUBmvWl-C1oWMxH.jpg" width="600" alt="Animazione del drago con avvolgimento delle ali">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11437)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2103966528035344692) | **Published:** Sep 26, 2026
+
+---
+### Modifica Grok Imagine: Donna a Cavallo di un Cammello
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt per la modifica e la trasformazione delle immagini con Grok Imagine: cambia l'abbigliamento, aggiungi un velo, posiziona il soggetto su un cammello e regola la musica di sottofondo.
+
+#### 📝 Prompt
+
+```
+Trasforma questa immagine in modo che lei indossi lo stesso outfit con un velo blu tra i capelli, mentre cavalca un cammello. Aggiungi "Tinariwen" come musica di sottofondo. Elimina l'immagine originale mantenendo solo la parte in cui è in piedi sul cammello. Rimuovi il dialogo sulla cavalcatura all'indietro e inserisci Tiwhyye...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103955134158139392/img/MvjAt0JRB1vKO7Ss.jpg" width="600" alt="Modifica Grok Imagine: Donna a Cavallo di un Cammello">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11431)**
+
+**Author:** [Ileana](https://x.com/Ileana19551955) | **Source:** [Link](https://x.com/Ileana19551955/status/2103955146946576571) | **Published:** Sep 26, 2026
+
+---
+### Video Grok Imagine: Pesci Rossi e Mostri
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt cinematografico dettagliato per Grok Imagine che include pesci rossi, farfalle, fiori di mare, fulmini e mostri nella nebbia.
+
+#### 📝 Prompt
+
+```
+La coda di un pesce rosso affiora nell'acqua calma. Una farfalla si posa su un bellissimo fiore di mare. Un fulmine colpisce in lontananza e una nebbia piena di mostri avanza.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103936592003919872/img/KkL8CDJ6qbhZivJs.jpg" width="600" alt="Video Grok Imagine: Pesci Rossi e Mostri">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11430)**
+
+**Author:** [Lilbit2020](https://x.com/Lilbit20203) | **Source:** [Link](https://x.com/Lilbit20203/status/2103936631405240751) | **Published:** Sep 26, 2026
+
+---
+### Prompt video riprese drone Monte Fuji
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt di generazione video cinematografico per una ripresa con drone del Monte Fuji all'alba, esplicitamente indicato come istruzioni fornite a Grok da Opus.
+
+#### 📝 Prompt
+
+```
+Ripresa drone fotorealistica e cinematografica del Monte Fuji all'alba, Lago Kawaguchi che riflette la montagna, rami di ciliegio in primo piano, nebbia mattutina soffice, lento movimento avanti della camera (dolly), look filmico 4K
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103932166124322816/img/8ZkWhrHivAmVum7H.jpg" width="600" alt="Prompt video riprese drone Monte Fuji">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11439)**
+
+**Author:** [なお｜AIで仕事を自動化する会社員](https://x.com/nao_desk) | **Source:** [Link](https://x.com/nao_desk/status/2103932712755318860) | **Published:** Sep 26, 2026
+
+---
+### Prompt video Grok Imagine: Pioggia sulle foglie
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video descrittivo per Grok Imagine che visualizza una pioggia leggera che tamburella sulle foglie come campane d'argento.
+
+#### 📝 Prompt
+
+```
+Plic-plic, plic-plic… Sono la pioggia leggera, che tamburella delicatamente sulle foglie come minuscole campane d'argento nella brezza....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103808899803402240/img/h1i_WEF1orBrosP9.jpg" width="600" alt="Prompt video Grok Imagine: Pioggia sulle foglie">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11433)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2103808977339584611) | **Published:** Sep 26, 2026
+
+---
 ### Prompt Video Grok Imagine: Conversione al Formato Quadrato
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +320,29 @@ Converti questa immagine in un formato quadrato 1:1. Mantieni il soggetto princi
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11345)**
 
 **Author:** [Katrina](https://x.com/sLuTmEoUt1988) | **Source:** [Link](https://x.com/sLuTmEoUt1988/status/2103680519401799927) | **Published:** Sep 26, 2026
+
+---
+### Prompt di Esplorazione Alienista Cinematografica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt dettagliato e lungo per creare un'esplorazione cinematografica continua di un ambiente alieno, partendo da un'immagine di riferimento.
+
+#### 📝 Prompt
+
+```
+Crea un'esplorazione cinematografica continua di 15 secondi che inizia esattamente da questa immagine. Nessun taglio.
+
+L'alieno NON cammina, vola o si muove come un essere umano.
+
+0–3 secondi: La camera si avvicina lentamente all'alieno da dietro. Rimane quasi immobile, sovrastando...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103659926031622145/img/h4Sxj6VYFQp0ay4l.jpg" width="600" alt="Prompt di Esplorazione Alienista Cinematografica">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11435)**
+
+**Author:** [LisaVale](https://x.com/DriftNShadow) | **Source:** [Link](https://x.com/DriftNShadow/status/2103659984508666283) | **Published:** Sep 26, 2026
 
 ---
 ### Transizione Olo-Deck Sci-Fi Western
@@ -273,6 +410,65 @@ Solo audio diegetico naturale. Niente musica, narrazione, aspetto CGI, pioggia a
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11348)**
 
 **Author:** [Yogi](https://x.com/cyberyogiii) | **Source:** [Link](https://x.com/cyberyogiii/status/2103629403284742531) | **Published:** Sep 25, 2026
+
+---
+### Sequenza Surrealista Cinematografica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt dettagliato per creare una sequenza surrealista cinematografica di 15 secondi a partire da un'immagine iniziale.
+
+#### 📝 Prompt
+
+```
+Crea una sequenza surrealista cinematografica di 15 secondi partendo esattamente da questa immagine. Mantieni la sua qualità fotorealistica ma impossibile e la composizione verticale.
+
+Inizia con un lento movimento della camera in avanti attraverso il paesaggio strano già esistente. Tutto...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103611709537624064/img/5lu0RjC6fleUkER1.jpg" width="600" alt="Sequenza Surrealista Cinematografica">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11438)**
+
+**Author:** [LisaVale](https://x.com/DriftNShadow) | **Source:** [Link](https://x.com/DriftNShadow/status/2103611793473937901) | **Published:** Sep 25, 2026
+
+---
+### Prompt Video Grok Imagine: Albatros che ride a Venere
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video poetico e surreale per Grok Imagine che descrive un albatros in volo sopra l'oceano che riflette Venere.
+
+#### 📝 Prompt
+
+```
+un albatros in volo che ride a venere che brilla nel cielo notturno riflesso da un oceano immobile
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103600920189677568/img/X1Qa43FIrZnSXNXV.jpg" width="600" alt="Prompt Video Grok Imagine: Albatros che ride a Venere">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11432)**
+
+**Author:** [@Z_&Axis](https://x.com/AlbatrossBanter) | **Source:** [Link](https://x.com/AlbatrossBanter/status/2103600940284547249) | **Published:** Sep 25, 2026
+
+---
+### Prompt per Video Rap Cartone Animato Eva
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video dettagliato per Grok Imagine che descrive Eva in stile cartone animato con istruzioni narrative e audio specifiche.
+
+#### 📝 Prompt
+
+```
+Eva in stile cartone animato, simile a Elvira ma in versione cartoon, dal cuore d'oro. Una porta si sta aprendo da parte di Dio, che ha una finanza che la ama alla follia e farebbe qualsiasi cosa per lei. Durata: 30 secondi, con una canzone in stile rap.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103595120083775488/img/bxYET1ReOpZfLJqe.jpg" width="600" alt="Prompt per Video Rap Cartone Animato Eva">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11434)**
+
+**Author:** [Joseph Buttacavole](https://x.com/Joebutter1111) | **Source:** [Link](https://x.com/Joebutter1111/status/2103595177101361391) | **Published:** Sep 25, 2026
 
 ---
 ### Cavaliere Alato su Cavallo Rosso
@@ -1943,198 +2139,6 @@ Una sfera di cristallo trasparente riempita con olio iridescente vorticoso, che 
 **Author:** [Grok Builder](https://x.com/grok_builder) | **Source:** [Link](https://x.com/grok_builder/status/2099107995028201539) | **Published:** Sep 13, 2026
 
 ---
-### Ritratto ad Alta Moda con Motion Blur
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt troncato per un ritratto editoriale ad alta moda con effetti di motion blur.
-
-#### 📝 Prompt
-
-```
-Un ritratto editoriale ad alta moda di una giovane donna con lunghi capelli che si muovono intensamente al vento. Indossa un abito fluente, trasparente e rosso-arancio brillante, dalle maniche ampie. L'immagine è catturata con un forte motion blur intenzionale, partic...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098923245168693249/img/cKyXwL4mhKF-cmvx.jpg" width="600" alt="Ritratto ad Alta Moda con Motion Blur">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10817)**
-
-**Author:** [Sadie 🕊🖼️](https://x.com/poetrynthings) | **Source:** [Link](https://x.com/poetrynthings/status/2098923257428595019) | **Published:** Sep 12, 2026
-
----
-### Prompt Video Grok Imagine: Donna Robot Futuristica al Parco
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per generare un video di una donna robot futuristica che porta i bambini a giocare in un parco aperto, sotto la supervisione di un uomo adulto. Il tweet include anche commenti sull'evitare gli annunci intermediari.
-
-#### 📝 Prompt
-
-```
-Ricrea una donna robot futuristica che porta i bambini a giocare in un parco aperto. Sotto la supervisione di un uomo adulto.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098900315579842571/img/MjFbW2hN62cWdrcJ.jpg" width="600" alt="Prompt Video Grok Imagine: Donna Robot Futuristica al Parco">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10822)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2098900366523879801) | **Published:** Sep 12, 2026
-
----
-### Donna che cammina verso l'Albero della Vita
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt per generare un video mistico di una donna che attraversa una foresta illuminata dal sole, dirigendosi verso un antico Albero della Vita luminoso dopo essere emersa da filo spinato.
-
-#### 📝 Prompt
-
-```
-La donna si alza completamente dal filo spinato, poi cammina con grazia attraverso la foresta illuminata dal sole verso un maestoso antico Albero della Vita. L'Albero della Vita è un enorme albero mistico e luminoso con radici e rami intricati e dorati...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098898023116087296/img/uYV8dK2Lbog8JyNN.jpg" width="600" alt="Donna che cammina verso l'Albero della Vita">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10816)**
-
-**Author:** [Barbara 💕🕊️🌎](https://x.com/BarbaraCbroker1) | **Source:** [Link](https://x.com/BarbaraCbroker1/status/2098898374229680514) | **Published:** Sep 12, 2026
-
----
-### Prompt Sci-Fi: Nave Città Futuristica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per generare una sequenza sci-fi cinematografica di 10 secondi che presenta un'enorme città-nave volante, motori e viaggi nello spazio profondo.
-
-#### 📝 Prompt
-
-```
-Sequenza sci-fi cinematografica verticale di 10 secondi: inizia con un'enorme città-nave futuristica volante sopra le nuvole all'alba, passa attraverso primi piani di motori a propulsione luminosi, traffico autonomo e grattacieli imponenti, poi rivela la silhouette umana di una persona che osserva la città prima che l'immenso vascello acceleri dalla Terra verso lo spazio profondo. Concludi con la nave che vola tra stelle e pianeti, utilizzando movimenti di camera drammatici, dettagli fotorealistici, illuminazione volumetrica, riflessi realistici, potente bagliore dei motori, sound design cinematografico intenso e il testo finale:
-“IL FUTURO È REALE — SCI-FI DI LIVELLO SUCCESSIVO.”
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098743153834815488/img/4CFRkXpoLIHXBsAE.jpg" width="600" alt="Prompt Sci-Fi: Nave Città Futuristica">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10819)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2098745738398494723) | **Published:** Sep 12, 2026
-
----
-### Due robot Optimus che camminano nel parco
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt per la generazione di video con Grok Imagine, che mostra due robot Optimus Prime che camminano insieme in un bellissimo parco.
-
-#### 📝 Prompt
-
-```
-Due Optimus, un bellissimo parco e una conversazione oltre il futuro. Camminiamo insieme oggi… a plasmare il domani.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098709643119984641/img/34m6mk7nCDDO2AqR.jpg" width="600" alt="Due robot Optimus che camminano nel parco">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10821)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2098710365307830738) | **Published:** Sep 12, 2026
-
----
-### Trailer di I Am Legend con Optimus Prime
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video cinematografico per Grok Imagine che crea lo scenario di un trailer cinematografico in cui Will Smith viene sostituito da un robot Tesla Optimus.
-
-#### 📝 Prompt
-
-```
-Trailer del film I Am Legend, ma sostituisci Will Smith con un Tesla Optimus; è l'ultimo robot rimasto in piedi dopo l'estinzione degli umani
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098674271413280775/img/ASmQlDMZovJCgISu.jpg" width="600" alt="Trailer di I Am Legend con Optimus Prime">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10802)**
-
-**Author:** [PokeDon](https://x.com/Pokedoncards) | **Source:** [Link](https://x.com/Pokedoncards/status/2098674288786084172) | **Published:** Sep 12, 2026
-
----
-### Lady StarWeaver e i cuccioli di leopardo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt descrittivo per una scena fantasy che coinvolge una dama e dei cuccioli di leopardo in una foresta elfica.
-
-#### 📝 Prompt
-
-```
-Lady StarWeaver e i due cuccioli di leopardo nero vivono nel profondo della Foresta Elfica.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098670972870025224/img/Skv-29rGkaq6s5Xl.jpg" width="600" alt="Lady StarWeaver e i cuccioli di leopardo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10803)**
-
-**Author:** [Judy Powell](https://x.com/Judy_2026) | **Source:** [Link](https://x.com/Judy_2026/status/2098671027093905837) | **Published:** Sep 12, 2026
-
----
-### Sequenza di metamorfosi mutaforma
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un complesso prompt video per una trasformazione dinamica a più stadi che descrive trasformazioni animali sequenziali.
-
-#### 📝 Prompt
-
-```
-Una donna si trasforma in un grande gufo bianco, il gufo vola e si trasforma in un leopardo delle nevi mentre attraversa un fiume; mentre attraversa il fiume, si ritrasforma in lei
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098604983788736518/img/JavVvbe4J-KCAUJi.jpg" width="600" alt="Sequenza di metamorfosi mutaforma">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10795)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2098605006433779873) | **Published:** Sep 12, 2026
-
----
-### Scena tranquilla di un pescatore solitario
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video malinconico ma sereno che ritrae un anziano che pesca da solo su un lago, enfatizzando l'atmosfera silenziosa dopo che la folla se n'è andata.
-
-#### 📝 Prompt
-
-```
-L'anziano che pesca in solitaria è l'immagine giusta: la folla estiva è sparita, il lago è ancora tiepido e non c'è più nessuno per cui recitare. È esattamente questa la sensazione: non tristezza, solo la quiete dopo la festa.
-Disegnalo piccolo rispetto all'immensità dell'acqua, con la canna da pesca in mano, e lascia che il lago occupi gran parte dell'inquadratura. Il vuoto è il fulcro di tutto.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098537834567135238/img/PjRyNL9hr8-vBhk-.jpg" width="600" alt="Scena tranquilla di un pescatore solitario">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10800)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2098537884756189577) | **Published:** Sep 11, 2026
-
----
-### Esplosione di colori neon al rallentatore
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video altamente dettagliato per una morbida esplosione radiale luminosa di vivaci colori neon e forme geometriche.
-
-#### 📝 Prompt
-
-```
-Semplice esplosione di colore al rallentatore. Luce centrale soffusa e brillante. Macchie di colore astratto neon vivace e forme geometriche che esplodono lentamente, espandendosi delicatamente verso l'esterno in tutte le direzioni. Nessuna spirale, nessun movimento vorticoso, nessuna rotazione. Pura esplosione radiale lenta.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098529372018036736/img/X6hmQQrvrHZNwk-A.jpg" width="600" alt="Esplosione di colori neon al rallentatore">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10796)**
-
-**Author:** [Roy](https://x.com/RoyRoy67196892) | **Source:** [Link](https://x.com/RoyRoy67196892/status/2098529438338371682) | **Published:** Sep 11, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2196,6 +2200,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-27T05:04:02.199Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-27T14:17:08.119Z</sub>
 
 </div>

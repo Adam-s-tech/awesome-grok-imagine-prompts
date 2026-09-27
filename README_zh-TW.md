@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2902** |
+| 📝 提示詞總數 | **2912** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-09-27** |
 
@@ -189,6 +189,120 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 月光下起舞提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段寧靜的影片提示詞，適用於 Grok Imagine，呈現一個人在月光下的後院中翩翩起舞。
+
+#### 📝 提示詞
+
+```
+依然在家中安然無恙，在初秋的新月月光下於自家後院翩翩起舞
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104086089120014337/img/WVLbXRJpXGEX7D28.jpg" width="600" alt="月光下起舞提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11436)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2104086484248666366) | **發布時間:** Sep 27, 2026
+
+---
+### 龍的動畫：翅膀纏繞效果
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用於生成具有強烈眼神接觸和複雜翅膀運動的龍動畫的影片提示詞。
+
+#### 📝 提示詞
+
+```
+animate, intense eye contact as it moves forward, wings remain in full view even if they must wrap around and twirl the dragon, deep black ebony edges
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103965700519780353/img/DiUBmvWl-C1oWMxH.jpg" width="600" alt="龍的動畫：翅膀纏繞效果">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11437)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2103966528035344692) | **發布時間:** Sep 26, 2026
+
+---
+### Grok Imagine 騎駱駝編輯
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 使用 Grok Imagine 修改主體服裝、添加面紗、將主體置於駱駝上並調整背景音樂的圖像編輯與轉換提示。
+
+#### 📝 提示詞
+
+```
+將這張圖片改為她穿著相同的服裝，頭髮上戴著藍色面紗，騎在駱駝上，背景音樂播放 Tinariwen。刪除其他部分，只保留她站立騎乘的畫面。消除「為什麼backward騎乘」的對話內容，並加入 Tiwhyye...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103955134158139392/img/MvjAt0JRB1vKO7Ss.jpg" width="600" alt="Grok Imagine 騎駱駝編輯">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11431)**
+
+**作者:** [Ileana](https://x.com/Ileana19551955) | **來源:** [Link](https://x.com/Ileana19551955/status/2103955146946576571) | **發布時間:** Sep 26, 2026
+
+---
+### Grok Imagine 紅魚與怪獸影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 使用 Grok Imagine 打造的精緻電影級提示詞，呈現紅魚、蝴蝶、海花、閃電與迷霧中的怪獸。
+
+#### 📝 提示詞
+
+```
+紅魚在平靜的水面拖曳著尾鰭。一隻蝴蝶輕輕落在美麗的海花上。遠處閃電劃過天際，瀰漫著怪獸身影的濃霧緩緩襲來。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103936592003919872/img/KkL8CDJ6qbhZivJs.jpg" width="600" alt="Grok Imagine 紅魚與怪獸影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11430)**
+
+**作者:** [Lilbit2020](https://x.com/Lilbit20203) | **來源:** [Link](https://x.com/Lilbit20203/status/2103936631405240751) | **發布時間:** Sep 26, 2026
+
+---
+### 富士山無人機航拍影片提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段關於日出時分富士山無人機航拍的電影級影片生成提示詞，明確標示為 Opus 提供給 Grok 的指令。
+
+#### 📝 提示詞
+
+```
+日出時分富士山的電影級寫實無人機航拍鏡頭，河口湖倒映著山景，前景有櫻花枝椏，柔和的晨霧，緩慢向前推軌，4K 電影質感
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103932166124322816/img/8ZkWhrHivAmVum7H.jpg" width="600" alt="富士山無人機航拍影片提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11439)**
+
+**作者:** [なお｜AIで仕事を自動化する会社員](https://x.com/nao_desk) | **來源:** [Link](https://x.com/nao_desk/status/2103932712755318860) | **發布時間:** Sep 26, 2026
+
+---
+### Grok Imagine 影片提示詞：葉上細雨
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 為 Grok Imagine 設計的描述性影片提示，呈現如銀鈴般輕柔敲擊樹葉的細雨景象。
+
+#### 📝 提示詞
+
+```
+淅瀝、淅瀝……我是溫柔的細雨，在微風中如小銀鈴般輕輕敲擊著樹葉……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103808899803402240/img/h1i_WEF1orBrosP9.jpg" width="600" alt="Grok Imagine 影片提示詞：葉上細雨">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11433)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2103808977339584611) | **發布時間:** Sep 26, 2026
+
+---
 ### Grok Imagine Video Prompt：轉換為正方形長寬比
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +320,29 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11345)**
 
 **作者:** [Katrina](https://x.com/sLuTmEoUt1988) | **來源:** [Link](https://x.com/sLuTmEoUt1988/status/2103680519401799927) | **發布時間:** Sep 26, 2026
+
+---
+### 電影感外星探索提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個詳細的長篇提示詞，用於從參考圖像開始創建連續的外星環境電影感探索。
+
+#### 📝 提示詞
+
+```
+從這張確切的圖像開始，創建一段連續 15 秒的電影感探索。無任何剪輯。
+
+外星人不會像人類一樣行走、飛行或移動。
+
+0–3 秒：鏡頭從背後緩慢接近外星人。它幾乎保持靜止，俯瞰...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103659926031622145/img/h4Sxj6VYFQp0ay4l.jpg" width="600" alt="電影感外星探索提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11435)**
+
+**作者:** [LisaVale](https://x.com/DriftNShadow) | **來源:** [Link](https://x.com/DriftNShadow/status/2103659984508666283) | **發布時間:** Sep 26, 2026
 
 ---
 ### 科幻西部風格的全像甲板過場
@@ -273,6 +410,65 @@ Tom Cruise performing a boring soliloquy in the role of has-been alcoholic food 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11348)**
 
 **作者:** [Yogi](https://x.com/cyberyogiii) | **來源:** [Link](https://x.com/cyberyogiii/status/2103629403284742531) | **發布時間:** Sep 25, 2026
+
+---
+### 電影感超現實序列
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用於從起始圖像創建 15 秒電影感超現實序列的詳細提示詞。
+
+#### 📝 提示詞
+
+```
+從這張確切的起始圖像創建一段 15 秒的電影感超現實序列。保留其照片級真實但又不可能的質感以及垂直構圖。
+
+以緩慢向前推進的鏡頭運動穿過現有的奇異景觀開始。一切...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103611709537624064/img/5lu0RjC6fleUkER1.jpg" width="600" alt="電影感超現實序列">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11438)**
+
+**作者:** [LisaVale](https://x.com/DriftNShadow) | **來源:** [Link](https://x.com/DriftNShadow/status/2103611793473937901) | **發布時間:** Sep 25, 2026
+
+---
+### Grok Imagine 影片提示詞：嘲笑金星的海信天翁
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 為 Grok Imagine 打造的一則充滿詩意與超現實感的影片提示詞，描繪一隻信天翁飛越倒映著金星的海洋。
+
+#### 📝 提示詞
+
+```
+一隻信天翁在夜空中閃耀的金星上方飛行並發出嘲笑聲，金星的光芒倒映在平靜的海洋上
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103600920189677568/img/X1Qa43FIrZnSXNXV.jpg" width="600" alt="Grok Imagine 影片提示詞：嘲笑金星的海信天翁">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11432)**
+
+**作者:** [@Z_&Axis](https://x.com/AlbatrossBanter) | **來源:** [Link](https://x.com/AlbatrossBanter/status/2103600940284547249) | **發布時間:** Sep 25, 2026
+
+---
+### Eva 卡通說唱影片提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 適用於 Grok Imagine 的詳細影片提示詞，以卡通風格描述 Eva，並包含特定的敘事與音訊指令。
+
+#### 📝 提示詞
+
+```
+以卡通風格描繪 Eva，她看起來像卡通風格的 Elvira，擁有一顆善良的心。一扇來自上帝的門即將開啟，有一位深愛她、願意為她做任何事的財務守護者。請製作一段 30 秒的影片，搭配說唱風格的歌曲。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103595120083775488/img/bxYET1ReOpZfLJqe.jpg" width="600" alt="Eva 卡通說唱影片提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11434)**
+
+**作者:** [Joseph Buttacavole](https://x.com/Joebutter1111) | **來源:** [Link](https://x.com/Joebutter1111/status/2103595177101361391) | **發布時間:** Sep 25, 2026
 
 ---
 ### 紅馬上的有翼騎士
@@ -1943,198 +2139,6 @@ Falcon 9 發射時的集體狂喜：當震耳欲聾的轟鳴聲終於席捲人�
 **作者:** [Grok Builder](https://x.com/grok_builder) | **來源:** [Link](https://x.com/grok_builder/status/2099107995028201539) | **發布時間:** Sep 13, 2026
 
 ---
-### 高級時裝動態模糊人像
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用於具有動態模糊效果的高級時裝編輯人像的截斷提示詞。
-
-#### 📝 提示詞
-
-```
-一位年輕女性的高級時裝編輯人像，長髮在風中劇烈飄揚。她身穿一件飄逸、透明且鮮豔的火紅橙色寬袖服裝。該影像刻意採用強烈的動態模糊效果進行拍攝，呈現出...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098923245168693249/img/cKyXwL4mhKF-cmvx.jpg" width="600" alt="高級時裝動態模糊人像">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10817)**
-
-**作者:** [Sadie 🕊🖼️](https://x.com/poetrynthings) | **來源:** [Link](https://x.com/poetrynthings/status/2098923257428595019) | **發布時間:** Sep 12, 2026
-
----
-### Grok Imagine 影片提示詞：公園裡的未來感機械女性
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用於生成一段影片的提示詞，內容為一位充滿未來感的機械女性在開放式公園中帶領孩童玩耍，並由一名成年男性負責監護。該推文亦包含關於避免中介廣告的評論。
-
-#### 📝 提示詞
-
-```
-重現一位充滿未來感的機械女性在開放式公園中帶領孩童玩耍的情景，並由一名成年男性負責監護。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098900315579842571/img/MjFbW2hN62cWdrcJ.jpg" width="600" alt="Grok Imagine 影片提示詞：公園裡的未來感機械女性">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10822)**
-
-**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **來源:** [Link](https://x.com/clemensilverio/status/2098900366523879801) | **發布時間:** Sep 12, 2026
-
----
-### 女子走向生命之樹
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用於生成神秘影片的提示詞：描述一名女子走出鐵絲網後，穿過陽光普照的森林，走向一棵發光的古老生命之樹。
-
-#### 📝 提示詞
-
-```
-女子完全從鐵絲網中站起，隨後優雅地向前行走，穿過陽光普照的森林，走向一棵雄偉的古老生命之樹。這棵生命之樹是一棵巨大且充滿神祕光芒的樹木，擁有錯綜複雜的發光根系與枝幹，金色的……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098898023116087296/img/uYV8dK2Lbog8JyNN.jpg" width="600" alt="女子走向生命之樹">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10816)**
-
-**作者:** [Barbara 💕🕊️🌎](https://x.com/BarbaraCbroker1) | **來源:** [Link](https://x.com/BarbaraCbroker1/status/2098898374229680514) | **發布時間:** Sep 12, 2026
-
----
-### 未來城市飛船科幻提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用於生成 10 秒電影級科幻場景的提示詞，內容包含巨型飛行城市飛船、引擎及深空旅行。
-
-#### 📝 提示詞
-
-```
-10 秒豎屏電影級科幻場景：以日出時雲層上方的巨型未來飛行城市飛船開場，過渡至發光推進引擎、自動駕駛交通流與高聳摩天大樓的特寫鏡頭，接著展現一個人類剪影俯瞰城市，隨後這艘巨型飛船加速離開地球前往深空。最後呈現飛船在群星與行星間穿梭的景象，運用戲劇性的運鏡手法、照片級真實細節、體積光效、逼真反射、強勁引擎光芒、深沉的电影音效設計，以及最終文字：
-“THE FUTURE IS REAL — NEXT LEVEL SCI-FI.”
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098743153834815488/img/4CFRkXpoLIHXBsAE.jpg" width="600" alt="未來城市飛船科幻提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10819)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2098745738398494723) | **發布時間:** Sep 12, 2026
-
----
-### 兩台 Optimus 機器人在公園中行走
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 適用於 Grok Imagine 的影片生成提示，展現兩台 Optimus Prime 機器人在美麗公園中並肩行走的場景。
-
-#### 📝 提示詞
-
-```
-兩台 Optimus、一座美麗的公園，以及一場超越未來的對話。今天並肩而行……塑造明天。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098709643119984641/img/34m6mk7nCDDO2AqR.jpg" width="600" alt="兩台 Optimus 機器人在公園中行走">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10821)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2098710365307830738) | **發布時間:** Sep 12, 2026
-
----
-### 《我是傳奇》Optimus Prime 電影預告片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個為 Grok Imagine 設計的電影級影片提示詞，場景設定為將《我是傳奇》中的 Will Smith 替換為 Tesla Optimus 機器人。
-
-#### 📝 提示詞
-
-```
-《我是傳奇》電影預告片，但將 Will Smith 替換為 Tesla Optimus，他是人類滅絕後最後存活的機器人。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098674271413280775/img/ASmQlDMZovJCgISu.jpg" width="600" alt="《我是傳奇》Optimus Prime 電影預告片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10802)**
-
-**作者:** [PokeDon](https://x.com/Pokedoncards) | **來源:** [Link](https://x.com/Pokedoncards/status/2098674288786084172) | **發布時間:** Sep 12, 2026
-
----
-### 星織女士與豹紋小貓
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個關於星織女士與豹紋小貓在精靈森林中的奇幻場景描述提示詞。
-
-#### 📝 提示詞
-
-```
-星織女士與兩隻黑豹小貓住在深邃的精靈森林中。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098670972870025224/img/Skv-29rGkaq6s5Xl.jpg" width="600" alt="星織女士與豹紋小貓">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10803)**
-
-**作者:** [Judy Powell](https://x.com/Judy_2026) | **來源:** [Link](https://x.com/Judy_2026/status/2098671027093905837) | **發布時間:** Sep 12, 2026
-
----
-### 變形者蛻變序列
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個複雜的多階段動態變形影片提示詞，詳細描述了連續的動物變形過程。
-
-#### 📝 提示詞
-
-```
-一位女性變身為白色大貓頭鷹，貓頭鷹飛行時變身為一隻雪豹並穿越河流，在穿越河流的過程中，牠又變回了那位女性。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098604983788736518/img/JavVvbe4J-KCAUJi.jpg" width="600" alt="變形者蛻變序列">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10795)**
-
-**作者:** [Sas](https://x.com/SaSHeaven26) | **來源:** [Link](https://x.com/SaSHeaven26/status/2098605006433779873) | **發布時間:** Sep 12, 2026
-
----
-### 孤獨漁夫的靜謐場景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個帶有憂鬱卻又平靜的影片提示詞，描繪了一位老人在湖邊獨自垂釣，強調人群散去後的寧靜氛圍。
-
-#### 📝 提示詞
-
-```
-老人獨自垂釣的畫面最為貼切——夏日的人潮已散，湖水依然溫暖，再也沒有人需要去表演了。這就是那種感覺：並不悲傷，只是派對結束後的寧靜。
-將他畫得渺小，映襯著廣闊的水面，手持釣竿，讓湖景佔據畫面的大部分。這種空曠感正是重點所在。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098537834567135238/img/PjRyNL9hr8-vBhk-.jpg" width="600" alt="孤獨漁夫的靜謐場景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10800)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2098537884756189577) | **發布時間:** Sep 11, 2026
-
----
-### 緩慢霓虹色彩爆發
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個高細節的影片提示詞，用於呈現柔和、發光的放射狀霓虹色彩爆發與幾何圖形。
-
-#### 📝 提示詞
-
-```
-純粹緩慢的色彩爆發。柔和的中心發光。充滿活力的霓虹抽象色塊與幾何圖形緩慢地向外擴散，向四面八方輕柔爆發。無螺旋、無漩渦運動、無旋轉。純粹的緩慢放射狀爆發。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098529372018036736/img/X6hmQQrvrHZNwk-A.jpg" width="600" alt="緩慢霓虹色彩爆發">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10796)**
-
-**作者:** [Roy](https://x.com/RoyRoy67196892) | **來源:** [Link](https://x.com/RoyRoy67196892/status/2098529438338371682) | **發布時間:** Sep 11, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2196,6 +2200,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-09-27T05:03:51.473Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-09-27T14:17:00.019Z</sub>
 
 </div>

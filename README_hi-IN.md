@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2902** |
+| 📝 Total Prompts | **2912** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-27** |
 
@@ -189,6 +189,120 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### चाँदनी में नृत्य करने वाला प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक शांत वीडियो प्रॉम्प्ट जो किसी व्यक्ति को चाँदनी रात में अपने पिछवाड़े में नाचते हुए दिखाता है।
+
+#### 📝 Prompt
+
+```
+घर पर सुरक्षित और स्वस्थ, नई शरद ऋतु की चाँदनी में अपने पिछवाड़े में नाच रही है
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104086089120014337/img/WVLbXRJpXGEX7D28.jpg" width="600" alt="चाँदनी में नृत्य करने वाला प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11436)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2104086484248666366) | **Published:** Sep 27, 2026
+
+---
+### पंखों को लपेटने वाले ड्रैगन एनिमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो जनरेशन प्रॉम्प्ट जो तीव्र आंख संपर्क और जटिल पंख गतियों के साथ ड्रैगन को एनिमेट करता है।
+
+#### 📝 Prompt
+
+```
+एनिमेट करें, आगे बढ़ते समय तीव्र आंख संपर्क बनाए रखें, पंख पूरी तरह दिखाई दें भले ही उन्हें ड्रैगन के चारों ओर लपेटना और घुमाना पड़े, गहरे काले इबोनी किनारे
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103965700519780353/img/DiUBmvWl-C1oWMxH.jpg" width="600" alt="पंखों को लपेटने वाले ड्रैगन एनिमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11437)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2103966528035344692) | **Published:** Sep 26, 2026
+
+---
+### Grok Imagine ऊँट सवारी एडिट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine का उपयोग करके विषय के परिधान को संशोधित करने, दुपट्टा जोड़ने, उसे ऊँट पर बैठाने और पृष्ठभूमि संगीत को समायोजित करने के लिए एक छवि संपादन/रूपांतरण प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+इस छवि में उसी परिधान में और उसके बालों में नीला दुपट्टा पहने हुए बनाएं, Tinariwen संगीत की पृष्ठभूमि में ऊँट पर सवारी करते हुए दिखाएं, चित्र हटा दें, केवल वह हिस्सा रखें जहाँ वह खड़ी होकर सवारी कर रही है, संवाद 'पीछे की ओर क्यों सवारी कर रहे हैं' को हटाएं, Tiwhyye डालें...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103955134158139392/img/MvjAt0JRB1vKO7Ss.jpg" width="600" alt="Grok Imagine ऊँट सवारी एडिट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11431)**
+
+**Author:** [Ileana](https://x.com/Ileana19551955) | **Source:** [Link](https://x.com/Ileana19551955/status/2103955146946576571) | **Published:** Sep 26, 2026
+
+---
+### Grok Imagine रेडफिश और राक्षस वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine का उपयोग करके रेडफिश, तितलियों, समुद्री फूलों, बिजली और धुंध वाले राक्षसों को शामिल करने वाला एक विस्तृत सिनेमाई प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+शांत पानी में रेडफिश की पूंछ हिल रही है। एक सुंदर समुद्री फूल पर एक तितली उतरती है। दूर बिजली कड़कती है और राक्षसों से भरी धुंध अंदर आती है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103936592003919872/img/KkL8CDJ6qbhZivJs.jpg" width="600" alt="Grok Imagine रेडफिश और राक्षस वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11430)**
+
+**Author:** [Lilbit2020](https://x.com/Lilbit20203) | **Source:** [Link](https://x.com/Lilbit20203/status/2103936631405240751) | **Published:** Sep 26, 2026
+
+---
+### माउंट फुजी ड्रोन शॉट वीडियो प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> सूर्योदय के समय माउंट फुजी के ड्रोन शॉट के लिए एक सिनेमैटिक वीडियो जनरेशन प्रॉम्प्ट, जिसे स्पष्ट रूप से Opus द्वारा Grok को दिए गए निर्देशों के रूप में वर्णित किया गया है।
+
+#### 📝 Prompt
+
+```
+सूर्योदय के समय माउंट फुजी का सिनेमैटिक फोटोरियलिस्टिक ड्रोन शॉट, झील कावागुची में पहाड़ का प्रतिबिंब, अग्रभूमि में चेरी ब्लॉसम की शाखाएं, हल्की सुबह की धुंध, धीमी आगे की ओर डॉली मूवमेंट, 4K फिल्म लुक
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103932166124322816/img/8ZkWhrHivAmVum7H.jpg" width="600" alt="माउंट फुजी ड्रोन शॉट वीडियो प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11439)**
+
+**Author:** [なお｜AIで仕事を自動化する会社員](https://x.com/nao_desk) | **Source:** [Link](https://x.com/nao_desk/status/2103932712755318860) | **Published:** Sep 26, 2026
+
+---
+### Grok Imagine वीडियो प्रॉम्प्ट: पत्तियों पर बारिश
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक वर्णनात्मक वीडियो प्रॉम्प्ट जो पत्तियों पर हल्की बारिश को चांदी की घंटियों की तरह टपकते हुए दिखाता है।
+
+#### 📝 Prompt
+
+```
+टिप-टिप, टिप-टिप… मैं हल्की बारिश हूँ, हवा में छोटी चांदी की घंटियों की तरह पत्तियों पर धीरे से टपक रही हूँ....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103808899803402240/img/h1i_WEF1orBrosP9.jpg" width="600" alt="Grok Imagine वीडियो प्रॉम्प्ट: पत्तियों पर बारिश">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11433)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2103808977339584611) | **Published:** Sep 26, 2026
+
+---
 ### Grok Imagine वीडियो प्रॉम्प्ट: वर्ग आस्पेक्ट रेश्यो में रूपांतरण
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +320,29 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11345)**
 
 **Author:** [Katrina](https://x.com/sLuTmEoUt1988) | **Source:** [Link](https://x.com/sLuTmEoUt1988/status/2103680519401799927) | **Published:** Sep 26, 2026
+
+---
+### सिनेमाई एलियन अन्वेषण प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक संदर्भ छवि से शुरू होकर एक परग्रहीय वातावरण के निरंतर सिनेमाई अन्वेषण को बनाने के लिए विस्तृत लंबा प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+इस विशिष्ट छवि से शुरू होने वाला एक निरंतर 15-सेकंड का सिनेमाई अन्वेषण बनाएं। कोई कट नहीं।
+
+एलियन न तो चलता है, न उड़ता है, और न ही इंसानों की तरह हिलता-डुलता है।
+
+0–3 सेकंड: कैमरा धीरे-धीरे पीछे से एलियन की ओर बढ़ता है। वह लगभग स्थिर रहता है, ऊपर से देखता हुआ...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103659926031622145/img/h4Sxj6VYFQp0ay4l.jpg" width="600" alt="सिनेमाई एलियन अन्वेषण प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11435)**
+
+**Author:** [LisaVale](https://x.com/DriftNShadow) | **Source:** [Link](https://x.com/DriftNShadow/status/2103659984508666283) | **Published:** Sep 26, 2026
 
 ---
 ### साइ-फाई वेस्टर्न होलोडेक संक्रमण
@@ -273,6 +410,65 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11348)**
 
 **Author:** [Yogi](https://x.com/cyberyogiii) | **Source:** [Link](https://x.com/cyberyogiii/status/2103629403284742531) | **Published:** Sep 25, 2026
+
+---
+### सिनेमैटिक सरेलिस्ट अनुक्रम
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक प्रारंभिक छवि से 15-सेकंड का सिनेमैटिक सरेलिस्ट अनुक्रम बनाने के लिए एक विस्तृत प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+इस विशिष्ट प्रारंभिक छवि से 15-सेकंड का सिनेमैटिक सरेलिस्ट अनुक्रम बनाएं। इसकी फोटो-रियलिस्टिक लेकिन असंभव गुणवत्ता और वर्टिकल संरचना को बरकरार रखें।
+
+अस्तित्व में मौजूद अजीब परिदृश्य के माध्यम से धीमी आगे की कैमरा मूवमेंट के साथ शुरू करें। सब कुछ...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103611709537624064/img/5lu0RjC6fleUkER1.jpg" width="600" alt="सिनेमैटिक सरेलिस्ट अनुक्रम">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11438)**
+
+**Author:** [LisaVale](https://x.com/DriftNShadow) | **Source:** [Link](https://x.com/DriftNShadow/status/2103611793473937901) | **Published:** Sep 25, 2026
+
+---
+### Grok Imagine वीडियो प्रॉम्प्ट: शुक्र पर हंसता हुआ अलबाट्रॉस
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> गोकर इमेजिन के लिए एक काव्यात्मक और सूरियल वीडियो प्रॉम्प्ट जो समुद्र में शुक्र ग्रह को प्रतिबिंबित करते हुए उड़ते हुए अलबाट्रॉस का वर्णन करता है।
+
+#### 📝 Prompt
+
+```
+रात के आकाश में चमकते हुए शुक्र ग्रह का शांत समुद्र में प्रतिबिंब देखते हुए उड़ता हुआ अलबाट्रॉस हंस रहा है
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103600920189677568/img/X1Qa43FIrZnSXNXV.jpg" width="600" alt="Grok Imagine वीडियो प्रॉम्प्ट: शुक्र पर हंसता हुआ अलबाट्रॉस">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11432)**
+
+**Author:** [@Z_&Axis](https://x.com/AlbatrossBanter) | **Source:** [Link](https://x.com/AlbatrossBanter/status/2103600940284547249) | **Published:** Sep 25, 2026
+
+---
+### Eva कार्टून रैप वीडियो प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक विस्तृत वीडियो प्रॉम्प्ट जो कार्टून शैली में Eva को दर्शाता है, जिसमें विशेष कहानी और ऑडियो निर्देश शामिल हैं।
+
+#### 📝 Prompt
+
+```
+कार्टून शैली में Eva, जो कार्टून शैली में Elvira जैसी दिखती है, जिसका दिल सोने का है, भगवान द्वारा खोले जाने वाले दरवाजे की ओर से आ रही है, जिसके पास एक ऐसा वित्त पोषक (finance) है जो उसे मौत तक प्यार करता है और उसके लिए कुछ भी करेगा। इसे 30 सेकंड का बनाएं जिसमें रैप शैली का गाना हो।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103595120083775488/img/bxYET1ReOpZfLJqe.jpg" width="600" alt="Eva कार्टून रैप वीडियो प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11434)**
+
+**Author:** [Joseph Buttacavole](https://x.com/Joebutter1111) | **Source:** [Link](https://x.com/Joebutter1111/status/2103595177101361391) | **Published:** Sep 25, 2026
 
 ---
 ### लाल घोड़े पर पंखों वाला नाइट
@@ -1945,198 +2141,6 @@ Falcon 9 लॉन्च के दौरान सामूहिक उत्�
 **Author:** [Grok Builder](https://x.com/grok_builder) | **Source:** [Link](https://x.com/grok_builder/status/2099107995028201539) | **Published:** Sep 13, 2026
 
 ---
-### हाई-फैशन मोशन ब्लर पोर्ट्रेट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> मोशन ब्लर प्रभावों के साथ एक हाई-फैशन एडिटोरियल पोर्ट्रेट के लिए एक संक्षिप्त प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-एक युवा महिला का हाई-फैशन एडिटोरियल पोर्ट्रेट, जिसके लंबे बाल तेज हवा में जोर से उड़ रहे हैं। उसने एक बहती हुई, पारदर्शी, चमकीली आग जैसी नारंगी-लाल रंग की ढीली बाजू वाली पोशाक पहनी हुई है। छवि को जानबूझकर मजबूत मोशन ब्लर के साथ कैप्चर किया गया है, विशेष रूप से...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098923245168693249/img/cKyXwL4mhKF-cmvx.jpg" width="600" alt="हाई-फैशन मोशन ब्लर पोर्ट्रेट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10817)**
-
-**Author:** [Sadie 🕊🖼️](https://x.com/poetrynthings) | **Source:** [Link](https://x.com/poetrynthings/status/2098923257428595019) | **Published:** Sep 12, 2026
-
----
-### Grok Imagine Video Prompt: पार्क में भविष्यवादी रोबोट महिला
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक खुले पार्क में बच्चों को खेलने ले जाने वाली भविष्यवादी रोबोट महिला का वीडियो बनाने के लिए एक प्रॉम्प्ट। ट्वीट में मध्यस्थ विज्ञापनों से बचने पर भी टिप्पणी शामिल है।
-
-#### 📝 Prompt
-
-```
-एक भविष्यवादी रोबोट महिला को दोबारा बनाएं जो बच्चों को एक खुले पार्क में खेलने ले जा रही हो। एक वयस्क पुरुष द्वारा निगरानी की गई।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098900315579842571/img/MjFbW2hN62cWdrcJ.jpg" width="600" alt="Grok Imagine Video Prompt: पार्क में भविष्यवादी रोबोट महिला">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10822)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2098900366523879801) | **Published:** Sep 12, 2026
-
----
-### जीवन के वृक्ष की ओर चलती हुई महिला
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक रहस्यमयी वीडियो उत्पन्न करने के लिए एक प्रॉम्प्ट, जिसमें एक महिला कांटेदार तारों से निकलकर सूरज की रोशनी वाले जंगल से होकर चमकते हुए प्राचीन 'जीवन के वृक्ष' की ओर बढ़ती है।
-
-#### 📝 Prompt
-
-```
-महिला कांटेदार तारों के बीच से पूरी तरह खड़ी होती है, फिर सूरज की रोशनी वाले जंगल से होकर गरिमामय प्राचीन 'जीवन के वृक्ष' की ओर सुंदरता से आगे बढ़ती है। जीवन का वृक्ष एक विशाल रहस्यमयी चमकता हुआ पेड़ है जिसकी जटिल चमकती जड़ें और शाखाएं हैं, सुनहरा ल...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098898023116087296/img/uYV8dK2Lbog8JyNN.jpg" width="600" alt="जीवन के वृक्ष की ओर चलती हुई महिला">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10816)**
-
-**Author:** [Barbara 💕🕊️🌎](https://x.com/BarbaraCbroker1) | **Source:** [Link](https://x.com/BarbaraCbroker1/status/2098898374229680514) | **Published:** Sep 12, 2026
-
----
-### भविष्यवादी शहरी अंतरिक्ष यान साइ-फाई प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक विशाल उड़ने वाले शहरी अंतरिक्ष यान, इंजन और गहरे अंतरिक्ष की यात्रा को दर्शाने वाली 10 सेकंड की सिनेमाई साइ-फाई सीक्वेंस उत्पन्न करने के लिए एक प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-10 सेकंड की वर्टिकल सिनेमाई साइ-फाई सीक्वेंस: सूर्योदय के समय बादलों के ऊपर एक विशाल भविष्यवादी उड़ने वाले शहरी अंतरिक्ष यान से शुरू करें, फिर चमकते हुए प्रणोदन इंजनों, स्वचालित यातायात और ऊंची इमारतों के क्लोज़-अप के माध्यम से संक्रमण करें, और पृथ्वी से गहरे अंतरिक्ष की ओर इस विशाल यान के तेजी से बढ़ने से पहले शहर को देख रहे एक मानव छायाचित्र (silhouette) का खुलासा करें। तारों और ग्रहों के बीच उड़ते हुए यान के साथ समाप्त करें, जिसमें नाटकीय कैमरा मूवमेंट, फोटोरियलिस्टिक विवरण, वॉल्यूमेरिक लाइटिंग, यथार्थवादी प्रतिबिंब, शक्तिशाली इंजन चमक, गहरे सिनेमाई साउंड डिज़ाइन और अंतिम पाठ का उपयोग किया जाए:
-“भविष्य वास्तविक है — अगले स्तर की साइ-फाई।”
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098743153834815488/img/4CFRkXpoLIHXBsAE.jpg" width="600" alt="भविष्यवादी शहरी अंतरिक्ष यान साइ-फाई प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10819)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2098745738398494723) | **Published:** Sep 12, 2026
-
----
-### पार्क में चलते हुए दो Optimus रोबोट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक वीडियो जनरेशन प्रॉम्प्ट जिसमें दो Optimus Prime रोबोट सुंदर पार्क सेटिंग में साथ-साथ चल रहे हैं।
-
-#### 📝 Prompt
-
-```
-दो Optimus, एक सुंदर पार्क, और भविष्य से परे की बातचीत। आज साथ चल रहे हैं… कल को आकार दे रहे हैं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098709643119984641/img/34m6mk7nCDDO2AqR.jpg" width="600" alt="पार्क में चलते हुए दो Optimus रोबोट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10821)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2098710365307830738) | **Published:** Sep 12, 2026
-
----
-### I Am Legend Optimus Prime ट्रेलर
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक सिनेमैटिक वीडियो प्रॉम्प्ट, जिसमें एक मूवी ट्रेलर का दृश्य बनाया गया है जहाँ विल स्मिथ की जगह एक Tesla Optimus रोबोट है।
-
-#### 📝 Prompt
-
-```
-I Am Legend का मूवी ट्रेलर, लेकिन इसमें विल स्मिथ की जगह Tesla Optimus है, जो इंसानों के बाद बचा हुआ आखिरी रोबोट है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098674271413280775/img/ASmQlDMZovJCgISu.jpg" width="600" alt="I Am Legend Optimus Prime ट्रेलर">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10802)**
-
-**Author:** [PokeDon](https://x.com/Pokedoncards) | **Source:** [Link](https://x.com/Pokedoncards/status/2098674288786084172) | **Published:** Sep 12, 2026
-
----
-### लेडी स्टारवीवर और तेंदुए के बच्चे
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एल्विन जंगल में एक महिला और तेंदुए के बच्चों से जुड़े एक काल्पनिक दृश्य के लिए वर्णनात्मक प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-लेडी स्टारवीवर और दो काले तेंदुए के बच्चे गहरे एल्विन जंगल में रहते हैं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098670972870025224/img/Skv-29rGkaq6s5Xl.jpg" width="600" alt="लेडी स्टारवीवर और तेंदुए के बच्चे">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10803)**
-
-**Author:** [Judy Powell](https://x.com/Judy_2026) | **Source:** [Link](https://x.com/Judy_2026/status/2098671027093905837) | **Published:** Sep 12, 2026
-
----
-### शेपशिफ्टर मेटामॉर्फोसिस सीक्वेंस
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक जटिल मल्टी-स्टेज डायनामिक ट्रांसफॉर्मेशन वीडियो प्रॉम्प्ट, जिसमें जानवरों के क्रमिक रूपांतरण का विवरण दिया गया है।
-
-#### 📝 Prompt
-
-```
-एक महिला सफेद विशाल उल्लू में बदल जाती है, उल्लू उड़ता है और नदी पार करते समय हिम तेंदुए (snow leopard) में बदल जाता है, और जैसे ही वह नदी पार करता है, वह वापस उस महिला में बदल जाता है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098604983788736518/img/JavVvbe4J-KCAUJi.jpg" width="600" alt="शेपशिफ्टर मेटामॉर्फोसिस सीक्वेंस">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10795)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2098605006433779873) | **Published:** Sep 12, 2026
-
----
-### अकेला मछुआरा और शांत दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक बूढ़े व्यक्ति को झील पर अकेले मछली पकड़ते हुए दर्शाने वाला एक उदास लेकिन शांतिपूर्ण वीडियो प्रॉम्प्ट, जो भीड़ के जाने के बाद के शांत वातावरण पर जोर देता है।
-
-#### 📝 Prompt
-
-```
-अकेले मछली पकड़ता वह बूढ़ा व्यक्ति बिल्कुल सही दृश्य है — गर्मियों की भीड़ जा चुकी है, झील अभी भी गर्म है, और अब प्रदर्शन करने के लिए कोई नहीं बचा है। यही वह सटीक अहसास है: उदास नहीं, बस पार्टी के बाद की शांति।
-उसे पानी के सामने छोटा सा दिखाएं, हाथ में मछली पकड़ने वाली छड़ी हो, और झील को फ्रेम के अधिकांश हिस्से में रहने दें। खालीपन ही इसका मुख्य उद्देश्य है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098537834567135238/img/PjRyNL9hr8-vBhk-.jpg" width="600" alt="अकेला मछुआरा और शांत दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10800)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2098537884756189577) | **Published:** Sep 11, 2026
-
----
-### धीमा नियॉन रंग विस्फोट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> जीवंत नियॉन रंगों और ज्यामितीय आकृतियों के एक नरम, चमकते रेडियल विस्फोट के लिए एक अत्यधिक विस्तृत वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-बस धीमा रंग विस्फोट। नरम केंद्रीय चमकती रोशनी। जीवंत नियॉन अमूर्त रंग के पैच और ज्यामितीय आकृतियाँ धीरे-धीरे सभी दिशाओं में बाहर की ओर फैल रही हैं। कोई सर्पिल नहीं, कोई घूमती हुई गति नहीं, कोई रोटेशन नहीं। शुद्ध धीमा रेडियल विस्फोट
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098529372018036736/img/X6hmQQrvrHZNwk-A.jpg" width="600" alt="धीमा नियॉन रंग विस्फोट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10796)**
-
-**Author:** [Roy](https://x.com/RoyRoy67196892) | **Source:** [Link](https://x.com/RoyRoy67196892/status/2098529438338371682) | **Published:** Sep 11, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2198,6 +2202,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-27T05:03:57.719Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-27T14:17:04.105Z</sub>
 
 </div>

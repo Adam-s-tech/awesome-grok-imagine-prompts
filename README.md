@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2902** |
+| 📝 Total Prompts | **2912** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-27** |
 
@@ -189,16 +189,130 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
-### Grok Imagine Video Prompt: Square Aspect Ratio Conversion
+### Dancing Under Moonlight Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed instruction to convert an image/video to a 1:1 square aspect ratio while maintaining style and subject.
+> A serene video prompt for Grok Imagine showing someone dancing in a backyard under moonlight.
 
 #### 📝 Prompt
 
 ```
-Convert this image to a 1:1 square aspect ratio. Keep the core subject (the glowing skull candle) prominent and well-framed with smart recomposition or cropping. Maintain the original artistic style, lighting, colors, details, quality, and composition
+still safe & sound at home, dancing in her back-yard under the new fall moonlight
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104086089120014337/img/WVLbXRJpXGEX7D28.jpg" width="600" alt="Dancing Under Moonlight Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11436)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2104086484248666366) | **Published:** Sep 27, 2026
+
+---
+### Dragon Animation with Wing Wrapping
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt for animating a dragon with intense eye contact and complex wing movements.
+
+#### 📝 Prompt
+
+```
+animate, intense eye contact as it moves forward, wings remain in full view even if they must wrap around and twirl the dragon, deep black ebony edges
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103965700519780353/img/DiUBmvWl-C1oWMxH.jpg" width="600" alt="Dragon Animation with Wing Wrapping">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11437)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2103966528035344692) | **Published:** Sep 26, 2026
+
+---
+### Grok Imagine Camel Riding Edit
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An image editing/transformation prompt to modify a subject's outfit, add a veil, place them on a camel, and adjust background music using Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Make this image into her wearing same outfit and a blue vail in her hair the riding a camel with music Tinariwen in the background delete the picture keep the part where she is riding stoand ,eliminate the dialogue why is riding backwards put Tiwhyye...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103955134158139392/img/MvjAt0JRB1vKO7Ss.jpg" width="600" alt="Grok Imagine Camel Riding Edit">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11431)**
+
+**Author:** [Ileana](https://x.com/Ileana19551955) | **Source:** [Link](https://x.com/Ileana19551955/status/2103955146946576571) | **Published:** Sep 26, 2026
+
+---
+### Grok Imagine Redfish and Monsters Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed cinematic prompt featuring redfish, butterflies, sea flowers, lightning, and foggy monsters using Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Redfish tailing in the calm water. A butterfly lands on a beautiful sea flower. Lighting strikes in the distance and a fog full of monsters rolls in.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103936592003919872/img/KkL8CDJ6qbhZivJs.jpg" width="600" alt="Grok Imagine Redfish and Monsters Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11430)**
+
+**Author:** [Lilbit2020](https://x.com/Lilbit20203) | **Source:** [Link](https://x.com/Lilbit20203/status/2103936631405240751) | **Published:** Sep 26, 2026
+
+---
+### Mount Fuji drone shot video prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video generation prompt for a drone shot of Mount Fuji at sunrise, explicitly stated as instructions given to Grok by Opus.
+
+#### 📝 Prompt
+
+```
+Cinematic photorealistic drone shot of Mount Fuji at sunrise, Lake Kawaguchi reflecting the mountain, cherry blossom branches in the foreground, soft morning mist, slow forward dolly, 4K film look
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103932166124322816/img/8ZkWhrHivAmVum7H.jpg" width="600" alt="Mount Fuji drone shot video prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11439)**
+
+**Author:** [なお｜AIで仕事を自動化する会社員](https://x.com/nao_desk) | **Source:** [Link](https://x.com/nao_desk/status/2103932712755318860) | **Published:** Sep 26, 2026
+
+---
+### Grok Imagine Video Prompt: Rain on Leaves
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A descriptive video prompt for Grok Imagine visualizing soft rain tapping on leaves like silver bells.
+
+#### 📝 Prompt
+
+```
+Pitter-patter, pitter-patter… I'm the soft rain, gently tapping on the leaves like tiny silver bells in the breeze....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103808899803402240/img/h1i_WEF1orBrosP9.jpg" width="600" alt="Grok Imagine Video Prompt: Rain on Leaves">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11433)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2103808977339584611) | **Published:** Sep 26, 2026
+
+---
+### Grok Imagine Video Prompt: Square Aspect Ratio Conversion
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed instruction for Grok Imagine to convert an image into a 1:1 square aspect ratio while maintaining style and composition.
+
+#### 📝 Prompt
+
+```
+Convert this image to a 1:1 square aspect ratio. Keep the core subject (the glowing skull candle) prominent and well-framed with smart recomposition or cropping. Maintain the original artistic style, lighting, colors, details, quality, and composition...
 ```
 
 <img src="https://pbs.twimg.com/amplify_video_thumb/2103680504524386304/img/wmISBSwrROyqUQkC.jpg" width="600" alt="Grok Imagine Video Prompt: Square Aspect Ratio Conversion">
@@ -206,6 +320,29 @@ Convert this image to a 1:1 square aspect ratio. Keep the core subject (the glow
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11345)**
 
 **Author:** [Katrina](https://x.com/sLuTmEoUt1988) | **Source:** [Link](https://x.com/sLuTmEoUt1988/status/2103680519401799927) | **Published:** Sep 26, 2026
+
+---
+### Cinematic Alien Exploration Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed long-form prompt for creating a continuous cinematic exploration of an alien environment starting from a reference image.
+
+#### 📝 Prompt
+
+```
+Create a continuous 15-second cinematic exploration beginning from this exact image. No cuts.
+
+The alien does NOT walk, fly, or move like a human.
+
+0–3 seconds: The camera slowly approaches the alien from behind. It remains almost motionless, overloo...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103659926031622145/img/h4Sxj6VYFQp0ay4l.jpg" width="600" alt="Cinematic Alien Exploration Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11435)**
+
+**Author:** [LisaVale](https://x.com/DriftNShadow) | **Source:** [Link](https://x.com/DriftNShadow/status/2103659984508666283) | **Published:** Sep 26, 2026
 
 ---
 ### Sci-Fi Western Holodeck Transition
@@ -248,11 +385,11 @@ Tom Cruise performing a boring soliloquy in the role of has-been alcoholic food 
 **Author:** [(((Simon Hardy Butler)))🇺🇸🇮🇱🇺🇦](https://x.com/SimonHButler) | **Source:** [Link](https://x.com/SimonHButler/status/2103630614973096137) | **Published:** Sep 25, 2026
 
 ---
-### European University Vlog Video Prompt
+### Photorealistic University Vlog
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for creating a realistic 10-second university vlog video with specific dialogue and camera styles.
+> An ultra-detailed video prompt for Grok Imagine creating a photorealistic university vlog scene with specific camera, lighting, and dialogue instructions.
 
 #### 📝 Prompt
 
@@ -268,11 +405,70 @@ Natural diegetic audio only. No music, narration, CGI look, artificial rain, fac
 16:9 • 24fps • 4K • Ultra-photorealistic live action
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103629375711387648/img/pC3oG5XUNPsnTjIs.jpg" width="600" alt="European University Vlog Video Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103629375711387648/img/pC3oG5XUNPsnTjIs.jpg" width="600" alt="Photorealistic University Vlog">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11348)**
 
 **Author:** [Yogi](https://x.com/cyberyogiii) | **Source:** [Link](https://x.com/cyberyogiii/status/2103629403284742531) | **Published:** Sep 25, 2026
+
+---
+### Cinematic Surrealist Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for creating a 15-second cinematic surrealist sequence from a starting image.
+
+#### 📝 Prompt
+
+```
+Create a 15-second cinematic surrealist sequence from this exact starting image. Preserve its photorealistic-but-impossible quality and vertical composition.
+
+Begin with a slow forward camera movement through the existing strange landscape. Everythin...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103611709537624064/img/5lu0RjC6fleUkER1.jpg" width="600" alt="Cinematic Surrealist Sequence">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11438)**
+
+**Author:** [LisaVale](https://x.com/DriftNShadow) | **Source:** [Link](https://x.com/DriftNShadow/status/2103611793473937901) | **Published:** Sep 25, 2026
+
+---
+### Grok Imagine Video Prompt: Albatross Laughing at Venus
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A poetic and surreal video prompt for Grok Imagine describing an albatross flying over the ocean reflecting Venus.
+
+#### 📝 Prompt
+
+```
+an albatross in flight laughing at venus shining in the night sky reflecting of a still ocean
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103600920189677568/img/X1Qa43FIrZnSXNXV.jpg" width="600" alt="Grok Imagine Video Prompt: Albatross Laughing at Venus">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11432)**
+
+**Author:** [@Z_&Axis](https://x.com/AlbatrossBanter) | **Source:** [Link](https://x.com/AlbatrossBanter/status/2103600940284547249) | **Published:** Sep 25, 2026
+
+---
+### Eva Cartoon Rap Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video prompt for Grok Imagine describing Eva in a cartoon style with specific narrative and audio instructions.
+
+#### 📝 Prompt
+
+```
+Eva in cartoon style who looks like Elvira in cartoon style who has a heart of gold that a door is about open up from God who has a finance that loves her to death and will do anything for her make it 30 secs with a rap style song
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103595120083775488/img/bxYET1ReOpZfLJqe.jpg" width="600" alt="Eva Cartoon Rap Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11434)**
+
+**Author:** [Joseph Buttacavole](https://x.com/Joebutter1111) | **Source:** [Link](https://x.com/Joebutter1111/status/2103595177101361391) | **Published:** Sep 25, 2026
 
 ---
 ### Winged Knight on Red Horse
@@ -1943,197 +2139,6 @@ A transparent crystal glass sphere filled with swirling iridescent oil, floating
 **Author:** [Grok Builder](https://x.com/grok_builder) | **Source:** [Link](https://x.com/grok_builder/status/2099107995028201539) | **Published:** Sep 13, 2026
 
 ---
-### High-Fashion Motion Blur Portrait
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A truncated prompt for a high-fashion editorial portrait with motion blur effects.
-
-#### 📝 Prompt
-
-```
-A high-fashion editorial portrait of a young woman with long hair blowing intensely in the wind. She is wearing a flowing, sheer, bright fiery orange-red garment with loose sleeves. The image is captured with an intentional strong motion blur, partic...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098923245168693249/img/cKyXwL4mhKF-cmvx.jpg" width="600" alt="High-Fashion Motion Blur Portrait">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10817)**
-
-**Author:** [Sadie 🕊🖼️](https://x.com/poetrynthings) | **Source:** [Link](https://x.com/poetrynthings/status/2098923257428595019) | **Published:** Sep 12, 2026
-
----
-### Grok Imagine Video Prompt: Futuristic Robot Woman at Park
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for generating a video of a futuristic robotic woman taking children to play in an open park, supervised by an adult man. The tweet also includes commentary about avoiding intermediary ads.
-
-#### 📝 Prompt
-
-```
-Recreate a futuristic robotic woman taking children to play in an open park. Supervised by an adult man.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098900315579842571/img/MjFbW2hN62cWdrcJ.jpg" width="600" alt="Grok Imagine Video Prompt: Futuristic Robot Woman at Park">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10822)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2098900366523879801) | **Published:** Sep 12, 2026
-
----
-### Woman Walking to Tree of Life
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for generating a mystical video of a woman walking through a sunlit forest toward a glowing ancient Tree of Life after emerging from barbed wire.
-
-#### 📝 Prompt
-
-```
-The woman stands up fully from among the barbed wire, then gracefully walks forward through the sunlit forest toward a majestic ancient Tree of Life. The Tree of Life is a huge mystical glowing tree with intricate glowing roots and branches, golden l...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098898023116087296/img/uYV8dK2Lbog8JyNN.jpg" width="600" alt="Woman Walking to Tree of Life">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10816)**
-
-**Author:** [Barbara 💕🕊️🌎](https://x.com/BarbaraCbroker1) | **Source:** [Link](https://x.com/BarbaraCbroker1/status/2098898374229680514) | **Published:** Sep 12, 2026
-
----
-### Sci-Fi Flying City Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for a vertical cinematic sci-fi sequence featuring a flying city-ship, propulsion engines, and a human silhouette.
-
-#### 📝 Prompt
-
-```
-10-second vertical cinematic sci-fi sequence: begin with a colossal futuristic flying city-ship above the clouds at sunrise, transition through close-ups of glowing propulsion engines, autonomous traffic and towering skyscrapers, then reveal a human silhouette overlooking the city before the massive vessel accelerates from Earth toward deep space. Finish with the ship flying among stars and planets, using dramatic camera movement, photorealistic details, volumetric lighting, realistic reflections, powerful engine glow, deep cinematic sound design, and the final text: “THE FUTURE IS REAL — NEXT LEVEL SCI-FI.”
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098743153834815488/img/4CFRkXpoLIHXBsAE.jpg" width="600" alt="Sci-Fi Flying City Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10819)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2098745738398494723) | **Published:** Sep 12, 2026
-
----
-### Two Optimus Robots Walking in Park
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt for Grok Imagine featuring two Optimus Prime robots walking together in a beautiful park setting.
-
-#### 📝 Prompt
-
-```
-Two Optimus, one beautiful park, and a conversation beyond the future. Walking together today… shaping tomorrow.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098709643119984641/img/34m6mk7nCDDO2AqR.jpg" width="600" alt="Two Optimus Robots Walking in Park">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10821)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2098710365307830738) | **Published:** Sep 12, 2026
-
----
-### I Am Legend Optimus Prime Trailer
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt for Grok Imagine creating a movie trailer scenario where Will Smith is replaced by a Tesla Optimus robot.
-
-#### 📝 Prompt
-
-```
-Movie trailer for I Am Legend but replace will smith with tesla Optimus he’s the last robot left standing post humans
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098674271413280775/img/ASmQlDMZovJCgISu.jpg" width="600" alt="I Am Legend Optimus Prime Trailer">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10802)**
-
-**Author:** [PokeDon](https://x.com/Pokedoncards) | **Source:** [Link](https://x.com/Pokedoncards/status/2098674288786084172) | **Published:** Sep 12, 2026
-
----
-### Lady StarWeaver and Leopard Kittens
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A descriptive prompt for a fantasy scene involving a lady and leopard kittens in an elven forest.
-
-#### 📝 Prompt
-
-```
-Lady StarWeaver and the two Black Leopard kittens live in the deep Elven Forest.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098670972870025224/img/Skv-29rGkaq6s5Xl.jpg" width="600" alt="Lady StarWeaver and Leopard Kittens">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10803)**
-
-**Author:** [Judy Powell](https://x.com/Judy_2026) | **Source:** [Link](https://x.com/Judy_2026/status/2098671027093905837) | **Published:** Sep 12, 2026
-
----
-### Shapeshifter Metamorphosis Sequence
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A complex multi-stage dynamic transformation video prompt detailing sequential animal transformations.
-
-#### 📝 Prompt
-
-```
-A woman changes into white giant owl the owl flies and changes into a snow leopard while it crosses a river, as it crosses the river it turns into her
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098604983788736518/img/JavVvbe4J-KCAUJi.jpg" width="600" alt="Shapeshifter Metamorphosis Sequence">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10795)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2098605006433779873) | **Published:** Sep 12, 2026
-
----
-### Solitary Fisherman Quiet Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A melancholic yet peaceful video prompt depicting an old man fishing alone on a lake, emphasizing the quiet atmosphere after a crowd has left.
-
-#### 📝 Prompt
-
-```
-The old man fishing alone is the right image — summer’s crowd gone, the lake still warm, nobody left to perform for. That’s the exact feeling: not sad, just the quiet after the party.
-Draw him small against the water, rod in hand, and let the lake take up most of the frame. The emptiness is the point.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098537834567135238/img/PjRyNL9hr8-vBhk-.jpg" width="600" alt="Solitary Fisherman Quiet Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10800)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2098537884756189577) | **Published:** Sep 11, 2026
-
----
-### Slow Neon Color Explosion
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed video prompt for a soft, glowing radial explosion of vibrant neon colors and geometric shapes.
-
-#### 📝 Prompt
-
-```
-Just slow colour explosion. Soft central glowing light. Vibrant neon abstract colour patches and geometric shapes slowly exploding and expanding outward gently in all directions. No spiral, no swirling motion, no rotation. Pure slow radial explosion
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098529372018036736/img/X6hmQQrvrHZNwk-A.jpg" width="600" alt="Slow Neon Color Explosion">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10796)**
-
-**Author:** [Roy](https://x.com/RoyRoy67196892) | **Source:** [Link](https://x.com/RoyRoy67196892/status/2098529438338371682) | **Published:** Sep 11, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2195,6 +2200,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-27T05:03:49.703Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-27T14:16:58.339Z</sub>
 
 </div>
