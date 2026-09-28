@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2912** |
+| 📝 プロンプト総数 | **2913** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-09-28** |
 
@@ -189,6 +189,25 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### Grok Imagine グリッド画像からダンス動画へ
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Grok Imagine を使用して、6x6 のグリッド画像を滑らかなアニメキャラクターのダンス動画に変換するためのプロンプトです。
+
+#### 📝 プロンプト
+
+```
+6x6 のグリッド画像のうち、左上から右下へ順に1つのフレームを開始フレームとして参照し、流れるようなアニメキャラクターのダンス動画を生成してください。生成された動画にはグリッド画像自体を含めず、キャラクターが1人で踊っているシーンのみを表示してください。
+```
+
+<img src="https://cms-assets.youmind.com/media/1790582287198_1nfbdj_HTOeO6AbQAAAA0Y.jpg" width="600" alt="Grok Imagine グリッド画像からダンス動画へ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11503)**
+
+**作者:** [いにしえ@高信頼AIニュース"NeuralWire.org"運営｜Will Oldgram](https://x.com/old_pgmrs_will) | **ソース:** [Link](https://x.com/old_pgmrs_will/status/2104200039627399637) | **公開日:** Sep 27, 2026
+
+---
 ### 月光の下で踊るプロンプト
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2127,25 +2146,6 @@ Falcon 9 の打ち上げにおける集合的な高揚感：轟音が遂に群�
 **作者:** [John Francavillo](https://x.com/Francavil42824J) | **ソース:** [Link](https://x.com/Francavil42824J/status/2099197855227334759) | **公開日:** Sep 13, 2026
 
 ---
-### ガラス屈折テスト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 複雑なガラスの屈折と光のカウスティクス（集光）をテストする技術的なプロンプト。
-
-#### 📝 プロンプト
-
-```
-虹色の油が渦巻く透明なクリスタルガラスの球体が、ガラス水槽内に浮かんでいる。太陽光が両方の層を透過し、暗い大理石のカウンタートップに複雑でカラフルなカウスティクスの光のパターンを投影する。マクロ写真、レイトレーシング照明。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099107970668015616/img/j7SQlIYHEJ894W3R.jpg" width="600" alt="ガラス屈折テスト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10818)**
-
-**作者:** [Grok Builder](https://x.com/grok_builder) | **ソース:** [Link](https://x.com/grok_builder/status/2099107995028201539) | **公開日:** Sep 13, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2207,6 +2207,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-09-28T05:09:18.705Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-09-28T16:54:22.049Z</sub>
 
 </div>

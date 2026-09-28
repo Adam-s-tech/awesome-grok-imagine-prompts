@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2912** |
+| 📝 Total Prompts | **2913** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-28** |
 
@@ -189,6 +189,25 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine: Chuyển Đổi Ảnh Lưới thành Video Nhảy
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Prompt chuyển đổi ảnh lưới 6x6 thành video nhảy nhân vật anime mượt mà bằng Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Sử dụng một khung hình từ ảnh lưới 6x6 làm khung bắt đầu, tham chiếu tuần tự từ trên cùng bên trái xuống dưới cùng bên phải, để tạo ra video nhảy nhân vật anime liền mạch. Không bao gồm chính ảnh lưới trong video được tạo; chỉ hiển thị cảnh một nhân vật đang nhảy.
+```
+
+<img src="https://cms-assets.youmind.com/media/1790582287198_1nfbdj_HTOeO6AbQAAAA0Y.jpg" width="600" alt="Grok Imagine: Chuyển Đổi Ảnh Lưới thành Video Nhảy">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11503)**
+
+**Author:** [いにしえ@高信頼AIニュース"NeuralWire.org"運営｜Will Oldgram](https://x.com/old_pgmrs_will) | **Source:** [Link](https://x.com/old_pgmrs_will/status/2104200039627399637) | **Published:** Sep 27, 2026
+
+---
 ### Câu lệnh Khiêu vũ Dưới Ánh Trăng
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2120,25 +2139,6 @@ Một cô gái trẻ đang đi dọc theo con đường, quay người lại và
 **Author:** [John Francavillo](https://x.com/Francavil42824J) | **Source:** [Link](https://x.com/Francavil42824J/status/2099197855227334759) | **Published:** Sep 13, 2026
 
 ---
-### Kiểm Tra Khúc Xạ Thủy Tinh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt kỹ thuật kiểm tra hiện tượng khúc xạ thủy tinh phức tạp và hiệu ứng ánh sáng caustics.
-
-#### 📝 Prompt
-
-```
-Một quả cầu thủy tinh pha lê trong suốt chứa đầy dầu óng ánh xoáy tròn, lơ lửng bên trong một bể cá bằng kính. Ánh nắng mặt trời xuyên qua cả hai lớp, tạo ra những hoa văn ánh sáng caustics phức tạp và nhiều màu sắc trên mặt bàn đá cẩm thạch tối màu, chụp ảnh macro, chiếu sáng ray-traced.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099107970668015616/img/j7SQlIYHEJ894W3R.jpg" width="600" alt="Kiểm Tra Khúc Xạ Thủy Tinh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10818)**
-
-**Author:** [Grok Builder](https://x.com/grok_builder) | **Source:** [Link](https://x.com/grok_builder/status/2099107995028201539) | **Published:** Sep 13, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2200,6 +2200,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-28T05:09:22.679Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-28T16:54:24.846Z</sub>
 
 </div>

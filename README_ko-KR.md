@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2912** |
+| 📝 총 프롬프트 수 | **2913** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-09-28** |
 
@@ -189,6 +189,25 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### Grok Imagine 그리드 이미지에서 댄스 영상으로
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Grok Imagine을 사용하여 6x6 그리드 이미지를 부드러운 애니메이션 캐릭터 댄스 영상으로 변환하는 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+6x6 그리드 이미지에서 왼쪽 상단부터 오른쪽 하단까지 순차적으로 참조하여 한 프레임을 시작 프레임으로 사용하십시오. 흐르는 듯한 애니메이션 캐릭터 댄스 영상을 생성합니다. 생성된 영상에는 그리드 이미지 자체를 포함하지 말고, 한 명의 캐릭터가 춤추는 장면만 보여주세요.
+```
+
+<img src="https://cms-assets.youmind.com/media/1790582287198_1nfbdj_HTOeO6AbQAAAA0Y.jpg" width="600" alt="Grok Imagine 그리드 이미지에서 댄스 영상으로">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11503)**
+
+**작성자:** [いにしえ@高信頼AIニュース"NeuralWire.org"運営｜Will Oldgram](https://x.com/old_pgmrs_will) | **출처:** [Link](https://x.com/old_pgmrs_will/status/2104200039627399637) | **게시일:** Sep 27, 2026
+
+---
 ### 달빛 아래 춤추는 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2120,25 +2139,6 @@ Falcon 9 발사 시의 집단적 환희: 귀를 찢는 굉음이 마침내 군�
 **작성자:** [John Francavillo](https://x.com/Francavil42824J) | **출처:** [Link](https://x.com/Francavil42824J/status/2099197855227334759) | **게시일:** Sep 13, 2026
 
 ---
-### 유리 굴절 테스트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 복잡한 유리 굴절 및 빛의 카우스틱(caustics) 효과를 검증하는 기술적 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-무지개빛 오일이 소용돌이치는 투명한 수정 구슬이 유리 어항 안에 떠 있는 모습. 햇빛이 두 겹의 유리를 통과하며 어두운 대리석 카운터 위에 복잡하고 다채로운 카우스틱 빛 패턴을 투사합니다. 매크로 사진, 레이 트레이싱 조명.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099107970668015616/img/j7SQlIYHEJ894W3R.jpg" width="600" alt="유리 굴절 테스트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10818)**
-
-**작성자:** [Grok Builder](https://x.com/grok_builder) | **출처:** [Link](https://x.com/grok_builder/status/2099107995028201539) | **게시일:** Sep 13, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2200,6 +2200,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-09-28T05:09:19.748Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-09-28T16:54:22.852Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2912** |
+| 📝 Total Prompts | **2913** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-28** |
 
@@ -189,6 +189,25 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine : De l'image en grille à la vidéo de danse
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Prompt pour transformer une image en grille 6x6 en une vidéo fluide de danse de personnage anime avec Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Utilisez une image issue d'une grille 6x6 comme image de départ, en suivant l'ordre séquentiel du haut vers le bas et de gauche à droite, pour générer une vidéo fluide de danse de personnage anime. N'incluez pas la grille elle-même dans la vidéo générée ; affichez plutôt une scène où un seul personnage danse.
+```
+
+<img src="https://cms-assets.youmind.com/media/1790582287198_1nfbdj_HTOeO6AbQAAAA0Y.jpg" width="600" alt="Grok Imagine : De l'image en grille à la vidéo de danse">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11503)**
+
+**Author:** [いにしえ@高信頼AIニュース"NeuralWire.org"運営｜Will Oldgram](https://x.com/old_pgmrs_will) | **Source:** [Link](https://x.com/old_pgmrs_will/status/2104200039627399637) | **Published:** Sep 27, 2026
+
+---
 ### Prompt de Danse sous la Lune
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2120,25 +2139,6 @@ Une jeune femme, avançant sur un chemin, se retourne et devient une princesse g
 **Author:** [John Francavillo](https://x.com/Francavil42824J) | **Source:** [Link](https://x.com/Francavil42824J/status/2099197855227334759) | **Published:** Sep 13, 2026
 
 ---
-### Test de réfraction du verre
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt technique testant la réfraction complexe du verre et les caustiques lumineuses.
-
-#### 📝 Prompt
-
-```
-Une sphère en cristal transparent remplie d'huile irisée tourbillonnante, flottant dans un aquarium en verre. La lumière du soleil traverse les deux couches, projetant des motifs de caustiques lumineux complexes et colorés sur un plan de travail en marbre foncé, photographie macro, éclairage par lancer de rayons.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099107970668015616/img/j7SQlIYHEJ894W3R.jpg" width="600" alt="Test de réfraction du verre">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10818)**
-
-**Author:** [Grok Builder](https://x.com/grok_builder) | **Source:** [Link](https://x.com/grok_builder/status/2099107995028201539) | **Published:** Sep 13, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2200,6 +2200,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-28T05:09:29.973Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-28T16:54:29.761Z</sub>
 
 </div>

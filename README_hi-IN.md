@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2912** |
+| 📝 Total Prompts | **2913** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-28** |
 
@@ -189,6 +189,25 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine Grid Image to Dance Video
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A prompt for converting a 6x6 grid image into a smooth anime character dance video using Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Use one frame from a 6x6 grid image as the starting frame, referencing sequentially from top-left to bottom-right, to generate a flowing anime character dance video. Do not include the grid image itself in the generated video; show a scene of one character dancing.
+```
+
+<img src="https://cms-assets.youmind.com/media/1790582287198_1nfbdj_HTOeO6AbQAAAA0Y.jpg" width="600" alt="Grok Imagine Grid Image to Dance Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11503)**
+
+**Author:** [いにしえ@高信頼AIニュース"NeuralWire.org"運営｜Will Oldgram](https://x.com/old_pgmrs_will) | **Source:** [Link](https://x.com/old_pgmrs_will/status/2104200039627399637) | **Published:** Sep 27, 2026
+
+---
 ### चाँदनी में नृत्य करने वाला प्रॉम्प्ट
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2122,25 +2141,6 @@ Falcon 9 लॉन्च के दौरान सामूहिक उत्�
 **Author:** [John Francavillo](https://x.com/Francavil42824J) | **Source:** [Link](https://x.com/Francavil42824J/status/2099197855227334759) | **Published:** Sep 13, 2026
 
 ---
-### ग्लास रिफ्रैक्शन टेस्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक तकनीकी प्रॉम्प्ट जो जटिल ग्लास रिफ्रैक्शन और लाइट कॉस्टिक्स का परीक्षण करता है।
-
-#### 📝 Prompt
-
-```
-एक पारदर्शी क्रिस्टल ग्लास गोला, जिसमें घूमता हुआ इंद्रधनुषी तेल है, एक ग्लास एक्वेरियम के अंदर तैर रहा है। सूर्य की रोशनी दोनों परतों से होकर गुजरती है, और एक डार्क मैबल काउंटरटॉप पर जटिल, रंगीन कॉस्टिक लाइट पैटर्न बनाती है, मैक्रो फोटोग्राफी, रे-ट्रेस्ड लाइटिंग।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099107970668015616/img/j7SQlIYHEJ894W3R.jpg" width="600" alt="ग्लास रिफ्रैक्शन टेस्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10818)**
-
-**Author:** [Grok Builder](https://x.com/grok_builder) | **Source:** [Link](https://x.com/grok_builder/status/2099107995028201539) | **Published:** Sep 13, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2202,6 +2202,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-28T05:09:23.486Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-28T16:54:25.762Z</sub>
 
 </div>

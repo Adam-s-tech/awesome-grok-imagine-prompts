@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2912** |
+| 📝 Total Prompts | **2913** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-28** |
 
@@ -189,6 +189,25 @@ Uma Valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine: De Imagem em Grade a Vídeo de Dança
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Prompt para converter uma imagem em grade 6x6 em um vídeo fluido de dança de personagem anime usando o Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Use um quadro da imagem em grade 6x6 como quadro inicial, referenciando sequencialmente do canto superior esquerdo ao inferior direito, para gerar um vídeo fluido de dança de personagem anime. Não inclua a própria imagem em grade no vídeo gerado; mostre apenas uma cena de um personagem dançando.
+```
+
+<img src="https://cms-assets.youmind.com/media/1790582287198_1nfbdj_HTOeO6AbQAAAA0Y.jpg" width="600" alt="Grok Imagine: De Imagem em Grade a Vídeo de Dança">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11503)**
+
+**Author:** [いにしえ@高信頼AIニュース"NeuralWire.org"運営｜Will Oldgram](https://x.com/old_pgmrs_will) | **Source:** [Link](https://x.com/old_pgmrs_will/status/2104200039627399637) | **Published:** Sep 27, 2026
+
+---
 ### Prompt de Dança sob a Luz da Lua
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2120,25 +2139,6 @@ Uma jovem, caminhando por um caminho, se vira e se transforma em uma princesa gu
 **Author:** [John Francavillo](https://x.com/Francavil42824J) | **Source:** [Link](https://x.com/Francavil42824J/status/2099197855227334759) | **Published:** Sep 13, 2026
 
 ---
-### Teste de Refração do Vidro
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt técnico para testar a refração complexa do vidro e as cáusticas de luz.
-
-#### 📝 Prompt
-
-```
-Uma esfera de cristal transparente cheia de óleo iridescente em espiral, flutuando dentro de um aquário de vidro. A luz do sol atravessa ambas as camadas, projetando padrões intrincados e coloridos de luz cáustica sobre uma bancada de mármore escuro, fotografia macro, iluminação com ray tracing.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099107970668015616/img/j7SQlIYHEJ894W3R.jpg" width="600" alt="Teste de Refração do Vidro">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10818)**
-
-**Author:** [Grok Builder](https://x.com/grok_builder) | **Source:** [Link](https://x.com/grok_builder/status/2099107995028201539) | **Published:** Sep 13, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2200,6 +2200,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-28T05:09:32.453Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-28T16:54:32.668Z</sub>
 
 </div>

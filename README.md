@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2912** |
+| 📝 Total Prompts | **2913** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-28** |
 
@@ -189,6 +189,25 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine Grid Image to Dance Video
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A prompt for converting a 6x6 grid image into a smooth anime character dance video using Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Use one frame from a 6x6 grid image as the starting frame, referencing sequentially from top-left to bottom-right, to generate a flowing anime character dance video. Do not include the grid image itself in the generated video; show a scene of one character dancing.
+```
+
+<img src="https://cms-assets.youmind.com/media/1790582287198_1nfbdj_HTOeO6AbQAAAA0Y.jpg" width="600" alt="Grok Imagine Grid Image to Dance Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11503)**
+
+**Author:** [いにしえ@高信頼AIニュース"NeuralWire.org"運営｜Will Oldgram](https://x.com/old_pgmrs_will) | **Source:** [Link](https://x.com/old_pgmrs_will/status/2104200039627399637) | **Published:** Sep 27, 2026
+
+---
 ### Dancing Under Moonlight Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1000,11 +1019,11 @@ POV models feet, shoes walking in exact same direction, one set of feet per 2 se
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2102236777167679780) | **Published:** Sep 22, 2026
 
 ---
-### Evil King Crown Video Prompt
+### Evil King Crown Laugh
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video generation prompt for Grok Imagine depicting a character receiving a crown and laughing evilly.
+> Video prompt depicting a character receiving a crown and laughing evilly while looking at the sky.
 
 #### 📝 Prompt
 
@@ -1012,7 +1031,7 @@ POV models feet, shoes walking in exact same direction, one set of feet per 2 se
 Make a video of him standing. The crown descends and it’s placed on his head. Once the crown is placed on his head. He looks at the sky, and laughs. An evil laugh.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102234504303906816/img/20BDPu1rsVx-PMfi.jpg" width="600" alt="Evil King Crown Video Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102234504303906816/img/20BDPu1rsVx-PMfi.jpg" width="600" alt="Evil King Crown Laugh">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11152)**
 
@@ -2120,25 +2139,6 @@ A young woman,moving down a path, turns around and becomes a warrior princess...
 **Author:** [John Francavillo](https://x.com/Francavil42824J) | **Source:** [Link](https://x.com/Francavil42824J/status/2099197855227334759) | **Published:** Sep 13, 2026
 
 ---
-### Glass Refraction Test
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A technical prompt testing complex glass refraction and light caustics.
-
-#### 📝 Prompt
-
-```
-A transparent crystal glass sphere filled with swirling iridescent oil, floating inside a glass aquarium. Sunlight passes through both layers, casting intricate, colorful caustic light patterns across a dark marble countertop, macro photography, ray-traced lighting.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099107970668015616/img/j7SQlIYHEJ894W3R.jpg" width="600" alt="Glass Refraction Test">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10818)**
-
-**Author:** [Grok Builder](https://x.com/grok_builder) | **Source:** [Link](https://x.com/grok_builder/status/2099107995028201539) | **Published:** Sep 13, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2200,6 +2200,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-28T05:09:16.497Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-28T16:54:18.685Z</sub>
 
 </div>

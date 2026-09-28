@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2912** |
+| 📝 Total Prompts | **2913** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-28** |
 
@@ -189,6 +189,25 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine: Video de Baile desde Imagen de Cuadrícula
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Prompt para convertir una imagen de cuadrícula 6x6 en un fluido video de baile de personaje anime usando Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Usa un fotograma de una imagen de cuadrícula 6x6 como fotograma inicial, referenciando secuencialmente de arriba a la izquierda hacia abajo a la derecha, para generar un video fluido de baile de un personaje anime. No incluyas la imagen de cuadrícula en el video generado; muestra una escena de un solo personaje bailando.
+```
+
+<img src="https://cms-assets.youmind.com/media/1790582287198_1nfbdj_HTOeO6AbQAAAA0Y.jpg" width="600" alt="Grok Imagine: Video de Baile desde Imagen de Cuadrícula">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11503)**
+
+**Author:** [いにしえ@高信頼AIニュース"NeuralWire.org"運営｜Will Oldgram](https://x.com/old_pgmrs_will) | **Source:** [Link](https://x.com/old_pgmrs_will/status/2104200039627399637) | **Published:** Sep 27, 2026
+
+---
 ### Prompt de Baile bajo la Luz de la Luna
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2120,25 +2139,6 @@ Una joven camina por un sendero, se gira y se convierte en una princesa guerrera
 **Author:** [John Francavillo](https://x.com/Francavil42824J) | **Source:** [Link](https://x.com/Francavil42824J/status/2099197855227334759) | **Published:** Sep 13, 2026
 
 ---
-### Prueba de refracción del vidrio
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt técnico para probar la compleja refracción del vidrio y las cáusticas de luz.
-
-#### 📝 Prompt
-
-```
-Una esfera de cristal transparente llena de aceite iridiscente en remolino, flotando dentro de un acuario de vidrio. La luz solar atraviesa ambas capas, proyectando intrincados patrones de luz caústica colorida sobre una encimera de mármol oscuro, fotografía macro, iluminación trazada por rayos.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099107970668015616/img/j7SQlIYHEJ894W3R.jpg" width="600" alt="Prueba de refracción del vidrio">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10818)**
-
-**Author:** [Grok Builder](https://x.com/grok_builder) | **Source:** [Link](https://x.com/grok_builder/status/2099107995028201539) | **Published:** Sep 13, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2200,6 +2200,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-28T05:09:24.282Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-28T16:54:26.716Z</sub>
 
 </div>

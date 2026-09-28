@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2912** |
+| 📝 Total Prompts | **2913** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-28** |
 
@@ -189,6 +189,25 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine: Da Immagine a Griglia a Video di Danza
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Prompt per convertire un'immagine a griglia 6x6 in un fluido video di danza di un personaggio anime utilizzando Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Utilizza un singolo fotogramma da un'immagine a griglia 6x6 come fotogramma iniziale, facendo riferimento alle celle in sequenza dall'alto a sinistra verso il basso a destra, per generare un fluido video di danza di un personaggio anime. Non includere l'immagine a griglia stessa nel video generato; mostra una scena con un solo personaggio che balla.
+```
+
+<img src="https://cms-assets.youmind.com/media/1790582287198_1nfbdj_HTOeO6AbQAAAA0Y.jpg" width="600" alt="Grok Imagine: Da Immagine a Griglia a Video di Danza">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11503)**
+
+**Author:** [いにしえ@高信頼AIニュース"NeuralWire.org"運営｜Will Oldgram](https://x.com/old_pgmrs_will) | **Source:** [Link](https://x.com/old_pgmrs_will/status/2104200039627399637) | **Published:** Sep 27, 2026
+
+---
 ### Prompt: Danza sotto la Luna
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2120,25 +2139,6 @@ Una giovane donna, mentre cammina lungo un sentiero, si volta e diventa una prin
 **Author:** [John Francavillo](https://x.com/Francavil42824J) | **Source:** [Link](https://x.com/Francavil42824J/status/2099197855227334759) | **Published:** Sep 13, 2026
 
 ---
-### Test di Rifrazione del Vetro
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tecnico per testare la rifrazione del vetro complesso e le caustiche luminose.
-
-#### 📝 Prompt
-
-```
-Una sfera di cristallo trasparente riempita con olio iridescente vorticoso, che galleggia all'interno di un acquario in vetro. La luce solare attraversa entrambi gli strati, proiettando intricati motivi di luce caustica colorata su un piano di lavoro in marmo scuro, fotografia macro, illuminazione ray-traced.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099107970668015616/img/j7SQlIYHEJ894W3R.jpg" width="600" alt="Test di Rifrazione del Vetro">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10818)**
-
-**Author:** [Grok Builder](https://x.com/grok_builder) | **Source:** [Link](https://x.com/grok_builder/status/2099107995028201539) | **Published:** Sep 13, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2200,6 +2200,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-28T05:09:30.723Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-28T16:54:30.803Z</sub>
 
 </div>

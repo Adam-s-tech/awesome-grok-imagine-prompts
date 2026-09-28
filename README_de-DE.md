@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2912** |
+| 📝 Total Prompts | **2913** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-28** |
 
@@ -189,6 +189,25 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine Rasterbild-zu-Tanzvideo
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein Prompt zur Umwandlung eines 6x6-Rasterbildes in ein flüssiges Anime-Tanzvideo mit Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Verwenden Sie einen Rahmen aus einem 6x6-Rasterbild als Startrahmen, wobei die Referenzierung sequenziell von oben links nach unten rechts erfolgt, um ein fließendes Anime-Charakter-Tanzvideo zu generieren. Das Rasterbild selbst darf nicht im generierten Video enthalten sein; zeigen Sie stattdessen eine Szene, in der ein Charakter tanzt.
+```
+
+<img src="https://cms-assets.youmind.com/media/1790582287198_1nfbdj_HTOeO6AbQAAAA0Y.jpg" width="600" alt="Grok Imagine Rasterbild-zu-Tanzvideo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11503)**
+
+**Author:** [いにしえ@高信頼AIニュース"NeuralWire.org"運営｜Will Oldgram](https://x.com/old_pgmrs_will) | **Source:** [Link](https://x.com/old_pgmrs_will/status/2104200039627399637) | **Published:** Sep 27, 2026
+
+---
 ### Prompt: Tanzen im Mondlicht
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2120,25 +2139,6 @@ Eine junge Frau geht einen Weg entlang, dreht sich um und verwandelt sich in ein
 **Author:** [John Francavillo](https://x.com/Francavil42824J) | **Source:** [Link](https://x.com/Francavil42824J/status/2099197855227334759) | **Published:** Sep 13, 2026
 
 ---
-### Glasbrechungs-Test
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein technischer Prompt zum Testen komplexer Glasbrechung und Lichtkaustiken.
-
-#### 📝 Prompt
-
-```
-Eine transparente Kristallglas-Kugel, gefüllt mit wirbelndem, irisierendem Öl, die in einem Glas-Aquarium schwebt. Sonnenlicht durchdringt beide Schichten und wirft komplexe, bunte kaustische Lichtmuster auf eine dunkle Marmor-Arbeitsplatte. Makrofotografie, raytraced Beleuchtung.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099107970668015616/img/j7SQlIYHEJ894W3R.jpg" width="600" alt="Glasbrechungs-Test">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10818)**
-
-**Author:** [Grok Builder](https://x.com/grok_builder) | **Source:** [Link](https://x.com/grok_builder/status/2099107995028201539) | **Published:** Sep 13, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2200,6 +2200,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-28T05:09:27.609Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-28T16:54:28.633Z</sub>
 
 </div>

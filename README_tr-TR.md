@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2912** |
+| 📝 Total Prompts | **2913** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-28** |
 
@@ -189,6 +189,25 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine Izgara Görüntüden Dans Videosuna
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Grok Imagine kullanarak 6x6'lık bir ızgara görüntüyü akıcı bir anime karakter dans videosuna dönüştürmek için hazırlanmış istem.
+
+#### 📝 Prompt
+
+```
+6x6'lık bir ızgara görüntüdeki tek bir kareyi başlangıç karesi olarak kullanın; sol üstten sağ alta doğru sırasıyla referans alarak akıcı bir anime karakter dans videosu oluşturun. Oluşturulan videoda ızgara görüntünün kendisi yer almamalıdır; yalnızca tek bir karakterin dans ettiği sahne gösterilmelidir.
+```
+
+<img src="https://cms-assets.youmind.com/media/1790582287198_1nfbdj_HTOeO6AbQAAAA0Y.jpg" width="600" alt="Grok Imagine Izgara Görüntüden Dans Videosuna">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11503)**
+
+**Author:** [いにしえ@高信頼AIニュース"NeuralWire.org"運営｜Will Oldgram](https://x.com/old_pgmrs_will) | **Source:** [Link](https://x.com/old_pgmrs_will/status/2104200039627399637) | **Published:** Sep 27, 2026
+
+---
 ### Ay Işığında Dans Promptu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2120,25 +2139,6 @@ Yolda ilerleyen genç bir kadın, arkasını döner ve savaşçı bir prenseste 
 **Author:** [John Francavillo](https://x.com/Francavil42824J) | **Source:** [Link](https://x.com/Francavil42824J/status/2099197855227334759) | **Published:** Sep 13, 2026
 
 ---
-### Cam Kırılma Testi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Karmaşık cam kırılmasını ve ışık kausatiklerini test eden teknik bir istem.
-
-#### 📝 Prompt
-
-```
-İçinde dönen, gökkuşağı renkli yağ bulunan şeffaf kristal cam küre, cam bir akvaryumun içinde yüzüyor. Güneş ışığı her iki katmandan geçerek, koyu mermer tezgah üzerinde karmaşık, renkli kausatik ışık desenleri oluşturuyor; makro fotoğrafçılık, ışın izleme (ray-tracing) ile aydınlatma.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099107970668015616/img/j7SQlIYHEJ894W3R.jpg" width="600" alt="Cam Kırılma Testi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10818)**
-
-**Author:** [Grok Builder](https://x.com/grok_builder) | **Source:** [Link](https://x.com/grok_builder/status/2099107995028201539) | **Published:** Sep 13, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2200,6 +2200,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-28T05:09:33.097Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-28T16:54:33.612Z</sub>
 
 </div>

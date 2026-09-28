@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2912** |
+| 📝 提示詞總數 | **2913** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-09-28** |
 
@@ -189,6 +189,25 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### Grok Imagine 網格圖片轉舞蹈影片
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 使用 Grok Imagine 將 6x6 網格圖片轉換為流暢動漫角色舞蹈影片的提示詞。
+
+#### 📝 提示詞
+
+```
+從 6x6 網格圖片中取一幀作為起始畫面，依序從左上角到右下角參考，生成流暢的動漫角色舞蹈影片。生成的影片中不要包含網格圖片本身；僅展示單一角色跳舞的場景。
+```
+
+<img src="https://cms-assets.youmind.com/media/1790582287198_1nfbdj_HTOeO6AbQAAAA0Y.jpg" width="600" alt="Grok Imagine 網格圖片轉舞蹈影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11503)**
+
+**作者:** [いにしえ@高信頼AIニュース"NeuralWire.org"運営｜Will Oldgram](https://x.com/old_pgmrs_will) | **來源:** [Link](https://x.com/old_pgmrs_will/status/2104200039627399637) | **發布時間:** Sep 27, 2026
+
+---
 ### 月光下起舞提示詞
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2120,25 +2139,6 @@ Falcon 9 發射時的集體狂喜：當震耳欲聾的轟鳴聲終於席捲人�
 **作者:** [John Francavillo](https://x.com/Francavil42824J) | **來源:** [Link](https://x.com/Francavil42824J/status/2099197855227334759) | **發布時間:** Sep 13, 2026
 
 ---
-### 玻璃折射測試
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用於測試複雜玻璃折射與光線焦散的技術提示詞。
-
-#### 📝 提示詞
-
-```
-一顆透明水晶玻璃球，內部充滿旋轉的虹彩油液，懸浮於玻璃水族箱中。陽光穿透雙層介質，在深色大理石檯面上投射出錯綜複雜、色彩斑斕的焦散光紋，微距攝影，光線追蹤照明。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099107970668015616/img/j7SQlIYHEJ894W3R.jpg" width="600" alt="玻璃折射測試">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10818)**
-
-**作者:** [Grok Builder](https://x.com/grok_builder) | **來源:** [Link](https://x.com/grok_builder/status/2099107995028201539) | **發布時間:** Sep 13, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2200,6 +2200,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-09-28T05:09:17.931Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-09-28T16:54:21.194Z</sub>
 
 </div>

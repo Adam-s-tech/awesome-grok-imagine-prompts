@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2912** |
+| 📝 Total Prompts | **2913** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-28** |
 
@@ -189,6 +189,25 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine: เปลี่ยนภาพตารางกริดเป็นวิดีโอเต้นรำ
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> พรอมต์สำหรับแปลงภาพแบบตาราง 6x6 ให้เป็นวิดีโอตัวละครอนิเมะเต้นรำที่ลื่นไหลโดยใช้ Grok Imagine
+
+#### 📝 Prompt
+
+```
+ใช้เฟรมหนึ่งจากภาพแบบตาราง 6x6 เป็นเฟรมเริ่มต้น โดยอ้างอิงตามลำดับจากซ้ายบนไปขวาล่าง เพื่อสร้างวิดีโอตัวละครอนิเมะเต้นรำที่ลื่นไหล ห้ามรวมภาพตารางกริดไว้ในวิดีโอที่สร้างขึ้น ให้แสดงฉากที่มีตัวละครเดียวกำลังเต้นรำ
+```
+
+<img src="https://cms-assets.youmind.com/media/1790582287198_1nfbdj_HTOeO6AbQAAAA0Y.jpg" width="600" alt="Grok Imagine: เปลี่ยนภาพตารางกริดเป็นวิดีโอเต้นรำ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11503)**
+
+**Author:** [いにしえ@高信頼AIニュース"NeuralWire.org"運営｜Will Oldgram](https://x.com/old_pgmrs_will) | **Source:** [Link](https://x.com/old_pgmrs_will/status/2104200039627399637) | **Published:** Sep 27, 2026
+
+---
 ### พรอมต์เต้นรำใต้แสงจันทร์
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2120,25 +2139,6 @@ King Diamond ที่ Wisdom Tree บน Hollywood Hill ตอนเที่�
 **Author:** [John Francavillo](https://x.com/Francavil42824J) | **Source:** [Link](https://x.com/Francavil42824J/status/2099197855227334759) | **Published:** Sep 13, 2026
 
 ---
-### การทดสอบการหักเหของแสงผ่านแก้ว
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ทางเทคนิคสำหรับทดสอบการหักเหของแสงผ่านแก้วที่ซับซ้อนและปรากฏการณ์คาอุสติก (Caustics)
-
-#### 📝 Prompt
-
-```
-ลูกแก้วคริสตัลใสทรงกลมบรรจุด้วยน้ำมันสีรุ้งที่หมุนวน ลอยอยู่ภายในตู้ปลากระจก แสงอาทิตย์ส่องผ่านทั้งสองชั้น สร้างรูปแบบแสงคาอุสติกที่มีสีสันและซับซ้อนบนเคาน์เตอร์หินอ่อนสีเข้ม ถ่ายภาพมาโคร พร้อมการจำลองแสงแบบ Ray-traced
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099107970668015616/img/j7SQlIYHEJ894W3R.jpg" width="600" alt="การทดสอบการหักเหของแสงผ่านแก้ว">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10818)**
-
-**Author:** [Grok Builder](https://x.com/grok_builder) | **Source:** [Link](https://x.com/grok_builder/status/2099107995028201539) | **Published:** Sep 13, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2200,6 +2200,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-28T05:09:21.891Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-28T16:54:23.802Z</sub>
 
 </div>
