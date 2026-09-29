@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2913** |
+| 📝 提示词总数 | **2925** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-09-29** |
 
@@ -189,6 +189,226 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### Cartman Spaceship Chaos
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A South Park themed video prompt where Eric Cartman punches an alien, takes over the spaceship, and shakes it upside down while friends react.
+
+#### 📝 提示词
+
+```
+Eric Cartman punches the alien off the chair, Eric cartman hops in, Eric Cartman turns the spaceship upside down and shakes it (kyle butters and co reaction) (Censored language)
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104777268916596736/img/8xF1lMD2j_VVG9uC.jpg" width="600" alt="Cartman Spaceship Chaos">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11598)**
+
+**作者:** [L Bergeron](https://x.com/LBergeron335488) | **来源:** [Link](https://x.com/LBergeron335488/status/2104777310855717350) | **发布时间:** Sep 29, 2026
+
+---
+### Meta Muse vs Grok Bot 对决
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 生成一段视频的提示词：两个角色 Meta Muse 和 Grok Bot 进行生死决斗，最终由 Grok Bot 获胜。
+
+#### 📝 提示词
+
+```
+这些图片展示了两个角色：Meta Muse 和 Grok Bot。请制作一段视频，表现他们之间的生死决斗，并确保 Grok Bot 获得胜利。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104748989379706880/img/r6qunRD83AWl6E47.jpg" width="600" alt="Meta Muse vs Grok Bot 对决">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11592)**
+
+**作者:** [Josh](https://x.com/JoshB6066) | **来源:** [Link](https://x.com/JoshB6066/status/2104749074033549525) | **发布时间:** Sep 29, 2026
+
+---
+### 马 vs 驴拳击对决
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段幽默的视频提示词，展示了一只戴着拳击手套的马与一只正在做后踢动作的驴进行对决。
+
+#### 📝 提示词
+
+```
+戴拳击手套的马，正在击打准备做后踢的驴，它们都是职业格斗选手
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104744463231049728/img/Me4AWFezfKefRCeK.jpg" width="600" alt="马 vs 驴拳击对决">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11597)**
+
+**作者:** [George Ohan](https://x.com/Fresno_Famous) | **来源:** [Link](https://x.com/Fresno_Famous/status/2104744483229503798) | **发布时间:** Sep 29, 2026
+
+---
+### 狼群中的羊羔视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个视频提示词，描绘圣经中关于“灵巧像蛇、驯良像鸽子”的引言，结尾以“坐下！”指令和一只鸽子收尾。
+
+#### 📝 提示词
+
+```
+是的，我想要结尾是“坐下！”/ 鸽子的版本。
+
+“我差你们去，如同羊进入狼群；所以你们要灵巧像蛇，驯良像鸽子。”（马太福音 10:16，ESV）
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104700303127756800/img/uCv7yIWDfrcSAYL8.jpg" width="600" alt="狼群中的羊羔视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11599)**
+
+**作者:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **来源:** [Link](https://x.com/Soaring2TheMoon/status/2104700486503002354) | **发布时间:** Sep 28, 2026
+
+---
+### 鸡群啄食面包虫视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 生成一段视频，画面中鸡群四处奔跑，啄食面包虫和种子，并发出“我的”叫声。
+
+#### 📝 提示词
+
+```
+鸡群四处奔跑，啄食面包虫和种子，嘴里叫着“我的，我的，我的！”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104682448260829184/img/Eo2OFoBtdR0Wht0H.jpg" width="600" alt="鸡群啄食面包虫视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11600)**
+
+**作者:** [Cathleen Pollard](https://x.com/SkylarknTexas) | **来源:** [Link](https://x.com/SkylarknTexas/status/2104682486529655001) | **发布时间:** Sep 28, 2026
+
+---
+### Grok Imagine 提示词：诡异的塔可音乐盒
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个创意提示词，描述了一个诡异的墨西哥发条音乐盒，里面有一个旋转的塔可正在播放《Y.M.C.A.》。
+
+#### 📝 提示词
+
+```
+一个诡异的墨西哥发条音乐盒，里面有一个旋转的塔可。它正在播放 Village People 乐队《Y.M.C.A.》的诡异版本，且音乐即将停止。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104655456853491712/img/DB4dBxFY_Q_GTd0f.jpg" width="600" alt="Grok Imagine 提示词：诡异的塔可音乐盒">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11595)**
+
+**作者:** [The Salty Doc](https://x.com/saltydocEM) | **来源:** [Link](https://x.com/saltydocEM/status/2104655952754700704) | **发布时间:** Sep 28, 2026
+
+---
+### 建设性批评引言视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于生成视频的提示词，旨在可视化展现来自关心你的人的建设性批评这一概念。
+
+#### 📝 提示词
+
+```
+建设性批评是一件好事，但它只来自那些真正关心你所做之事的人。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104639268572303360/img/u8DKYjb5OLZqieQj.jpg" width="600" alt="建设性批评引言视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11596)**
+
+**作者:** [Josefina Monasterio](https://x.com/JosefinaMonas) | **来源:** [Link](https://x.com/JosefinaMonas/status/2104639283537838214) | **发布时间:** Sep 28, 2026
+
+---
+### Cybertruck 喝茶第一人称视角
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于生成在沙漠中乘坐 Cybertruck 时喝茶的第一人称视角视频的提示词。
+
+#### 📝 提示词
+
+```
+创建一个 9:16 比例、时长 38 秒的视频，展示某人以第一人称视角喝茶的画面，背景为 Cybertruck 在亚利桑那州凤凰城的沙漠中以 FSD 风格行驶。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104610130050326528/img/N1YkM6wT3yYJwKKl.jpg" width="600" alt="Cybertruck 喝茶第一人称视角">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11594)**
+
+**作者:** [kyle smith](https://x.com/RadCyberTruck) | **来源:** [Link](https://x.com/RadCyberTruck/status/2104610282290950486) | **发布时间:** Sep 28, 2026
+
+---
+### 墨海孤狼视频生成
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一段详细的叙事提示词，用于生成包含墨海、书法、冰山以及白狼破冰而出场景的视频，灵感源自 Grok Imagine。
+
+#### 📝 提示词
+
+```
+墨海翻涌。当宁宁挥动画笔，所触之峰皆化为冰雪。北斗遥远，天宫更在九霄之外。一只白狼自冰层深处升起，仰天长啸。《蜉蝣世界》终章。众生迷失，唯有一人留于此境。是放下画笔，还是与狼相伴？
+
+墨迹未干。
+唯有笔锋所至，方成寒冰。
+
+北斗渺小。
+狼从山巅现身，而非纸页之间。
+
+放下画笔？
+还是与狼同守此境？
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104584753777369089/img/puVcTmRUqW5_fY_i.jpg" width="600" alt="墨海孤狼视频生成">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11602)**
+
+**作者:** [Peter Lam](https://x.com/PeterPanLam1990) | **来源:** [Link](https://x.com/PeterPanLam1990/status/2104584960145531203) | **发布时间:** Sep 28, 2026
+
+---
+### Madonna Confessions Tour 舞蹈
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 生成一段 Madonna 身穿粉色蕾丝紧身胸衣舞会礼服进行戏剧性舞蹈的视频提示词。
+
+#### 📝 提示词
+
+```
+Madonna 身穿这件完全相同的粉色蕾丝紧身胸衣舞会礼服、手套、夹克和靴子，开始了一场戏剧性的表演：她以充满力量和戏剧张力的能量摇摆起舞，宛如 Confessions Tour 舞台秀一般，手臂富有表现力地挥动，身体自信地移动
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104356655869595648/img/yvuTJWWI-wUNgOWu.jpg" width="600" alt="Madonna Confessions Tour 舞蹈">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11593)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2104357711433617842) | **发布时间:** Sep 27, 2026
+
+---
+### 蓝色面孔嘻哈节拍动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个详细的提示词，用于在画布上动画化蓝色面孔，使其对接触产生节奏感嘻哈动作的反应。
+
+#### 📝 提示词
+
+```
+保持艺术风格和周围环境的一致性。蓝色面孔轻微地笑。每当一个蓝色组件接触到另一个时，面孔的运动停止并返回到画布上的原始位置。运动模仿嘻哈节拍的节奏。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104332272841416704/img/iENx14ho4aHR1TaG.jpg" width="600" alt="蓝色面孔嘻哈节拍动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11591)**
+
+**作者:** [FUNTIFFX](https://x.com/AbstractTiffany) | **来源:** [Link](https://x.com/AbstractTiffany/status/2104332286183502251) | **发布时间:** Sep 27, 2026
+
+---
 ### Grok Imagine 网格图像转舞蹈视频
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -1057,6 +1277,25 @@ AI 视频 — 9:16 电影感
 **作者:** [Mark Tatum](https://x.com/Mark561256) | **来源:** [Link](https://x.com/Mark561256/status/2102207269186224577) | **发布时间:** Sep 22, 2026
 
 ---
+### Grok Imagine 的结构化 JSON 提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个详细的 JSON 格式提示词，指定了镜头、运动级别和场景环境，用于在 Grok Imagine 中生成视频。
+
+#### 📝 提示词
+
+```
+{"shot": {"motion_level": "low", "camera_depth": "medium shot", "camera_view": "eye level", "camera_movement": "static shot"}, "scene": {"location": "indoor room", "environment": "The background consists of a light-colored, textured wall. The lighting is soft and diffused, creating a calm atmosphere. A person stands in the center, wearing casual clothing, looking directly at the camera with a neutral expression."}}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102201238590996480/img/N5YgZxdCq4ruRib6.jpg" width="600" alt="Grok Imagine 的结构化 JSON 提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11601)**
+
+**作者:** [プリン](https://x.com/0008_pudding) | **来源:** [Link](https://x.com/0008_pudding/status/2102201253715644511) | **发布时间:** Sep 22, 2026
+
+---
 ### 小猫与金鱼天空
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1910,235 +2149,6 @@ Bud Light 与 Kid Rock 合作的那个扔罐子的经典镜头，但换成 Tilla
 **作者:** [Jarosław Justka](https://x.com/jaras70berlin) | **来源:** [Link](https://x.com/jaras70berlin/status/2099914455878410600) | **发布时间:** Sep 15, 2026
 
 ---
-### 复古未来主义动漫剪影
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 适用于 Grok Imagine 的视频提示词，展示一个在悬崖和太空背景下摆出动态姿势的剪影人物，采用复古未来主义动漫风格。
-
-#### 📝 提示词
-
-```
-在悬崖和星空背景下，以复古未来主义动漫风格呈现的动态姿势剪影人物。
-坚持前行，永不放弃！
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099754085402525696/img/urpa5-llForPE8BF.jpg" width="600" alt="复古未来主义动漫剪影">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10896)**
-
-**作者:** [Marie](https://x.com/Marie8508319540) | **来源:** [Link](https://x.com/Marie8508319540/status/2099754137541808172) | **发布时间:** Sep 15, 2026
-
----
-### K-Pop 舞台表演场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个复杂的角色与场景生成提示词，描绘两位中年男子身着俗艳的 K-Pop 西装，在舞台上与粉丝合影。
-
-#### 📝 提示词
-
-```
-两位中年男子（50 岁出头，一位极度消瘦且秃顶，另一位身材发福并留着一头金发）。他们身穿 K-Pop 风格的服装（俗艳华丽的西装），上方有字母：OSNTA，营造出我们在舞台上摆姿势的效果，台下观众席坐满了粉丝……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099686040017522688/img/lxZuPtCSnurBrWyN.jpg" width="600" alt="K-Pop 舞台表演场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10897)**
-
-**作者:** [Paul Cannon](https://x.com/ExoticShrubs) | **来源:** [Link](https://x.com/ExoticShrubs/status/2099686059764301918) | **发布时间:** Sep 15, 2026
-
----
-### REO S4C 模型提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 使用轮廓图创建 REO S4C 车辆模型的提示词，并支持 360 度旋转展示。
-
-#### 📝 提示词
-
-```
-利用这些轮廓图制作 REO S4C 的模型，并进行 360 度旋转以推测车辆后部外观
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099678227392282624/img/FCluYRXr2Lz3LO7S.jpg" width="600" alt="REO S4C 模型提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10895)**
-
-**作者:** [Raymond Love](https://x.com/LoveRaym67) | **来源:** [Link](https://x.com/LoveRaym67/status/2099678254902747254) | **发布时间:** Sep 15, 2026
-
----
-### 多米诺骨牌效应视频提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用于生成展示连锁多米诺骨牌效应的视频提示词。
-
-#### 📝 提示词
-
-```
-多米诺骨牌排成一列长队，推倒第一块后引发连锁反应，骨牌依次倒下
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099638454631993345/img/Pb_7NipDBN46oPPX.jpg" width="600" alt="多米诺骨牌效应视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10898)**
-
-**作者:** [Han Vu](https://x.com/HanVu195089) | **来源:** [Link](https://x.com/HanVu195089/status/2099638467852439632) | **发布时间:** Sep 14, 2026
-
----
-### 女子与龙森林场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段描述性视频提示词，展示了一位身穿绿色长裙的女子在森林中行走，身旁有一条龙。
-
-#### 📝 提示词
-
-```
-一位女子身着绿色长裙，背对镜头沿着林间小径缓缓走远。裙摆后方呈 V 字形设计，展现出她背部上方三分之二的线条。一条与森林环境完美融合的伪装巨龙，在她经过时轻轻洒下金色尘埃。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099481378844995584/img/NgCsxC2iUWKO2JWq.jpg" width="600" alt="女子与龙森林场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10899)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2099481444552950135) | **发布时间:** Sep 14, 2026
-
----
-### 战士音效视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 使用 Grok Imagine 生成音效的工作流描述，包含一个具体的示例提示词。
-
-#### 📝 提示词
-
-```
-一名战士用他的双手大剑敲击板甲三次，无背景噪音，无环境音…
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099437083886792704/img/B1O0nica71UJy-Lb.jpg" width="600" alt="战士音效视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10900)**
-
-**作者:** [Graalito](https://x.com/Graalitoo) | **来源:** [Link](https://x.com/Graalitoo/status/2099437178527027523) | **发布时间:** Sep 14, 2026
-
----
-### 哥特风连衣裙年轻女性
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个详细的视觉提示，描述了一位穿着精致哥特服饰、红眼睛并佩戴蝴蝶结的年轻女性。
-
-#### 📝 提示词
-
-```
-一位留着飘逸长黑发的年轻女性，头戴大红色蝴蝶结，身穿精致的黑红相间哥特式连衣裙，配有泡泡袖、系带紧身胸衣和荷叶边裙摆。她面带温柔微笑，拥有红色的眼睛和白皙的皮肤，双手...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099327401968746498/img/3ElApaFVwRjLiQd2.jpg" width="600" alt="哥特风连衣裙年轻女性">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10812)**
-
-**作者:** [John Francavillo](https://x.com/Francavil42824J) | **来源:** [Link](https://x.com/Francavil42824J/status/2099327424630513961) | **发布时间:** Sep 14, 2026
-
----
-### 电影感黑白女性视频提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用于生成城市夜景中年轻女性的电影感黑白视频提示词，包含动态模糊效果。
-
-#### 📝 提示词
-
-```
-一段电影感的黑白视频，展示了一位在夜晚城市中的年轻女性，采用长曝光拍摄并刻意营造动态模糊效果。她位于前景，略微偏离中心，在运动过程中转头，使长发掠过画面……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099280377559080960/img/W0AxOb_aVlOH9frT.jpg" width="600" alt="电影感黑白女性视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10977)**
-
-**作者:** [Sadie 🕊🖼️](https://x.com/poetrynthings) | **来源:** [Link](https://x.com/poetrynthings/status/2099280396932308994) | **发布时间:** Sep 13, 2026
-
----
-### Grok Imagine 提示词：傲娇猫咪性格
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用于 Grok Imagine 视频生成的提示词，描绘一只看似挑剔实则充满爱意且令人振奋的猫咪。
-
-#### 📝 提示词
-
-```
-一只乍看之下似乎有些挑剔的猫咪，实则对你怀有深深的爱意，总是用其异想天开且幽默风趣的鼓励来提振你的精神。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099236716133683200/img/Z7aZPUKt4gFMf-HD.jpg" width="600" alt="Grok Imagine 提示词：傲娇猫咪性格">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10813)**
-
-**作者:** [Jeffery Bruyere](https://x.com/Blueguyflies) | **来源:** [Link](https://x.com/Blueguyflies/status/2099236802871877981) | **发布时间:** Sep 13, 2026
-
----
-### 水下珊瑚礁中的美人鱼
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于生成海盗黄金时代背景下，美人鱼在生机勃勃的珊瑚礁中休憩的电影感奇幻视频提示词。
-
-#### 📝 提示词
-
-```
-一幅令人叹为观止的电影感奇幻场景，背景设定在海盗的黄金时代。在清澈见底的海面之下，一位拥有飘逸长发和优雅闪烁鱼尾的美人鱼，正栖息于色彩斑斓的水下珊瑚礁之中，周围环绕着……
-```
-
-<img src="https://cms-assets.youmind.com/media/1789390476490_zi9jh7_HSHyfnObEAAPniU.jpg" width="600" alt="水下珊瑚礁中的美人鱼">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10820)**
-
-**作者:** [Jorge](https://x.com/JorgeGeminiOR) | **来源:** [Link](https://x.com/JorgeGeminiOR/status/2099225530939711721) | **发布时间:** Sep 13, 2026
-
----
-### Falcon 9 发射人群反应提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 描述 Falcon 9 火箭发射期间人群情绪反应的提示词，适用于视频生成。
-
-#### 📝 提示词
-
-```
-Falcon 9 发射期间的集体狂喜：当震耳欲聋的轰鸣声最终席卷人群时，紧张感瞬间转化为纯粹的肾上腺素飙升。人们疯狂欢呼、兴奋地尖叫，有些人甚至激动得热泪盈眶。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099220646266114048/img/B3hU8bDkDoWOgZGa.jpg" width="600" alt="Falcon 9 发射人群反应提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10814)**
-
-**作者:** [Marie](https://x.com/Marie8508319540) | **来源:** [Link](https://x.com/Marie8508319540/status/2099220675223232866) | **发布时间:** Sep 13, 2026
-
----
-### Grok Imagine 提示词：女子变身战士公主
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用于 Grok Imagine 视频生成的提示词，展示一名年轻女子沿路行走，随后转身变身为战士公主。
-
-#### 📝 提示词
-
-```
-一名年轻女子沿着小路前行，她转过身来，瞬间化身为战士公主……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099197834855653377/img/07VTigKKGdxzujtB.jpg" width="600" alt="Grok Imagine 提示词：女子变身战士公主">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10815)**
-
-**作者:** [John Francavillo](https://x.com/Francavil42824J) | **来源:** [Link](https://x.com/Francavil42824J/status/2099197855227334759) | **发布时间:** Sep 13, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2200,6 +2210,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-09-29T00:33:44.888Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-09-29T10:53:29.280Z</sub>
 
 </div>

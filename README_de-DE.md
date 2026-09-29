@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2913** |
+| 📝 Total Prompts | **2925** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-29** |
 
@@ -189,6 +189,226 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Cartman Weltraum-Chaos
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Prompt im South Park-Stil, in dem Eric Cartman einen Alien schlägt, das Raumschiff übernimmt und es kopfüber schüttelt, während seine Freunde reagieren.
+
+#### 📝 Prompt
+
+```
+Eric Cartman schlägt den Alien vom Stuhl, Eric Cartman springt hinein, Eric Cartman dreht das Raumschiff auf den Kopf und schüttelt es (Reaktionen von Kyle, Butters und Co.) (Zensierte Sprache)
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104777268916596736/img/8xF1lMD2j_VVG9uC.jpg" width="600" alt="Cartman Weltraum-Chaos">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11598)**
+
+**Author:** [L Bergeron](https://x.com/LBergeron335488) | **Source:** [Link](https://x.com/LBergeron335488/status/2104777310855717350) | **Published:** Sep 29, 2026
+
+---
+### Meta Muse vs. Grok Bot: Der Kampf
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Erstellung eines Videos, in dem die beiden Charaktere Meta Muse und Grok Bot auf Leben und Tod kämpfen, wobei Grok Bot als Sieger hervorgeht.
+
+#### 📝 Prompt
+
+```
+Diese Bilder zeigen die beiden Charaktere Meta Muse und Grok Bot. Erstelle ein Video, in dem sie auf Leben und Tod kämpfen und Grok Bot gewinnt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104748989379706880/img/r6qunRD83AWl6E47.jpg" width="600" alt="Meta Muse vs. Grok Bot: Der Kampf">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11592)**
+
+**Author:** [Josh](https://x.com/JoshB6066) | **Source:** [Link](https://x.com/JoshB6066/status/2104749074033549525) | **Published:** Sep 29, 2026
+
+---
+### Boxen: Pferd gegen Esel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein humorvolles Video-Prompt, das ein Pferd mit Boxhandschuhen zeigt, das gegen einen Esel kämpft, der Rücktritte ausführt.
+
+#### 📝 Prompt
+
+```
+Pferd mit Boxhandschuhen schlägt auf einen Esel ein, der gleich Rücktritte ausführen wird; beide sind professionelle Kämpfer.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104744463231049728/img/Me4AWFezfKefRCeK.jpg" width="600" alt="Boxen: Pferd gegen Esel">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11597)**
+
+**Author:** [George Ohan](https://x.com/Fresno_Famous) | **Source:** [Link](https://x.com/Fresno_Famous/status/2104744483229503798) | **Published:** Sep 29, 2026
+
+---
+### Schafe unter Wölfen Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt für ein Video, das das biblische Zitat über Klugheit wie Schlangen und Harmlosigkeit wie Tauben darstellt und mit dem Befehl „Sitz!“ sowie einer Taube endet.
+
+#### 📝 Prompt
+
+```
+Ja, ich möchte die „Sitz!“-/Tauben-Version am Ende.
+
+„Siehe, ich sende euch wie Schafe mitten unter die Wölfe; darum seid klug wie die Schlangen und ohne Falsch wie die Tauben“ (Matthäus 10:16, ELB).
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104700303127756800/img/uCv7yIWDfrcSAYL8.jpg" width="600" alt="Schafe unter Wölfen Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11599)**
+
+**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2104700486503002354) | **Published:** Sep 28, 2026
+
+---
+### Video von Hühnern, die Mehlwürmer scharren
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Erstellung eines Videos von Hühnern, die umherlaufen und Mehlwürmer sowie Samen scharren, während sie „Meins“ rufen.
+
+#### 📝 Prompt
+
+```
+Hühner laufen umher und scharren nach den Mehlwürmern und dem Samen, wobei sie „Meins, meins, meins!“ rufen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104682448260829184/img/Eo2OFoBtdR0Wht0H.jpg" width="600" alt="Video von Hühnern, die Mehlwürmer scharren">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11600)**
+
+**Author:** [Cathleen Pollard](https://x.com/SkylarknTexas) | **Source:** [Link](https://x.com/SkylarknTexas/status/2104682486529655001) | **Published:** Sep 28, 2026
+
+---
+### Grok Imagine Prompt: Gruselige Taco-Musikdose
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein kreativer Prompt für eine gruselige mexikanische Spieluhr mit einem sich drehenden Taco, der „Y.M.C.A.“ spielt.
+
+#### 📝 Prompt
+
+```
+Eine gruselige mexikanische Spieluhr mit einem sich drehenden Taco. Sie spielt eine unheimliche Version von „Y.M.C.A.“ der Village People, die langsam zum Stillstand kommt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104655456853491712/img/DB4dBxFY_Q_GTd0f.jpg" width="600" alt="Grok Imagine Prompt: Gruselige Taco-Musikdose">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11595)**
+
+**Author:** [The Salty Doc](https://x.com/saltydocEM) | **Source:** [Link](https://x.com/saltydocEM/status/2104655952754700704) | **Published:** Sep 28, 2026
+
+---
+### Konstruktive Kritik Zitat Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Generierung eines Videos, das das Konzept von konstruktiver Kritik durch fürsorgliche Menschen visualisiert.
+
+#### 📝 Prompt
+
+```
+Konstruktive Kritik kann eine gute Sache sein, aber sie kommt nur von Menschen, die sich aufrichtig für das interessieren, was du tust.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104639268572303360/img/u8DKYjb5OLZqieQj.jpg" width="600" alt="Konstruktive Kritik Zitat Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11596)**
+
+**Author:** [Josefina Monasterio](https://x.com/JosefinaMonas) | **Source:** [Link](https://x.com/JosefinaMonas/status/2104639283537838214) | **Published:** Sep 28, 2026
+
+---
+### Cybertruck Tee-Genuss aus der Ich-Perspektive
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt für ein Video aus der Ich-Perspektive, das das Trinken von Tee während einer Fahrt im Cybertruck durch die Wüste zeigt.
+
+#### 📝 Prompt
+
+```
+Erstelle ein 9:16 Video mit einer Länge von 38 Sekunden, das eine Person beim Teetrinken aus der Ich-Perspektive zeigt. Der Cybertruck fährt im FSD-Stil durch die Wüste von Phoenix, Arizona.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104610130050326528/img/N1YkM6wT3yYJwKKl.jpg" width="600" alt="Cybertruck Tee-Genuss aus der Ich-Perspektive">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11594)**
+
+**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2104610282290950486) | **Published:** Sep 28, 2026
+
+---
+### Tintenmeer und Wolf Video-Generierung
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein detailliertes narratives Prompt für die Generierung eines Videos mit Tintenmeeren, Kalligrafie, Eisbergen und einem weißen Wolf, der aus dem Eis auftaucht, zugeschrieben Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Meer aus Tinte. Wenn Ningning ihren Pinsel führt, verwandeln sich die Gipfel, die sie berührt, in Eis und Schnee. Der Große Bären ist weit entfernt, und der Himmlische Palast liegt noch weiter weg. Ein weißer Wolf erhebt sich aus dem Eis und heult. Das Ende von 'Mayfly World'. Die Menschen sind verloren. Einer bleibt im Reich. Den Pinsel niederlegen oder beim Wolf bleiben?
+
+Die Tinte ist noch nicht trocken.
+Nur dort, wo der Pinsel hinlangt, wird es zu Eis.
+
+Der Große Bären ist klein.
+Der Wolf steigt aus dem Gipfel auf, nicht vom Blatt.
+
+Den Pinsel niederlegen?
+Beim Wolf und im Reich bleiben?
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104584753777369089/img/puVcTmRUqW5_fY_i.jpg" width="600" alt="Tintenmeer und Wolf Video-Generierung">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11602)**
+
+**Author:** [Peter Lam](https://x.com/PeterPanLam1990) | **Source:** [Link](https://x.com/PeterPanLam1990/status/2104584960145531203) | **Published:** Sep 28, 2026
+
+---
+### Madonna Confessions Tour Tanz
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Generierung eines Videos, in dem Madonna einen dramatischen Tanz in einem rosa Spitzen-Korsett-Ballkleid aufführt.
+
+#### 📝 Prompt
+
+```
+Madonna trägt genau dieses rosa Spitzen-Korsett-Ballkleid mit Handschuhen, Jacke und Stiefeln und beginnt eine dramatische Darbietung: Sie wiegt sich und tanzt mit kraftvoller, theatralischer Energie wie bei einer Bühnenshow der Confessions Tour, ihre Arme gestikulieren ausdrucksstark, ihr Körper bewegt sich selbstbewusst.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104356655869595648/img/yvuTJWWI-wUNgOWu.jpg" width="600" alt="Madonna Confessions Tour Tanz">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11593)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2104357711433617842) | **Published:** Sep 27, 2026
+
+---
+### Hip-Hop-Beat-Animation mit blauen Gesichtern
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Prompt für die Animation blauer Gesichter auf einer Leinwand, die rhythmisch auf Hip-Hop-Bewegungen reagieren.
+
+#### 📝 Prompt
+
+```
+Behalte alle Ähnlichkeiten der Kunst und der Umgebung bei. Die blauen Gesichter lächeln leicht. Die Bewegung der Gesichter stoppt und kehrt jedes Mal zur ursprünglichen Position auf der Leinwand zurück, wenn eine blaue Komponente eine andere berührt. Die Bewegungen imitieren das Tempo eines Hip-Hop-Beats.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104332272841416704/img/iENx14ho4aHR1TaG.jpg" width="600" alt="Hip-Hop-Beat-Animation mit blauen Gesichtern">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11591)**
+
+**Author:** [FUNTIFFX](https://x.com/AbstractTiffany) | **Source:** [Link](https://x.com/AbstractTiffany/status/2104332286183502251) | **Published:** Sep 27, 2026
+
+---
 ### Grok Imagine Rasterbild-zu-Tanzvideo
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -1057,6 +1277,25 @@ Lass einen riesigen Grok seinen Kopf durch die Wolken stecken und sagen: „Lass
 **Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2102207269186224577) | **Published:** Sep 22, 2026
 
 ---
+### Strukturierter JSON-Prompt für Grok Imagine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Prompt im JSON-Format, der Kameraperspektiven, Bewegungsstufen und die Szenenumgebung für die Videoerstellung mit Grok Imagine spezifiziert.
+
+#### 📝 Prompt
+
+```
+{"shot": {"motion_level": "low", "camera_depth": "medium shot", "camera_view": "eye level", "camera_movement": "static shot"}, "scene": {"location": "indoor room", "environment": "The background consists of a light-colored, textured wall. The lighting is soft and diffused, creating a calm atmosphere. A person stands in the center, wearing casual clothing, looking directly at the camera with a neutral expression."}}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102201238590996480/img/N5YgZxdCq4ruRib6.jpg" width="600" alt="Strukturierter JSON-Prompt für Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11601)**
+
+**Author:** [プリン](https://x.com/0008_pudding) | **Source:** [Link](https://x.com/0008_pudding/status/2102201253715644511) | **Published:** Sep 22, 2026
+
+---
 ### Kätzchen und Goldfische am Himmel
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1910,235 +2149,6 @@ Ich bin im Büro. Ich setze mich an meinen Schreibtisch. An der Wand hängt ein 
 **Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2099914455878410600) | **Published:** Sep 15, 2026
 
 ---
-### Retro-Futurismus Anime Silhouette
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Prompt für Grok Imagine mit einer silhouettenhaften Figur in dynamischer Pose vor Klippen und dem Weltraum, im Stil von Retro-Futurismus-Anime.
-
-#### 📝 Prompt
-
-```
-Eine Silhouette einer Figur in dynamischer Pose vor Klippen und einem sternenübersäten Weltraum im Retro-Futurismus-Anime-Stil.
-Weitermachen, niemals aufgeben!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099754085402525696/img/urpa5-llForPE8BF.jpg" width="600" alt="Retro-Futurismus Anime Silhouette">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10896)**
-
-**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2099754137541808172) | **Published:** Sep 15, 2026
-
----
-### K-Pop Bühnenauftritt-Szene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein komplexer Prompt zur Charakter- und Szenengenerierung, der zwei mittelalte Männer in kitschigen K-Pop-Anzügen zeigt, die auf einer Bühne mit Fans posieren.
-
-#### 📝 Prompt
-
-```
-Zwei mittelalte Männer (Anfang 50, einer extrem dünn und glatzköpfig, der andere mit Dad-Bod-Figur und blondem Haar). Gekleidet in K-Pop-Outfits (kitschige, schicke Anzüge), über ihnen die Buchstaben: OSNTA. Die Szene soll so wirken, als würden wir auf einer Bühne vor vielen Fans im Publikum posieren....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099686040017522688/img/lxZuPtCSnurBrWyN.jpg" width="600" alt="K-Pop Bühnenauftritt-Szene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10897)**
-
-**Author:** [Paul Cannon](https://x.com/ExoticShrubs) | **Source:** [Link](https://x.com/ExoticShrubs/status/2099686059764301918) | **Published:** Sep 15, 2026
-
----
-### REO S4C Mockup-Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Erstellung eines Mockups des REO S4C-Fahrzeugs unter Verwendung von Silhouetten und einer 360-Grad-Drehung.
-
-#### 📝 Prompt
-
-```
-Erstelle ein Mockup des REO S4C anhand dieser Silhouetten und drehe es um 360 Grad, um einen Eindruck vom Heck des Fahrzeugs zu erhalten.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099678227392282624/img/FCluYRXr2Lz3LO7S.jpg" width="600" alt="REO S4C Mockup-Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10895)**
-
-**Author:** [Raymond Love](https://x.com/LoveRaym67) | **Source:** [Link](https://x.com/LoveRaym67/status/2099678254902747254) | **Published:** Sep 15, 2026
-
----
-### Domino-Effekt-Video-Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Generierung eines Videos, das einen kaskadierenden Domino-Effekt zeigt.
-
-#### 📝 Prompt
-
-```
-Dominosteine sind aufgestellt und in einer langen Einzelreihe angeordnet. Einer wird angestoßen, was zu einem kaskadierenden Domino-Effekt führt, bei dem die Steine nacheinander umfallen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099638454631993345/img/Pb_7NipDBN46oPPX.jpg" width="600" alt="Domino-Effekt-Video-Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10898)**
-
-**Author:** [Han Vu](https://x.com/HanVu195089) | **Source:** [Link](https://x.com/HanVu195089/status/2099638467852439632) | **Published:** Sep 14, 2026
-
----
-### Frau, Drache und Waldszene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein beschreibender Video-Prompt mit einer Frau in einem grünen Kleid, die durch einen Wald geht, in dem sich ein Drache befindet.
-
-#### 📝 Prompt
-
-```
-Eine Frau geht im Rückenansicht weg. Sie trägt ein grünes Kleid, dessen Farbe an den Wald angepasst ist. Der Rücken des Kleides ist V-förmig geschnitten und zeigt die oberen zwei Drittel ihres Rückens, während sie den Waldpfad entlanggeht. Ein Drache, der so getarnt ist, dass er sich in den Wald einfügt, streut goldenen Staub über die Frau, als sie am Drachen vorbeigeht.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099481378844995584/img/NgCsxC2iUWKO2JWq.jpg" width="600" alt="Frau, Drache und Waldszene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10899)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2099481444552950135) | **Published:** Sep 14, 2026
-
----
-### Krieger-Soundeffekt-Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine Workflow-Beschreibung zur Erstellung von Soundeffekten mit Grok Imagine, einschließlich eines konkreten Beispiel-Prompts.
-
-#### 📝 Prompt
-
-```
-Ein Krieger schlägt dreimal mit seinem Claymore auf Plattenpanzer, ohne Hintergrundgeräusche, ohne Atmosphäre…
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099437083886792704/img/B1O0nica71UJy-Lb.jpg" width="600" alt="Krieger-Soundeffekt-Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10900)**
-
-**Author:** [Graalito](https://x.com/Graalitoo) | **Source:** [Link](https://x.com/Graalitoo/status/2099437178527027523) | **Published:** Sep 14, 2026
-
----
-### Gothisches Kleid Junge Frau
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter visueller Prompt, der eine junge Frau in aufwendiger gotischer Kleidung mit roten Augen und einer Schleife beschreibt.
-
-#### 📝 Prompt
-
-```
-Eine junge Frau mit langem, fließendem schwarzem Haar, geschmückt mit einer großen roten Schleife, trägt ein aufwendiges schwarz-rotes gotisches Kleid mit Puffärmeln, einem Schnürkorsett und einem gerüschten Rock. Sie hat ein sanftes Lächeln, rote Augen und helle Haut, steht mit den Händen...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099327401968746498/img/3ElApaFVwRjLiQd2.jpg" width="600" alt="Gothisches Kleid Junge Frau">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10812)**
-
-**Author:** [John Francavillo](https://x.com/Francavil42824J) | **Source:** [Link](https://x.com/Francavil42824J/status/2099327424630513961) | **Published:** Sep 14, 2026
-
----
-### Cineastischer Schwarz-Weiß-Frauen-Video-Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt für ein cineastisches Schwarz-Weiß-Video einer jungen Frau in der Stadt mit Bewegungsunschärfe-Effekten.
-
-#### 📝 Prompt
-
-```
-Ein cineastisches Schwarz-Weiß-Video einer jungen Frau nachts in der Stadt, aufgenommen mit Langzeitbelichtung und bewusster Bewegungsunschärfe. Sie befindet sich im Vordergrund, leicht aus der Mitte versetzt, und dreht ihren Kopf mitten in der Bewegung, sodass ihr langes Haar über die...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099280377559080960/img/W0AxOb_aVlOH9frT.jpg" width="600" alt="Cineastischer Schwarz-Weiß-Frauen-Video-Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10977)**
-
-**Author:** [Sadie 🕊🖼️](https://x.com/poetrynthings) | **Source:** [Link](https://x.com/poetrynthings/status/2099280396932308994) | **Published:** Sep 13, 2026
-
----
-### Grok Imagine Prompt: Die urteilende Katzenpersönlichkeit
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für die Grok Imagine Video-Generierung, der eine Katze darstellt, die zwar urteilend wirkt, aber tatsächlich liebevoll und aufmunternd ist.
-
-#### 📝 Prompt
-
-```
-Eine Katze, die auf den ersten Blick vielleicht urteilend wirkt, doch in sich eine tiefe Zuneigung zu dir trägt und deine Stimmung stets mit ihren skurrilen und humorvollen Ermutigungen hebt.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099236716133683200/img/Z7aZPUKt4gFMf-HD.jpg" width="600" alt="Grok Imagine Prompt: Die urteilende Katzenpersönlichkeit">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10813)**
-
-**Author:** [Jeffery Bruyere](https://x.com/Blueguyflies) | **Source:** [Link](https://x.com/Blueguyflies/status/2099236802871877981) | **Published:** Sep 13, 2026
-
----
-### Meerjungfrau im Unterwasser-Korallenriff
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Generierung eines cineastischen Fantasy-Videos einer Meerjungfrau, die inmitten lebendiger Korallenriffe während des goldenen Zeitalters der Piraterie ruht.
-
-#### 📝 Prompt
-
-```
-Eine atemberaubende cineastische Fantasy-Szene, angesiedelt im goldenen Zeitalter der Piraterie. Unter der kristallklaren Wasseroberfläche des Ozeans ruht eine schöne Meerjungfrau mit langem, wallendem Haar und einem elegant schimmernden Schwanz inmitten eines lebendigen Unterwasser-Korallenriffs, umgeben von...
-```
-
-<img src="https://cms-assets.youmind.com/media/1789390476490_zi9jh7_HSHyfnObEAAPniU.jpg" width="600" alt="Meerjungfrau im Unterwasser-Korallenriff">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10820)**
-
-**Author:** [Jorge](https://x.com/JorgeGeminiOR) | **Source:** [Link](https://x.com/JorgeGeminiOR/status/2099225530939711721) | **Published:** Sep 13, 2026
-
----
-### Prompt zur Reaktion der Menge beim Falcon-9-Start
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt, der die emotionale Reaktion einer Menge während eines Falcon-9-Raketenstarts beschreibt und für die Videogenerierung geeignet ist.
-
-#### 📝 Prompt
-
-```
-Die kollektive Euphorie beim Start einer Falcon 9: Als das ohrenbetäubende Dröhnen schließlich über die Menge hinwegfegt, verwandelt sich die Anspannung sofort in reines Adrenalin. Die Menschen jubeln wild, schreien vor Freude und einige weinen Tränen der Rührung.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099220646266114048/img/B3hU8bDkDoWOgZGa.jpg" width="600" alt="Prompt zur Reaktion der Menge beim Falcon-9-Start">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10814)**
-
-**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2099220675223232866) | **Published:** Sep 13, 2026
-
----
-### Grok Imagine Prompt: Frau verwandelt sich in eine Kriegerprinzessin
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für die Grok Imagine Video-Generierung, der eine junge Frau zeigt, die einen Weg entlanggeht, sich umdreht und in eine Kriegerprinzessin verwandelt.
-
-#### 📝 Prompt
-
-```
-Eine junge Frau geht einen Weg entlang, dreht sich um und verwandelt sich in eine Kriegerprinzessin....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099197834855653377/img/07VTigKKGdxzujtB.jpg" width="600" alt="Grok Imagine Prompt: Frau verwandelt sich in eine Kriegerprinzessin">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10815)**
-
-**Author:** [John Francavillo](https://x.com/Francavil42824J) | **Source:** [Link](https://x.com/Francavil42824J/status/2099197855227334759) | **Published:** Sep 13, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2200,6 +2210,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-29T00:33:51.572Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-29T10:53:37.289Z</sub>
 
 </div>
