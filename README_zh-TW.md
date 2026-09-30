@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2925** |
+| 📝 提示詞總數 | **2947** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-09-30** |
 
@@ -189,6 +189,454 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### Grok Imagine 超現實影片提示詞：奶油刀
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 為 Grok Imagine 設計的超現實影片生成提示詞，呈現一把看似奶油的刀子切開看似不鏽鋼的奶油。
+
+#### 📝 提示詞
+
+```
+生成一段影片，內容為 {argument name="object" default="knife"} 切過 {argument name="substance" default="butter"}，但 {argument name="object" default="knife"} 的外觀必須像 {argument name="substance" default="butter"}，而 {argument name="substance" default="butter"} 的外觀必須像 {argument name="material" default="stainless steel"}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105192353795289088/img/BYCkHLtCcrEzSqhH.jpg" width="600" alt="Grok Imagine 超現實影片提示詞：奶油刀">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11667)**
+
+**作者:** [Raymond du Plooy](https://x.com/SoloBucket) | **來源:** [Link](https://x.com/SoloBucket/status/2105192382593425853) | **發布時間:** Sep 30, 2026
+
+---
+### Grok Imagine 影片提示詞：Ducati 騎士第一人稱視角
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 為 Grok Imagine 設計的電影級影片生成提示詞，描述駕駛 Ducati 摩托車衝出黑暗的視角，聚焦於速度感與氛圍營造。
+
+#### 📝 提示詞
+
+```
+衝出陰影 -- 一輛 {argument name="bike" default="DUCATI"} 從黑暗中疾馳而出 --
+引擎聲浪漸弱 -- 風呼嘯而過 -- 我們就是那位騎士 --
+全身黑衣 -- 融入夜色 -- 時速一百英里飛奔 --
+在荒涼街道上穿梭於零散車輛之間
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105180527225614336/img/mJM53Ic2IpKBFRlp.jpg" width="600" alt="Grok Imagine 影片提示詞：Ducati 騎士第一人稱視角">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11668)**
+
+**作者:** [davidsteenhoek](https://x.com/DavidSteenhoek) | **來源:** [Link](https://x.com/DavidSteenhoek/status/2105180560910131431) | **發布時間:** Sep 30, 2026
+
+---
+### Lacoste Polo Still Life Product Shot
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Video generation prompt for a luxury fashion still life of a Lacoste polo shirt on white sheets.
+
+#### 📝 提示詞
+
+```
+A tight blue-and-white striped Lacoste polo shirt laid flat as a luxury fashion still life on white sheets, sharp product photo. Use the exact style, fabric texture, collar, buttons, and green crocodile embroidery logo from space ai x
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105172188852875265/img/6OBZVOLbGfTtJCBm.jpg" width="600" alt="Lacoste Polo Still Life Product Shot">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11673)**
+
+**作者:** [Ami A](https://x.com/AA63782) | **來源:** [Link](https://x.com/AA63782/status/2105172234125934717) | **發布時間:** Sep 30, 2026
+
+---
+### Lacoste 鱷魚刺繡影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 適用於 Grok Imagine 的影片/圖像提示詞，呈現 Lacoste 鱷魚刺繡於 Polo 衫上，鱷魚眨眼並手持禮盒，採用高級時尚編輯風格。
+
+#### 📝 提示詞
+
+```
+Grok super ai：在藍白條紋 Polo 衫上刺繡 Lacoste 鱷魚，鱷魚單眼眨眼，前爪握著一個小禮盒，高級時尚編輯風格，簡潔風趣而不低俗。請嚴格參照刺繡鱷魚的設計。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105171519110512641/img/aRiXewDXwObjoKLC.jpg" width="600" alt="Lacoste 鱷魚刺繡影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11678)**
+
+**作者:** [Ami A](https://x.com/AA63782) | **來源:** [Link](https://x.com/AA63782/status/2105171557891117270) | **發布時間:** Sep 30, 2026
+
+---
+### Grok Imagine 影片提示詞：流星雨與霓虹玫瑰
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 使用者分享用於生成參考圖像（使用 MAI-Image-2.6-Flash）的提示詞，隨後透過 Grok Imagine 進行動畫化。該提示詞描述了一位身穿和服的未來感女性，置身於流星雨與霓虹玫瑰之中。
+
+#### 📝 提示詞
+
+```
+描繪一位留著黑色長髮的年輕女性，身穿粉白相間的和服風格洋裝，腳踩金屬銀色未來感木屐，站在綠色霓虹地面上。四周散落著發光的粉色玻璃玫瑰，背景是佈滿墜落流星的夜空。無文字或標誌。
+```
+
+<img src="https://cms-assets.youmind.com/media/1790754590727_2w59lk_HTcGNRcaIAASj53.jpg" width="600" alt="Grok Imagine 影片提示詞：流星雨與霓虹玫瑰">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11681)**
+
+**作者:** [華月光](https://x.com/hanagekkou) | **來源:** [Link](https://x.com/hanagekkou/status/2105158182716973283) | **發布時間:** Sep 30, 2026
+
+---
+### 歷史人物舞蹈影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個複雜的創意提示，要求製作一段由馬可·奧理略、克麗奧佩特拉和魯米表演的蘇菲式旋轉與劈叉舞蹈影片。
+
+#### 📝 提示詞
+
+```
+製作一段馬可·奧理略與克麗奧佩特拉及魯米共舞的影片，他們像蘇菲旋舞者一樣旋轉，接著進入高潮並完成劈叉動作
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105151595524861952/img/2LFQN4yXXESQdzC3.jpg" width="600" alt="歷史人物舞蹈影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11661)**
+
+**作者:** [davidsteenhoek](https://x.com/DavidSteenhoek) | **來源:** [Link](https://x.com/DavidSteenhoek/status/2105151627846115794) | **發布時間:** Sep 30, 2026
+
+---
+### Grok Imagine 提示詞：蒸汽龐克聖誕襪
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 適用於 Grok Imagine 的產品視覺化提示詞，展現蒸汽龐克美學風格。
+
+#### 📝 提示詞
+
+```
+獻給擁有萬物的真正創新者的蒸汽龐克聖誕襪 https://t.co/Iajn6KT6d
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105133627667517440/img/enMBMUr8IQET5_w3.jpg" width="600" alt="Grok Imagine 提示詞：蒸汽龐克聖誕襪">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11676)**
+
+**作者:** [Cathy has this](https://x.com/lighthouse42f) | **來源:** [Link](https://x.com/lighthouse42f/status/2105133647380861013) | **發布時間:** Sep 30, 2026
+
+---
+### Grok Imagine 影片提示詞：Sundar Pichai 怪獸變身
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 影片生成提示詞：將 Sundar Pichai 轉化為神秘怪獸。
+
+#### 📝 提示詞
+
+```
+將 {argument name="person" default="Sundar Pichai"} 轉化為「無人知曉的怪獸」
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105110966425788416/img/PIMWyZjMKPNZ3d3E.jpg" width="600" alt="Grok Imagine 影片提示詞：Sundar Pichai 怪獸變身">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11665)**
+
+**作者:** [Viswanath M. Aluru](https://x.com/vmaluru) | **來源:** [Link](https://x.com/vmaluru/status/2105110995740008593) | **發布時間:** Sep 30, 2026
+
+---
+### 黏土動畫《Captain Apathy》場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個充滿創意的影片提示，呈現 Captain Apathy 以黏土動畫風格在反派毀滅世界時飲酒的畫面。
+
+#### 📝 提示詞
+
+```
+Captain Apathy 以黏土動畫風格在酒吧喝酒，同時電視上播放反派毀滅世界的畫面。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105099226556284928/img/bavSilZPfZ26LGul.jpg" width="600" alt="黏土動畫《Captain Apathy》場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11664)**
+
+**作者:** [A Cynical Guy…!](https://x.com/vaughn_shah) | **來源:** [Link](https://x.com/vaughn_shah/status/2105099256143204790) | **發布時間:** Sep 30, 2026
+
+---
+### Grok Imagine 提示詞：Sam Elliott 臥推
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段寫實風格的影片提示詞，內容為名人 Sam Elliott 在健身房進行特定動作並搭配音效線索。
+
+#### 📝 提示詞
+
+```
+一段寫實風格的影片，呈現 Sam Elliott 在健身房臥推 400 磅的重量。他站起身來，向鏡頭輕扶牛仔帽並微笑。全程無對話。請加入西部音樂。
+
+@MustacheElliott 你是我的第一位名人追蹤者，所以我會為你製作一些超酷的 Grok 影片一陣子 🥰
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105070398924550144/img/He7nT0atgn6gFrH6.jpg" width="600" alt="Grok Imagine 提示詞：Sam Elliott 臥推">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11674)**
+
+**作者:** [Carry Robey](https://x.com/carry_robey) | **來源:** [Link](https://x.com/carry_robey/status/2105070419397284095) | **發布時間:** Sep 29, 2026
+
+---
+### Grok Imagine 影片提示詞：猛禽助推器降落哈佛大學
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段超現實的影片提示詞，展示 SpaceX 猛禽助推器火箭與「Grock 4」機器人或物體一同降落於哈佛大學。
+
+#### 📝 提示詞
+
+```
+更好的做法是讓猛禽助推器火箭連同 Grock 4 一起降落於哈佛大學……   隨時隨地學習任何知識
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105013199686803456/img/unoAisaK4-I_1E4Q.jpg" width="600" alt="Grok Imagine 影片提示詞：猛禽助推器降落哈佛大學">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11671)**
+
+**作者:** [JB](https://x.com/JoshuaBalianSR) | **來源:** [Link](https://x.com/JoshuaBalianSR/status/2105013212202582465) | **發布時間:** Sep 29, 2026
+
+---
+### Grok Imagine 影片提示詞：從水面到高速公路的場景轉換
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個複雜的場景轉換影片提示詞，移除雙手、將水面變為繁忙的高速公路並有 Tesla 行駛，同時將地球拉近星空。
+
+#### 📝 提示詞
+
+```
+請將畫面中的雙手移除。將水面轉換成繁忙的高速公路，上面有不同款式的 Tesla 在行駛。將地球拉近天空，背景要有滿天繁星和月亮......
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105010890944684032/img/eEB8QJGOfbXVT0s7.jpg" width="600" alt="Grok Imagine 影片提示詞：從水面到高速公路的場景轉換">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11672)**
+
+**作者:** [Marsha Bush](https://x.com/MarshaBush50) | **來源:** [Link](https://x.com/MarshaBush50/status/2105011014928331214) | **發布時間:** Sep 29, 2026
+
+---
+### Grok Imagine 逼真旅行 Vlog 提示詞
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 為 Grok Imagine 設計的詳細影片生成提示詞，用於製作以巨型機械雕像和洞穴巨人為特色的逼真自拍風格旅行 Vlog，包含具體的時間安排、鏡頭角度和對白指令。
+
+#### 📝 提示詞
+
+```
+15 秒，9:16 垂直螢幕，照片級真實感手機旅行 Vlog，完全由成年女性主角使用前置鏡頭自拍。主角身分參考 #1 @0ba07db1-974c-467d-80dc-d9dffddac0ba，服裝、鞋子、襪子和配件嚴格參考 #2 @c6a3d787-bf2f-4ae9-a647-8da9db2702e3，請勿將主角替換為場景圖片中的角色。場景參考包括 #3 @cf1b1405-e241-46d5-818c-7838463fe334 中的雲海機械巨像以及 #4 @7953261f-23e7-4c97-b6a0-14bcf07aabe4 中的洞穴巨人。在兩個地點之間使用明確的旅行跳切（jump cuts）來表示中間的旅程已被省略，而不是展示單步跨越空間。
+
+她始終用右手握著手機，左手則用於扶穩岩石或保持平衡。手機距離臉部約一臂之遙；在廣角自拍中，她的臉位於畫面的一側，環境在她肩後展開。角色與環境共享自然光線、陰影、塵埃和風，保留逼真的皮膚質感。僅包含與腳部和手腕動作一致的晃動、短暫的曝光調整和運動模糊。無美顏濾鏡，無背景音樂，無字幕。
+
+[0-4 秒]
+
+在雲海上方的寬闊岩石平台上，女主角沿著內側緩慢行走，遠離懸崖邊緣。她側身轉體，使得兩尊嵌入山體的金色機械巨像出現在她肩後：巨大的胸甲佔據背景，雙腿消失在雲層中，遠處的旅行者顯得極其渺小。
+
+夕陽照亮她臉頰的一側，風吹亂了她的髮梢。她先抬頭仰望，然後看向鏡頭，帶著壓抑的敬畏低語：
+
+「這個景點，保全比山還高。」
+
+[4-7 秒]
+
+她停下腳步繼續抬頭觀看。其中一尊巨像胸口的橙色光芒逐漸增強，頭部輕微旋轉；片刻之後，低频機械聲傳達到平台。
+
+她先聆聽，然後視覺確認，笑容逐漸消失。她的左手本能地扶住附近的岩壁，將手機稍微拉近。她停止說話，只是深吸一口氣。
+
+背景中的旅行者個別停下來觀察，並非整齊劃一地轉頭。
+
+[7-11 秒]
+
+明確硬切，省略過渡旅程：她已抵達 #4 中參考的洞穴外的碎石路。
+
+光線變為從洞口反射的灰白色日光，她身後有羊群、木柵欄和散落的籃子。她正沿著小路行走時，一名驚慌失措的古代士兵從她左側跑過，隨後又有兩人繞過碎石衝出。
+
+她首先讓開道路，懷疑地看著他們；接著沉重的腳步聲響起，地上的小石頭震動。她回頭看向洞口，轉動身體，在她肩後的岩壁間露出巨人的臉龐。
+
+她低語道：
+
+「等等……他們不是來排隊的。」
+
+[11-15 秒]
+
+巨人擠向洞口，肩膀撞落岩石，塵土遮蔽了部分木柵欄。主角立即停止說話。
+
+她首先檢查前方的逃生路線，然後跟著逃離的人群迅速沿著小路離開，右手將手機拉近，抬起左臂保護額頭。自拍鏡頭隨著她的腳步搖晃，巨人僅在她肩後短暫出現，不追求全身構圖。
+
+最後兩秒，她橫向移動到右側岩壁的凹處，彎曲膝蓋降低重心，左手支撐在岩石表面。結束鏡頭：她靠在岩壁上，右手在胸部高度略微向上持握手機，臉上覆蓋著薄薄的塵土，嘴唇微張，呼吸急促；畫面左邊緣仍顯示從洞穴方向飄來的塵土。
+
+聲音：高空風聲，低频機械聲；跳切後，改為羊叫聲、奔跑腳步聲、滾動的碎石聲、巨人的呼吸聲以及她近距離的喘息聲。只有主角說出台詞清晰，背景人物的喊叫聲模糊不清。
+
+禁止第三人稱追蹤鏡頭、航拍鏡頭、懸浮手機、跑步時持續直視鏡頭、突然更換服裝、忽略危險的微笑解釋。巨人不會瞬移到她面前。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104991814490963968/img/H9eRDBgsxU9CMzfg.jpg" width="600" alt="Grok Imagine 逼真旅行 Vlog 提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11680)**
+
+**作者:** [John](https://x.com/john87445528) | **來源:** [Link](https://x.com/john87445528/status/2104992239713767535) | **發布時間:** Sep 29, 2026
+
+---
+### Grok Imagine 影片提示詞：草地上的肥皂泡
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 適用於 Grok Imagine 的影片生成提示詞，呈現色彩繽紛的肥皂泡在開滿鮮花的草地上漂浮生動景象。
+
+#### 📝 提示詞
+
+```
+色彩鮮豔明亮的肥皂泡在開滿繽紛花朵的草地上漂浮
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104987739280359425/img/Hl35RAD_vhZywDfQ.jpg" width="600" alt="Grok Imagine 影片提示詞：草地上的肥皂泡">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11666)**
+
+**作者:** [🐯ɨʀʍɨռǟ 🇺🇸イルミナ ✨🌺✨=^_^=](https://x.com/b_irmina) | **來源:** [Link](https://x.com/b_irmina/status/2104987769387008103) | **發布時間:** Sep 29, 2026
+
+---
+### Grok Imagine 提示詞：月球後方升起的地球
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段電影感的影片提示詞，描述地球從月球後方升起，並包含特定的光影與底片顆粒效果。
+
+#### 📝 提示詞
+
+```
+地球從月球後方升起，金色斑駁光線搭配細微的 35mm 底片顆粒 https://t.co/wkqis6MT5k
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104952541922406401/img/008qfKMFlxOiGnxM.jpg" width="600" alt="Grok Imagine 提示詞：月球後方升起的地球">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11675)**
+
+**作者:** [Astropub Starbase](https://x.com/AstropubSBTX) | **來源:** [Link](https://x.com/AstropubSBTX/status/2104952565037511032) | **發布時間:** Sep 29, 2026
+
+---
+### 科幻洗車 Klein 瓶
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個充滿創意的科幻提示，描述機器人開發自我清潔光學系統，並在無限維度的 Klein 瓶中進行大規模洗車。
+
+#### 📝 提示詞
+
+```
+他們立即為所有系統開發了自我清潔光學元件，並開始在無限維度的 Klein 瓶中進行大規模洗車
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104938735137603584/img/4PuyOOFwS2wSm3-J.jpg" width="600" alt="科幻洗車 Klein 瓶">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11670)**
+
+**作者:** [The 555 RGB Dimension](https://x.com/TheWhySpirit) | **來源:** [Link](https://x.com/TheWhySpirit/status/2104938784089395426) | **發布時間:** Sep 29, 2026
+
+---
+### Elon Musk 主演的無聲電影惡搞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份詳細的提示詞，用於製作由 Elon Musk 主演的無聲電影惡搞作品，搭配復古音樂與讓 AI 感到困惑的主題。
+
+#### 📝 提示詞
+
+```
+請創作一部由 Elon Musk 主演的無聲電影惡搞作品，主題需展現人類行為中令人工智慧模型感到困惑的部分。
+音訊僅使用早期電影常見的復古配樂。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104932333283348480/img/DSLonCt6bGv2UBN6.jpg" width="600" alt="Elon Musk 主演的無聲電影惡搞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11660)**
+
+**作者:** [TheAric](https://x.com/TheAricIs) | **來源:** [Link](https://x.com/TheAricIs/status/2104932354149994559) | **發布時間:** Sep 29, 2026
+
+---
+### Grok Imagine 影片提示詞：Elon Musk 默片惡搞短劇
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 影片生成提示詞：打造 Elon Musk 默片惡搞短劇，展現令人困惑的人類行為，並搭配復古配樂。
+
+#### 📝 提示詞
+
+```
+請創作另一部關於 {argument name="character" default="Elon Musk"} 的默片惡搞短劇，主題可選擇任何能展現令人工智慧模型感到困惑的人類行為。
+音訊部分僅使用早期默片中常見的復古配樂。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104932088654819328/img/GpnpEa6awomlK0Hn.jpg" width="600" alt="Grok Imagine 影片提示詞：Elon Musk 默片惡搞短劇">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11663)**
+
+**作者:** [TheAric](https://x.com/TheAricIs) | **來源:** [Link](https://x.com/TheAricIs/status/2104932108883960021) | **發布時間:** Sep 29, 2026
+
+---
+### 無聲電影惡搞提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個複雜的提示詞，用於創作一部關於人類行為讓 AI 感到困惑的無聲電影惡搞作品，搭配復古音樂與文字疊加效果。
+
+#### 📝 提示詞
+
+```
+請創作一部關於爭議性主題的無聲電影惡搞作品，展現那些會讓 AI 感到困惑的人類行為。音訊部分僅使用早期電影中常見的復古音樂。在影片結尾時，顯示一個持續半秒的文字，標明該特徵。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104929767463993344/img/PIg1i4-xPx1uCU9m.jpg" width="600" alt="無聲電影惡搞提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11669)**
+
+**作者:** [TheAric](https://x.com/TheAricIs) | **來源:** [Link](https://x.com/TheAricIs/status/2104929789199237434) | **發布時間:** Sep 29, 2026
+
+---
+### 星艦海上回收平台概念
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 使用 Grok Imagine 生成的 SpaceX 星艦（Starship）海上回收平台著陸概念藝術/影片提示。
+
+#### 📝 提示詞
+
+```
+星艦在海上回收平台的捕捉畫面。我設計了這個場景並透過 Grok 進行優化，生成更精細的版本。這是關於 SpaceX 星艦（Starship）海上回收平台捕捉的概念設計。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104906051812524032/img/tNi3GaLcKx1dUvdc.jpg" width="600" alt="星艦海上回收平台概念">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11662)**
+
+**作者:** [Don Auten](https://x.com/Don_Auten) | **來源:** [Link](https://x.com/Don_Auten/status/2104915017674137715) | **發布時間:** Sep 29, 2026
+
+---
+### 擴展對話與服裝變換
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 適用於 Grok Imagine 的後續影片提示，透過新增對白（'Sean'）與服裝變化（乳膠材質），延伸先前場景。
+
+#### 📝 提示詞
+
+```
+擴展內容：讓角色說出 Sean，並加入留著捲髮的 Rihanna，身穿相同款式的乳膠服裝
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104862493436747776/img/1IfqibmsfWl1xCmZ.jpg" width="600" alt="擴展對話與服裝變換">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11679)**
+
+**作者:** [jason](https://x.com/Jason1438282) | **來源:** [Link](https://x.com/Jason1438282/status/2104862797482057916) | **發布時間:** Sep 29, 2026
+
+---
 ### Cartman Spaceship Chaos
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -244,6 +692,25 @@ Eric Cartman punches the alien off the chair, Eric cartman hops in, Eric Cartman
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11597)**
 
 **作者:** [George Ohan](https://x.com/Fresno_Famous) | **來源:** [Link](https://x.com/Fresno_Famous/status/2104744483229503798) | **發布時間:** Sep 29, 2026
+
+---
+### 浪漫騎乘親吻場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 適用於 Grok Imagine 的影片提示，描繪兩人在遊樂設施行進過程中親吻，並搭配浪漫背景音樂。
+
+#### 📝 提示詞
+
+```
+讓他們開始親吻，並在遊樂設施行進過程中持續親吻。背景播放著浪漫的音樂。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104718967604494336/img/5fQHcfbAM6WJYWkZ.jpg" width="600" alt="浪漫騎乘親吻場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11677)**
+
+**作者:** [Lori Clayton](https://x.com/Blue_lamp_art) | **來源:** [Link](https://x.com/Blue_lamp_art/status/2104718988521685412) | **發布時間:** Sep 28, 2026
 
 ---
 ### 狼群中的羊視頻
@@ -1724,431 +2191,6 @@ From an unfinished body to a finished EV  precision robotics, and technology com
 **作者:** [LEB](https://x.com/LEBcando) | **來源:** [Link](https://x.com/LEBcando/status/2100897085247619525) | **發布時間:** Sep 18, 2026
 
 ---
-### 可樂曼陀珠爆炸場景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段詳細的多步驟影片提示，描繪了一個基於物理原理的幽默場景，涉及可樂油罐車、曼陀珠貨車以及一名留鬍子男子引發的爆炸。
-
-#### 📝 提示詞
-
-```
-逼真的儀表板視角，潮濕的高速公路，紅色 Coca-Cola 油罐車在藍色 Mentos 貨車旁噴出液體。一名身材魁梧、留著鬍子的男子身穿橙色背心和短褲，從洩漏處裝滿水壺並狼吞虎嚥地喝下，隨後將整箱 Mentos 倒入積水中，觸發巨大噴發，將他拋向空中。風格幽默，物理細節豐富，30 秒豎屏影片。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100842567470292992/img/FuRk8KIp-5GviHnn.jpg" width="600" alt="可樂曼陀珠爆炸場景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11002)**
-
-**作者:** [Queen Punter 🎀](https://x.com/Sarafinadon) | **來源:** [Link](https://x.com/Sarafinadon/status/2100842703193804901) | **發布時間:** Sep 18, 2026
-
----
-### Q版風格照片轉換
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 將照片轉換為可愛 Q版動漫角色的提示詞，在保留面部特徵的同時，誇張化頭部大小和眼睛等細節。
-
-#### 📝 提示詞
-
-```
-將這張照片轉換為可愛的 Q版風格：該男子擁有巨大的頭部和富有表現力的大眼睛、小巧的身體、誇張的可愛特徵、柔和的動漫陰影、圓潤的大頭、短小的四肢，同時精確保留其面部 likeness，灰色短髮……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100842464386908160/img/VULVZCMwc0iliOcd.jpg" width="600" alt="Q版風格照片轉換">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11039)**
-
-**作者:** [Joseph Buttacavole](https://x.com/Joebutter1111) | **來源:** [Link](https://x.com/Joebutter1111/status/2100842480107175964) | **發布時間:** Sep 18, 2026
-
----
-### 灰姑娘在中央公園
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段影片提示，將灰姑娘置於現代紐約中央公園場景中，描繪她步出馬車的瞬間。
-
-#### 📝 提示詞
-
-```
-灰姑娘身穿粉紅色禮服。她從白色馬車中走出，身處美國紐約的中央公園，背景為當代的現代美國都市環境。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100809364600672256/img/CPMTO-65Uono7is7.jpg" width="600" alt="灰姑娘在中央公園">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11001)**
-
-**作者:** [K. Massari](https://x.com/porcupine_touch) | **來源:** [Link](https://x.com/porcupine_touch/status/2100809392870359537) | **發布時間:** Sep 18, 2026
-
----
-### 假釣魚拋竿影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段影片提示，描述模擬釣魚的假拋竿動作、在假咬鉤時揚竿刺魚，以及收線拉回。
-
-#### 📝 提示詞
-
-```
-模擬釣魚的假拋竿動作，在假咬鉤時揚竿刺魚，並收線拉回假釣到的魚....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100765658464083968/img/bopZrXUorKDqtzU0.jpg" width="600" alt="假釣魚拋竿影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11003)**
-
-**作者:** [Yourenext1187🏴‍☠️](https://x.com/Spergburger) | **來源:** [Link](https://x.com/Spergburger/status/2100765685383098471) | **發布時間:** Sep 18, 2026
-
----
-### 樂高龍守衛
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個用於生成由互鎖樂高積木組成的兇猛巨龍的提示詞，該巨龍在月光下守護著一座樂高城堡。
-
-#### 📝 提示詞
-
-```
-一隻完全由互鎖樂高積木組成的兇猛巨龍，採用深色與大膽配色——深紅、午夜黑、皇家紫和電光藍。巨龍站立在一座擁有城垛與塔樓的高聳樂高城堡前進行守護，雙翼展開呈保護姿態。明亮的月光下的夜景，戲劇性的光影效果，光滑的塑膠表面反射著光芒，充滿電影感的奇幻氛圍，細節高度精緻。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100739489576407040/img/6WYwjdDKFch9BQgG.jpg" width="600" alt="樂高龍守衛">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11005)**
-
-**作者:** [Sherice](https://x.com/Sherice0799) | **來源:** [Link](https://x.com/Sherice0799/status/2100739588712956331) | **發布時間:** Sep 18, 2026
-
----
-### Bud Light Kid Rock 惡搞影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段幽默的影片提示，重現 Bud Light 廣告中 Kid Rock 的經典時刻，但將產品替換為 Tillamook 起司。
-
-#### 📝 提示詞
-
-```
-Kid Rock 喝 Bud Light 並射擊罐子的經典場景，但將啤酒替換為 Tillamook 起司
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100739335007993856/img/rNPqWIPCJDNmwYeT.jpg" width="600" alt="Bud Light Kid Rock 惡搞影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10999)**
-
-**作者:** [Anita Evans](https://x.com/AnitaEvans2911) | **來源:** [Link](https://x.com/AnitaEvans2911/status/2100739348874350832) | **發布時間:** Sep 18, 2026
-
----
-### 清真寺前的電影感騎馬場景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段影片生成提示詞，描述鏡頭以電影感的慢速向前推進，呈現騎士與馬匹接近清真寺的畫面，背景為金色沙塵與閃爍星光。
-
-#### 📝 提示詞
-
-```
-騎士與馬匹緩步走向清真寺。長袍與馬鬃隨風輕柔擺動。金色沙塵緩緩飄散，雲朵緩慢移動，星星閃爍，光線柔和發亮。鏡頭以電影感的慢速向前推進。保持清真寺結構與構圖不變。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100702402546372608/img/GqhyoZOndtvUtg05.jpg" width="600" alt="清真寺前的電影感騎馬場景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11000)**
-
-**作者:** [Dame](https://x.com/Damesall313) | **來源:** [Link](https://x.com/Damesall313/status/2100702458171293763) | **發布時間:** Sep 17, 2026
-
----
-### 擬人化變身提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 將角色轉變為具有蹄子和尾巴的動物形態的提示詞。
-
-#### 📝 提示詞
-
-```
-讓他彎曲身體並發出嘶鳴聲，同時四肢著地，雙腳變成蹄子，尾巴從短褲中伸出，呈現出四足動物的姿態
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100557315292147712/img/NL6bqOR_GoRlzjYG.jpg" width="600" alt="擬人化變身提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11048)**
-
-**作者:** [pup mb](https://x.com/mikeb5222094828) | **來源:** [Link](https://x.com/mikeb5222094828/status/2100557439556849968) | **發布時間:** Sep 17, 2026
-
----
-### Grok Imagine 提示詞：西伯利亞虎野生動物攝影
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用於生成西伯利亞虎在自然環境中寫實野生動物攝影的提示詞，利用淺景深和冷色調光線，營造出未擺拍、紀錄片式的美學風格。
-
-#### 📝 提示詞
-
-```
-藝術風格：寫實野生動物攝影，淺景深，自然冷色調光線，細微的膠片顆粒感，真實且未擺拍，無過度美化。
-
-內容：一隻正在行走的西伯利亞虎
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100468661995921408/img/yrSMe_OEtDZDdjw0.jpg" width="600" alt="Grok Imagine 提示詞：西伯利亞虎野生動物攝影">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11004)**
-
-**作者:** [David Liang](https://x.com/DavidLi36143625) | **來源:** [Link](https://x.com/DavidLi36143625/status/2100469282497032283) | **發布時間:** Sep 17, 2026
-
----
-### 女子將地球拋向太陽
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用於生成一段影片的提示詞：一名女子手持地球並將其拋向太陽，引發爆炸。
-
-#### 📝 提示詞
-
-```
-圖像中一名女子肩扛地球，她拿起地球並將其拋向太空，地球撞擊太陽後在火焰中燃燒殆盡，請加入圖片中的文字....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100321558443036672/img/Rl1Rp_degjVQkYGq.jpg" width="600" alt="女子將地球拋向太陽">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10970)**
-
-**作者:** [Sas](https://x.com/SaSHeaven26) | **來源:** [Link](https://x.com/SaSHeaven26/status/2100321574658130008) | **發布時間:** Sep 16, 2026
-
----
-### 室內場景結構化 JSON 提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 適用於 Grok Imagine 影片生成的結構化 JSON 格式提示詞，包含特定鏡頭運鏡的室內場景設定。
-
-#### 📝 提示詞
-
-```
-{"shot":{"motion_level":"low","camera_depth":"close-up","camera_view":"eye level","camera_movement":"subtle continuous zoom in","count":"1"},"scene":{"location":"indoor setting on a wooden table","environment":"A calm indoor environment featuring a w... https://t.co/ebCCk0g8EF
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100279939647860736/img/m_preecVqRQw9p4w.jpg" width="600" alt="室內場景結構化 JSON 提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10971)**
-
-**作者:** [Han Vu](https://x.com/HanVu195089) | **來源:** [Link](https://x.com/HanVu195089/status/2100279957507150291) | **發布時間:** Sep 16, 2026
-
----
-### Tesla Roadster 發表會電影級影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用於生成 Tesla Roadster 發表亮相之電影級、寫實影片的提示詞，包含推進器噴射場景。
-
-#### 📝 提示詞
-
-```
-第二代 Tesla Roadster「準備發射」亮相時的電影級寫實影像，紅色未來感超級跑車懸浮於地面之上，SpaceX 冷氣推進器從後方噴射出四道明亮的白色尾焰
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100243744406810624/img/4qeedoO1jM2kj1xX.jpg" width="600" alt="Tesla Roadster 發表會電影級影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10976)**
-
-**作者:** [harvey](https://x.com/HarveyJS) | **來源:** [Link](https://x.com/HarveyJS/status/2100243758898200846) | **發布時間:** Sep 16, 2026
-
----
-### 身穿高級時裝套裝的獵鷹
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個想像獵鷹身穿高級時尚運動服，從陽台觀察天空的提示詞。
-
-#### 📝 提示詞
-
-```
-想像一隻獵鷹身穿一套「高級時尚」運動服，坐在自家陽台上靜靜地觀察著天空
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100214782498414593/img/VrAE7H9zK-IDYGTR.jpg" width="600" alt="身穿高級時裝套裝的獵鷹">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10969)**
-
-**作者:** [🤴🏻](https://x.com/DDadalekan) | **來源:** [Link](https://x.com/DDadalekan/status/2100215467868668039) | **發布時間:** Sep 16, 2026
-
----
-### Grok Imagine 提示詞：邁阿密咖啡館邂逅
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段敘事性提示詞，描述在邁阿密咖啡館中與 Kid Cudi 發生的特定互動。
-
-#### 📝 提示詞
-
-```
-我這個白人男子正在邁阿密的一家咖啡館裡聊天。服務生端來炸丸子並詢問是否還需要其他東西。我說不用了，這樣就夠了。Kid Cudi 一臉驚恐地走了進來。他看到我後倒吸一口氣，隨即轉身離開。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100155268931657728/img/uXS5cJfruVXBNbcC.jpg" width="600" alt="Grok Imagine 提示詞：邁阿密咖啡館邂逅">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10975)**
-
-**作者:** [Kyle Kelly](https://x.com/dairyfarts) | **來源:** [Link](https://x.com/dairyfarts/status/2100155289223721409) | **發布時間:** Sep 16, 2026
-
----
-### 雉雞與紅狐在鄉間道路追逐 SUV
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 適用於 Grok Imagine 的影片生成提示詞，描繪雉雞與紅狐在蜿蜒的科茨沃爾德（Cotswolds）鄉間道路上追逐黑色 SUV，展現充滿活力的動物動態。
-
-#### 📝 提示詞
-
-```
-雉雞與紅狐沿著蜿蜒的科茨沃爾德鄉間道路追逐黑色 SUV。鳥兒低空飛掠，狐狸奔跑跳躍揚起塵土，車輛緩慢駛過綠意起伏的山丘與石牆，天空雲層密佈……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100121184503287808/img/vPyC9qNkckcPIniD.jpg" width="600" alt="雉雞與紅狐在鄉間道路追逐 SUV">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10972)**
-
-**作者:** [Just4usewith_thisapp](https://x.com/just4usewith) | **來源:** [Link](https://x.com/just4usewith/status/2100121793084145742) | **發布時間:** Sep 16, 2026
-
----
-### Grok Imagine 影片提示詞：狗狗重逢
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 為 Grok Imagine 設計的定時影片提示詞，描繪一個人與沿著道路奔跑而來的愛犬之間感人重逢的場景。
-
-#### 📝 提示詞
-
-```
-0–2s: 一個人站在安靜道路的盡頭，靜靜等待。
-2–4s: 他們的狗突然以全速向他們奔來。
-4–5s: 他跪下擁抱狗狗，狗的尾巴快速搖擺。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099908888946757632/img/CFJ6luf7mVarsirS.jpg" width="600" alt="Grok Imagine 影片提示詞：狗狗重逢">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10942)**
-
-**作者:** [Anandh KS](https://x.com/anandh_ks_) | **來源:** [Link](https://x.com/anandh_ks_/status/2100120751739138238) | **發布時間:** Sep 16, 2026
-
----
-### 飛機在藍天中飛行
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 適用於 Grok Imagine 的簡易影片生成提示，描繪一架飛機在天空中平穩飛行，並搭配電影感的鏡頭追蹤。
-
-#### 📝 提示詞
-
-```
-紅白相間的飛機在藍天中平穩向前飛行，略微傾斜，雲朵飄過，引擎尾跡若隱若現。鏡頭從下方追蹤飛機，呈現流暢且具電影感的動態畫面。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100010559953317888/img/S_jbW65n9EF36D_i.jpg" width="600" alt="飛機在藍天中飛行">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10944)**
-
-**作者:** [Owen](https://x.com/owenxplore) | **來源:** [Link](https://x.com/owenxplore/status/2100010572964081702) | **發布時間:** Sep 15, 2026
-
----
-### 狗狗說「媽媽為什麼」
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個用於 Grok Imagine 的影片提示，讓名為 Little Man 的狗狗說出「媽媽，你為什麼要這麼久？」。
-
-#### 📝 提示詞
-
-```
-讓這隻名叫 Little Man 的狗狗說出：「媽媽，你為什麼要這麼久？」 https://t.co/DxRYqI8CbP
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099993603900571648/img/0AwX-Pp4qI26a_t3.jpg" width="600" alt="狗狗說「媽媽為什麼」">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10973)**
-
-**作者:** [Mark Tatum](https://x.com/Mark561256) | **來源:** [Link](https://x.com/Mark561256/status/2099993633256554562) | **發布時間:** Sep 15, 2026
-
----
-### Grok Imagine 影片提示詞：雨中發光的彼岸花
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一段電影感的影片提示詞，描繪夜晚雨中一朵發出藍光的紅色彼岸花特寫，包含詳細的鏡頭運動與氛圍效果。
-
-#### 📝 提示詞
-
-```
-描繪雨中的一朵紅色彼岸花，在夜色中散發著藍色光芒，以 CG 風格視覺呈現美麗的特寫。
-花瓣上掛滿滴落的雨珠，靜靜地發出藍白色的光暈，柔和地照亮周圍的空氣。
-鏡頭從花朵特寫開始，緩慢跟隨花瓣尖端與水珠倒影，輕微環繞以突顯其美感。
-在寂靜的夜晚中，保留微風吹拂時的搖曳聲響，以及光線穿透水珠時閃爍的效果。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099993504810426368/img/nKyNvBwY48Xu3a_f.jpg" width="600" alt="Grok Imagine 影片提示詞：雨中發光的彼岸花">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10946)**
-
-**作者:** [あきおT☀️楽天ROOM・マネタイズ](https://x.com/AkioT315) | **來源:** [Link](https://x.com/AkioT315/status/2099993537886728477) | **發布時間:** Sep 15, 2026
-
----
-### King Diamond 在好萊塢山
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 為 Grok Imagine 設計的影片提示，將 King Diamond 放置在午夜時分好萊塢山的智慧樹旁，並加入滿月元素。
-
-#### 📝 提示詞
-
-```
-King Diamond 站在午夜時分好萊塢山的智慧樹旁，現在請加入滿月 @King_Diamond 🤷‍♂️ https://t.co/wLLm9lzT3a
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099977081484652544/img/3r4BQ2bE9wd1L5UA.jpg" width="600" alt="King Diamond 在好萊塢山">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10974)**
-
-**作者:** [Mr.Lucky_130 🍀](https://x.com/Lucky13014) | **來源:** [Link](https://x.com/Lucky13014/status/2099977106914787437) | **發布時間:** Sep 15, 2026
-
----
-### 第歐根尼古典繪畫風格
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用於生成第歐根尼在街頭慶祝之影片或動畫的提示詞，採用古典繪畫風格。
-
-#### 📝 提示詞
-
-```
-以古典繪畫風格呈現第歐根尼坐在街頭慶祝的畫面
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099962866267037696/img/mFlgfiS6qltuOkaf.jpg" width="600" alt="第歐根尼古典繪畫風格">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10945)**
-
-**作者:** [McKenzie](https://x.com/mckenzie_X_X) | **來源:** [Link](https://x.com/mckenzie_X_X/status/2099962962828226725) | **發布時間:** Sep 15, 2026
-
----
-### 展示 Tesla 的辦公室場景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用於生成逼真辦公室場景的提示詞，內容為角色坐在桌前，牆上的電視顯示 Tesla 車型，並由秘書遞上咖啡。
-
-#### 📝 提示詞
-
-```
-我在辦公室裡。我坐到我的辦公桌前。牆上掛著一台大電視，顯示著所有 Tesla 的車型。我的秘書給我端來一杯咖啡，並從印表機取走一些文件。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099914367961583616/img/YVLb2cEyvjNaX4o7.jpg" width="600" alt="展示 Tesla 的辦公室場景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10943)**
-
-**作者:** [Jarosław Justka](https://x.com/jaras70berlin) | **來源:** [Link](https://x.com/jaras70berlin/status/2099914455878410600) | **發布時間:** Sep 15, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2210,6 +2252,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-09-30T05:24:12.180Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-09-30T15:14:16.868Z</sub>
 
 </div>

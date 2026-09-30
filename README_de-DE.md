@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2925** |
+| 📝 Total Prompts | **2947** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-30** |
 
@@ -189,6 +189,451 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine Surrealer Video-Prompt: Buttermesser
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein surrealer Video-Generierungs-Prompt für Grok Imagine, bei dem ein Messer wie Butter aussieht und durch butterartig aussehenden Edelstahl schneidet.
+
+#### 📝 Prompt
+
+```
+Erstelle ein Video, in dem ein {argument name="object" default="Messer"} durch {argument name="substance" default="Butter"} schneidet, wobei das {argument name="object" default="Messer"} wie {argument name="substance" default="Butter"} aussehen muss und die {argument name="substance" default="Butter"} wie {argument name="material" default="Edelstahl"} aussehen muss.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105192353795289088/img/BYCkHLtCcrEzSqhH.jpg" width="600" alt="Grok Imagine Surrealer Video-Prompt: Buttermesser">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11667)**
+
+**Author:** [Raymond du Plooy](https://x.com/SoloBucket) | **Source:** [Link](https://x.com/SoloBucket/status/2105192382593425853) | **Published:** Sep 30, 2026
+
+---
+### Grok Imagine Video Prompt: Ducati Rider POV
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer Video-Generierungsprompt für Grok Imagine, der die First-Person-Perspektive einer Ducati-Fahrt aus der Dunkelheit beschreibt und sich auf Geschwindigkeit und Atmosphäre konzentriert.
+
+#### 📝 Prompt
+
+```
+AUS DEN SCHATTEN -- Ein {argument name="bike" default="DUCATI"} schießt aus der Dunkelheit hervor --
+Motor drosselt runter -- Wind rauscht vorbei -- wir SIND DER FAHRER --
+SCHWARZ -- von Kopf bis Fuß -- verschmilzt mit der Nacht -- rast hundert
+Meilen pro Stunde -- schlüpft um verstreute Autos auf der
+verlassenen Straße
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105180527225614336/img/mJM53Ic2IpKBFRlp.jpg" width="600" alt="Grok Imagine Video Prompt: Ducati Rider POV">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11668)**
+
+**Author:** [davidsteenhoek](https://x.com/DavidSteenhoek) | **Source:** [Link](https://x.com/DavidSteenhoek/status/2105180560910131431) | **Published:** Sep 30, 2026
+
+---
+### Lacoste Polo Stillleben Produktfoto
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Video-Generierungs-Prompt für ein luxuriöses Mode-Stillleben eines Lacoste Poloshirts auf weißen Bettlaken.
+
+#### 📝 Prompt
+
+```
+Ein eng anliegendes blau-weiß gestreiftes Lacoste Poloshirt, flach als luxuriöses Mode-Stillleben auf weißen Bettlaken ausgelegt, scharfes Produktfoto. Verwenden Sie den exakten Stil, die Stofftextur, den Kragen, die Knöpfe und das grüne Krokodil-Stickerei-Logo von space ai x
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105172188852875265/img/6OBZVOLbGfTtJCBm.jpg" width="600" alt="Lacoste Polo Stillleben Produktfoto">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11673)**
+
+**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2105172234125934717) | **Published:** Sep 30, 2026
+
+---
+### Lacoste Krokodil Stickerei Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-/Bild-Prompt für Grok Imagine, der ein auf einem Poloshirt eingesticktes Lacoste-Krokodil zeigt, das zwinkert und eine Geschenkbox hält, im Stil einer High-Fashion-Editorial.
+
+#### 📝 Prompt
+
+```
+Grok Super AI: Ein auf einem blau-weiß gestreiften Poloshirt eingesticktes Lacoste-Krokodil, das mit einem Auge zwinkert und in seinen Vorderklauen eine kleine Geschenkbox hält. Hochwertiger Editorial-Stil, sauber und witzig, nicht vulgär. Das eingestickte Krokodil soll exakt so dargestellt werden.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105171519110512641/img/aRiXewDXwObjoKLC.jpg" width="600" alt="Lacoste Krokodil Stickerei Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11678)**
+
+**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2105171557891117270) | **Published:** Sep 30, 2026
+
+---
+### Grok Imagine Video-Prompt mit Meteorschauer und Neon-Rosen
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Der Nutzer teilt einen Prompt, der zur Erstellung eines Referenzbildes (mit MAI-Image-2.6-Flash) verwendet wurde, das anschließend mit Grok Imagine animiert wurde. Der Prompt beschreibt eine futuristische Frau in einem Kimono-Kleid inmitten von Meteorschauern und Neon-Rosen.
+
+#### 📝 Prompt
+
+```
+Illustration einer jungen Frau mit langen schwarzen Haaren, die ein rosa-weißes Kleid im Kimono-Stil und metallisch-silberne futuristische Geta-Sandalen trägt. Sie steht auf einem grünen Neonboden, wo hier und dort rosa Glasrosen unter einem Nachthimmel voller fallender Meteore leuchten. Kein Text oder Logos.
+```
+
+<img src="https://cms-assets.youmind.com/media/1790754590727_2w59lk_HTcGNRcaIAASj53.jpg" width="600" alt="Grok Imagine Video-Prompt mit Meteorschauer und Neon-Rosen">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11681)**
+
+**Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2105158182716973283) | **Published:** Sep 30, 2026
+
+---
+### Tanzvideo mit historischen Persönlichkeiten
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein komplexer kreativer Prompt für ein Tanzvideo, in dem Marcus Aurelius, Kleopatra und Rumi Sufi-ähnliche Drehungen und Spagats ausführen.
+
+#### 📝 Prompt
+
+```
+Erstelle ein Tanzvideo von Marcus Aurelius zusammen mit Kleopatra und Rumi, die Derwisch-Drehungen ausführen, gefolgt von einem Breakdown und Übergang in den Spagat.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105151595524861952/img/2LFQN4yXXESQdzC3.jpg" width="600" alt="Tanzvideo mit historischen Persönlichkeiten">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11661)**
+
+**Author:** [davidsteenhoek](https://x.com/DavidSteenhoek) | **Source:** [Link](https://x.com/DavidSteenhoek/status/2105151627846115794) | **Published:** Sep 30, 2026
+
+---
+### Grok Imagine Prompt: Steampunk-Weihnachtsstrumpf
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Produktvisualisierungs-Prompt für Grok Imagine mit Steampunk-Ästhetik.
+
+#### 📝 Prompt
+
+```
+Steampunk-Weihnachtsstrumpf für den wahren Innovator, der schon alles hat https://t.co/Iajn6KT6d
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105133627667517440/img/enMBMUr8IQET5_w3.jpg" width="600" alt="Grok Imagine Prompt: Steampunk-Weihnachtsstrumpf">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11676)**
+
+**Author:** [Cathy has this](https://x.com/lighthouse42f) | **Source:** [Link](https://x.com/lighthouse42f/status/2105133647380861013) | **Published:** Sep 30, 2026
+
+---
+### Grok Imagine Video Prompt: Sundar Pichai Monster Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt für die Video-Generierung mit Grok Imagine, um Sundar Pichai in ein mysteriöses Monster zu verwandeln.
+
+#### 📝 Prompt
+
+```
+Verwandle {argument name="person" default="Sundar Pichai"} in ein 'Monster, das niemand kennt'
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105110966425788416/img/PIMWyZjMKPNZ3d3E.jpg" width="600" alt="Grok Imagine Video Prompt: Sundar Pichai Monster Transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11665)**
+
+**Author:** [Viswanath M. Aluru](https://x.com/vmaluru) | **Source:** [Link](https://x.com/vmaluru/status/2105110995740008593) | **Published:** Sep 30, 2026
+
+---
+### Knetanimation-Szene: Captain Apathy
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein kreativer Video-Prompt im Knetanimations-Stil, der zeigt, wie Captain Apathy trinkt, während Bösewichte die Welt zerstören.
+
+#### 📝 Prompt
+
+```
+Captain Apathy aus Knetanimation sitzt in einer Bar und trinkt, während auf dem Fernseher Bösewichte die Welt zerstören.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105099226556284928/img/bavSilZPfZ26LGul.jpg" width="600" alt="Knetanimation-Szene: Captain Apathy">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11664)**
+
+**Author:** [A Cynical Guy…!](https://x.com/vaughn_shah) | **Source:** [Link](https://x.com/vaughn_shah/status/2105099256143204790) | **Published:** Sep 30, 2026
+
+---
+### Grok Imagine Prompt: Sam Elliott beim Bankdrücken
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein fotorealistischer Video-Prompt mit dem Prominenten Sam Elliott in einem Fitnessstudio, inklusive spezifischer Aktionen und Audio-Hinweisen.
+
+#### 📝 Prompt
+
+```
+Fotorealistisches Video von Sam Elliott, der im Fitnessstudio 400 Pfund (ca. 181 kg) bankdrückt. Er steht auf, hebt seinen Cowboyhut als Gruß zur Kamera und lächelt. Kein Sprechen. Füge Western-Musik hinzu.
+
+@MustacheElliott Du bist mein erster prominenten Follower, daher werde ich für eine Weile coole Grok-Videos von dir erstellen 🥰
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105070398924550144/img/He7nT0atgn6gFrH6.jpg" width="600" alt="Grok Imagine Prompt: Sam Elliott beim Bankdrücken">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11674)**
+
+**Author:** [Carry Robey](https://x.com/carry_robey) | **Source:** [Link](https://x.com/carry_robey/status/2105070419397284095) | **Published:** Sep 29, 2026
+
+---
+### Grok Imagine Video Prompt: Raptor Booster Landung auf Harvard
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein surrealer Video-Prompt, der eine SpaceX-Raptor-Booster-Rakete zeigt, die auf der Harvard University landet, neben einem 'Grock 4'-Roboter oder Objekt.
+
+#### 📝 Prompt
+
+```
+Noch besser: Lande eine Raptor-Booster-Rakete auf der Harvard University mit einem Grock 4....   Lerne alles über alles, überall.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105013199686803456/img/unoAisaK4-I_1E4Q.jpg" width="600" alt="Grok Imagine Video Prompt: Raptor Booster Landung auf Harvard">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11671)**
+
+**Author:** [JB](https://x.com/JoshuaBalianSR) | **Source:** [Link](https://x.com/JoshuaBalianSR/status/2105013212202582465) | **Published:** Sep 29, 2026
+
+---
+### Grok Imagine Video-Prompt: Verwandlung von Wasser in eine Autobahn
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein komplexer Szenenwechsel-Video-Prompt, der Hände entfernt, Wasser in eine belebte Autobahn mit Teslas verwandelt und die Erde näher an einen Sternenhimmel rückt.
+
+#### 📝 Prompt
+
+```
+Entferne die Hände aus der Szene. Verwandle das Wasser in eine belebte Autobahn, auf der verschiedene Teslas fahren. Platziere die Erde näher am Himmel. Mit vielen Sternen und dem Mond....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105010890944684032/img/eEB8QJGOfbXVT0s7.jpg" width="600" alt="Grok Imagine Video-Prompt: Verwandlung von Wasser in eine Autobahn">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11672)**
+
+**Author:** [Marsha Bush](https://x.com/MarshaBush50) | **Source:** [Link](https://x.com/MarshaBush50/status/2105011014928331214) | **Published:** Sep 29, 2026
+
+---
+### Grok Imagine Realistischer Reise-Vlog-Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein detaillierter Video-Generierungs-Prompt für Grok Imagine zur Erstellung eines realistischen Selfie-Stil-Reise-Vlogs mit riesigen mechanischen Statuen und Höhlenriesen, einschließlich spezifischer Zeitangaben, Kamerawinkeln und Dialoganweisungen.
+
+#### 📝 Prompt
+
+```
+15 Sekunden, 9:16 vertikaler Bildschirm, fotorealistischer Handy-Reisevlog, vollständig selbst aufgenommen von einer erwachsenen weiblichen Protagonistin mit der Frontkamera. Die Identität der Protagonistin bezieht sich auf #1 @0ba07db1-974c-467d-80dc-d9dffddac0ba, Kleidung, Schuhe, Socken und Accessoires beziehen sich strikt auf #2 @c6a3d787-bf2f-4ae9-a647-8da9db2702e3; ersetzen Sie die Protagonistin nicht durch Charaktere aus den Szenenbildern. Szenenreferenzen umfassen das Wolkenmeer-mechanische Koloss in #3 @cf1b1405-e241-46d5-818c-7838463fe334 und den Höhlenriesen in #4 @7953261f-23e7-4c97-b6a0-14bcf07aabe4. Verwenden Sie explizite Reise-Schnittsprünge zwischen den beiden Orten, um anzuzeigen, dass die Reise dazwischen weggelassen wurde, anstatt einen einzelnen Schritt durch den Raum zu zeigen.
+
+Sie hält das Telefon immer in der rechten Hand, während ihre linke Hand verwendet wird, um sich auf Felsen abzustützen oder das Gleichgewicht zu halten. Das Telefon ist etwa eine Armlänge von ihrem Gesicht entfernt; im Weitwinkel-Selfie ist ihr Gesicht auf einer Seite des Bildes positioniert, wobei sich die Umgebung hinter ihrer Schulter entfaltet. Der Charakter und die Umgebung teilen natürliches Licht, Schatten, Staub und Wind, wobei die realistische Hauttextur erhalten bleibt. Enthalten Sie nur Wackeln, das konsistent mit Fuß- und Handgelenkbewegungen ist, kurze Belichtungsanpassungen und Bewegungsunschärfe. Keine Schönheitsfilter, keine Hintergrundmusik, keine Untertitel.
+
+[0-4 Sekunden]
+
+Auf einer breiten Felsplattform über dem Wolkenmeer geht die weibliche Protagonistin langsam entlang der Innenseite weg vom Klippenrand. Sie dreht ihren Körper seitlich, sodass zwei goldene mechanische Kolosse, die in den Berg eingebettet sind, hinter ihrer Schulter erscheinen: Riesige Brustpanzer füllen den Hintergrund, Beine verschwinden in den Wolken, mit entfernten Reisenden, die extrem klein wirken.
+
+Sonnenuntergang beleuchtet eine Seite ihrer Wange, Wind zerzaust ihre Haarspitzen. Sie schaut zuerst nach oben, dann in die Linse und flüstert mit unterdrückter Ehrfurcht:
+
+"An diesem Sehenswürdigkeit sind die Sicherheitswachen größer als Berge."
+
+[4-7 Sekunden]
+
+Sie bleibt stehen, um weiter nach oben zu schauen. Das orangefarbene Leuchten auf der Brust eines Kolosses nimmt langsam zu, sein Kopf dreht sich leicht; Momente später erreichen niederfrequente mechanische Geräusche die Plattform.
+
+Sie hört zuerst, bestätigt dann visuell, ihr Lächeln verblasst allmählich. Ihre linke Hand stabilisiert instinktiv die nahe Felswand, zieht das Telefon etwas näher. Sie hört auf zu sprechen, atmet nur kurz ein.
+
+Hintergrundreisende bleiben einzeln stehen, um zu beobachten, ohne ihre Köpfe einheitlich zu drehen.
+
+[7-11 Sekunden]
+
+Expliziter harter Schnitt, Übergangsreise weggelassen: Sie hat den Kiesweg außerhalb der in #4 referenzierten Höhle erreicht.
+
+Das Licht wechselt zu grauem Tageslicht, reflektiert vom Höhleneingang, mit Schafen, Holzzäunen und verstreuten Körben hinter ihr. Sie ging den Weg entlang, als ein panischer antiker Soldat an ihrer linken Seite vorbeiläuft, gefolgt von zwei weiteren, die um den Kies eilen.
+
+Sie tritt zuerst beiseite, beobachtet sie misstrauisch; dann erklingen schwere Schritte, kleine Steine auf dem Boden vibrieren. Sie dreht sich zurück zum Höhleneingang, dreht ihren Körper, um das Gesicht des Riesen zwischen den Felswänden hinter ihrer Schulter zu enthüllen.
+
+Sie flüstert:
+
+"Warte... sie sind nicht hier, um anzustehen."
+
+[11-15 Sekunden]
+
+Der Riese drängt sich zum Höhleneingang, Schultern streifen herabfallende Felsen, Staub verhüllt teilweise den Holzzaun. Die Protagonistin stoppt sofort das Sprechen.
+
+Sie prüft zuerst den Fluchtweg vor ihr, folgt dann der fliehenden Menge schnell den Weg entlang, bringt das Telefon mit der rechten Hand näher, hebt den linken Arm, um ihre Stirn zu schützen. Das Selfie zeigt den Riesen nur kurz hinter ihrer Schulter, nicht dauerhaft.
+
+Im letzten Moment bewegt sie sich seitlich, um dem herabfallenden Geröll auszuweichen, während die Kamera leicht wackelt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104991814490963968/img/H9eRDBgsxU9CMzfg.jpg" width="600" alt="Grok Imagine Realistischer Reise-Vlog-Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11680)**
+
+**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2104992239713767535) | **Published:** Sep 29, 2026
+
+---
+### Grok Imagine Video-Prompt: Seifenblasen auf der Wiese
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Generierungsprompt für Grok Imagine, der lebendige Seifenblasen zeigt, die über einer bunten Wiese voller leuchtender Blumen schweben.
+
+#### 📝 Prompt
+
+```
+Lebendige, farbenfrohe Seifenblasen, die über einer bunten Wiese voller leuchtender Blumen schweben
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104987739280359425/img/Hl35RAD_vhZywDfQ.jpg" width="600" alt="Grok Imagine Video-Prompt: Seifenblasen auf der Wiese">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11666)**
+
+**Author:** [🐯ɨʀʍɨռǟ 🇺🇸イルミナ ✨🌺✨=^_^=](https://x.com/b_irmina) | **Source:** [Link](https://x.com/b_irmina/status/2104987769387008103) | **Published:** Sep 29, 2026
+
+---
+### Grok Imagine Prompt: Erduntergang hinter dem Mond
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein kinematografischer Video-Prompt, der einen Erduntergang hinter dem Mond mit spezifischen Lichteffekten und Filmkorn beschreibt.
+
+#### 📝 Prompt
+
+```
+Erduntergang hinter dem Mond, goldenes Streulicht mit subtiler 35-mm-Körnung https://t.co/wkqis6MT5k
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104952541922406401/img/008qfKMFlxOiGnxM.jpg" width="600" alt="Grok Imagine Prompt: Erduntergang hinter dem Mond">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11675)**
+
+**Author:** [Astropub Starbase](https://x.com/AstropubSBTX) | **Source:** [Link](https://x.com/AstropubSBTX/status/2104952565037511032) | **Published:** Sep 29, 2026
+
+---
+### Sci-Fi-Autowäsche in einer Kleinschen Flasche
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein kreativer Sci-Fi-Prompt, der Roboter beschreibt, die selbstreinigende Optiken entwickeln und eine Autowäsche in einer unendlich dimensionalen Kleinschen Flasche betreiben.
+
+#### 📝 Prompt
+
+```
+Sie entwickelten sofort selbstreinigende Optiken für alle ihre Systeme und begannen, eine riesige Autowäsche in einer unendlich dimensionalen Kleinschen Flasche zu betreiben.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104938735137603584/img/4PuyOOFwS2wSm3-J.jpg" width="600" alt="Sci-Fi-Autowäsche in einer Kleinschen Flasche">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11670)**
+
+**Author:** [The 555 RGB Dimension](https://x.com/TheWhySpirit) | **Source:** [Link](https://x.com/TheWhySpirit/status/2104938784089395426) | **Published:** Sep 29, 2026
+
+---
+### Stummfilm-Parodie mit Elon Musk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Prompt zur Erstellung einer Stummfilm-Parodie mit Elon Musk, die alte Musik und Themen enthält, die KI verwirren.
+
+#### 📝 Prompt
+
+```
+Bitte erstellen Sie eine Parodie eines Stummfilms mit Elon Musk in der Hauptrolle. Das Thema soll menschliche Verhaltensweisen demonstrieren, die künstliche Intelligenzmodelle verwirren.
+Der Ton besteht ausschließlich aus altertümlicher Musik, wie sie früher üblich war.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104932333283348480/img/DSLonCt6bGv2UBN6.jpg" width="600" alt="Stummfilm-Parodie mit Elon Musk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11660)**
+
+**Author:** [TheAric](https://x.com/TheAricIs) | **Source:** [Link](https://x.com/TheAricIs/status/2104932354149994559) | **Published:** Sep 29, 2026
+
+---
+### Grok Imagine Video-Prompt: Elon Musk Stummfilm-Parodie
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Generierungsprompt für Grok Imagine zur Erstellung einer Stummfilm-Parodie mit Elon Musk, die verwirrendes menschliches Verhalten demonstriert, begleitet von altertümlicher Musik.
+
+#### 📝 Prompt
+
+```
+Bitte erstellen Sie eine weitere Parodie eines Stummfilms über {argument name="character" default="Elon Musk"}, die ein beliebtes Thema zeigt, bei dem menschliche Verhaltensweisen künstliche Intelligenzmodelle verwirren.
+Der Ton besteht nur aus altertümlicher Musik, wie sie früher üblich war.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104932088654819328/img/GpnpEa6awomlK0Hn.jpg" width="600" alt="Grok Imagine Video-Prompt: Elon Musk Stummfilm-Parodie">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11663)**
+
+**Author:** [TheAric](https://x.com/TheAricIs) | **Source:** [Link](https://x.com/TheAricIs/status/2104932108883960021) | **Published:** Sep 29, 2026
+
+---
+### Stummfilm-Parodie-Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein komplexer Prompt zur Erstellung einer Stummfilm-Parodie über menschliches Verhalten, das KI verwirrt, mit nostalgischer Musik und Texteinblendungen.
+
+#### 📝 Prompt
+
+```
+Bitte erstellen Sie eine Parodie-Stummfilm über ein kontroverses Thema, der menschliche Verhaltensweisen zeigt, die KI verwirren. Der Ton besteht nur aus altertümlicher Musik, wie sie früher üblich war. Am Ende wird für eine halbe Sekunde ein Wort eingeblendet, das den jeweiligen Charakterzug benennt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104929767463993344/img/PIg1i4-xPx1uCU9m.jpg" width="600" alt="Stummfilm-Parodie-Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11669)**
+
+**Author:** [TheAric](https://x.com/TheAricIs) | **Source:** [Link](https://x.com/TheAricIs/status/2104929789199237434) | **Published:** Sep 29, 2026
+
+---
+### Konzept für Starship-Barge-Fang
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Konzept-Art-/Video-Prompt für die Landung der SpaceX Starship auf einer Barge mit Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Starship-Fang auf einer Barge. Ich habe dieses Design erstellt und es durch Grok laufen lassen, um eine verfeinerte Version zu erhalten. Es handelt sich um ein Konzept für einen Barge-Fang der SpaceX Starship.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104906051812524032/img/tNi3GaLcKx1dUvdc.jpg" width="600" alt="Konzept für Starship-Barge-Fang">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11662)**
+
+**Author:** [Don Auten](https://x.com/Don_Auten) | **Source:** [Link](https://x.com/Don_Auten/status/2104915017674137715) | **Published:** Sep 29, 2026
+
+---
+### Dialog erweitern und Outfit wechseln
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein nachfolgender Video-Prompt für Grok Imagine, der vorherige Szenen mit neuem Dialog ('Sean') und Outfit-Änderungen (Latex) erweitert.
+
+#### 📝 Prompt
+
+```
+Erweitern: Lassen Sie sie 'Sean' sagen. Fügen Sie Rihanna mit lockigen Haaren hinzu, im gleichen Outfit, aber aus Latex.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104862493436747776/img/1IfqibmsfWl1xCmZ.jpg" width="600" alt="Dialog erweitern und Outfit wechseln">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11679)**
+
+**Author:** [jason](https://x.com/Jason1438282) | **Source:** [Link](https://x.com/Jason1438282/status/2104862797482057916) | **Published:** Sep 29, 2026
+
+---
 ### Cartman Weltraum-Chaos
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -244,6 +689,25 @@ Pferd mit Boxhandschuhen schlägt auf einen Esel ein, der gleich Rücktritte aus
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11597)**
 
 **Author:** [George Ohan](https://x.com/Fresno_Famous) | **Source:** [Link](https://x.com/Fresno_Famous/status/2104744483229503798) | **Published:** Sep 29, 2026
+
+---
+### Romantische Kuss-Szene bei einer Fahrt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Prompt für Grok Imagine, der zwei Personen zeigt, die sich während einer Fahrt küssen, begleitet von romantischer Hintergrundmusik.
+
+#### 📝 Prompt
+
+```
+Lassen Sie sie mit dem Küssen beginnen und weiter küssen, während die Fahrt fortschreitet. Romantische Musik spielt im Hintergrund.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104718967604494336/img/5fQHcfbAM6WJYWkZ.jpg" width="600" alt="Romantische Kuss-Szene bei einer Fahrt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11677)**
+
+**Author:** [Lori Clayton](https://x.com/Blue_lamp_art) | **Source:** [Link](https://x.com/Blue_lamp_art/status/2104718988521685412) | **Published:** Sep 28, 2026
 
 ---
 ### Schafe unter Wölfen Video
@@ -1724,431 +2188,6 @@ Erstellen Sie ein vollständiges 15-Sekunden-Video aus den enthaltenen Bildern. 
 **Author:** [LEB](https://x.com/LEBcando) | **Source:** [Link](https://x.com/LEBcando/status/2100897085247619525) | **Published:** Sep 18, 2026
 
 ---
-### Coca-Cola-Mentos-Explosionsszene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter, mehrstufiger Video-Prompt, der eine humorvolle physikbasierte Szene mit einem Coca-Cola-Tanker, einem Mentos-LKW und einem bärtigen Mann zeigt, der eine Explosion auslöst.
-
-#### 📝 Prompt
-
-```
-Realistische Dashboard-POV, nasse Autobahn, roter Coca-Cola-Tanker sprudelt neben blauem Mentos-LKW. Ein kräftiger, bärtiger Mann in orangefarbenem Tanktop und Shorts füllt einen Krug aus der Lache, trinkt hastig, wirft Mentos-Schachteln in die Pfütze und löst eine riesige Eruption aus, die ihn in die Luft katapultiert. Humorvoll, detaillierte Physik, 30s vertikal.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100842567470292992/img/FuRk8KIp-5GviHnn.jpg" width="600" alt="Coca-Cola-Mentos-Explosionsszene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11002)**
-
-**Author:** [Queen Punter 🎀](https://x.com/Sarafinadon) | **Source:** [Link](https://x.com/Sarafinadon/status/2100842703193804901) | **Published:** Sep 18, 2026
-
----
-### Chibi-Stil Foto-Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Umwandlung eines Fotos in einen niedlichen Chibi-Anime-Charakter, der die Gesichtszüge beibehält und Merkmale wie Kopfgröße und Augen übertrieben darstellt.
-
-#### 📝 Prompt
-
-```
-Verwandle dieses Foto in einen niedlichen Chibi-Stil: Der Mann hat einen überproportional großen Kopf mit großen ausdrucksstarken Augen, einem winzigen Körper, süßen übertriebenen Merkmalen, weicher Anime-Schattierung, großem rundem Kopf, kurzen Gliedmaßen, wobei seine exakte Gesichtsähnlichkeit erhalten bleibt, kurze graue Haare,...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100842464386908160/img/VULVZCMwc0iliOcd.jpg" width="600" alt="Chibi-Stil Foto-Transformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11039)**
-
-**Author:** [Joseph Buttacavole](https://x.com/Joebutter1111) | **Source:** [Link](https://x.com/Joebutter1111/status/2100842480107175964) | **Published:** Sep 18, 2026
-
----
-### Aschenputtel im Central Park
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Prompt, der Aschenputtel in einer modernen Kulisse des Central Parks zeigt, während sie aus ihrer Kutsche steigt.
-
-#### 📝 Prompt
-
-```
-Aschenputtel trägt ein rosa Kleid. Sie steigt aus ihrer weißen von Pferden gezogenen Kutsche und befindet sich im Central Park, New York, USA, im heutigen Amerika.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100809364600672256/img/CPMTO-65Uono7is7.jpg" width="600" alt="Aschenputtel im Central Park">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11001)**
-
-**Author:** [K. Massari](https://x.com/porcupine_touch) | **Source:** [Link](https://x.com/porcupine_touch/status/2100809392870359537) | **Published:** Sep 18, 2026
-
----
-### Gefälschtes Angelwurf-Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Prompt, der einen gefälschten Wurf wie beim Angeln beschreibt, das Anhaken eines vorgetäuschten Fischbisses und das Einholen des Fangs.
-
-#### 📝 Prompt
-
-```
-Gefälschter Wurf wie beim Angeln, Anhaken eines vorgetäuschten Fischbisses, Einholen des gefälschten Fanges....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100765658464083968/img/bopZrXUorKDqtzU0.jpg" width="600" alt="Gefälschtes Angelwurf-Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11003)**
-
-**Author:** [Yourenext1187🏴‍☠️](https://x.com/Spergburger) | **Source:** [Link](https://x.com/Spergburger/status/2100765685383098471) | **Published:** Sep 18, 2026
-
----
-### Lego-Drache als Wächter
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Erstellung eines furchteinflößenden Drachen, der vollständig aus ineinandergreifenden Lego-Steinen besteht und im Mondlicht vor einer Lego-Burg Wache hält.
-
-#### 📝 Prompt
-
-```
-Ein furchteinflößender Drache, der vollständig aus ineinandergreifenden Lego-Steinen in dunklen und kräftigen Farben gebaut ist – tiefes Karmesinrot, Mitternachtsschwarz, königliches Purpur und elektrisches Blau. Der Drache hält Wache vor einer hoch aufragenden Lego-Burg mit Zinnen und Türmen, seine Flügel schützend ausgebreitet. Nachtszene im hellen Mondlicht, dramatische Beleuchtung, glänzende Plastikoberflächen, die den Schein einfangen, cineastische Fantasy-Atmosphäre, sehr detailliert.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100739489576407040/img/6WYwjdDKFch9BQgG.jpg" width="600" alt="Lego-Drache als Wächter">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11005)**
-
-**Author:** [Sherice](https://x.com/Sherice0799) | **Source:** [Link](https://x.com/Sherice0799/status/2100739588712956331) | **Published:** Sep 18, 2026
-
----
-### Bud Light Kid Rock Parodie
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein humorvoller Video-Prompt, der einen berühmten Moment aus einem Bud Light Werbespot mit Kid Rock nachstellt, jedoch Tillamook Käse als Ersatz verwendet.
-
-#### 📝 Prompt
-
-```
-Ein Bud Light Spot mit Kid Rock, in dem er die Dosen schießt, aber mit Tillamook Käse
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100739335007993856/img/rNPqWIPCJDNmwYeT.jpg" width="600" alt="Bud Light Kid Rock Parodie">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10999)**
-
-**Author:** [Anita Evans](https://x.com/AnitaEvans2911) | **Source:** [Link](https://x.com/AnitaEvans2911/status/2100739348874350832) | **Published:** Sep 18, 2026
-
----
-### Cinematic Horse Rider at Mosque
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt describing a slow cinematic camera push forward as a horse and rider approach a mosque with golden sand and shimmering stars.
-
-#### 📝 Prompt
-
-```
-The horse and rider walk slowly toward the mosque. The robe and horse’s mane move gently in the wind. Golden sand drifts softly, clouds move slowly, stars shimmer and light rays glow. Slow cinematic camera push forward. Preserve the mosque and composition.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100702402546372608/img/GqhyoZOndtvUtg05.jpg" width="600" alt="Cinematic Horse Rider at Mosque">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11000)**
-
-**Author:** [Dame](https://x.com/Damesall313) | **Source:** [Link](https://x.com/Damesall313/status/2100702458171293763) | **Published:** Sep 17, 2026
-
----
-### Anthropomorphe Transformations-Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt zur Verwandlung eines Charakters in einen tierähnlichen Zustand mit Hufen und Schwanz.
-
-#### 📝 Prompt
-
-```
-Lass ihn sich dehnen und wiehern, während er auf alle Viere geht, wobei Hufe erscheinen und ein Schwanz aus seiner Shorts herausschaut, als er sich auf alle Viere begibt.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100557315292147712/img/NL6bqOR_GoRlzjYG.jpg" width="600" alt="Anthropomorphe Transformations-Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11048)**
-
-**Author:** [pup mb](https://x.com/mikeb5222094828) | **Source:** [Link](https://x.com/mikeb5222094828/status/2100557439556849968) | **Published:** Sep 17, 2026
-
----
-### Grok Imagine Prompt: Siberian Tiger Wildlife Photography
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for generating photorealistic wildlife photography of a Siberian tiger in a natural setting, utilizing shallow depth of field and cold lighting to achieve an unposed, documentary aesthetic.
-
-#### 📝 Prompt
-
-```
-Art Style: Photorealistic wildlife photography, shallow depth of field, natural cold lighting, subtle film grain, honest and unposed, no glamorization.
-
-Content: A Siberian tiger walking
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100468661995921408/img/yrSMe_OEtDZDdjw0.jpg" width="600" alt="Grok Imagine Prompt: Siberian Tiger Wildlife Photography">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11004)**
-
-**Author:** [David Liang](https://x.com/DavidLi36143625) | **Source:** [Link](https://x.com/DavidLi36143625/status/2100469282497032283) | **Published:** Sep 17, 2026
-
----
-### Frau wirft die Welt in die Sonne
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Generierung eines Videos, in dem eine Frau die Welt hält und sie in die Sonne wirft, was zu einer Explosion führt.
-
-#### 📝 Prompt
-
-```
-Bild einer Frau mit der Welt auf ihren Schultern. Sie nimmt die Welt und wirft sie ins All. Sie trifft die Sonne und verbrennt in Flammen. Füge Wörter aus den Bildern hinzu ....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100321558443036672/img/Rl1Rp_degjVQkYGq.jpg" width="600" alt="Frau wirft die Welt in die Sonne">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10970)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2100321574658130008) | **Published:** Sep 16, 2026
-
----
-### Strukturierter JSON-Prompt für Innenszenen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein strukturierter JSON-formatierter Prompt für die Grok Imagine-Videogenerierung, der eine Inneneinrichtung mit spezifischen Kamerabewegungen zeigt.
-
-#### 📝 Prompt
-
-```
-{"shot":{"motion_level":"niedrig","camera_depth":"Nahaufnahme","camera_view":"Augenhöhe","camera_movement":"sanftes kontinuierliches Zoomen","count":"1"},"scene":{"location":"Inneneinrichtung auf einem Holztisch","environment":"Eine ruhige Innenumgebung mit einem w... https://t.co/ebCCk0g8EF
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100279939647860736/img/m_preecVqRQw9p4w.jpg" width="600" alt="Strukturierter JSON-Prompt für Innenszenen">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10971)**
-
-**Author:** [Han Vu](https://x.com/HanVu195089) | **Source:** [Link](https://x.com/HanVu195089/status/2100279957507150291) | **Published:** Sep 16, 2026
-
----
-### Tesla Roadster Launch Cinematic Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Generierung eines kinoreifen, fotorealistischen Videos der Tesla Roadster Enthüllung mit zündenden Triebwerken.
-
-#### 📝 Prompt
-
-```
-Kinoreifes, fotorealistisches Bild des neuen Tesla Roadster der zweiten Generation während seiner "Go for launch"-Enthüllung. Der rote futuristische Hypercar schwebt leicht über dem Boden, während die SpaceX-Kaltgas-Triebwerke vier helle weiße Abgasfahnen aus dem Heck ausstoßen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100243744406810624/img/4qeedoO1jM2kj1xX.jpg" width="600" alt="Tesla Roadster Launch Cinematic Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10976)**
-
-**Author:** [harvey](https://x.com/HarveyJS) | **Source:** [Link](https://x.com/HarveyJS/status/2100243758898200846) | **Published:** Sep 16, 2026
-
----
-### Falke im High-Fashion-Anzug
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt, der sich einen Falken vorstellt, der einen High-Fashion-Trainingsanzug trägt und den Himmel von einem Balkon aus beobachtet.
-
-#### 📝 Prompt
-
-```
-Stell dir einen Falken in einem aufregenden „High Fashion“-Trainingsanzug vor, der sitzt und den Himmel vom Balkon seines Zuhauses aus beobachtet.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100214782498414593/img/VrAE7H9zK-IDYGTR.jpg" width="600" alt="Falke im High-Fashion-Anzug">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10969)**
-
-**Author:** [🤴🏻](https://x.com/DDadalekan) | **Source:** [Link](https://x.com/DDadalekan/status/2100215467868668039) | **Published:** Sep 16, 2026
-
----
-### Grok Imagine Prompt: Begegnung in einem Miami-Café
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein narrativer Prompt, der eine spezifische Interaktion in einem Café in Miami mit Kid Cudi beschreibt.
-
-#### 📝 Prompt
-
-```
-Ich, der weiße Typ, sitze in einem Café in Miami und esse eine Collata. Der Barista bringt mir Kroketten und fragt, ob ich noch etwas möchte. Ich sage nein, das war alles. Kid Cudi kommt herein und sieht verängstigt aus. Er erblickt mich, schnappt nach Luft, dreht sich um und geht wieder hinaus.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100155268931657728/img/uXS5cJfruVXBNbcC.jpg" width="600" alt="Grok Imagine Prompt: Begegnung in einem Miami-Café">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10975)**
-
-**Author:** [Kyle Kelly](https://x.com/dairyfarts) | **Source:** [Link](https://x.com/dairyfarts/status/2100155289223721409) | **Published:** Sep 16, 2026
-
----
-### Fasanen und Füchse jagen SUVs auf einer Landstraße
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Generierungs-Prompt für Grok Imagine, der Fasanen und Rotfüchse zeigt, die schwarze SUVs entlang einer kurvenreichen Cotswolds-Landstraße mit dynamischen Tierbewegungen jagen.
-
-#### 📝 Prompt
-
-```
-Fasanen und Rotfüchse jagen die schwarzen SUVs entlang der kurvenreichen Cotswolds-Landstraße. Vögel flattern und fliegen niedrig, Füchse sprinten und springen und wirbeln Staub auf, während Fahrzeuge langsam durch die sanften grünen Hügel mit Steinmauern unter bewölktem Himmel fahren....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100121184503287808/img/vPyC9qNkckcPIniD.jpg" width="600" alt="Fasanen und Füchse jagen SUVs auf einer Landstraße">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10972)**
-
-**Author:** [Just4usewith_thisapp](https://x.com/just4usewith) | **Source:** [Link](https://x.com/just4usewith/status/2100121793084145742) | **Published:** Sep 16, 2026
-
----
-### Grok Imagine Video-Prompt: Hundewiedersehen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein zeitgesteuerter Video-Prompt für Grok Imagine, der eine emotionale Wiedersehensszene zwischen einer Person und ihrem Hund auf einer Straße darstellt.
-
-#### 📝 Prompt
-
-```
-0–2s: Eine Person steht am Ende einer ruhigen Straße und wartet.
-2–4s: Ihr Hund rennt plötzlich mit voller Geschwindigkeit auf sie zu.
-4–5s: Sie knien sich hin und umarmen den Hund, während sein Schwanz heftig wedelt.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099908888946757632/img/CFJ6luf7mVarsirS.jpg" width="600" alt="Grok Imagine Video-Prompt: Hundewiedersehen">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10942)**
-
-**Author:** [Anandh KS](https://x.com/anandh_ks_) | **Source:** [Link](https://x.com/anandh_ks_/status/2100120751739138238) | **Published:** Sep 16, 2026
-
----
-### Flugzeug fliegt durch blauen Himmel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein einfaches Video-Generierungs-Prompt für Grok Imagine, das ein Flugzeug zeigt, das reibungslos durch den Himmel fliegt, mit kinematischer Kamerabewegung.
-
-#### 📝 Prompt
-
-```
-Das rot-weiße Flugzeug fliegt sanft vorwärts durch den blauen Himmel, leicht geneigt, während Wolken vorbeiziehen und subtile Kondensstreifen sichtbar sind. Die Kamera verfolgt das Flugzeug von unten in einer kinematischen und flüssigen Bewegung.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100010559953317888/img/S_jbW65n9EF36D_i.jpg" width="600" alt="Flugzeug fliegt durch blauen Himmel">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10944)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2100010572964081702) | **Published:** Sep 15, 2026
-
----
-### Hund fragt Mama: Warum?
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Prompt für Grok Imagine, der einen Hund namens Little Man animiert, um zu sagen: 'Mama, warum brauchst du so lange?'
-
-#### 📝 Prompt
-
-```
-Lass diesen Hund namens Little Man sagen: Mama, warum brauchst du so lange? https://t.co/DxRYqI8CbP
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099993603900571648/img/0AwX-Pp4qI26a_t3.jpg" width="600" alt="Hund fragt Mama: Warum?">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10973)**
-
-**Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2099993633256554562) | **Published:** Sep 15, 2026
-
----
-### Grok Imagine Video-Prompt: Leuchtende Spinnenlilie im Regen
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein cineastischer Video-Prompt, der eine Nahaufnahme einer roten Spinnenlilie zeigt, die im nächtlichen Regen blau leuchtet, mit detaillierten Kamerabewegungen und atmosphärischen Effekten.
-
-#### 📝 Prompt
-
-```
-Darstellung einer einzelnen roten Spinnenlilie im Regen, die in der Dunkelheit der Nacht blau leuchtet, wunderschön als Nahaufnahme in einem CG-Stil visualisiert.
-Die Blütenblätter sind von vielen herabtropfenden Regentropfen bedeckt, die ein bläulich-weißes Licht ausstrahlen und die umgebende Luft sanft erhellen.
-Die Kamera beginnt mit einer Nahaufnahme der Blume, folgt langsam den Spitzen der Blütenblätter und den Reflexionen der Wassertropfen und kreist leicht um sie herum, um ihre Schönheit hervorzuheben.
-In der Stille der Nacht bleiben nur das Geräusch des sanften Schaukelns im schwachen Wind und das Schimmern, wenn das Licht durch die Wassertropfen bricht.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099993504810426368/img/nKyNvBwY48Xu3a_f.jpg" width="600" alt="Grok Imagine Video-Prompt: Leuchtende Spinnenlilie im Regen">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10946)**
-
-**Author:** [あきおT☀️楽天ROOM・マネタイズ](https://x.com/AkioT315) | **Source:** [Link](https://x.com/AkioT315/status/2099993537886728477) | **Published:** Sep 15, 2026
-
----
-### King Diamond am Hollywood Hill
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Prompt für Grok Imagine, der King Diamond um Mitternacht bei Vollmond neben dem Wisdom Tree auf dem Hollywood Hill zeigt.
-
-#### 📝 Prompt
-
-```
-King Diamond neben dem Wisdom Tree auf dem Hollywood Hill um Mitternacht, jetzt mit Vollmond @King_Diamond 🤷‍♂️ https://t.co/wLLm9lzT3a
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099977081484652544/img/3r4BQ2bE9wd1L5UA.jpg" width="600" alt="King Diamond am Hollywood Hill">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10974)**
-
-**Author:** [Mr.Lucky_130 🍀](https://x.com/Lucky13014) | **Source:** [Link](https://x.com/Lucky13014/status/2099977106914787437) | **Published:** Sep 15, 2026
-
----
-### Klassischer Malstil von Diogenes
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Generierung eines Videos oder einer Animation von Diogenes, der auf der Straße feiert, im Stil eines klassischen Gemäldes.
-
-#### 📝 Prompt
-
-```
-Diogenes feiert sitzend auf der Straße, im Stil eines klassischen Gemäldes
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099962866267037696/img/mFlgfiS6qltuOkaf.jpg" width="600" alt="Klassischer Malstil von Diogenes">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10945)**
-
-**Author:** [McKenzie](https://x.com/mckenzie_X_X) | **Source:** [Link](https://x.com/mckenzie_X_X/status/2099962962828226725) | **Published:** Sep 15, 2026
-
----
-### Büroszene mit Tesla-Display
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Generierung einer realistischen Büroszene, in der eine Figur an einem Schreibtisch sitzt, auf dem ein Fernseher Tesla-Modelle zeigt, und von einer Sekretärin Kaffee serviert bekommt.
-
-#### 📝 Prompt
-
-```
-Ich bin im Büro. Ich setze mich an meinen Schreibtisch. An der Wand hängt ein großer Fernseher, der alle Tesla-Modelle anzeigt. Meine Sekretärin bringt mir eine Tasse Kaffee und nimmt einige Dokumente vom Drucker.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099914367961583616/img/YVLb2cEyvjNaX4o7.jpg" width="600" alt="Büroszene mit Tesla-Display">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10943)**
-
-**Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2099914455878410600) | **Published:** Sep 15, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2210,6 +2249,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-30T05:24:20.407Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-30T15:14:23.222Z</sub>
 
 </div>
