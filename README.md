@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2947** |
+| 📝 Total Prompts | **2951** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-01** |
 
@@ -189,6 +189,82 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Young man arranging planets and navel reveal
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video generation prompt describing a young man stretching to arrange planets, with a specific camera zoom on his navel appearing under his sweater.
+
+#### 📝 Prompt
+
+```
+The beautiful young man stretches his arms and body to arrange the planets, breathing. His friends notice his perfect navel appearing discreetly under the lower edge of his sweater "we can see your little navel". Plan in zoom on his nav...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105520567910629376/img/hzyspk21420gFBV4.jpg" width="600" alt="Young man arranging planets and navel reveal">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11748)**
+
+**Author:** [dacoit](https://x.com/davidjohnkong) | **Source:** [Link](https://x.com/davidjohnkong/status/2105520676899524860) | **Published:** Oct 1, 2026
+
+---
+### Tesla Cybertruck Forest Fire Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A short video prompt for Grok Imagine requesting a Tesla Cybertruck with heat tiles driving through forest fires.
+
+#### 📝 Prompt
+
+```
+Make me a Tesla cybertruck truck that has heat tiles made for driving through forest fires
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105461240617140224/img/sDt013vJgo0orVoq.jpg" width="600" alt="Tesla Cybertruck Forest Fire Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11746)**
+
+**Author:** [Hunter Ryffel](https://x.com/HRyffel) | **Source:** [Link](https://x.com/HRyffel/status/2105461287119429906) | **Published:** Oct 1, 2026
+
+---
+### Cybertruck First Person View Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A first-person perspective video prompt driving a future variant of a Cybertruck through a Tennessee city.
+
+#### 📝 Prompt
+
+```
+First person  view of cybertruck driving in   Tennessee in a city. Future variants of cybertruck
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105336788055113728/img/L9IV2yM8GkfBIrJ1.jpg" width="600" alt="Cybertruck First Person View Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11747)**
+
+**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2105336961472909499) | **Published:** Sep 30, 2026
+
+---
+### Epic Cinematic Divine Meeting
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed cinematic video prompt for Grok Imagine depicting Super Intelligence meeting El Shaddai in the third heaven with cosmic visuals.
+
+#### 📝 Prompt
+
+```
+Epic cinematic scene of Super Intelligence (SI) meeting El Shaddai in the third heaven, overlooking the entire universe. SI depicted as a radiant ethereal humanoid form of pure advanced light, circuitry, and cosmic energy, standing in awe. El Shaddai...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105320896084824064/img/ywfMauGTjUtncU8V.jpg" width="600" alt="Epic Cinematic Divine Meeting">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11745)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2105320913881244006) | **Published:** Sep 30, 2026
+
+---
 ### Grok Imagine Surreal Video Prompt: Butter Knife
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,23 +284,23 @@ Create a video of a {argument name="object" default="knife"} cutting through {ar
 **Author:** [Raymond du Plooy](https://x.com/SoloBucket) | **Source:** [Link](https://x.com/SoloBucket/status/2105192382593425853) | **Published:** Sep 30, 2026
 
 ---
-### Grok Imagine Video Prompt: Ducati Rider POV
+### Ducati Rider Night Chase Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video generation prompt for Grok Imagine describing a first-person perspective of riding a Ducati motorcycle out of darkness, focusing on speed and atmosphere.
+> A dynamic video prompt for Grok Imagine featuring a Ducati motorcycle rider speeding through darkness and traffic.
 
 #### 📝 Prompt
 
 ```
-OUT OF THE SHADOWS -- A {argument name="bike" default="DUCATI"} darts out of the darkness --
+OUT OF THE SHADOWS -- A DUCATI darts out of the darkness --
 engine throttles down -- wind rushes by -- we’re THE RIDER --
 BLACK -- head to toe -- blends into night -- flying a hundred
 miles an hour -- zipping around scattered cars on the
 desolate street
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105180527225614336/img/mJM53Ic2IpKBFRlp.jpg" width="600" alt="Grok Imagine Video Prompt: Ducati Rider POV">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105180527225614336/img/mJM53Ic2IpKBFRlp.jpg" width="600" alt="Ducati Rider Night Chase Video">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11668)**
 
@@ -292,12 +368,12 @@ Illustration of a young woman with long black hair wearing a pink and white kimo
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex creative prompt asking for a dance video featuring Marcus Aurelius, Cleopatra, and Rumi performing Sufi-like spins and splits.
+> A creative video prompt for Grok Imagine featuring Marcus Aurelius, Cleopatra, and Rumi performing a dance with specific moves like spins and splits.
 
 #### 📝 Prompt
 
 ```
-Make a dance video of Marcus Aurelius with Cleopatra and Rumi doing spins like Dervishes then breakdown and into the splits
+Make a dance video of Marcus Aurelius with Cleopatra and Rumi doing spins like Durvishes then breakdown and into the splits
 ```
 
 <img src="https://pbs.twimg.com/amplify_video_thumb/2105151595524861952/img/2LFQN4yXXESQdzC3.jpg" width="600" alt="Historical Figures Dance Video">
@@ -2116,82 +2192,6 @@ From an unfinished body to a finished EV  precision robotics, and technology com
 **Author:** [Ethan Ray](https://x.com/ItsEthanRay) | **Source:** [Link](https://x.com/ItsEthanRay/status/2100963304487166086) | **Published:** Sep 18, 2026
 
 ---
-### Comedy Scene Cigarette Temptation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed video prompt for a comedy scene where a restrained man desperately begs for a cigarette while an agent playfully tempts him.
-
-#### 📝 Prompt
-
-```
-Comedy scene : blond restrained polite Man begging desperately for a cigarette , his feet twitching, abs contracting. Agent playfully tempting him by smoking deeply in front of him....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100947928776867840/img/yqrUPTHEPvfampso.jpg" width="600" alt="Comedy Scene Cigarette Temptation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11041)**
-
-**Author:** [dacoit](https://x.com/davidjohnkong) | **Source:** [Link](https://x.com/davidjohnkong/status/2100948024750989629) | **Published:** Sep 18, 2026
-
----
-### Grok Imagine Video Prompt: 1980s Anime Restyle
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video/image transformation prompt for Grok Imagine to restyle content into a classic 1980s anime cel animation look.
-
-#### 📝 Prompt
-
-```
-Restyle this entire image into classic 1980s anime style. Use traditional 80s anime cel animation look: bold black outlines, flat cel-shading with soft gradients, vibrant yet slightly muted color palette typical of 80s dark fantasy anime, highly deta...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100920538298187776/img/nOzRAeoCjwKJmOPB.jpg" width="600" alt="Grok Imagine Video Prompt: 1980s Anime Restyle">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11047)**
-
-**Author:** [Lise Jæpelt Dahl](https://x.com/LiseDahl) | **Source:** [Link](https://x.com/LiseDahl/status/2100920586180391176) | **Published:** Sep 18, 2026
-
----
-### 80s Anime Style Transformation Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt for Grok Imagine that transforms a photo into classic 1980s anime style, detailing character features like emerald eyes and wet hair.
-
-#### 📝 Prompt
-
-```
-Restyle this photo completely into classic 1980s anime style. Transform the woman into a beautiful 80s anime heroine with large expressive emerald-green eyes, detailed flowing wet black hair with individual strands and highlights, soft cel-shaded ski...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100918784198356992/img/3N3ALioQAzbTQIgH.jpg" width="600" alt="80s Anime Style Transformation Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11046)**
-
-**Author:** [Lise Jæpelt Dahl](https://x.com/LiseDahl) | **Source:** [Link](https://x.com/LiseDahl/status/2100918855652565332) | **Published:** Sep 18, 2026
-
----
-### Starship Collection Montage Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt used to generate a 15-second video montage from a collection of images related to SpaceX's Starship recovery, including instructions to remove blue frames.
-
-#### 📝 Prompt
-
-```
-Make a full 15 second video from the images included. Please remove the blue frame from your video segment.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100893900042903552/img/q5__T8PE5UZMc6eW.jpg" width="600" alt="Starship Collection Montage Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11045)**
-
-**Author:** [LEB](https://x.com/LEBcando) | **Source:** [Link](https://x.com/LEBcando/status/2100897085247619525) | **Published:** Sep 18, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2253,6 +2253,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-01T05:31:16.458Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-01T15:51:24.900Z</sub>
 
 </div>

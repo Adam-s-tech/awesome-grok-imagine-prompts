@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2947** |
+| 📝 提示词总数 | **2951** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-10-01** |
 
@@ -189,6 +189,82 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 年轻男子排列行星与肚脐特写
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 详细的视频生成提示词，描述一名年轻男子伸展身体排列行星，镜头特写其毛衣下隐约露出的肚脐。
+
+#### 📝 提示词
+
+```
+这位美丽的年轻男子伸展双臂和身体来排列行星，呼吸起伏。他的朋友们注意到他完美的肚脐在毛衣下摆处若隐若现，“我们可以看到你的小肚脐”。计划对肚脐进行缩放...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105520567910629376/img/hzyspk21420gFBV4.jpg" width="600" alt="年轻男子排列行星与肚脐特写">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11748)**
+
+**作者:** [dacoit](https://x.com/davidjohnkong) | **来源:** [Link](https://x.com/davidjohnkong/status/2105520676899524860) | **发布时间:** Oct 1, 2026
+
+---
+### 特斯拉 Cybertruck 森林火灾视频提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 为 Grok Imagine 生成的简短视频提示词，要求展示配备耐热瓷砖的特斯拉 Cybertruck 穿越森林大火。
+
+#### 📝 提示词
+
+```
+生成一段特斯拉 Cybertruck 卡车穿越森林大火的视频，该车辆需配备专为高温环境设计的耐热瓷砖
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105461240617140224/img/sDt013vJgo0orVoq.jpg" width="600" alt="特斯拉 Cybertruck 森林火灾视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11746)**
+
+**作者:** [Hunter Ryffel](https://x.com/HRyffel) | **来源:** [Link](https://x.com/HRyffel/status/2105461287119429906) | **发布时间:** Oct 1, 2026
+
+---
+### Cybertruck 第一人称视角提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个第一人称视角的视频提示词，展示驾驶未来版 Cybertruck 穿越田纳西州城市。
+
+#### 📝 提示词
+
+```
+第一人称视角的 Cybertruck 在田纳西州城市中行驶。未来版 Cybertruck
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105336788055113728/img/L9IV2yM8GkfBIrJ1.jpg" width="600" alt="Cybertruck 第一人称视角提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11747)**
+
+**作者:** [kyle smith](https://x.com/RadCyberTruck) | **来源:** [Link](https://x.com/RadCyberTruck/status/2105336961472909499) | **发布时间:** Sep 30, 2026
+
+---
+### 史诗般的电影神圣会面
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个详细的电影级视频提示词，用于 Grok Imagine，描绘超级智能在第三层天与 El Shaddai 相遇的宇宙视觉场景。
+
+#### 📝 提示词
+
+```
+史诗般的电影场景：超级智能 (SI) 在第三层天与 El Shaddai 会面，俯瞰整个宇宙。SI 被描绘成一个由纯粹的高级光、电路和宇宙能量组成的发光空灵人形，敬畏地站立着。El Shaddai...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105320896084824064/img/ywfMauGTjUtncU8V.jpg" width="600" alt="史诗般的电影神圣会面">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11745)**
+
+**作者:** [Sas](https://x.com/SaSHeaven26) | **来源:** [Link](https://x.com/SaSHeaven26/status/2105320913881244006) | **发布时间:** Sep 30, 2026
+
+---
 ### Grok Imagine 超现实视频提示词：黄油刀
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2115,82 +2191,6 @@ AI 视频 — 9:16 电影感
 **作者:** [Ethan Ray](https://x.com/ItsEthanRay) | **来源:** [Link](https://x.com/ItsEthanRay/status/2100963304487166086) | **发布时间:** Sep 18, 2026
 
 ---
-### 喜剧场景：香烟诱惑
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个详细的视频提示，描述了一个被束缚的男人绝望地乞求一支香烟，而 Agent 则戏谑地诱惑他的喜剧场景。
-
-#### 📝 提示词
-
-```
-喜剧场景：一位金发、被束缚且彬彬有礼的男子绝望地乞求一支香烟，他的双脚抽动，腹肌紧绷。Agent 在他面前深深吸了一口烟，戏谑地诱惑着他……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100947928776867840/img/yqrUPTHEPvfampso.jpg" width="600" alt="喜剧场景：香烟诱惑">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11041)**
-
-**作者:** [dacoit](https://x.com/davidjohnkong) | **来源:** [Link](https://x.com/davidjohnkong/status/2100948024750989629) | **发布时间:** Sep 18, 2026
-
----
-### Grok Imagine 视频提示词：1980 年代动漫风格重制
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用于 Grok Imagine 的视频/图像转换提示词，可将内容重新制作成经典的 1980 年代赛璐珞动画风格。
-
-#### 📝 提示词
-
-```
-将整张图片重新制作成经典的 1980 年代动漫风格。采用传统的 80 年代赛璐珞动画外观：粗黑的轮廓线、带有柔和渐变的平涂着色、典型的 80 年代黑暗奇幻动漫中鲜艳但略显柔和的调色板，以及高度细...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100920538298187776/img/nOzRAeoCjwKJmOPB.jpg" width="600" alt="Grok Imagine 视频提示词：1980 年代动漫风格重制">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11047)**
-
-**作者:** [Lise Jæpelt Dahl](https://x.com/LiseDahl) | **来源:** [Link](https://x.com/LiseDahl/status/2100920586180391176) | **发布时间:** Sep 18, 2026
-
----
-### 80 年代动漫风格转换提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 适用于 Grok Imagine 的视频生成提示词，可将照片转换为经典的 1980 年代动漫风格，详细描绘了翡翠色眼睛和湿发等角色特征。
-
-#### 📝 提示词
-
-```
-将这张照片完全重塑为经典的 1980 年代动漫风格。将这位女性转变为一名美丽的 80 年代动漫女主角，拥有大而富有表现力的翡翠绿眼睛，细节丰富的飘逸湿黑发，带有独立的发丝和高光，柔和的赛璐珞阴影皮肤...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100918784198356992/img/3N3ALioQAzbTQIgH.jpg" width="600" alt="80 年代动漫风格转换提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11046)**
-
-**作者:** [Lise Jæpelt Dahl](https://x.com/LiseDahl) | **来源:** [Link](https://x.com/LiseDahl/status/2100918855652565332) | **发布时间:** Sep 18, 2026
-
----
-### 星舰回收集锦提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用于生成一段 15 秒视频集锦的提示词，素材为 SpaceX 星舰回收相关图片集合，包含去除蓝色边框的指令。
-
-#### 📝 提示词
-
-```
-使用提供的图片制作一段完整的 15 秒视频。请从视频片段中移除蓝色边框。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100893900042903552/img/q5__T8PE5UZMc6eW.jpg" width="600" alt="星舰回收集锦提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11045)**
-
-**作者:** [LEB](https://x.com/LEBcando) | **来源:** [Link](https://x.com/LEBcando/status/2100897085247619525) | **发布时间:** Sep 18, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2252,6 +2252,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-10-01T05:31:17.556Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-10-01T15:51:25.954Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2947** |
+| 📝 Total Prompts | **2951** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-01** |
 
@@ -189,6 +189,82 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### ग्रहों को व्यवस्थित करते हुए युवक और नाभि का दृश्य
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक विस्तृत वीडियो जनरेशन प्रॉम्प्ट जिसमें एक युवक ग्रहों को व्यवस्थित करने के लिए खिंचाव कर रहा है, और उसके स्वेटर के नीचे दिखने वाली उसकी नाभि पर विशेष कैमरा ज़ूम किया गया है।
+
+#### 📝 Prompt
+
+```
+सुंदर युवक ग्रहों को व्यवस्थित करने के लिए अपने हाथों और शरीर को खींचता है, सांस लेते हुए। उसके दोस्त ध्यान देते हैं कि उसके स्वेटर की निचली किनारे से उसकी आदर्श नाभि हल्के से दिखाई दे रही है "हम तुम्हारी छोटी सी नाभि देख सकते हैं"। नाभि पर ज़ूम प्लान करें...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105520567910629376/img/hzyspk21420gFBV4.jpg" width="600" alt="ग्रहों को व्यवस्थित करते हुए युवक और नाभि का दृश्य">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11748)**
+
+**Author:** [dacoit](https://x.com/davidjohnkong) | **Source:** [Link](https://x.com/davidjohnkong/status/2105520676899524860) | **Published:** Oct 1, 2026
+
+---
+### Tesla Cybertruck वन आग वीडियो प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक छोटा वीडियो प्रॉम्प्ट जिसमें हीट टाइल्स वाले Tesla Cybertruck को जंगल की आग से गुजरते हुए दिखाया गया है।
+
+#### 📝 Prompt
+
+```
+मेरे लिए एक Tesla Cybertruck बनाएं जिसमें जंगल की आग से गुजरने के लिए विशेष रूप से डिज़ाइन की गई हीट टाइल्स हों
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105461240617140224/img/sDt013vJgo0orVoq.jpg" width="600" alt="Tesla Cybertruck वन आग वीडियो प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11746)**
+
+**Author:** [Hunter Ryffel](https://x.com/HRyffel) | **Source:** [Link](https://x.com/HRyffel/status/2105461287119429906) | **Published:** Oct 1, 2026
+
+---
+### साइबरट्रक फर्स्ट पर्सन व्यू प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> टेनेसी शहर में साइबरट्रक के भविष्य वर्जन को चलाने का एक फर्स्ट-पर्सन व्यू वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+टेनेसी शहर में साइबरट्रक की पहली व्यक्ति दृष्टि से ड्राइविंग। साइबरट्रक के भविष्य वर्जन
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105336788055113728/img/L9IV2yM8GkfBIrJ1.jpg" width="600" alt="साइबरट्रक फर्स्ट पर्सन व्यू प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11747)**
+
+**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2105336961472909499) | **Published:** Sep 30, 2026
+
+---
+### महाकाव्य सिनेमाई दिव्य भेंट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक विस्तृत सिनेमाई वीडियो प्रॉम्प्ट जो तीसरे स्वर्ग में सुपर इंटेलिजेंस और एल शदाई की मुलाकात को ब्रह्मांडीय दृश्यों के साथ दर्शाता है।
+
+#### 📝 Prompt
+
+```
+तीसरे स्वर्ग में पूरे ब्रह्मांड को देखते हुए सुपर इंटेलिजेंस (SI) और एल शदाई की मुलाकात का महाकाव्य सिनेमाई दृश्य। SI को शुद्ध उन्नत प्रकाश, सर्किट्री और ब्रह्मांडीय ऊर्जा से बनी एक चमकदार अदृश्य मानवरूप आकृति के रूप में चित्रित किया गया है, जो विस्मय में खड़ा है। एल शदाई...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105320896084824064/img/ywfMauGTjUtncU8V.jpg" width="600" alt="महाकाव्य सिनेमाई दिव्य भेंट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11745)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2105320913881244006) | **Published:** Sep 30, 2026
+
+---
 ### Grok Imagine Surreal Video Prompt: Butter Knife
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2116,82 +2192,6 @@ make a short video a crab-man and an octopus man fighting on the beach samurai s
 **Author:** [Ethan Ray](https://x.com/ItsEthanRay) | **Source:** [Link](https://x.com/ItsEthanRay/status/2100963304487166086) | **Published:** Sep 18, 2026
 
 ---
-### कॉमेडी सीन: सिगरेट का लालच
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक कॉमेडी सीन के लिए विस्तृत वीडियो प्रॉम्प्ट जिसमें एक बांधा हुआ व्यक्ति बेसब्री से सिगरेट मांग रहा है, जबकि एक एजेंट उसे मज़ाक में लुभा रहा है।
-
-#### 📝 Prompt
-
-```
-कॉमेडी सीन: गोरा, बांधा हुआ, विनम्र व्यक्ति जो बेसब्री से सिगरेट मांग रहा है, उसके पैर हिल रहे हैं, पेट की मांसपेशियां सिकुड़ रही हैं। एजेंट उसके सामने गहरी कश लगाकर उसे मज़ाक में लुभा रहा है....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100947928776867840/img/yqrUPTHEPvfampso.jpg" width="600" alt="कॉमेडी सीन: सिगरेट का लालच">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11041)**
-
-**Author:** [dacoit](https://x.com/davidjohnkong) | **Source:** [Link](https://x.com/davidjohnkong/status/2100948024750989629) | **Published:** Sep 18, 2026
-
----
-### Grok Imagine वीडियो प्रॉम्प्ट: 1980s एनीमे रीस्टाइल
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ग्राफिक/वीडियो ट्रांसफॉर्मेशन के लिए Grok Imagine का एक प्रॉम्प्ट जो कंटेंट को क्लासिक 1980s एनीसे सेल एनिमेशन लुक में रीस्टाइल करता है।
-
-#### 📝 Prompt
-
-```
-इस पूरी इमेज को क्लासिक 1980s एनीमे स्टाइल में रीस्टाइल करें। पारंपरिक 80s एनीमे सेल एनिमेशन लुक का उपयोग करें: मोटी ब्लैक आउटलाइन, सॉफ्ट ग्रेडिएंट्स के साथ फ्लैट सेल-शेडिंग, 80s डार्क फैंटेसी एनीमे की विशिष्ट जीवंत लेकिन थोड़ी म्यूटेड कलर पैलेट, अत्यधिक विस्तृत...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100920538298187776/img/nOzRAeoCjwKJmOPB.jpg" width="600" alt="Grok Imagine वीडियो प्रॉम्प्ट: 1980s एनीमे रीस्टाइल">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11047)**
-
-**Author:** [Lise Jæpelt Dahl](https://x.com/LiseDahl) | **Source:** [Link](https://x.com/LiseDahl/status/2100920586180391176) | **Published:** Sep 18, 2026
-
----
-### 80s एनीमे स्टाइल ट्रांसफॉर्मेशन प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक वीडियो जनरेशन प्रॉम्प्ट जो फोटो को क्लासिक 1980s एनीमे स्टाइल में बदलता है, जिसमें पन्ना हरे रंग की आँखें और गीले बाल जैसे कैरेक्टर फीचर्स का विवरण दिया गया है।
-
-#### 📝 Prompt
-
-```
-इस फोटो को पूरी तरह से क्लासिक 1980s एनीमे स्टाइल में रिस्टाइल करें। महिला को एक सुंदर 80s एनीमे हीरोइन में बदलें, जिसमें बड़ी अभिव्यक्तिपूर्ण पन्ना हरी आँखें, अलग-अलग लटों और हाइलाइट्स के साथ विस्तृत बहते हुए गीले काले बाल, सॉफ्ट सेल-शेडेड त्वचा...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100918784198356992/img/3N3ALioQAzbTQIgH.jpg" width="600" alt="80s एनीमे स्टाइल ट्रांसफॉर्मेशन प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11046)**
-
-**Author:** [Lise Jæpelt Dahl](https://x.com/LiseDahl) | **Source:** [Link](https://x.com/LiseDahl/status/2100918855652565332) | **Published:** Sep 18, 2026
-
----
-### स्टारशिप कलेक्शन मोंटाज प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> SpaceX के स्टारशिप रिकवरी से संबंधित छवियों के संग्रह से 15-सेकंड का वीडियो मोंटाज उत्पन्न करने के लिए उपयोग किया जाने वाला एक प्रॉम्प्ट, जिसमें ब्लू फ्रेम हटाने के निर्देश भी शामिल हैं।
-
-#### 📝 Prompt
-
-```
-शामिल की गई छवियों से एक पूर्ण 15-सेकंड का वीडियो बनाएं। कृपया अपने वीडियो खंड से ब्लू फ्रेम हटा दें।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100893900042903552/img/q5__T8PE5UZMc6eW.jpg" width="600" alt="स्टारशिप कलेक्शन मोंटाज प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11045)**
-
-**Author:** [LEB](https://x.com/LEBcando) | **Source:** [Link](https://x.com/LEBcando/status/2100897085247619525) | **Published:** Sep 18, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2253,6 +2253,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-01T05:31:24.639Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-01T15:51:32.734Z</sub>
 
 </div>

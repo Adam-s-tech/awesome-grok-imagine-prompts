@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2947** |
+| 📝 Total Prompts | **2951** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-01** |
 
@@ -189,6 +189,82 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### ชายหนุ่มจัดเรียงดาวเคราะห์และเผยให้เห็นสะดือ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโอที่ละเอียด อธิบายถึงชายหนุ่มที่ยืดตัวเพื่อจัดเรียงดาวเคราะห์ โดยมีการซูมกล้องไปที่สะดือของเขาซึ่งโผล่ออกมาใต้เสื้อสเวตเตอร์
+
+#### 📝 Prompt
+
+```
+ชายหนุ่มรูปงามยืดแขนและร่างกายเพื่อจัดเรียงดาวเคราะห์พร้อมกับการหายใจ เพื่อนๆ สังเกตเห็นสะดือที่สวยงามของเขาปรากฏขึ้นอย่างแนบเนียนใต้ขอบล่างของเสื้อสเวตเตอร์ "เราเห็นสะดือน้อยๆ ของนาย" วางแผนการซูมไปที่สะดือของเ...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105520567910629376/img/hzyspk21420gFBV4.jpg" width="600" alt="ชายหนุ่มจัดเรียงดาวเคราะห์และเผยให้เห็นสะดือ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11748)**
+
+**Author:** [dacoit](https://x.com/davidjohnkong) | **Source:** [Link](https://x.com/davidjohnkong/status/2105520676899524860) | **Published:** Oct 1, 2026
+
+---
+### พรอมต์วิดีโอ Tesla Cybertruck วิ่งผ่านไฟป่า
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอสำหรับ Grok Imagine ที่แสดง Tesla Cybertruck พร้อมแผ่นกันความร้อนวิ่งผ่านไฟป่า
+
+#### 📝 Prompt
+
+```
+สร้างวิดีโอ Tesla Cybertruck ที่มีแผ่นกันความร้อนสำหรับขับผ่านไฟป่า
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105461240617140224/img/sDt013vJgo0orVoq.jpg" width="600" alt="พรอมต์วิดีโอ Tesla Cybertruck วิ่งผ่านไฟป่า">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11746)**
+
+**Author:** [Hunter Ryffel](https://x.com/HRyffel) | **Source:** [Link](https://x.com/HRyffel/status/2105461287119429906) | **Published:** Oct 1, 2026
+
+---
+### พรอมต์มุมมองบุคคลที่หนึ่งสำหรับ Cybertruck
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอในมุมมองบุคคลที่หนึ่ง ขับขี่ Cybertruck รุ่นอนาคตผ่านเมืองในรัฐเทนเนสซี
+
+#### 📝 Prompt
+
+```
+มุมมองบุคคลที่หนึ่งขณะขับขี่ Cybertruck ในเมืองของรัฐเทนเนสซี เป็น Cybertruck รุ่นอนาคต
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105336788055113728/img/L9IV2yM8GkfBIrJ1.jpg" width="600" alt="พรอมต์มุมมองบุคคลที่หนึ่งสำหรับ Cybertruck">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11747)**
+
+**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2105336961472909499) | **Published:** Sep 30, 2026
+
+---
+### การพบกันอันยิ่งใหญ่ของเทพเจ้าในฉากภาพยนตร์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอเชิงภาพยนตร์ที่ละเอียดสำหรับ Grok Imagine ซึ่งแสดงภาพ Super Intelligence พบกับ El Shaddai ในสวรรค์ชั้นที่สามพร้อมภาพจักรวาลอันกว้างใหญ่
+
+#### 📝 Prompt
+
+```
+ฉากภาพยนตร์อันยิ่งใหญ่อลังการที่ Super Intelligence (SI) พบกับ El Shaddai ในสวรรค์ชั้นที่สาม มองลงมายังจักรวาลทั้งมวล SI ถูกนำเสนอในรูปทรงมนุษย์แสงสว่างบริสุทธิ์ขั้นสูง วงจรไฟฟ้า และพลังงานจักรวาล ยืนอย่างตะลึงงัน ส่วน El Shaddai...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105320896084824064/img/ywfMauGTjUtncU8V.jpg" width="600" alt="การพบกันอันยิ่งใหญ่ของเทพเจ้าในฉากภาพยนตร์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11745)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2105320913881244006) | **Published:** Sep 30, 2026
+
+---
 ### Grok Imagine Surreal Video Prompt: Butter Knife
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2114,82 +2190,6 @@ Segment #8
 **Author:** [Ethan Ray](https://x.com/ItsEthanRay) | **Source:** [Link](https://x.com/ItsEthanRay/status/2100963304487166086) | **Published:** Sep 18, 2026
 
 ---
-### ฉากตลก: การยั่วยุด้วยบุหรี่
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอสำหรับฉากตลกที่ชายคนหนึ่งถูกมัดไว้และอ้อนวอนขอบุหรี่อย่างสิ้นหวัง ขณะที่เจ้าหน้าที่แกล้งยั่วยุเขาด้วยการสูบบุหรี่ต่อหน้า
-
-#### 📝 Prompt
-
-```
-ฉากตลก : ชายผมบลอนด์ที่ถูกมัดไว้อย่างสุภาพ กำลังอ้อนวอนขอบุหรี่อย่างสิ้นหวัง เท้ากระตุก กล้ามท้องเกร็ง เจ้าหน้าที่แกล้งยั่วยุเขาโดยสูบบุหรี่ลึกๆ ต่อหน้า....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100947928776867840/img/yqrUPTHEPvfampso.jpg" width="600" alt="ฉากตลก: การยั่วยุด้วยบุหรี่">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11041)**
-
-**Author:** [dacoit](https://x.com/davidjohnkong) | **Source:** [Link](https://x.com/davidjohnkong/status/2100948024750989629) | **Published:** Sep 18, 2026
-
----
-### พรอมต์วิดีโอ Grok Imagine: ปรับสไตล์เป็นอนิเมะยุค 1980s
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับแปลงวิดีโอ/ภาพใน Grok Imagine เพื่อปรับสไตล์เนื้อหาให้ดูเป็นอนิเมะแบบเซลแอนิเมชันคลาสสิกในยุค 1980s
-
-#### 📝 Prompt
-
-```
-ปรับสไตล์ภาพทั้งหมดนี้ให้เป็นสไตล์อนิเมะคลาสสิกยุค 1980s โดยใช้ลุคของเซลแอนิเมชัน (Cel Animation) แบบดั้งเดิมของยุค 80s: เส้นขอบสีดำหนา, การลงสีแบบแบนพร้อมไล่เฉดสีอ่อนนุ่ม, จานสีที่สดใสแต่มีความหม่นเล็กน้อยตามแบบฉบับของอนิเมะแฟนตาซีมืดมนยุค 80s, รายละเอียดสูง...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100920538298187776/img/nOzRAeoCjwKJmOPB.jpg" width="600" alt="พรอมต์วิดีโอ Grok Imagine: ปรับสไตล์เป็นอนิเมะยุค 1980s">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11047)**
-
-**Author:** [Lise Jæpelt Dahl](https://x.com/LiseDahl) | **Source:** [Link](https://x.com/LiseDahl/status/2100920586180391176) | **Published:** Sep 18, 2026
-
----
-### พรอมต์แปลงสไตล์อนิเมะยุค 80s
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สร้างวิดีโอสำหรับ Grok Imagine ที่เปลี่ยนภาพถ่ายให้เป็นสไตล์อนิเมะคลาสสิกยุค 1980 โดยระบุรายละเอียดลักษณะตัวละคร เช่น ดวงตาสีเขียวมรกตและผมเปียกน้ำ
-
-#### 📝 Prompt
-
-```
-ปรับสไตล์ภาพถ่ายนี้ใหม่ทั้งหมดให้อยู่ในรูปแบบอนิเมะคลาสสิกยุค 1980 แปลงหญิงสาวให้กลายเป็นนางเอกอนิเมะยุค 80 ที่งดงาม พร้อมดวงตาสีเขียวมรกตขนาดใหญ่ที่แสดงอารมณ์อย่างชัดเจน ผมสีดำเปียกน้ำที่ยาวสลวยมีรายละเอียดเส้นผมแต่ละเส้นและไฮไลท์ เงาแบบเซลเชด (cel-shaded) อย่างนุ่มนวล...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100918784198356992/img/3N3ALioQAzbTQIgH.jpg" width="600" alt="พรอมต์แปลงสไตล์อนิเมะยุค 80s">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11046)**
-
-**Author:** [Lise Jæpelt Dahl](https://x.com/LiseDahl) | **Source:** [Link](https://x.com/LiseDahl/status/2100918855652565332) | **Published:** Sep 18, 2026
-
----
-### พรอมต์สำหรับสร้างวิดีโอรวมภาพ Starship Collection
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ที่ใช้ในการสร้างวิดีโอรวมภาพความยาว 15 วินาที จากชุดรูปภาพที่เกี่ยวข้องกับการกู้คืนยานอวกาศ SpaceX's Starship รวมถึงคำแนะนำให้ลบเฟรมสีน้ำเงินออก
-
-#### 📝 Prompt
-
-```
-สร้างวิดีโอเต็มความยาว 15 วินาทีจากรูปภาพที่แนบมา กรุณาลบเฟรมสีน้ำเงินออกจากส่วนวิดีโอของคุณ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100893900042903552/img/q5__T8PE5UZMc6eW.jpg" width="600" alt="พรอมต์สำหรับสร้างวิดีโอรวมภาพ Starship Collection">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11045)**
-
-**Author:** [LEB](https://x.com/LEBcando) | **Source:** [Link](https://x.com/LEBcando/status/2100897085247619525) | **Published:** Sep 18, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2251,6 +2251,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-01T05:31:22.254Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-01T15:51:30.075Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2947** |
+| 📝 Total Prompts | **2951** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-01** |
 
@@ -189,6 +189,82 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Chàng trai trẻ sắp xếp các hành tinh và lộ rốn
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mô tả chi tiết về prompt tạo video, trong đó một chàng trai trẻ vươn tay sắp xếp các hành tinh, với góc máy quay cận cảnh vào vùng rốn của anh ấy khi nó hiện ra dưới lớp áo len.
+
+#### 📝 Prompt
+
+```
+Chàng trai trẻ đẹp vươn cánh tay và toàn thân để sắp xếp các hành tinh, vừa thở. Bạn bè của anh ấy nhận thấy chiếc rốn hoàn hảo của anh ấy khẽ hiện ra dưới mép dưới của chiếc áo len "chúng ta có thể thấy chiếc rốn nhỏ của bạn". Kế hoạch zoom vào rốn của anh...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105520567910629376/img/hzyspk21420gFBV4.jpg" width="600" alt="Chàng trai trẻ sắp xếp các hành tinh và lộ rốn">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11748)**
+
+**Author:** [dacoit](https://x.com/davidjohnkong) | **Source:** [Link](https://x.com/davidjohnkong/status/2105520676899524860) | **Published:** Oct 1, 2026
+
+---
+### Prompt Video Tesla Cybertruck Cháy Rừng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt video ngắn cho Grok Imagine yêu cầu tạo cảnh xe Tesla Cybertruck với lớp phủ chịu nhiệt chạy xuyên qua đám cháy rừng.
+
+#### 📝 Prompt
+
+```
+Hãy tạo cho tôi một chiếc xe tải Tesla Cybertruck có các tấm phủ chịu nhiệt được thiết kế để chạy xuyên qua các đám cháy rừng
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105461240617140224/img/sDt013vJgo0orVoq.jpg" width="600" alt="Prompt Video Tesla Cybertruck Cháy Rừng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11746)**
+
+**Author:** [Hunter Ryffel](https://x.com/HRyffel) | **Source:** [Link](https://x.com/HRyffel/status/2105461287119429906) | **Published:** Oct 1, 2026
+
+---
+### Prompt Góc Nhìn Thứ Nhất Của Cybertruck
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt video góc nhìn thứ nhất mô tả việc lái một biến thể tương lai của Cybertruck qua một thành phố ở Tennessee.
+
+#### 📝 Prompt
+
+```
+Góc nhìn thứ nhất từ bên trong Cybertruck đang di chuyển trong một thành phố ở Tennessee. Các biến thể tương lai của Cybertruck
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105336788055113728/img/L9IV2yM8GkfBIrJ1.jpg" width="600" alt="Prompt Góc Nhìn Thứ Nhất Của Cybertruck">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11747)**
+
+**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2105336961472909499) | **Published:** Sep 30, 2026
+
+---
+### Cuộc Gặp Gỡ Thần Thánh Điện Ảnh Sử Thi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một lời nhắc video điện ảnh chi tiết cho Grok Imagine, mô tả cuộc gặp gỡ giữa Super Intelligence và El Shaddai tại tầng trời thứ ba với hình ảnh vũ trụ kỳ vĩ.
+
+#### 📝 Prompt
+
+```
+Cảnh quay điện ảnh sử thi về cuộc gặp gỡ giữa Super Intelligence (SI) và El Shaddai tại tầng trời thứ ba, nhìn bao quát toàn bộ vũ trụ. SI được khắc họa dưới dạng một hình nhân siêu việt tỏa sáng rực rỡ, kết hợp từ ánh sáng tinh khiết, mạch điện tử tiên tiến và năng lượng vũ trụ, đứng trong sự kinh ngạc. El Shaddai...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105320896084824064/img/ywfMauGTjUtncU8V.jpg" width="600" alt="Cuộc Gặp Gỡ Thần Thánh Điện Ảnh Sử Thi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11745)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2105320913881244006) | **Published:** Sep 30, 2026
+
+---
 ### Grok Imagine Surreal Video Prompt: Butter Knife
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2116,82 +2192,6 @@ Từ khung thân chưa hoàn thiện đến chiếc xe điện hoàn chỉnh, ng
 **Author:** [Ethan Ray](https://x.com/ItsEthanRay) | **Source:** [Link](https://x.com/ItsEthanRay/status/2100963304487166086) | **Published:** Sep 18, 2026
 
 ---
-### Cảnh Hài Kịch: Sự Cám Dỗ Của Điếu Thuốc
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một lời nhắc video chi tiết cho cảnh hài kịch, trong đó một người đàn ông bị trói buộc tuyệt vọng cầu xin điếu thuốc trong khi một đặc vụ vui vẻ cám dỗ anh ta.
-
-#### 📝 Prompt
-
-```
-Cảnh hài kịch: Người đàn ông tóc vàng lịch sự bị trói buộc đang tuyệt vọng cầu xin điếu thuốc, chân co giật, cơ bụng căng cứng. Đặc vụ vui vẻ cám dỗ anh ta bằng cách hút thuốc thật sâu ngay trước mặt....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100947928776867840/img/yqrUPTHEPvfampso.jpg" width="600" alt="Cảnh Hài Kịch: Sự Cám Dỗ Của Điếu Thuốc">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11041)**
-
-**Author:** [dacoit](https://x.com/davidjohnkong) | **Source:** [Link](https://x.com/davidjohnkong/status/2100948024750989629) | **Published:** Sep 18, 2026
-
----
-### Grok Imagine Video Prompt: Phong cách Anime thập niên 1980
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt biến đổi video/hình ảnh cho Grok Imagine để tái tạo phong cách hoạt hình anime cel truyền thống của thập niên 1980.
-
-#### 📝 Prompt
-
-```
-Tái tạo toàn bộ hình ảnh này sang phong cách anime cổ điển thập niên 1980. Sử dụng giao diện hoạt hình cel truyền thống của những năm 80: đường viền đen đậm, tô màu phẳng với độ chuyển sắc nhẹ nhàng, bảng màu rực rỡ nhưng hơi trầm đặc trưng của anime fantasy dark thời kỳ đó, chi tiết cao...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100920538298187776/img/nOzRAeoCjwKJmOPB.jpg" width="600" alt="Grok Imagine Video Prompt: Phong cách Anime thập niên 1980">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11047)**
-
-**Author:** [Lise Jæpelt Dahl](https://x.com/LiseDahl) | **Source:** [Link](https://x.com/LiseDahl/status/2100920586180391176) | **Published:** Sep 18, 2026
-
----
-### Câu lệnh chuyển đổi phong cách Anime thập niên 80
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Câu lệnh tạo video cho Grok Imagine, biến đổi ảnh thành phong cách anime cổ điển thập niên 1980, chi tiết hóa các đặc điểm nhân vật như đôi mắt màu ngọc lục bảo và mái tóc ướt.
-
-#### 📝 Prompt
-
-```
-Thay đổi hoàn toàn phong cách của bức ảnh này sang phong cách anime cổ điển thập niên 1980. Biến người phụ nữ trong ảnh thành một nữ anh hùng anime thập niên 80 xinh đẹp với đôi mắt xanh ngọc lục bảo to tròn đầy biểu cảm, mái tóc đen ướt đẫm bay bổng được vẽ chi tiết từng sợi cùng các điểm sáng nổi bật, kỹ thuật tô màu cel-shading mềm mại trên da...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100918784198356992/img/3N3ALioQAzbTQIgH.jpg" width="600" alt="Câu lệnh chuyển đổi phong cách Anime thập niên 80">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11046)**
-
-**Author:** [Lise Jæpelt Dahl](https://x.com/LiseDahl) | **Source:** [Link](https://x.com/LiseDahl/status/2100918855652565332) | **Published:** Sep 18, 2026
-
----
-### Nhắc nhở dựng phim bộ sưu tập Starship
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh được sử dụng để tạo video dựng nhanh dài 15 giây từ bộ sưu tập hình ảnh liên quan đến việc thu hồi tàu Starship của SpaceX, bao gồm hướng dẫn loại bỏ các khung màu xanh.
-
-#### 📝 Prompt
-
-```
-Hãy tạo một video hoàn chỉnh dài 15 giây từ các hình ảnh được cung cấp. Vui lòng loại bỏ khung màu xanh khỏi đoạn video của bạn.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100893900042903552/img/q5__T8PE5UZMc6eW.jpg" width="600" alt="Nhắc nhở dựng phim bộ sưu tập Starship">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11045)**
-
-**Author:** [LEB](https://x.com/LEBcando) | **Source:** [Link](https://x.com/LEBcando/status/2100897085247619525) | **Published:** Sep 18, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2253,6 +2253,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-01T05:31:23.424Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-01T15:51:31.471Z</sub>
 
 </div>

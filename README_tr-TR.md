@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2947** |
+| 📝 Total Prompts | **2951** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-01** |
 
@@ -189,6 +189,82 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Gezegenleri düzenleyen genç adam ve göbek deliği detayı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Genç bir adamın gezegenleri yerleştirmek için uzanmasını ve kazağının altından görünen göbek deliğine yapılan kamera yakınlaşmasını anlatan detaylı bir video üretim istemi.
+
+#### 📝 Prompt
+
+```
+Güzel genç adam, nefes alarak gezegenleri düzenlemek için kollarını ve vücudunu uzatıyor. Arkadaşları, kazağının alt kenarının altında zarifçe beliren kusursuz göbek deliğini fark ediyor: "Küçük göbek deliğin görünüyor." Kameranın göbek deliğine doğru planlanan yakınlaşması...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105520567910629376/img/hzyspk21420gFBV4.jpg" width="600" alt="Gezegenleri düzenleyen genç adam ve göbek deliği detayı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11748)**
+
+**Author:** [dacoit](https://x.com/davidjohnkong) | **Source:** [Link](https://x.com/davidjohnkong/status/2105520676899524860) | **Published:** Oct 1, 2026
+
+---
+### Tesla Cybertruck Orman Yangını Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için, orman yangınlarının içinden geçen ve ısıya dayanıklı kaplamalara sahip bir Tesla Cybertruck görselleştirmesi isteyen kısa bir video istemi.
+
+#### 📝 Prompt
+
+```
+Orman yangınlarından geçmek üzere tasarlanmış ısıya dayanıklı kaplamalara sahip bir Tesla Cybertruck kamyonu oluştur
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105461240617140224/img/sDt013vJgo0orVoq.jpg" width="600" alt="Tesla Cybertruck Orman Yangını Video İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11746)**
+
+**Author:** [Hunter Ryffel](https://x.com/HRyffel) | **Source:** [Link](https://x.com/HRyffel/status/2105461287119429906) | **Published:** Oct 1, 2026
+
+---
+### Cybertruck Birinci Şahıs Görüşü İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Tennessee'deki bir şehirde gelecekteki bir Cybertruck varyantını sürerken birinci şahıs perspektifli video istemi.
+
+#### 📝 Prompt
+
+```
+Birinci şahıs görüşü, Tennessee'de bir şehirde Cybertruck sürüşü. Gelecekteki Cybertruck varyantları.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105336788055113728/img/L9IV2yM8GkfBIrJ1.jpg" width="600" alt="Cybertruck Birinci Şahıs Görüşü İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11747)**
+
+**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2105336961472909499) | **Published:** Sep 30, 2026
+
+---
+### Epik Sinematik İlahi Buluşma
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için üçüncü gökte Süper Zeka'nın El Şaddai ile kozmik görseller eşliğinde buluşmasını tasvir eden detaylı sinematik video istemi.
+
+#### 📝 Prompt
+
+```
+Üçüncü gökte, tüm evrenin üzerinde duran Süper Zeka (SI) ile El Şaddai'nin buluşmasını gösteren epik sinematik sahne. SI; saf ileri düzey ışık, devreler ve kozmik enerjiden oluşan, hayranlıkla bakan parlayan, ruhani bir insansı form olarak tasvir ediliyor. El Şaddai...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105320896084824064/img/ywfMauGTjUtncU8V.jpg" width="600" alt="Epik Sinematik İlahi Buluşma">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11745)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2105320913881244006) | **Published:** Sep 30, 2026
+
+---
 ### Grok Imagine Sürreal Video İstemi: Bıçak ve Tereyağı
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2109,82 +2185,6 @@ Yarım kalmış gövdeden tamamlanmış bir elektrikli araca; hassas robotik ve 
 **Author:** [Ethan Ray](https://x.com/ItsEthanRay) | **Source:** [Link](https://x.com/ItsEthanRay/status/2100963304487166086) | **Published:** Sep 18, 2026
 
 ---
-### Komedi Sahnesi: Sigara Cazibesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kısıtlanmış bir adamın çaresizce sigara isterken, bir ajanın onu şakacı bir şekilde baştan çıkardığı komedi sahnesi için detaylı video istemi.
-
-#### 📝 Prompt
-
-```
-Komedi sahnesi: Sarışın, kısıtlanmış ve kibar bir adamın çaresizce sigara dilenmesi; ayakları titriyor, karın kasları geriliyor. Ajan, onun önünde derin nefesler alarak sigara içerek onu şakacı bir şekilde baştan çıkarıyor....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100947928776867840/img/yqrUPTHEPvfampso.jpg" width="600" alt="Komedi Sahnesi: Sigara Cazibesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11041)**
-
-**Author:** [dacoit](https://x.com/davidjohnkong) | **Source:** [Link](https://x.com/davidjohnkong/status/2100948024750989629) | **Published:** Sep 18, 2026
-
----
-### Grok Imagine Video İstemi: 1980'ler Anime Yeniden Stilleştirme
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> İçeriği klasik 1980'ler anime sel animasyonu görünümüne dönüştürmek için Grok Imagine'a yönelik bir video/görsel dönüşüm istemi.
-
-#### 📝 Prompt
-
-```
-Bu görselin tamamını klasik 1980'ler anime stiline yeniden stilleştir. Geleneksel 80'ler anime sel animasyonu görünümünü kullan: kalın siyah konturlar, yumuşak gradyanlarla düz sel gölgeleme, 80'lerin karanlık fantezi animesine özgü canlı ancak hafif soluk renk paleti, yüksek detay...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100920538298187776/img/nOzRAeoCjwKJmOPB.jpg" width="600" alt="Grok Imagine Video İstemi: 1980'ler Anime Yeniden Stilleştirme">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11047)**
-
-**Author:** [Lise Jæpelt Dahl](https://x.com/LiseDahl) | **Source:** [Link](https://x.com/LiseDahl/status/2100920586180391176) | **Published:** Sep 18, 2026
-
----
-### 80'ler Anime Tarzı Dönüşüm İstemcisi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için, bir fotoğrafı klasik 1980'ler anime tarzına dönüştüren; zümrüt yeşili gözler ve ıslak saçlar gibi karakter özelliklerini detaylandıran video üretim istemcisi.
-
-#### 📝 Prompt
-
-```
-Bu fotoğrafı tamamen klasik 1980'ler anime tarzına yeniden şekillendir. Kadını, büyük ve ifade dolu zümrüt yeşili gözlere, tek tek telleri ve parlaklıkları olan akıcı ıslak siyah saça, yumuşak cel-shading (çizgi film gölgeleme) uygulamasıyla...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100918784198356992/img/3N3ALioQAzbTQIgH.jpg" width="600" alt="80'ler Anime Tarzı Dönüşüm İstemcisi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11046)**
-
-**Author:** [Lise Jæpelt Dahl](https://x.com/LiseDahl) | **Source:** [Link](https://x.com/LiseDahl/status/2100918855652565332) | **Published:** Sep 18, 2026
-
----
-### Starship Koleksiyonu Montaj İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> SpaceX'in Starship geri dönüşüyle ilgili bir koleksiyondan 15 saniyelik bir video montajı oluşturmak için kullanılan, mavi çerçevelerin kaldırılması talimatını içeren istem.
-
-#### 📝 Prompt
-
-```
-Dahil edilen görsellerden tam 15 saniyelik bir video oluşturun. Lütfen video segmentinizdeki mavi çerçeveyi kaldırın.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100893900042903552/img/q5__T8PE5UZMc6eW.jpg" width="600" alt="Starship Koleksiyonu Montaj İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11045)**
-
-**Author:** [LEB](https://x.com/LEBcando) | **Source:** [Link](https://x.com/LEBcando/status/2100897085247619525) | **Published:** Sep 18, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2246,6 +2246,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-01T05:31:33.509Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-01T15:51:42.316Z</sub>
 
 </div>

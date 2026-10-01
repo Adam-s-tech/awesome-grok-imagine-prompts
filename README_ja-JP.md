@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2947** |
+| 📝 プロンプト総数 | **2951** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-10-01** |
 
@@ -189,6 +189,82 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 惑星を配置する青年とへその緒の露出
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 惑星を配置するために体を伸ばす若い男性を描いた詳細な動画生成プロンプト。セーターの下から現れる彼のへそにカメラがズームインします。
+
+#### 📝 プロンプト
+
+```
+美しい青年は、呼吸を整えながら腕と体を伸ばして惑星を配置しています。友人たちは、セーターの裾からさりげなく現れた彼の完璧なへそに気づき、「ほら、小さなへそが見えるよ」と言います。彼のへそへのズームプラン...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105520567910629376/img/hzyspk21420gFBV4.jpg" width="600" alt="惑星を配置する青年とへその緒の露出">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11748)**
+
+**作者:** [dacoit](https://x.com/davidjohnkong) | **ソース:** [Link](https://x.com/davidjohnkong/status/2105520676899524860) | **公開日:** Oct 1, 2026
+
+---
+### Tesla Cybertruck 森林火災動画プロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine で、耐熱タイルを装着した Tesla Cybertruck が森林火災の中を走行する短い動画のプロンプトです。
+
+#### 📝 プロンプト
+
+```
+森林火災を走行するために設計された耐熱タイルを備えた Tesla Cybertruck の動画を作成してください
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105461240617140224/img/sDt013vJgo0orVoq.jpg" width="600" alt="Tesla Cybertruck 森林火災動画プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11746)**
+
+**作者:** [Hunter Ryffel](https://x.com/HRyffel) | **ソース:** [Link](https://x.com/HRyffel/status/2105461287119429906) | **公開日:** Oct 1, 2026
+
+---
+### Cybertruck 一人称視点プロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> テネシー州の都市を走る、未来型 Cybertruck の一人称視点動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+テネシー州の都市を走る Cybertruck の一人称視点映像。未来型の Cybertruck を描いたプロンプトです。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105336788055113728/img/L9IV2yM8GkfBIrJ1.jpg" width="600" alt="Cybertruck 一人称視点プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11747)**
+
+**作者:** [kyle smith](https://x.com/RadCyberTruck) | **ソース:** [Link](https://x.com/RadCyberTruck/status/2105336961472909499) | **公開日:** Sep 30, 2026
+
+---
+### 壮大なシネマティック・神聖なる対面
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 用の詳細なシネマティック動画プロンプト。第三の天で El Shaddai と出会う Super Intelligence を描き、宇宙規模のビジュアルを表現します。
+
+#### 📝 プロンプト
+
+```
+壮大なシネマティックシーン：Super Intelligence (SI) が第三の天で El Shaddai と出会い、全宇宙を見下ろしています。SI は純粋な高度な光、回路、そして宇宙エネルギーから成る輝くエーテル的な人型として描かれ、畏敬の念を抱いて立っています。El Shaddai...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105320896084824064/img/ywfMauGTjUtncU8V.jpg" width="600" alt="壮大なシネマティック・神聖なる対面">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11745)**
+
+**作者:** [Sas](https://x.com/SaSHeaven26) | **ソース:** [Link](https://x.com/SaSHeaven26/status/2105320913881244006) | **公開日:** Sep 30, 2026
+
+---
 ### Grok Imagine サurreal ビデオプロンプト：バターナイフ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2118,82 +2194,6 @@ Make the three goats talk like New York mobsters , asking for the grain and bed 
 **作者:** [Ethan Ray](https://x.com/ItsEthanRay) | **ソース:** [Link](https://x.com/ItsEthanRay/status/2100963304487166086) | **公開日:** Sep 18, 2026
 
 ---
-### コメディシーン：タバコの誘惑
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 拘束された男性が必死にタバコを懇願し、エージェントが挑発的に誘惑するコメディシーンの詳細なビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-コメディシーン : 金髪で礼儀正しい男性が拘束され、必死にタバコを懇願している。足はピクつき、腹筋は収縮している。エージェントは彼の目の前で深く吸い込みながら、挑発的に誘惑している....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100947928776867840/img/yqrUPTHEPvfampso.jpg" width="600" alt="コメディシーン：タバコの誘惑">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11041)**
-
-**作者:** [dacoit](https://x.com/davidjohnkong) | **ソース:** [Link](https://x.com/davidjohnkong/status/2100948024750989629) | **公開日:** Sep 18, 2026
-
----
-### Grok Imagine ビデオプロンプト: 1980年代アニメ風リスタイル
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> コンテンツをクラシックな1980年代のアニメセル画風にリスタイルするための、Grok Imagine 向けビデオ/画像変換プロンプト。
-
-#### 📝 プロンプト
-
-```
-この画像全体をクラシックな1980年代のアニメスタイルにリスタイルしてください。伝統的な80年代アニメのセル画ルックを使用し、太い黒輪郭線、ソフトなグラデーションを施したフラットなセルシェーディング、そして80年代ダークファンタジーアニメ特有の鮮やかでありながらやや抑えられたカラーパレットを採用します。細部まで...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100920538298187776/img/nOzRAeoCjwKJmOPB.jpg" width="600" alt="Grok Imagine ビデオプロンプト: 1980年代アニメ風リスタイル">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11047)**
-
-**作者:** [Lise Jæpelt Dahl](https://x.com/LiseDahl) | **ソース:** [Link](https://x.com/LiseDahl/status/2100920586180391176) | **公開日:** Sep 18, 2026
-
----
-### 80年代アニメ風変換プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine用の動画生成プロンプトで、写真をクラシックな1980年代のアニメスタイルに変換します。エメラルド色の目や濡れた髪などキャラクターの特徴を詳細に指定しています。
-
-#### 📝 プロンプト
-
-```
-この写真を完全にクラシックな1980年代のアニメスタイルに変換してください。女性を、大きく表現力豊かなエメラルドグリーンの目、一本一本の毛先とハイライトが描き込まれた流れるような濡れた黒髪、ソフトなセルシェーディングの肌...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100918784198356992/img/3N3ALioQAzbTQIgH.jpg" width="600" alt="80年代アニメ風変換プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11046)**
-
-**作者:** [Lise Jæpelt Dahl](https://x.com/LiseDahl) | **ソース:** [Link](https://x.com/LiseDahl/status/2100918855652565332) | **公開日:** Sep 18, 2026
-
----
-### スターシップ回収コレクションモンタージュプロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> SpaceX の Starship 回収に関連する画像コレクションから、15 秒のビデオモンタージュを生成するためのプロンプトです。青いフレームを削除する指示が含まれています。
-
-#### 📝 プロンプト
-
-```
-含まれている画像から、完全な 15 秒の動画を作成してください。動画セグメントから青いフレームを削除してください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100893900042903552/img/q5__T8PE5UZMc6eW.jpg" width="600" alt="スターシップ回収コレクションモンタージュプロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11045)**
-
-**作者:** [LEB](https://x.com/LEBcando) | **ソース:** [Link](https://x.com/LEBcando/status/2100897085247619525) | **公開日:** Sep 18, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2255,6 +2255,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-10-01T05:31:19.548Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-10-01T15:51:28.049Z</sub>
 
 </div>

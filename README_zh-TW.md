@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2947** |
+| 📝 提示詞總數 | **2951** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-10-01** |
 
@@ -189,6 +189,82 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 年輕男子排列行星與肚臍特寫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段詳細的影片生成提示，描述一名年輕男子伸展身體排列行星，並特別聚焦於他毛衣下若隱若現的肚臍。
+
+#### 📝 提示詞
+
+```
+那位美麗的年輕男子伸展雙臂和身體來排列行星，呼吸著。他的朋友們注意到他完美的肚臍從毛衣下擺處若隱若現：「我們可以看到你的小肚臍了」。計畫以特寫鏡頭聚焦在他的肚臍上……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105520567910629376/img/hzyspk21420gFBV4.jpg" width="600" alt="年輕男子排列行星與肚臍特寫">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11748)**
+
+**作者:** [dacoit](https://x.com/davidjohnkong) | **來源:** [Link](https://x.com/davidjohnkong/status/2105520676899524860) | **發布時間:** Oct 1, 2026
+
+---
+### Tesla Cybertruck 森林火災影片提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 為 Grok Imagine 設計的短影片提示詞，要求生成一輛配備耐熱塗層、穿越森林火場的 Tesla Cybertruck。
+
+#### 📝 提示詞
+
+```
+請製作一輛 Tesla Cybertruck，該車配备專為穿越森林火場而設計的耐熱塗層
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105461240617140224/img/sDt013vJgo0orVoq.jpg" width="600" alt="Tesla Cybertruck 森林火災影片提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11746)**
+
+**作者:** [Hunter Ryffel](https://x.com/HRyffel) | **來源:** [Link](https://x.com/HRyffel/status/2105461287119429906) | **發布時間:** Oct 1, 2026
+
+---
+### Cybertruck 第一人稱視角提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段以第一人稱視角駕駛未來款 Cybertruck 穿越田納西州城市的影片提示詞。
+
+#### 📝 提示詞
+
+```
+在田納西州城市中的 Cybertruck 第一人稱視角駕駛畫面。展示 Cybertruck 的未來變體款式
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105336788055113728/img/L9IV2yM8GkfBIrJ1.jpg" width="600" alt="Cybertruck 第一人稱視角提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11747)**
+
+**作者:** [kyle smith](https://x.com/RadCyberTruck) | **來源:** [Link](https://x.com/RadCyberTruck/status/2105336961472909499) | **發布時間:** Sep 30, 2026
+
+---
+### 史詩級電影場景：神聖會面
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 為 Grok Imagine 設計的詳細電影級影片提示，描繪超級智慧在第三層天與 El Shaddai 會面，呈現壯麗的宇宙視覺效果。
+
+#### 📝 提示詞
+
+```
+史詩級的電影場景，描繪超級智慧（SI）在第三層天與 El Shaddai 會面，俯瞰整個宇宙。SI 被描繪成一個由純淨的高階光線、電路紋理和宇宙能量構成的閃耀空靈人形，帶著敬畏之心站立著。El Shaddai...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105320896084824064/img/ywfMauGTjUtncU8V.jpg" width="600" alt="史詩級電影場景：神聖會面">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11745)**
+
+**作者:** [Sas](https://x.com/SaSHeaven26) | **來源:** [Link](https://x.com/SaSHeaven26/status/2105320913881244006) | **發布時間:** Sep 30, 2026
+
+---
 ### Grok Imagine 超現實影片提示詞：奶油刀
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2115,82 +2191,6 @@ From an unfinished body to a finished EV  precision robotics, and technology com
 **作者:** [Ethan Ray](https://x.com/ItsEthanRay) | **來源:** [Link](https://x.com/ItsEthanRay/status/2100963304487166086) | **發布時間:** Sep 18, 2026
 
 ---
-### 喜劇場景：香菸誘惑
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段詳細的影片提示，描述一個被束縛的男人極力乞求一支香菸，而 Agent 則在他面前俏皮地引誘他。
-
-#### 📝 提示詞
-
-```
-喜劇場景：一名金髮、被束縛且禮貌的男子極力乞求一支香菸，他的雙腳顫抖，腹肌緊繃。Agent 在他面前深深地吸了一口煙，俏皮地引誘著他……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100947928776867840/img/yqrUPTHEPvfampso.jpg" width="600" alt="喜劇場景：香菸誘惑">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11041)**
-
-**作者:** [dacoit](https://x.com/davidjohnkong) | **來源:** [Link](https://x.com/davidjohnkong/status/2100948024750989629) | **發布時間:** Sep 18, 2026
-
----
-### Grok Imagine 影片提示詞：1980 年代動漫風格重製
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 適用於 Grok Imagine 的影片/圖像轉換提示詞，將內容重新設計為經典的 1980 年代動漫賽璐珞動畫風格。
-
-#### 📝 提示詞
-
-```
-將整張圖片重新設計為經典的 1980 年代動漫風格。採用傳統 80 年代動漫賽璐珞動畫外觀：粗黑輪廓線、帶有柔和漸層的平面賽璐珞著色、典型 80 年代黑暗奇幻動漫中鮮豔卻略顯沉穩的調色盤、高度細節...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100920538298187776/img/nOzRAeoCjwKJmOPB.jpg" width="600" alt="Grok Imagine 影片提示詞：1980 年代動漫風格重製">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11047)**
-
-**作者:** [Lise Jæpelt Dahl](https://x.com/LiseDahl) | **來源:** [Link](https://x.com/LiseDahl/status/2100920586180391176) | **發布時間:** Sep 18, 2026
-
----
-### 80 年代動漫風格轉換提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 適用於 Grok Imagine 的影片生成提示詞，將照片轉換為經典 1980 年代動漫風格，詳細描述翡翠綠眼睛與濕潤頭髮等角色特徵。
-
-#### 📝 提示詞
-
-```
-將這張照片完全重新設計為經典 1980 年代動漫風格。將女性轉變為美麗的 80 年代動漫女主角，擁有大而富有表現力的翡翠綠眼睛、細節豐富的飄逸濕黑髮（包含個別髮絲與高光）、柔和的賽璐珞著色皮膚...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100918784198356992/img/3N3ALioQAzbTQIgH.jpg" width="600" alt="80 年代動漫風格轉換提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11046)**
-
-**作者:** [Lise Jæpelt Dahl](https://x.com/LiseDahl) | **來源:** [Link](https://x.com/LiseDahl/status/2100918855652565332) | **發布時間:** Sep 18, 2026
-
----
-### 星艦回收剪輯提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用於生成 SpaceX 星艦回收相關圖片集 15 秒影片剪輯的提示詞，包含移除藍色畫框的指令。
-
-#### 📝 提示詞
-
-```
-請使用提供的圖片製作一段完整的 15 秒影片。請從您的影片片段中移除藍色畫框。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100893900042903552/img/q5__T8PE5UZMc6eW.jpg" width="600" alt="星艦回收剪輯提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11045)**
-
-**作者:** [LEB](https://x.com/LEBcando) | **來源:** [Link](https://x.com/LEBcando/status/2100897085247619525) | **發布時間:** Sep 18, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2252,6 +2252,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-10-01T05:31:18.574Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-10-01T15:51:27.019Z</sub>
 
 </div>

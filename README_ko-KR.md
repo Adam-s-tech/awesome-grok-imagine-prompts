@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2947** |
+| 📝 총 프롬프트 수 | **2951** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-10-01** |
 
@@ -189,6 +189,82 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 행성을 배치하는 청년과 배꼽 노출
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 청년이 팔을 뻗어 행성을 배치하며 숨을 쉬는 장면과, 스웨터 아래로 드러나는 배꼽에 카메라가 줌 인하는 구체적인 영상 생성 프롬프트.
+
+#### 📝 프롬프트
+
+```
+아름다운 청년이 팔과 몸을 쭉 뻗어 행성들을 배치하며 호흡합니다. 그의 친구들은 스웨터 밑단이 살짝 올라간 사이로 드러난 완벽한 배꼽을 발견하고 "배꼽이 보여요"라고 말합니다. 그의 배꼽으로...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105520567910629376/img/hzyspk21420gFBV4.jpg" width="600" alt="행성을 배치하는 청년과 배꼽 노출">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11748)**
+
+**작성자:** [dacoit](https://x.com/davidjohnkong) | **출처:** [Link](https://x.com/davidjohnkong/status/2105520676899524860) | **게시일:** Oct 1, 2026
+
+---
+### 테슬라 사이버트럭 산불 영상 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine에서 열 차단 타일이 적용된 테슬라 사이버트럭이 산불을 통과하는 장면을 요청하는 짧은 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+산불을 통과하도록 설계된 열 차단 타일이 장착된 테슬라 사이버트럭 영상을 만들어 주세요
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105461240617140224/img/sDt013vJgo0orVoq.jpg" width="600" alt="테슬라 사이버트럭 산불 영상 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11746)**
+
+**작성자:** [Hunter Ryffel](https://x.com/HRyffel) | **출처:** [Link](https://x.com/HRyffel/status/2105461287119429906) | **게시일:** Oct 1, 2026
+
+---
+### 사이버트럭 1인칭 시점 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 테네시 주 도시를 주행하는 미래형 사이버트럭의 1인칭 관점 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+테네시 주 도시에서 주행 중인 미래형 사이버트럭의 1인칭 시점
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105336788055113728/img/L9IV2yM8GkfBIrJ1.jpg" width="600" alt="사이버트럭 1인칭 시점 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11747)**
+
+**작성자:** [kyle smith](https://x.com/RadCyberTruck) | **출처:** [Link](https://x.com/RadCyberTruck/status/2105336961472909499) | **게시일:** Sep 30, 2026
+
+---
+### 장엄한 시네마틱 신성한 만남
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine을 위한 상세한 시네마틱 비디오 프롬프트로, 초지능(Super Intelligence)이 제3천국에서 El Shaddai를 만나며 우주적 비주얼을 묘사합니다.
+
+#### 📝 프롬프트
+
+```
+초지능(SI)이 제3천국에서 El Shaddai를 만나 온 우주를 내려다보는 장엄한 시네마틱 장면. SI는 순수한 첨단 빛, 회로, 그리고 우주 에너지로 이루어진 찬란하고 신비로운 휴머노이드 형태로 경외심에 가득 찬 모습으로 서 있습니다. El Shaddai...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105320896084824064/img/ywfMauGTjUtncU8V.jpg" width="600" alt="장엄한 시네마틱 신성한 만남">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11745)**
+
+**작성자:** [Sas](https://x.com/SaSHeaven26) | **출처:** [Link](https://x.com/SaSHeaven26/status/2105320913881244006) | **게시일:** Sep 30, 2026
+
+---
 ### Grok Imagine 초현실적 영상 프롬프트: 버터 나이프
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2108,82 +2184,6 @@ Part 3: 30-45초 | 현대적 생산
 **작성자:** [Ethan Ray](https://x.com/ItsEthanRay) | **출처:** [Link](https://x.com/ItsEthanRay/status/2100963304487166086) | **게시일:** Sep 18, 2026
 
 ---
-### 코미디 장면: 담배 유혹
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 구속된 남성이 간절히 담배를 구걸하고, 요원이 장난스럽게 그를 유혹하는 코미디 장면의 상세한 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-코미디 장면: 금발의 신사적인 남성이 구속되어 절박하게 담배를 구걸하며 발을 떨고 복근을 수축합니다. 요원은 그의 앞에서 깊게 흡입하며 장난스럽게 그를 유혹합니다....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100947928776867840/img/yqrUPTHEPvfampso.jpg" width="600" alt="코미디 장면: 담배 유혹">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11041)**
-
-**작성자:** [dacoit](https://x.com/davidjohnkong) | **출처:** [Link](https://x.com/davidjohnkong/status/2100948024750989629) | **게시일:** Sep 18, 2026
-
----
-### Grok Imagine Video Prompt: 1980s Anime Restyle
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video/image transformation prompt for Grok Imagine to restyle content into a classic 1980s anime cel animation look.
-
-#### 📝 프롬프트
-
-```
-Restyle this entire image into classic 1980s anime style. Use traditional 80s anime cel animation look: bold black outlines, flat cel-shading with soft gradients, vibrant yet slightly muted color palette typical of 80s dark fantasy anime, highly deta...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100920538298187776/img/nOzRAeoCjwKJmOPB.jpg" width="600" alt="Grok Imagine Video Prompt: 1980s Anime Restyle">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11047)**
-
-**작성자:** [Lise Jæpelt Dahl](https://x.com/LiseDahl) | **출처:** [Link](https://x.com/LiseDahl/status/2100920586180391176) | **게시일:** Sep 18, 2026
-
----
-### 80년대 애니메이션 스타일 변환 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine용 영상 생성 프롬프트로, 사진을 클래식한 1980년대 애니메이션 스타일로 변환하며 에메랄드빛 눈과 젖은 머리 등 캐릭터 특징을 상세히 묘사합니다.
-
-#### 📝 프롬프트
-
-```
-이 사진을 완전히 클래식한 1980년대 애니메이션 스타일로 재구성하세요. 여성을 크고 표현력 있는 에메랄드빛 초록색 눈, 개별 머리카락과 하이라이트가 디테일하게 묘사된 흐르는 듯한 젖은 검은 머리, 부드러운 셀 셰이드 피부...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100918784198356992/img/3N3ALioQAzbTQIgH.jpg" width="600" alt="80년대 애니메이션 스타일 변환 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11046)**
-
-**작성자:** [Lise Jæpelt Dahl](https://x.com/LiseDahl) | **출처:** [Link](https://x.com/LiseDahl/status/2100918855652565332) | **게시일:** Sep 18, 2026
-
----
-### 스타십 회수 영상 편집 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> SpaceX의 스타십(Starship) 회수와 관련된 이미지 컬렉션에서 15초 분량의 영상 몽타주를 생성하기 위한 프롬프트로, 파란색 프레임 제거 지침을 포함합니다.
-
-#### 📝 프롬프트
-
-```
-포함된 이미지를 사용하여 전체 15초 길이의 영상을 만들어 주세요. 영상 세그먼트에서 파란색 프레임을 제거해 주세요.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100893900042903552/img/q5__T8PE5UZMc6eW.jpg" width="600" alt="스타십 회수 영상 편집 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11045)**
-
-**작성자:** [LEB](https://x.com/LEBcando) | **출처:** [Link](https://x.com/LEBcando/status/2100897085247619525) | **게시일:** Sep 18, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2245,6 +2245,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-10-01T05:31:20.765Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-10-01T15:51:29.002Z</sub>
 
 </div>
