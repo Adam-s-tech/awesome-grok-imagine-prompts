@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2951** |
+| 📝 Total Prompts | **2957** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-02** |
 
@@ -189,6 +189,124 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt de video para Grok Imagine: Aveline y el Dragón Negro
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt específico para generar una escena de video donde Aveline se encuentra junto a un enorme dragón negro que despliega sus alas.
+
+#### 📝 Prompt
+
+```
+La joven Aveline está de pie junto a su enorme dragón negro en un paisaje montañoso. El dragón se eleva repentinamente y extiende lentamente sus vastas alas oscuras hasta su envergadura completa, mostrando poder y majestuosidad. El viento sopla hacia afuera con el movimiento, agitando los...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105923128681549824/img/euC1usnvoptjCuG_.jpg" width="600" alt="Prompt de video para Grok Imagine: Aveline y el Dragón Negro">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11785)**
+
+**Author:** [Aveline](https://x.com/Avelinechronicl) | **Source:** [Link](https://x.com/Avelinechronicl/status/2105923166065353210) | **Published:** Oct 2, 2026
+
+---
+### Robot volando alrededor del campamento
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de generación de video para Grok Imagine donde un robot vuela alrededor de un campamento mientras los perros saltan y juegan.
+
+#### 📝 Prompt
+
+```
+¿Puedes hacer que el robot vuele alrededor del campamento mientras los perros saltan y juegan observando....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105880308386283520/img/SJrgR8kVbB3AAn6z.jpg" width="600" alt="Robot volando alrededor del campamento">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11783)**
+
+**Author:** [Keith Michael Roads](https://x.com/yuinanotherlife) | **Source:** [Link](https://x.com/yuinanotherlife/status/2105880384777212078) | **Published:** Oct 2, 2026
+
+---
+### Escena emocional entre un robot y un hombre
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt narrativo detallado para una escena conmovedora que involucra a un robot y a un hombre, incluyendo diálogo y acciones de animales en el fondo.
+
+#### 📝 Prompt
+
+```
+El robot besa al hombre en la mejilla y dice: "Te quiero, papá".
+El hombre besa al robot en la frente y dice: "Yo también te quiero, Rocket".
+Los caballos y los perros dan vueltas alrededor de ellos jugando.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105877976160309248/img/EFzO6Am_qk7cmN6L.jpg" width="600" alt="Escena emocional entre un robot y un hombre">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11781)**
+
+**Author:** [Keith Michael Roads](https://x.com/yuinanotherlife) | **Source:** [Link](https://x.com/yuinanotherlife/status/2105878077951926647) | **Published:** Oct 2, 2026
+
+---
+### Grok Imagine: Batalla del Caballero y el Dragón
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt lleno de acción para un video que muestra a un caballero luchando contra murciélagos y un dragón escupiendo fuego.
+
+#### 📝 Prompt
+
+```
+Caballero peleando con muchos murciélagos negros, el dragón aterriza, se queda de pie sobre el caballero y lanza fuego contra los murciélagos negros
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105688545579200512/img/zphFXUpu5B8StV8-.jpg" width="600" alt="Grok Imagine: Batalla del Caballero y el Dragón">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11782)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2105688631835001069) | **Published:** Oct 1, 2026
+
+---
+### Prompt de Video para Grok Imagine: Plataforma de Pista Runway
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video con ángulo amplio y cámara fija para Grok Imagine, mostrando una plataforma de pista con efectos de neblina, lavado y mordida del tren de aterrizaje. Remasterizado a partir de un prompt épico de Seedance.
+
+#### 📝 Prompt
+
+```
+Plataforma de pista con cámara fija.
+Cinco tiempos de lavado, neblina y mordida del tren de aterrizaje.
+Épica de pista de Seedance remasterizada en Grok Imagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105508222266142720/img/gYL1Vt8TdKWfItns.jpg" width="600" alt="Prompt de Video para Grok Imagine: Plataforma de Pista Runway">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11786)**
+
+**Author:** [Jack](https://x.com/JacksAISites) | **Source:** [Link](https://x.com/JacksAISites/status/2105643905509421166) | **Published:** Oct 1, 2026
+
+---
+### Prompt de video para Grok Imagine: Guía del anfiteatro italiano
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de generación de video para Grok Imagine que muestra un anfiteatro italiano donde un guía turístico habla a la cámara en italiano. Remodelado a partir de un prompt de Morphic.
+
+#### 📝 Prompt
+
+```
+Anfiteatro italiano, guía turístico a cámara: “Aquí miles de personas cantaron.”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105505175829897216/img/MV9cbfZU5Q9YDhzQ.jpg" width="600" alt="Prompt de video para Grok Imagine: Guía del anfiteatro italiano">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11784)**
+
+**Author:** [Jack](https://x.com/JacksAISites) | **Source:** [Link](https://x.com/JacksAISites/status/2105535178667929782) | **Published:** Oct 1, 2026
+
+---
 ### Joven organizando planetas y revelando su ombligo
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2068,124 +2186,6 @@ Crea un video de un viejo auto Chevy low rider saltando con amortiguadores de ai
 **Author:** [MentorCapitalist](https://x.com/mentorcapital1) | **Source:** [Link](https://x.com/mentorcapital1/status/2101107519833932137) | **Published:** Sep 19, 2026
 
 ---
-### Pelea de Samurai: Hombre Cangrejo vs. Hombre Pulpo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para un video corto de acción que muestra una pelea estilo samurái entre un hombre cangrejo y un hombre pulpo en la playa.
-
-#### 📝 Prompt
-
-```
-haz un video corto de un hombre cangrejo y un hombre pulpo peleando estilo samurái en la playa
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101102985556488192/img/A7noR9mgexqrFpVc.jpg" width="600" alt="Pelea de Samurai: Hombre Cangrejo vs. Hombre Pulpo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11040)**
-
-**Author:** [Wheez Keepee](https://x.com/Whizkeepee) | **Source:** [Link](https://x.com/Whizkeepee/status/2101103134366113855) | **Published:** Sep 19, 2026
-
----
-### Escena de tarjeta de cumpleaños sobre caja de música
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Prompt para una escena de video donde una tarjeta de cumpleaños descansa sobre una caja de música mientras alguien canta el feliz cumpleaños.
-
-#### 📝 Prompt
-
-```
-Una escena estilo video que celebra diciendo 'feliz cumpleaños' en voz alta, con una tarjeta de Happy Birthday hecha con deseos de amor, confianza, sueños y esperanza para su pareja indígena, colocada encima de una caja de música.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101048344114323456/img/TCmlGCRl2aRlhgNE.jpg" width="600" alt="Escena de tarjeta de cumpleaños sobre caja de música">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11050)**
-
-**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2101048359973007552) | **Published:** Sep 18, 2026
-
----
-### Plano general cinematográfico de Moonbase Alpha
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt detallado para un plano general cinematográfico ultra ancho en formato IMAX de Moonbase Alpha de Space: 1999, describiendo su ubicación y importancia ingenieril.
-
-#### 📝 Prompt
-
-```
-Plano general cinematográfico ultra ancho en formato IMAX de Moonbase Alpha de Space: 1999, el mayor logro de la ingeniería humana en tiempos de paz, una vasta ciudad autosuficiente construida en el bien protegido cráter Plato, justo encima del Mar de las Lluvias en el...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101024426389037056/img/YbfyxYawHBDQVx8D.jpg" width="600" alt="Plano general cinematográfico de Moonbase Alpha">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11043)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2101024443686379619) | **Published:** Sep 18, 2026
-
----
-### Escena cinematográfica de hamburguesas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt detallado para la generación de video en Grok Imagine que describe una escena cinematográfica de personas disfrutando de hamburguesas y batidos durante la hora dorada, con indicaciones específicas de audio y visuales.
-
-#### 📝 Prompt
-
-```
-Ríen y celebran, dan mordiscos a las hamburguesas, el batido se derrama ligeramente, susurro de hojas de álamo, hora dorada cinematográfica, blanco.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100991882725900288/img/0ZPDqDp6o_M86GDj.jpg" width="600" alt="Escena cinematográfica de hamburguesas">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11049)**
-
-**Author:** [Connie Willis](https://x.com/conniewillisx) | **Source:** [Link](https://x.com/conniewillisx/status/2100991919103058329) | **Published:** Sep 18, 2026
-
----
-### Prompt de Segmento Cinematográfico Emocional
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt detallado para un segmento cinematográfico centrado en la narrativa emocional, iluminación de hora dorada y detalles específicos de los personajes como cabello fluido y prendas moradas.
-
-#### 📝 Prompt
-
-```
-Segmento #8
-Segmento cinematográfico de 50 a 75 segundos con el mismo estilo emocional de alta producción que “An Ode to Freedom” / Oda al Coraje. Transiciones lentas y fluidas. Iluminación de hora dorada y luz cálida de farol.
-Alargar el cabello del anciano ondeando con la brisa y vestido de baile morado fluido...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100982964398051328/img/enDxCEoOnmh_GyMe.jpg" width="600" alt="Prompt de Segmento Cinematográfico Emocional">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11044)**
-
-**Author:** [Cathleen Pollard](https://x.com/SkylarknTexas) | **Source:** [Link](https://x.com/SkylarknTexas/status/2100982986418057358) | **Published:** Sep 18, 2026
-
----
-### Línea de producción de vehículos eléctricos Tesla
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para generación de video que muestra el ensamblaje de un vehículo eléctrico Tesla con robótica de precisión.
-
-#### 📝 Prompt
-
-```
-Parte 3: 30-45 seg | Producción moderna
-
-Desde una carrocería inacabada hasta un vehículo eléctrico terminado, la robótica de precisión y la tecnología se unen en la línea de producción de Tesla. ⚡🚗🏭
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100882331192147969/img/h5Qwl7hll7yEOEOG.jpg" width="600" alt="Línea de producción de vehículos eléctricos Tesla">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11269)**
-
-**Author:** [Ethan Ray](https://x.com/ItsEthanRay) | **Source:** [Link](https://x.com/ItsEthanRay/status/2100963304487166086) | **Published:** Sep 18, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2247,6 +2247,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-02T05:29:02.615Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-02T14:54:05.438Z</sub>
 
 </div>

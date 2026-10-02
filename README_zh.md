@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2951** |
+| 📝 提示词总数 | **2957** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-10-02** |
 
@@ -189,6 +189,124 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### Grok Imagine Aveline 与黑龙视频提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于生成视频场景的特定提示词，其中 Aveline 站在一只展开双翼的巨大黑龙身旁。
+
+#### 📝 提示词
+
+```
+年轻的 Aveline 站在山景中她巨大的黑龙身旁。巨龙突然抬起并缓缓展开其庞大的深色双翼至最大跨度，充满力量且气势恢宏。气流从动作中向外涌出，吹拂着 Aveline 的……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105923128681549824/img/euC1usnvoptjCuG_.jpg" width="600" alt="Grok Imagine Aveline 与黑龙视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11785)**
+
+**作者:** [Aveline](https://x.com/Avelinechronicl) | **来源:** [Link](https://x.com/Avelinechronicl/status/2105923166065353210) | **发布时间:** Oct 2, 2026
+
+---
+### 机器人在营地周围飞行
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 适用于 Grok Imagine 的视频生成提示词，展示机器人在营地周围飞行，同时狗狗跳跃玩耍的场景。
+
+#### 📝 提示词
+
+```
+请让机器人在营地周围飞行，同时观看狗狗们跳跃和玩耍……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105880308386283520/img/SJrgR8kVbB3AAn6z.jpg" width="600" alt="机器人在营地周围飞行">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11783)**
+
+**作者:** [Keith Michael Roads](https://x.com/yuinanotherlife) | **来源:** [Link](https://x.com/yuinanotherlife/status/2105880384777212078) | **发布时间:** Oct 2, 2026
+
+---
+### 机器人与人类的情感场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个关于机器人与人类之间温馨互动的详细叙事提示，包含对话及背景中动物的动作描写。
+
+#### 📝 提示词
+
+```
+机器人亲吻了男子的脸颊，说道：“我爱你，爸爸。”
+男子亲吻了机器人的额头，回应道：“我也爱你，Rocket。”
+马匹和狗在他们周围欢快地嬉戏转圈。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105877976160309248/img/EFzO6Am_qk7cmN6L.jpg" width="600" alt="机器人与人类的情感场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11781)**
+
+**作者:** [Keith Michael Roads](https://x.com/yuinanotherlife) | **来源:** [Link](https://x.com/yuinanotherlife/status/2105878077951926647) | **发布时间:** Oct 2, 2026
+
+---
+### Grok Imagine 骑士与龙之战
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个充满动作感的视频提示词，描绘了骑士对抗蝙蝠以及巨龙喷火的场景。
+
+#### 📝 提示词
+
+```
+骑士与众多黑色蝙蝠搏斗，巨龙降落并站在骑士上方，用火焰喷射黑色蝙蝠
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105688545579200512/img/zphFXUpu5B8StV8-.jpg" width="600" alt="Grok Imagine 骑士与龙之战">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11782)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2105688631835001069) | **发布时间:** Oct 1, 2026
+
+---
+### Grok Imagine 视频提示词：跑道停机坪甲板
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 为 Grok Imagine 打造的固定机位广角视频提示词，展示带有雾气、水花和支柱咬合效果的跑道停机坪甲板。基于 Seedance 史诗级提示词重新制作。
+
+#### 📝 提示词
+
+```
+固定机位停机坪甲板。
+五个节拍的水花、雾气与支柱咬合效果。
+在 Grok Imagine 中重制 Runway Seedance 史诗级画面。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105508222266142720/img/gYL1Vt8TdKWfItns.jpg" width="600" alt="Grok Imagine 视频提示词：跑道停机坪甲板">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11786)**
+
+**作者:** [Jack](https://x.com/JacksAISites) | **来源:** [Link](https://x.com/JacksAISites/status/2105643905509421166) | **发布时间:** Oct 1, 2026
+
+---
+### Grok Imagine 视频提示词：意大利圆形剧场导游指南
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 视频生成提示词：展示一位意大利导游用意大利语对着镜头讲解的意大利圆形剧场场景。改编自 Morphic 提示词。
+
+#### 📝 提示词
+
+```
+意大利圆形剧场，导游面对镜头说道：“这里曾有数千人歌唱。”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105505175829897216/img/MV9cbfZU5Q9YDhzQ.jpg" width="600" alt="Grok Imagine 视频提示词：意大利圆形剧场导游指南">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11784)**
+
+**作者:** [Jack](https://x.com/JacksAISites) | **来源:** [Link](https://x.com/JacksAISites/status/2105535178667929782) | **发布时间:** Oct 1, 2026
+
+---
 ### 年轻男子排列行星与肚脐特写
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2073,124 +2191,6 @@ AI 视频 — 9:16 电影感
 **作者:** [MentorCapitalist](https://x.com/mentorcapital1) | **来源:** [Link](https://x.com/mentorcapital1/status/2101107519833932137) | **发布时间:** Sep 19, 2026
 
 ---
-### 蟹人 vs 章鱼武士对决
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段短视频提示词，展示蟹人与章鱼人在海滩上进行武士风格的对决。
-
-#### 📝 提示词
-
-```
-制作一段短视频，展示蟹人和章鱼人在海滩上以武士风格进行打斗
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101102985556488192/img/A7noR9mgexqrFpVc.jpg" width="600" alt="蟹人 vs 章鱼武士对决">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11040)**
-
-**作者:** [Wheez Keepee](https://x.com/Whizkeepee) | **来源:** [Link](https://x.com/Whizkeepee/status/2101103134366113855) | **发布时间:** Sep 19, 2026
-
----
-### 音乐盒场景中的生日贺卡
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一个视频场景提示词，展示一张生日贺卡放在音乐盒上，同时有人唱生日快乐歌。
-
-#### 📝 提示词
-
-```
-一个视频风格的庆祝场景，通过大声唱出“生日快乐”来庆祝，一张写满爱、信任、梦想和希望祝福的 Happy Birthday 贺卡被放置在一个音乐盒上，送给他的原住民伴侣。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101048344114323456/img/TCmlGCRl2aRlhgNE.jpg" width="600" alt="音乐盒场景中的生日贺卡">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11050)**
-
-**作者:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **来源:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2101048359973007552) | **发布时间:** Sep 18, 2026
-
----
-### 《太空：1999》月球基地阿尔法电影级全景镜头
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 为《太空：1999》中的月球基地阿尔法设计的超宽 IMAX 电影级全景镜头详细提示词，描述其地理位置及工程意义。
-
-#### 📝 提示词
-
-```
-《太空：1999》中月球基地阿尔法的超宽 IMAX 电影级全景镜头，这是人类和平时期最伟大的工程成就，一座庞大的自给自足城市，建造在位于雨海上方、防护严密的柏拉图环形山内……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101024426389037056/img/YbfyxYawHBDQVx8D.jpg" width="600" alt="《太空：1999》月球基地阿尔法电影级全景镜头">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11043)**
-
-**作者:** [Owen](https://x.com/owenxplore) | **来源:** [Link](https://x.com/owenxplore/status/2101024443686379619) | **发布时间:** Sep 18, 2026
-
----
-### 电影感汉堡场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 为 Grok Imagine 设计的详细视频生成提示词，描绘人们在黄金时刻享用汉堡和奶昔的电影感场景，包含特定的音频和视觉线索。
-
-#### 📝 提示词
-
-```
-他们欢笑欢呼，咬下汉堡，奶昔吸管微微晃动，白杨树叶沙沙作响，电影感黄金时刻白光。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100991882725900288/img/0ZPDqDp6o_M86GDj.jpg" width="600" alt="电影感汉堡场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11049)**
-
-**作者:** [Connie Willis](https://x.com/conniewillisx) | **来源:** [Link](https://x.com/conniewillisx/status/2100991919103058329) | **发布时间:** Sep 18, 2026
-
----
-### 情感电影片段提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个详细的电影片段提示词，专注于情感叙事、黄金时刻的光影效果以及飘逸长发和紫色服饰等特定角色细节。
-
-#### 📝 提示词
-
-```
-第 #8 段
-以与《自由颂》/《勇气颂》相同的高制作水准和情感风格呈现的 50–75 秒电影片段。采用缓慢、富有呼吸感的转场。使用黄金时刻和灯笼般的暖光。
-延长长者头发在微风中飘动的镜头，以及紫色飘逸舞裙...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100982964398051328/img/enDxCEoOnmh_GyMe.jpg" width="600" alt="情感电影片段提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11044)**
-
-**作者:** [Cathleen Pollard](https://x.com/SkylarknTexas) | **来源:** [Link](https://x.com/SkylarknTexas/status/2100982986418057358) | **发布时间:** Sep 18, 2026
-
----
-### 特斯拉电动车生产线
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 展示特斯拉电动车精密机器人组装过程的视频生成提示词。
-
-#### 📝 提示词
-
-```
-第 3 部分：30-45 秒 | 现代化生产
-
-从未完工的车身到成品电动车，精密机器人与技术在特斯拉的生产线上完美融合。⚡🚗🏭
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100882331192147969/img/h5Qwl7hll7yEOEOG.jpg" width="600" alt="特斯拉电动车生产线">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11269)**
-
-**作者:** [Ethan Ray](https://x.com/ItsEthanRay) | **来源:** [Link](https://x.com/ItsEthanRay/status/2100963304487166086) | **发布时间:** Sep 18, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2252,6 +2252,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-10-02T05:28:57.092Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-10-02T14:53:56.001Z</sub>
 
 </div>

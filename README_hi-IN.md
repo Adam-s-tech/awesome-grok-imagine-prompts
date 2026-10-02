@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2951** |
+| 📝 Total Prompts | **2957** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-02** |
 
@@ -189,6 +189,124 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine Aveline और Black Dragon वीडियो प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक विशिष्ट प्रॉम्प्ट जो एक वीडियो दृश्य उत्पन्न करता है जिसमें Aveline एक विशाल काले ड्रैगन के बगल में खड़ी होती है जो अपने पंख फैलाता है।
+
+#### 📝 Prompt
+
+```
+युवा Aveline पहाड़ी परिदृश्य पर अपने विशाल काले ड्रैगन के बगल में खड़ी है। ड्रैगन अचानक उठता है और अपनी शक्तिशाली और भव्यता से अपने विशाल गहरे रंग के पंखों को पूरी तरह से फैलाता है। इस हलचल से तेज हवा बाहर की ओर बहती है, Aveline के...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105923128681549824/img/euC1usnvoptjCuG_.jpg" width="600" alt="Grok Imagine Aveline और Black Dragon वीडियो प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11785)**
+
+**Author:** [Aveline](https://x.com/Avelinechronicl) | **Source:** [Link](https://x.com/Avelinechronicl/status/2105923166065353210) | **Published:** Oct 2, 2026
+
+---
+### कैंप के चारों ओर उड़ता हुआ रोबोट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक वीडियो जनरेशन प्रॉम्प्ट जिसमें एक रोबोट कैंप के चारों ओर उड़ता है जबकि कुत्ते कूदते और खेलते हैं।
+
+#### 📝 Prompt
+
+```
+क्या आप कृपया रोबोट को कैंप के चारों ओर उड़ा सकते हैं जबकि कुत्ते देख रहे हों, कूद रहे हों और खेल रहे हों....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105880308386283520/img/SJrgR8kVbB3AAn6z.jpg" width="600" alt="कैंप के चारों ओर उड़ता हुआ रोबोट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11783)**
+
+**Author:** [Keith Michael Roads](https://x.com/yuinanotherlife) | **Source:** [Link](https://x.com/yuinanotherlife/status/2105880384777212078) | **Published:** Oct 2, 2026
+
+---
+### रोबोट और आदमी का भावनात्मक दृश्य
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक रोबोट और एक आदमी के बीच हृदयस्पर्शी दृश्य के लिए विस्तृत नैरेटिव प्रॉम्प्ट, जिसमें संवाद और पृष्ठभूमि में जानवरों की गतिविधियाँ शामिल हैं।
+
+#### 📝 Prompt
+
+```
+रोबोट ने आदमी के गाल पर चूमा और कहा “आई लव यू डैड”
+आदमी ने रोबोट के माथे पर चूमा और कहा “आई लव यू टू रॉकेट”
+घोड़े और कुत्ते उनके चारों ओर खेलते हुए घूम रहे थे।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105877976160309248/img/EFzO6Am_qk7cmN6L.jpg" width="600" alt="रोबोट और आदमी का भावनात्मक दृश्य">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11781)**
+
+**Author:** [Keith Michael Roads](https://x.com/yuinanotherlife) | **Source:** [Link](https://x.com/yuinanotherlife/status/2105878077951926647) | **Published:** Oct 2, 2026
+
+---
+### Grok Imagine Knight Dragon Battle
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक नाटकीय वीडियो के लिए प्रॉम्प्ट जिसमें एक नाइट चमगादड़ों से लड़ रहा है और एक ड्रैगन आग उगल रहा है।
+
+#### 📝 Prompt
+
+```
+नाइट कई काले चमगादड़ों से लड़ रहा है, ड्रैगन जमीन पर उतरता है, नाइट के ऊपर खड़ा होता है और चमगादड़ों को आग से भस्म करता है
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105688545579200512/img/zphFXUpu5B8StV8-.jpg" width="600" alt="Grok Imagine Knight Dragon Battle">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11782)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2105688631835001069) | **Published:** Oct 1, 2026
+
+---
+### Grok Imagine वीडियो प्रॉम्प्ट: रनवे पैड डेक
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक लॉक्ड-ऑफ वाइड-एंगल वीडियो प्रॉम्प्ट जो मिस्ट, वॉश और स्ट्रट बाइट इफेक्ट्स के साथ रनवे पैड डेक दिखाता है। Seedance एपिक प्रॉम्प्ट से पुनर्निर्मित।
+
+#### 📝 Prompt
+
+```
+लॉक्ड-ऑफ पैड डेक।
+वॉश, मिस्ट और स्ट्रट बाइट के पाँच बीट्स।
+Seedance एपिक को Grok Imagine में पुनर्निर्मित किया गया।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105508222266142720/img/gYL1Vt8TdKWfItns.jpg" width="600" alt="Grok Imagine वीडियो प्रॉम्प्ट: रनवे पैड डेक">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11786)**
+
+**Author:** [Jack](https://x.com/JacksAISites) | **Source:** [Link](https://x.com/JacksAISites/status/2105643905509421166) | **Published:** Oct 1, 2026
+
+---
+### Grok Imagine वीडियो प्रॉम्प्ट: इटली के एम्फीथिएटर का गाइड
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक वीडियो जनरेशन प्रॉम्प्ट जो इटली के एक एम्फीथिएटर को दिखाता है, जहाँ एक टूर गाइड कैमरे की ओर इतालवी में बोल रहा है। यह मूल रूप से Morphic प्रॉम्प्ट से पुनर्निर्मित किया गया है।
+
+#### 📝 Prompt
+
+```
+इटली का एम्फीथिएटर, टूर गाइड कैमरे की ओर: “यहाँ हज़ारों लोगों ने गाना गाया था।”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105505175829897216/img/MV9cbfZU5Q9YDhzQ.jpg" width="600" alt="Grok Imagine वीडियो प्रॉम्प्ट: इटली के एम्फीथिएटर का गाइड">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11784)**
+
+**Author:** [Jack](https://x.com/JacksAISites) | **Source:** [Link](https://x.com/JacksAISites/status/2105535178667929782) | **Published:** Oct 1, 2026
+
+---
 ### ग्रहों को व्यवस्थित करते हुए युवक और नाभि का दृश्य
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2074,124 +2192,6 @@ Grok Imagine से बनाया गया।
 **Author:** [MentorCapitalist](https://x.com/mentorcapital1) | **Source:** [Link](https://x.com/mentorcapital1/status/2101107519833932137) | **Published:** Sep 19, 2026
 
 ---
-### Crab Man vs Octopus Samurai Fight
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for a short action video featuring a crab-man and an octopus-man engaging in a samurai-style fight on a beach.
-
-#### 📝 Prompt
-
-```
-make a short video a crab-man and an octopus man fighting on the beach samurai style
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101102985556488192/img/A7noR9mgexqrFpVc.jpg" width="600" alt="Crab Man vs Octopus Samurai Fight">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11040)**
-
-**Author:** [Wheez Keepee](https://x.com/Whizkeepee) | **Source:** [Link](https://x.com/Whizkeepee/status/2101103134366113855) | **Published:** Sep 19, 2026
-
----
-### म्यूजिक बॉक्स सीन पर जन्मदिन का कार्ड
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> एक वीडियो सीन के लिए प्रॉम्प्ट जिसमें एक जन्मदिन का कार्ड म्यूजिक बॉक्स पर रखा है और कोई हैप्पी बर्थडे गा रहा है।
-
-#### 📝 Prompt
-
-```
-एक वीडियो-शैली का सीन जो 'हैप्पी बर्थडे' कहकर उत्सव मनाता है, जिसमें प्यार, विश्वास, सपनों और उम्मीदों की शुभकामनाओं वाला एक हैप्पी बर्थडे कार्ड उसके स्वदेशी साथी के लिए बनाया गया है और इसे म्यूजिक बॉक्स के ऊपर रखा गया है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101048344114323456/img/TCmlGCRl2aRlhgNE.jpg" width="600" alt="म्यूजिक बॉक्स सीन पर जन्मदिन का कार्ड">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11050)**
-
-**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2101048359973007552) | **Published:** Sep 18, 2026
-
----
-### मूनबेस अल्फा का सिनेमाई एस्टैब्लिशिंग शॉट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> स्पेस: 1999 से मूनबेस अल्फा के अल्ट्रा-वाइड IMAX सिनेमाई एस्टैब्लिशिंग शॉट के लिए एक विस्तृत प्रॉम्प्ट, जिसमें इसकी स्थिति और इंजीनियरिंग महत्व का वर्णन किया गया है।
-
-#### 📝 Prompt
-
-```
-स्पेस: 1999 से मूनबेस अल्फा का अल्ट्रा-वाइड IMAX सिनेमाई एस्टैब्लिशिंग शॉट, मानवता की शांतिकालीन इंजीनियरिंग उपलब्धियों में सबसे बड़ा, प्लेटो के गहरे क्रेटर में बनाया गया एक विशाल स्वयं-निर्भर शहर जो सी ऑफ़ शॉवर्स के ठीक ऊपर स्थित है...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101024426389037056/img/YbfyxYawHBDQVx8D.jpg" width="600" alt="मूनबेस अल्फा का सिनेमाई एस्टैब्लिशिंग शॉट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11043)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2101024443686379619) | **Published:** Sep 18, 2026
-
----
-### सिनेमैटिक बर्गर दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> गोल्डन आवर में बर्गर और शेक का आनंद ले रहे लोगों के सिनेमैटिक दृश्य का वर्णन करने वाला Grok Imagine के लिए एक विस्तृत वीडियो जनरेशन प्रॉम्प्ट, जिसमें विशिष्ट ऑडियो और विज़ुअल क्यू शामिल हैं।
-
-#### 📝 Prompt
-
-```
-वे हंसते और खुश होते हैं, बर्गर के बाइट लेते हैं, शेक थोड़ा सा फिसलता है, एस्पेन की सरसराहट, सिनेमैटिक गोल्डन आवर सफेद।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100991882725900288/img/0ZPDqDp6o_M86GDj.jpg" width="600" alt="सिनेमैटिक बर्गर दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11049)**
-
-**Author:** [Connie Willis](https://x.com/conniewillisx) | **Source:** [Link](https://x.com/conniewillisx/status/2100991919103058329) | **Published:** Sep 18, 2026
-
----
-### भावनात्मक सिनेमाई सेगमेंट प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक विस्तृत प्रॉम्प्ट जो भावनात्मक कहानी सुनाने, गोल्डन-आवर लाइटिंग और विशेष किरदारों के विवरण जैसे बहते हुए बाल और बैंगनी वस्त्रों पर केंद्रित एक सिनेमाई सेगमेंट के लिए है।
-
-#### 📝 Prompt
-
-```
-सेगमेंट #8
-"An Ode to Freedom" / "Ode to Courage" की तरह उच्च-प्रोडक्शन मानक वाली भावनात्मक शैली में 50–75 सेकंड का सिनेमाई सेगमेंट। धीमे, सांस लेने जैसे ट्रांजिशन। गोल्डन-आवर और लालटेन जैसी गर्म रोशनी।
-बुजुर्ग के बाल हवा में बहते हुए दिखाएं और बैंगनी रंग का बॉल गाउन...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100982964398051328/img/enDxCEoOnmh_GyMe.jpg" width="600" alt="भावनात्मक सिनेमाई सेगमेंट प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11044)**
-
-**Author:** [Cathleen Pollard](https://x.com/SkylarknTexas) | **Source:** [Link](https://x.com/SkylarknTexas/status/2100982986418057358) | **Published:** Sep 18, 2026
-
----
-### Tesla EV उत्पादन लाइन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो जनरेशन प्रॉम्प्ट जो Tesla EV के असेंबली को सटीक रोबोटिक्स के साथ दिखाता है।
-
-#### 📝 Prompt
-
-```
-भाग 3: 30-45 सेकंड | आधुनिक उत्पादन
-
-अधूरे बॉडी से लेकर फिनिश्ड EV तक, सटीक रोबोटिक्स और तकनीक Tesla की उत्पादन लाइन पर एक साथ आती हैं। ⚡🚗🏭
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100882331192147969/img/h5Qwl7hll7yEOEOG.jpg" width="600" alt="Tesla EV उत्पादन लाइन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11269)**
-
-**Author:** [Ethan Ray](https://x.com/ItsEthanRay) | **Source:** [Link](https://x.com/ItsEthanRay/status/2100963304487166086) | **Published:** Sep 18, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2253,6 +2253,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-02T05:29:01.330Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-02T14:54:03.102Z</sub>
 
 </div>

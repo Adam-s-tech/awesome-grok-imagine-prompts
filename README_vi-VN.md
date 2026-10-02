@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2951** |
+| 📝 Total Prompts | **2957** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-02** |
 
@@ -189,6 +189,124 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine Aveline và Black Dragon Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt cụ thể để tạo ra cảnh video nơi Aveline đứng cạnh một con rồng đen khổng lồ đang dang rộng đôi cánh.
+
+#### 📝 Prompt
+
+```
+Aveline trẻ tuổi đứng bên cạnh con rồng đen khổng lồ của cô trên phong cảnh núi non. Con rồng bất ngờ ngẩng đầu lên và từ từ dang rộng đôi cánh tối màu to lớn của nó ra hết cỡ, mạnh mẽ và uy nghi. Gió thổi bùng ra từ chuyển động đó, làm bay tóc của Aveline...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105923128681549824/img/euC1usnvoptjCuG_.jpg" width="600" alt="Grok Imagine Aveline và Black Dragon Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11785)**
+
+**Author:** [Aveline](https://x.com/Avelinechronicl) | **Source:** [Link](https://x.com/Avelinechronicl/status/2105923166065353210) | **Published:** Oct 2, 2026
+
+---
+### Robot Bay Quanh Trại
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Lời nhắc tạo video cho Grok Imagine, trong đó một robot bay quanh trại khi những chú chó nhảy và chơi đùa.
+
+#### 📝 Prompt
+
+```
+Bạn có thể để robot bay quanh trại trong khi những chú chó nhảy và chơi đùa được không...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105880308386283520/img/SJrgR8kVbB3AAn6z.jpg" width="600" alt="Robot Bay Quanh Trại">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11783)**
+
+**Author:** [Keith Michael Roads](https://x.com/yuinanotherlife) | **Source:** [Link](https://x.com/yuinanotherlife/status/2105880384777212078) | **Published:** Oct 2, 2026
+
+---
+### Cảnh Cảm Xúc Giữa Robot Và Con Người
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu chuyện cảm động về cảnh tượng giữa một robot và một người đàn ông, bao gồm lời thoại và các hành động của những con vật xung quanh.
+
+#### 📝 Prompt
+
+```
+Robot hôn lên má người đàn ông và nói “Con yêu bố”
+Người đàn ông hôn lên trán robot và đáp lại “Bố cũng yêu con, Rocket”
+Những chú ngựa và chó chạy vòng quanh họ một cách vui vẻ.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105877976160309248/img/EFzO6Am_qk7cmN6L.jpg" width="600" alt="Cảnh Cảm Xúc Giữa Robot Và Con Người">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11781)**
+
+**Author:** [Keith Michael Roads](https://x.com/yuinanotherlife) | **Source:** [Link](https://x.com/yuinanotherlife/status/2105878077951926647) | **Published:** Oct 2, 2026
+
+---
+### Grok Imagine: Trận Chiến Của Hiệp Sĩ Và Rồng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt video hành động kịch tính về một hiệp sĩ chiến đấu với dơi và rồng phun lửa.
+
+#### 📝 Prompt
+
+```
+Hiệp sĩ chiến đấu với nhiều con dơi đen, rồng hạ cánh đứng trên hiệp sĩ, phun lửa thiêu rụi đàn dơi
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105688545579200512/img/zphFXUpu5B8StV8-.jpg" width="600" alt="Grok Imagine: Trận Chiến Của Hiệp Sĩ Và Rồng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11782)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2105688631835001069) | **Published:** Oct 1, 2026
+
+---
+### Grok Imagine Video Prompt: Sàn Hạ Cánh Runway
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt video Grok Imagine cho góc quay rộng cố định, thể hiện sàn hạ cánh với các hiệu ứng sương mù, dòng chảy và lực đỡ. Được tái tạo từ prompt sử thi của Seedance.
+
+#### 📝 Prompt
+
+```
+Sàn hạ cánh với góc quay cố định.
+Năm nhịp của dòng chảy, sương mù và lực đỡ.
+Runway Seedance epic được tái tạo trong Grok Imagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105508222266142720/img/gYL1Vt8TdKWfItns.jpg" width="600" alt="Grok Imagine Video Prompt: Sàn Hạ Cánh Runway">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11786)**
+
+**Author:** [Jack](https://x.com/JacksAISites) | **Source:** [Link](https://x.com/JacksAISites/status/2105643905509421166) | **Published:** Oct 1, 2026
+
+---
+### Grok Imagine Video Prompt: Hướng dẫn Amphitheater Ý
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Lời nhắc tạo video cho Grok Imagine hiển thị một amphitheater ở Ý, nơi hướng dẫn viên du lịch nói với máy quay bằng tiếng Ý. Được làm lại từ lời nhắc của Morphic.
+
+#### 📝 Prompt
+
+```
+Amphitheater ở Ý, hướng dẫn viên du lịch nhìn vào máy quay: “Tại đây, hàng nghìn người đã cùng cất tiếng hát.”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105505175829897216/img/MV9cbfZU5Q9YDhzQ.jpg" width="600" alt="Grok Imagine Video Prompt: Hướng dẫn Amphitheater Ý">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11784)**
+
+**Author:** [Jack](https://x.com/JacksAISites) | **Source:** [Link](https://x.com/JacksAISites/status/2105535178667929782) | **Published:** Oct 1, 2026
+
+---
 ### Chàng trai trẻ sắp xếp các hành tinh và lộ rốn
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2074,124 +2192,6 @@ Tạo một video về chiếc xe Chevy low rider cũ bật nhảy cao 3 ft bằ
 **Author:** [MentorCapitalist](https://x.com/mentorcapital1) | **Source:** [Link](https://x.com/mentorcapital1/status/2101107519833932137) | **Published:** Sep 19, 2026
 
 ---
-### Trận Chiến Giữa Người Cua và Samurai Bạch Tuộc
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video hành động ngắn mô tả cuộc chiến phong cách samurai giữa người cua và người bạch tuộc trên bãi biển.
-
-#### 📝 Prompt
-
-```
-tạo một video ngắn về trận chiến giữa người cua và người bạch tuộc trên bãi biển theo phong cách samurai
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101102985556488192/img/A7noR9mgexqrFpVc.jpg" width="600" alt="Trận Chiến Giữa Người Cua và Samurai Bạch Tuộc">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11040)**
-
-**Author:** [Wheez Keepee](https://x.com/Whizkeepee) | **Source:** [Link](https://x.com/Whizkeepee/status/2101103134366113855) | **Published:** Sep 19, 2026
-
----
-### Thiệp Sinh Nhật Trên Hộp Nhạc
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một prompt cho cảnh video nơi thiệp sinh nhật đặt trên hộp nhạc trong khi ai đó hát bài chúc mừng sinh nhật.
-
-#### 📝 Prompt
-
-```
-Một cảnh quay theo phong cách video kỷ niệm bằng cách cất tiếng hát 'chúc mừng sinh nhật', với tấm thiệp Happy Birthday chứa đựng những lời chúc về tình yêu, sự tin tưởng, ước mơ và hy vọng dành cho người bạn đời bản địa của anh ấy, được đặt trên một chiếc hộp nhạc.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101048344114323456/img/TCmlGCRl2aRlhgNE.jpg" width="600" alt="Thiệp Sinh Nhật Trên Hộp Nhạc">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11050)**
-
-**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2101048359973007552) | **Published:** Sep 18, 2026
-
----
-### Cảnh quay thiết lập điện ảnh siêu rộng của Moonbase Alpha
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt chi tiết cho cảnh quay thiết lập điện ảnh IMAX siêu rộng của Moonbase Alpha từ loạt phim Space: 1999, mô tả vị trí và ý nghĩa kỹ thuật của nó.
-
-#### 📝 Prompt
-
-```
-Cảnh quay thiết lập điện ảnh IMAX siêu rộng của Moonbase Alpha từ loạt phim Space: 1999, thành tựu kỹ thuật thời bình vĩ đại nhất của nhân loại, một thành phố tự cung tự cấp khổng lồ được xây dựng trong miệng núi lửa Plato được bảo vệ tốt ngay phía trên Biển Showers...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101024426389037056/img/YbfyxYawHBDQVx8D.jpg" width="600" alt="Cảnh quay thiết lập điện ảnh siêu rộng của Moonbase Alpha">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11043)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2101024443686379619) | **Published:** Sep 18, 2026
-
----
-### Cảnh quay Burger điện ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video chi tiết cho Grok Imagine mô tả một cảnh quay điện ảnh về mọi người thưởng thức burger và sinh tố trong giờ vàng, kèm theo các chỉ dẫn cụ thể về âm thanh và hình ảnh.
-
-#### 📝 Prompt
-
-```
-Họ cười nói và reo hò, cắn những chiếc burger, ly sinh tố hơi nghiêng nhẹ, tiếng lá Aspen xào xạc, ánh sáng giờ vàng điện ảnh màu trắng.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100991882725900288/img/0ZPDqDp6o_M86GDj.jpg" width="600" alt="Cảnh quay Burger điện ảnh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11049)**
-
-**Author:** [Connie Willis](https://x.com/conniewillisx) | **Source:** [Link](https://x.com/conniewillisx/status/2100991919103058329) | **Published:** Sep 18, 2026
-
----
-### Nhắc nhở phân đoạn điện ảnh giàu cảm xúc
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một lời nhắc chi tiết cho một phân đoạn điện ảnh tập trung vào kể chuyện giàu cảm xúc, ánh sáng giờ vàng và các chi tiết nhân vật cụ thể như mái tóc bay bổng và trang phục màu tím.
-
-#### 📝 Prompt
-
-```
-Phân đoạn #8
-Phân đoạn điện ảnh dài 50–75 giây theo phong cách cảm xúc sản xuất cao tương tự như “An Ode to Freedom” / Ode to Courage. Các chuyển cảnh chậm rãi, có nhịp thở. Ánh sáng giờ vàng và ánh đèn lồng ấm áp.
-Kéo dài mái tóc của người lớn tuổi bay trong gió và chiếc váy dạ hội tím bay bổng...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100982964398051328/img/enDxCEoOnmh_GyMe.jpg" width="600" alt="Nhắc nhở phân đoạn điện ảnh giàu cảm xúc">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11044)**
-
-**Author:** [Cathleen Pollard](https://x.com/SkylarknTexas) | **Source:** [Link](https://x.com/SkylarknTexas/status/2100982986418057358) | **Published:** Sep 18, 2026
-
----
-### Dây chuyền sản xuất xe điện Tesla
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Lời nhắc tạo video hiển thị quá trình lắp ráp xe điện Tesla với robot chính xác.
-
-#### 📝 Prompt
-
-```
-Phần 3: 30-45 giây | Sản xuất hiện đại
-
-Từ khung thân chưa hoàn thiện đến chiếc xe điện hoàn chỉnh, người máy chính xác và công nghệ hội tụ trên dây chuyền sản xuất của Tesla. ⚡🚗🏭
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100882331192147969/img/h5Qwl7hll7yEOEOG.jpg" width="600" alt="Dây chuyền sản xuất xe điện Tesla">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11269)**
-
-**Author:** [Ethan Ray](https://x.com/ItsEthanRay) | **Source:** [Link](https://x.com/ItsEthanRay/status/2100963304487166086) | **Published:** Sep 18, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2253,6 +2253,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-02T05:29:00.583Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-02T14:54:01.890Z</sub>
 
 </div>

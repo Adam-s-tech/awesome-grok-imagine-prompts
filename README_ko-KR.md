@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2951** |
+| 📝 총 프롬프트 수 | **2957** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-10-02** |
 
@@ -189,6 +189,124 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### Grok Imagine Aveline과 Black Dragon 영상 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Aveline이 거대한 검은 용 옆에 서서 날개를 펼치는 장면을 생성하기 위한 구체적인 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+어린 Aveline이 산악 풍경 속 거대한 검은 용 옆에 서 있습니다. 용은 갑자기 몸을 일으키며 어둡고 거대한 날개를 천천히 완전히 펼쳐 보이며, 강하고 위엄 있는 모습을 드러냅니다. 움직임으로 인해 바람이 밖으로 쏟아져 나오며 Aveline의...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105923128681549824/img/euC1usnvoptjCuG_.jpg" width="600" alt="Grok Imagine Aveline과 Black Dragon 영상 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11785)**
+
+**작성자:** [Aveline](https://x.com/Avelinechronicl) | **출처:** [Link](https://x.com/Avelinechronicl/status/2105923166065353210) | **게시일:** Oct 2, 2026
+
+---
+### 캠프 주위를 날아다니는 로봇
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 개들이 뛰어놀고 있는 캠프 주변을 로봇이 날아다니는 Grok Imagine용 영상 생성 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+개들이 뛰놀며 지켜보는 동안, 로봇이 캠프 주위를 날아다닐 수 있도록 해주세요....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105880308386283520/img/SJrgR8kVbB3AAn6z.jpg" width="600" alt="캠프 주위를 날아다니는 로봇">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11783)**
+
+**작성자:** [Keith Michael Roads](https://x.com/yuinanotherlife) | **출처:** [Link](https://x.com/yuinanotherlife/status/2105880384777212078) | **게시일:** Oct 2, 2026
+
+---
+### 로봇과 인간의 감정적인 장면
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 로봇과 남성이 등장하는 감동적인 장면을 위한 상세한 내러티브 프롬프트로, 대화와 배경 동물의 행동이 포함됩니다.
+
+#### 📝 프롬프트
+
+```
+로봇이 남자의 볼에 키스하며 "사랑해요, 아빠"라고 말합니다.
+남자가 로봇의 이마에 키스하며 "나도 사랑해, 로켓"이라고 말합니다.
+말들과 개들이 그들 주위를 장난스럽게 뛰어다닙니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105877976160309248/img/EFzO6Am_qk7cmN6L.jpg" width="600" alt="로봇과 인간의 감정적인 장면">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11781)**
+
+**작성자:** [Keith Michael Roads](https://x.com/yuinanotherlife) | **출처:** [Link](https://x.com/yuinanotherlife/status/2105878077951926647) | **게시일:** Oct 2, 2026
+
+---
+### Grok Imagine: 기사와 용의 전투
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 박진감 넘치는 영상 프롬프트로, 기사가 박쥐들과 싸우고 용이 불을 뿜는 장면을 묘사합니다.
+
+#### 📝 프롬프트
+
+```
+수많은 검은 박쥐와 싸우는 기사, 착지한 용이 기사 위에 서서 불꽃으로 검은 박쥐들을 태워버림
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105688545579200512/img/zphFXUpu5B8StV8-.jpg" width="600" alt="Grok Imagine: 기사와 용의 전투">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11782)**
+
+**작성자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **출처:** [Link](https://x.com/HawkinsonLindy/status/2105688631835001069) | **게시일:** Oct 1, 2026
+
+---
+### Grok Imagine 비디오 프롬프트: Runway Pad Deck
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine용 고정 와이드 앵글 비디오 프롬프트로, 안개, 워시 및 스트럿 바이트 효과가 있는 런웨이 패드 데크를 보여줍니다. Seedance 에픽 프롬프트를 리메이크했습니다.
+
+#### 📝 프롬프트
+
+```
+고정된 패드 데크.
+워시, 안개, 스트럿 바이트의 다섯 가지 비트.
+Grok Imagine으로 리메이크한 Runway Seedance 에픽.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105508222266142720/img/gYL1Vt8TdKWfItns.jpg" width="600" alt="Grok Imagine 비디오 프롬프트: Runway Pad Deck">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11786)**
+
+**작성자:** [Jack](https://x.com/JacksAISites) | **출처:** [Link](https://x.com/JacksAISites/status/2105643905509421166) | **게시일:** Oct 1, 2026
+
+---
+### Grok Imagine Video 프롬프트: 이탈리아 원형극장 가이드
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 이탈리아 원형극장에서 가이드가 카메라를 향해 이탈리아어로 말하는 Grok Imagine용 영상 생성 프롬프트입니다. Morphic 프롬프트를 기반으로 제작되었습니다.
+
+#### 📝 프롬프트
+
+```
+이탈리아 원형극장, 카메라를 향한 가이드의 말: “여기서 수천 명이 노래를 불렀습니다.”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105505175829897216/img/MV9cbfZU5Q9YDhzQ.jpg" width="600" alt="Grok Imagine Video 프롬프트: 이탈리아 원형극장 가이드">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11784)**
+
+**작성자:** [Jack](https://x.com/JacksAISites) | **출처:** [Link](https://x.com/JacksAISites/status/2105535178667929782) | **게시일:** Oct 1, 2026
+
+---
 ### 행성을 배치하는 청년과 배꼽 노출
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2066,124 +2184,6 @@ Grok Imagine으로 제작되었습니다.
 **작성자:** [MentorCapitalist](https://x.com/mentorcapital1) | **출처:** [Link](https://x.com/mentorcapital1/status/2101107519833932137) | **게시일:** Sep 19, 2026
 
 ---
-### 게 인간 vs 문어 사무라이 전투
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 해변에서 게 인간과 문어 인간이 사무라이 스타일로 대결하는 짧은 액션 영상을 위한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-해변에서 게 인간과 문어 인간이 사무라이 스타일로 싸우는 짧은 영상을 만들어 주세요
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101102985556488192/img/A7noR9mgexqrFpVc.jpg" width="600" alt="게 인간 vs 문어 사무라이 전투">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11040)**
-
-**작성자:** [Wheez Keepee](https://x.com/Whizkeepee) | **출처:** [Link](https://x.com/Whizkeepee/status/2101103134366113855) | **게시일:** Sep 19, 2026
-
----
-### 음악 상자 위의 생일 카드 장면
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 누군가 생일 축하 노래를 부르는 동안 음악 상자 위에 생일 카드가 놓여 있는 비디오 장면을 위한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-'생일 축하해'라고 소리 내어 축하하는 비디오 스타일의 장면으로, 사랑, 신뢰, 꿈, 희망의 메시지가 담긴 생일 카드를 그의 원주민 파트너에게 전달하기 위해 음악 상자 위에 올려놓은 모습입니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101048344114323456/img/TCmlGCRl2aRlhgNE.jpg" width="600" alt="음악 상자 위의 생일 카드 장면">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11050)**
-
-**작성자:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **출처:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2101048359973007552) | **게시일:** Sep 18, 2026
-
----
-### 문베이스 알파 시네마틱 전경 샷
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> '스페이스: 1999'의 문베이스 알파를 묘사하는 초광각 IMAX 시네마틱 전경 샷을 위한 상세 프롬프트로, 위치와 공학적 의의를 설명합니다.
-
-#### 📝 프롬프트
-
-```
-'스페이스: 1999'에 등장하는 문베이스 알파의 초광각 IMAX 시네마틱 전경 샷. 인류 역사상 가장 위대한 평화 시대 공학의 성과이자, 비의 바다(Sea of Showers) 바로 위에 위치한 잘 보호된 플라톤 분지(Crater Plato) 내에 건설된 거대한 자급자족형 도시입니다...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101024426389037056/img/YbfyxYawHBDQVx8D.jpg" width="600" alt="문베이스 알파 시네마틱 전경 샷">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11043)**
-
-**작성자:** [Owen](https://x.com/owenxplore) | **출처:** [Link](https://x.com/owenxplore/status/2101024443686379619) | **게시일:** Sep 18, 2026
-
----
-### 시네마틱 버거 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 골든 아워에 버거와 밀크셰이크를 즐기는 사람들의 시네마틱 장면을 묘사하는 Grok Imagine용 상세 비디오 생성 프롬프트로, 특정 오디오 및 시각적 단서가 포함됩니다.
-
-#### 📝 프롬프트
-
-```
-그들은 웃고 환호하며 버거를 한 입 베어 물고, 밀크셰이크가 살짝 흘러내립니다. Aspen의 바스락거리는 소리, 시네마틱 골든 아워 White.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100991882725900288/img/0ZPDqDp6o_M86GDj.jpg" width="600" alt="시네마틱 버거 장면">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11049)**
-
-**작성자:** [Connie Willis](https://x.com/conniewillisx) | **출처:** [Link](https://x.com/conniewillisx/status/2100991919103058329) | **게시일:** Sep 18, 2026
-
----
-### 감성적인 시네마틱 장면 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 감성적인 스토리텔링, 골든아워 조명, 그리고 나부끼는 머리카락과 보라색 의상 등 구체적인 캐릭터 디테일에 초점을 맞춘 시네마틱 장면을 위한 상세 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-장면 #8
-“An Ode to Freedom” 또는 “Ode to Courage”와 동일한 고품질 감성적 스타일의 50~75초 분량 시네마틱 장면. 느리고 숨결이 느껴지는 전환 효과. 골든아워 및 전등 같은 따뜻한 조명.
-바람에 나부끼는 노인의 긴 머리와 흐르는 보라색 발 드레스...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100982964398051328/img/enDxCEoOnmh_GyMe.jpg" width="600" alt="감성적인 시네마틱 장면 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11044)**
-
-**작성자:** [Cathleen Pollard](https://x.com/SkylarknTexas) | **출처:** [Link](https://x.com/SkylarknTexas/status/2100982986418057358) | **게시일:** Sep 18, 2026
-
----
-### Tesla EV 생산 라인
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 정밀 로봇 공학을 활용한 Tesla EV 조립 과정을 보여주는 영상 생성 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-Part 3: 30-45초 | 현대적 생산
-
-미완성 차체에서 완성된 EV까지, 정밀 로봇 공학과 기술이 Tesla의 생산 라인에서 하나로 어우러집니다. ⚡🚗🏭
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100882331192147969/img/h5Qwl7hll7yEOEOG.jpg" width="600" alt="Tesla EV 생산 라인">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11269)**
-
-**작성자:** [Ethan Ray](https://x.com/ItsEthanRay) | **출처:** [Link](https://x.com/ItsEthanRay/status/2100963304487166086) | **게시일:** Sep 18, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2245,6 +2245,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-10-02T05:28:59.253Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-10-02T14:53:59.487Z</sub>
 
 </div>

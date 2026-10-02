@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2951** |
+| 📝 Total Prompts | **2957** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-02** |
 
@@ -189,6 +189,124 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine Aveline ve Kara Ejderha Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Aveline'in devasa bir kara ejderhanın yanında durduğu ve ejderhanın kanatlarını açtığı bir video sahnesi oluşturmak için özel bir istem.
+
+#### 📝 Prompt
+
+```
+Genç Aveline, dağlık arazideki devasa kara ejderhasının yanında duruyor. Ejderha aniden yükseliyor ve güçlü, görkemli bir şekilde karanlık kanatlarını yavaşça tam açıklığına kadar yayıyor. Hareketten dışa doğru rüzgar akışı oluşuyor, Aveline’in...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105923128681549824/img/euC1usnvoptjCuG_.jpg" width="600" alt="Grok Imagine Aveline ve Kara Ejderha Video İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11785)**
+
+**Author:** [Aveline](https://x.com/Avelinechronicl) | **Source:** [Link](https://x.com/Avelinechronicl/status/2105923166065353210) | **Published:** Oct 2, 2026
+
+---
+### Kampın Etrafında Uçan Robot
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için, bir robotun köpekler zıplayıp oynarken kampın etrafında uçtuğu bir video oluşturma istemi.
+
+#### 📝 Prompt
+
+```
+Lütfen robotun, köpekler zıplayıp izlerken ve oynarken kampın etrafında uçmasını sağlayabilir misiniz....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105880308386283520/img/SJrgR8kVbB3AAn6z.jpg" width="600" alt="Kampın Etrafında Uçan Robot">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11783)**
+
+**Author:** [Keith Michael Roads](https://x.com/yuinanotherlife) | **Source:** [Link](https://x.com/yuinanotherlife/status/2105880384777212078) | **Published:** Oct 2, 2026
+
+---
+### Robot ve İnsan Duygusal Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir robot ile bir adamın yer aldığı, diyaloglar ve arka plandaki hayvan hareketleri içeren dokunaklı bir sahne için detaylı anlatı istemi.
+
+#### 📝 Prompt
+
+```
+Robot, adamın yanağından öper ve “Seni seviyorum baba” der.
+Adam, robotun alnından öper ve “Ben de seni seviyorum Rocket” der.
+Atlar ve köpekler etraflarında neşeli bir şekilde döner.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105877976160309248/img/EFzO6Am_qk7cmN6L.jpg" width="600" alt="Robot ve İnsan Duygusal Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11781)**
+
+**Author:** [Keith Michael Roads](https://x.com/yuinanotherlife) | **Source:** [Link](https://x.com/yuinanotherlife/status/2105878077951926647) | **Published:** Oct 2, 2026
+
+---
+### Grok Imagine Şövalye ve Ejderha Savaşı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir şövalyenin yarasalarla savaştığı ve ejderhanın ateş püskürttüğü aksiyon dolu bir video için prompt.
+
+#### 📝 Prompt
+
+```
+Şövalye birçok siyah yarasa ile savaşıyor ejderha iniyor şövalyenin üzerinde duruyor siyah yarasaları ateşle patlatıyor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105688545579200512/img/zphFXUpu5B8StV8-.jpg" width="600" alt="Grok Imagine Şövalye ve Ejderha Savaşı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11782)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2105688631835001069) | **Published:** Oct 1, 2026
+
+---
+### Grok Imagine Video Prompt: Runway Pad Deck
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sis, su dalgası ve iniş takımı etkilerini gösteren, sabit geniş açılı bir Grok Imagine video prompt'u. Seedance epik prompt'undan yeniden oluşturuldu.
+
+#### 📝 Prompt
+
+```
+Sabit pad deck.
+Beş vuruşluk su dalgası, sis ve iniş takımı etkisi.
+Runway Seedance epik sahnesi Grok Imagine'de yeniden yaratıldı.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105508222266142720/img/gYL1Vt8TdKWfItns.jpg" width="600" alt="Grok Imagine Video Prompt: Runway Pad Deck">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11786)**
+
+**Author:** [Jack](https://x.com/JacksAISites) | **Source:** [Link](https://x.com/JacksAISites/status/2105643905509421166) | **Published:** Oct 1, 2026
+
+---
+### Grok Imagine Video İstemi: İtalyan Amfitiyatro Rehberi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> İtalyan bir amfitiyatroyu gösteren ve rehberin kameraya İtalyanca konuştuğu Grok Imagine için video üretim istemi. Morphic isteminden yeniden oluşturuldu.
+
+#### 📝 Prompt
+
+```
+İtalyan amfitiyatro, rehber kameraya konuşuyor: “Burada binlerce kişi şarkı söyledi.”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105505175829897216/img/MV9cbfZU5Q9YDhzQ.jpg" width="600" alt="Grok Imagine Video İstemi: İtalyan Amfitiyatro Rehberi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11784)**
+
+**Author:** [Jack](https://x.com/JacksAISites) | **Source:** [Link](https://x.com/JacksAISites/status/2105535178667929782) | **Published:** Oct 1, 2026
+
+---
 ### Gezegenleri düzenleyen genç adam ve göbek deliği detayı
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2067,124 +2185,6 @@ Hava amortisörleriyle 3 feet yüksekliğinde zıplayan eski bir low rider Chevy
 **Author:** [MentorCapitalist](https://x.com/mentorcapital1) | **Source:** [Link](https://x.com/mentorcapital1/status/2101107519833932137) | **Published:** Sep 19, 2026
 
 ---
-### Yengeç Adam vs Ahtapot Samuray Dövüşü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir yengeç adam ve bir ahtapot adamın sahilde samuray tarzında dövüştüğü kısa aksiyon videosu için istem.
-
-#### 📝 Prompt
-
-```
-sahilde samuray tarzında dövüşen bir yengeç adam ve bir ahtapot adam içeren kısa bir video oluştur
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101102985556488192/img/A7noR9mgexqrFpVc.jpg" width="600" alt="Yengeç Adam vs Ahtapot Samuray Dövüşü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11040)**
-
-**Author:** [Wheez Keepee](https://x.com/Whizkeepee) | **Source:** [Link](https://x.com/Whizkeepee/status/2101103134366113855) | **Published:** Sep 19, 2026
-
----
-### Müzik Kutusu Sahnesinde Doğum Günü Kartı
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Birinin mutlu yıllar şarkısını söylediği, doğum günü kartının bir müzik kutusunun üzerinde durduğu video sahnesi için prompt.
-
-#### 📝 Prompt
-
-```
-Yerli partnerine aşk, güven, hayaller ve umut dilekleriyle hazırlanmış bir Mutlu Yıllar kartının müzik kutusunun üzerinde durduğu ve yüksek sesle 'mutlu yıllar' denerek kutlama yapılan video tarzı bir sahne.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101048344114323456/img/TCmlGCRl2aRlhgNE.jpg" width="600" alt="Müzik Kutusu Sahnesinde Doğum Günü Kartı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11050)**
-
-**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2101048359973007552) | **Published:** Sep 18, 2026
-
----
-### Moonbase Alpha Sinematik Kurulum Çekimi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Space: 1999 dizisindeki Moonbase Alpha'nın ultra geniş IMAX sinematik kurulum çekimi için detaylı bir prompt; konumunu ve mühendislik önemini betimler.
-
-#### 📝 Prompt
-
-```
-Space: 1999'daki Moonbase Alpha'nın ultra geniş IMAX sinematik kurulum çekimi, insanlığın barış zamanındaki en büyük mühendislik başarısı, Showers Denizi'nin hemen üzerindeki iyi korunmuş Plato kraterine inşa edilmiş devasa, kendi kendine yeten bir şehir...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101024426389037056/img/YbfyxYawHBDQVx8D.jpg" width="600" alt="Moonbase Alpha Sinematik Kurulum Çekimi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11043)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2101024443686379619) | **Published:** Sep 18, 2026
-
----
-### Sinematik Hamburger Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için, altın saatte hamburger ve milkshake keyfi yapan insanları betimleyen, spesifik sesli ve görsel ipuçlarına sahip detaylı bir video üretim istemi.
-
-#### 📝 Prompt
-
-```
-Gülüşüyorlar ve tezahürat yapıyorlar, hamburgerlerden ısırık alıyorlar, shake hafifçe akıyor, Aspen'in Hışırtısı, sinematik altın saat Beyaz.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100991882725900288/img/0ZPDqDp6o_M86GDj.jpg" width="600" alt="Sinematik Hamburger Sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11049)**
-
-**Author:** [Connie Willis](https://x.com/conniewillisx) | **Source:** [Link](https://x.com/conniewillisx/status/2100991919103058329) | **Published:** Sep 18, 2026
-
----
-### Duygusal Sinematik Segment İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Duygusal hikaye anlatımına, altın saat ışığına ve uçuşan saçlar ile mor kıyafetler gibi belirli karakter detaylarına odaklanan sinematik bir segment için ayrıntılı istem.
-
-#### 📝 Prompt
-
-```
-Segment #8
-“An Ode to Freedom” / Cesaretin Övgüsü ile aynı yüksek prodüksiyonlu duygusal tarzda, 50–75 saniyelik sinematik segment. Yavaş, nefes alan geçişler. Altın saat ve fener sıcaklığında ışık.
-Yaşlı kişinin saçlarını rüzgarda uçuşan şekilde uzatın ve mor renkli uçuşan balo elbisesi...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100982964398051328/img/enDxCEoOnmh_GyMe.jpg" width="600" alt="Duygusal Sinematik Segment İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11044)**
-
-**Author:** [Cathleen Pollard](https://x.com/SkylarknTexas) | **Source:** [Link](https://x.com/SkylarknTexas/status/2100982986418057358) | **Published:** Sep 18, 2026
-
----
-### Tesla EV Üretim Hattı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Hassas robotik ile bir Tesla elektrikli aracının montajını gösteren bir video üretim istemi.
-
-#### 📝 Prompt
-
-```
-Bölüm 3: 30-45sn | Modern üretim
-
-Yarım kalmış gövdeden tamamlanmış bir elektrikli araca; hassas robotik ve teknoloji, Tesla'nın üretim hattında buluşuyor. ⚡🚗🏭
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100882331192147969/img/h5Qwl7hll7yEOEOG.jpg" width="600" alt="Tesla EV Üretim Hattı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11269)**
-
-**Author:** [Ethan Ray](https://x.com/ItsEthanRay) | **Source:** [Link](https://x.com/ItsEthanRay/status/2100963304487166086) | **Published:** Sep 18, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2246,6 +2246,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-02T05:29:09.064Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-02T14:54:12.235Z</sub>
 
 </div>

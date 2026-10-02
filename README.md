@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2951** |
+| 📝 Total Prompts | **2957** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-02** |
 
@@ -189,6 +189,124 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine Aveline and Black Dragon Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A specific prompt for generating a video scene where Aveline stands beside a massive black dragon that spreads its wings.
+
+#### 📝 Prompt
+
+```
+Young Aveline stands beside her massive black dragon on the mountain landscape. The dragon suddenly raises and slowly spreads its enormous dark wings to their full span, powerful and majestic. Wind rushes outward from the movement, blowing Aveline’s...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105923128681549824/img/euC1usnvoptjCuG_.jpg" width="600" alt="Grok Imagine Aveline and Black Dragon Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11785)**
+
+**Author:** [Aveline](https://x.com/Avelinechronicl) | **Source:** [Link](https://x.com/Avelinechronicl/status/2105923166065353210) | **Published:** Oct 2, 2026
+
+---
+### Robot Flying Around Camp
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt for Grok Imagine where a robot flies around a camp while dogs jump and play.
+
+#### 📝 Prompt
+
+```
+Can you please have the robot fly around the camp as the dogs jumps and play watching....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105880308386283520/img/SJrgR8kVbB3AAn6z.jpg" width="600" alt="Robot Flying Around Camp">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11783)**
+
+**Author:** [Keith Michael Roads](https://x.com/yuinanotherlife) | **Source:** [Link](https://x.com/yuinanotherlife/status/2105880384777212078) | **Published:** Oct 2, 2026
+
+---
+### Robot and Man Emotional Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed narrative prompt for a heartwarming scene involving a robot and a man, including dialogue and background animal actions.
+
+#### 📝 Prompt
+
+```
+The robot kiss the man on the cheek and says “I love you dad”
+The man kisses the robot on the forehead and says “I love you too Rocket”
+The horses and dogs circle around them playfully.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105877976160309248/img/EFzO6Am_qk7cmN6L.jpg" width="600" alt="Robot and Man Emotional Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11781)**
+
+**Author:** [Keith Michael Roads](https://x.com/yuinanotherlife) | **Source:** [Link](https://x.com/yuinanotherlife/status/2105878077951926647) | **Published:** Oct 2, 2026
+
+---
+### Grok Imagine Knight Dragon Battle
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An action-packed prompt for a video featuring a knight fighting bats and a dragon breathing fire.
+
+#### 📝 Prompt
+
+```
+Knight fighting many black bats dragon lands standing over knight blasts black bats with fire
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105688545579200512/img/zphFXUpu5B8StV8-.jpg" width="600" alt="Grok Imagine Knight Dragon Battle">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11782)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2105688631835001069) | **Published:** Oct 1, 2026
+
+---
+### Grok Imagine Video Prompt: Runway Pad Deck
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A locked-off wide-angle video prompt for Grok Imagine showing a runway pad deck with mist, wash, and strut bite effects. Remade from a Seedance epic prompt.
+
+#### 📝 Prompt
+
+```
+Locked-off pad deck.
+Five beats of wash, mist, and strut bite.
+Runway Seedance epic remade in Grok Imagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105508222266142720/img/gYL1Vt8TdKWfItns.jpg" width="600" alt="Grok Imagine Video Prompt: Runway Pad Deck">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11786)**
+
+**Author:** [Jack](https://x.com/JacksAISites) | **Source:** [Link](https://x.com/JacksAISites/status/2105643905509421166) | **Published:** Oct 1, 2026
+
+---
+### Grok Imagine Video Prompt: Italian Amphitheater Guide
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt for Grok Imagine showing an Italian amphitheater where a tour guide speaks to the camera in Italian. Remade from a Morphic prompt.
+
+#### 📝 Prompt
+
+```
+Italian amphitheater, tour guide to camera: “Here thousands of people sang.”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105505175829897216/img/MV9cbfZU5Q9YDhzQ.jpg" width="600" alt="Grok Imagine Video Prompt: Italian Amphitheater Guide">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11784)**
+
+**Author:** [Jack](https://x.com/JacksAISites) | **Source:** [Link](https://x.com/JacksAISites/status/2105535178667929782) | **Published:** Oct 1, 2026
+
+---
 ### Young man arranging planets and navel reveal
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2074,124 +2192,6 @@ Create a video of an old low rider Chevy car Hoping with air shocks 3 fr high th
 **Author:** [MentorCapitalist](https://x.com/mentorcapital1) | **Source:** [Link](https://x.com/mentorcapital1/status/2101107519833932137) | **Published:** Sep 19, 2026
 
 ---
-### Crab Man vs Octopus Samurai Fight
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for a short action video featuring a crab-man and an octopus-man engaging in a samurai-style fight on a beach.
-
-#### 📝 Prompt
-
-```
-make a short video a crab-man and an octopus man fighting on the beach samurai style
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101102985556488192/img/A7noR9mgexqrFpVc.jpg" width="600" alt="Crab Man vs Octopus Samurai Fight">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11040)**
-
-**Author:** [Wheez Keepee](https://x.com/Whizkeepee) | **Source:** [Link](https://x.com/Whizkeepee/status/2101103134366113855) | **Published:** Sep 19, 2026
-
----
-### Birthday Card on Music Box Scene
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A prompt for a video scene where a birthday card rests on a music box while someone sings happy birthday.
-
-#### 📝 Prompt
-
-```
-A video-style scene celebrating by saying 'happy birthday' out loud, with a Happy Birthday card made with wishes of love, trust, dreams, and hope for his indigenous partner placed on top of a music box.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101048344114323456/img/TCmlGCRl2aRlhgNE.jpg" width="600" alt="Birthday Card on Music Box Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11050)**
-
-**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2101048359973007552) | **Published:** Sep 18, 2026
-
----
-### Moonbase Alpha Cinematic Establishing Shot
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for an ultra-wide IMAX cinematic establishing shot of Moonbase Alpha from Space: 1999, describing its location and engineering significance.
-
-#### 📝 Prompt
-
-```
-Ultra-wide IMAX cinematic establishing shot of Moonbase Alpha from Space: 1999, the greatest peace-time engineering achievement of mankind, a vast self-contained city constructed in the well-protected crater Plato just above the Sea of Showers on the...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101024426389037056/img/YbfyxYawHBDQVx8D.jpg" width="600" alt="Moonbase Alpha Cinematic Establishing Shot">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11043)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2101024443686379619) | **Published:** Sep 18, 2026
-
----
-### Cinematic Burger Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed video generation prompt for Grok Imagine describing a cinematic scene of people enjoying burgers and shakes during golden hour with specific audio and visual cues.
-
-#### 📝 Prompt
-
-```
-They laugh and cheer, take bites of the burgers, the shake slashes slightly, Aspen's Rustle, cinematic golden hour White.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100991882725900288/img/0ZPDqDp6o_M86GDj.jpg" width="600" alt="Cinematic Burger Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11049)**
-
-**Author:** [Connie Willis](https://x.com/conniewillisx) | **Source:** [Link](https://x.com/conniewillisx/status/2100991919103058329) | **Published:** Sep 18, 2026
-
----
-### Emotional Cinematic Segment Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for a cinematic segment focusing on emotional storytelling, golden-hour lighting, and specific character details like flowing hair and purple garments.
-
-#### 📝 Prompt
-
-```
-Segment  #8 
-Cinematic 50–75 second segment in the same high-production emotional style as “An Ode to Freedom” / Ode to Courage. Slow, breathing transitions. Golden-hour and lantern-warm light.
-Lengthen elder’s hair flowing in the breeze and purple flowing Ball g...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100982964398051328/img/enDxCEoOnmh_GyMe.jpg" width="600" alt="Emotional Cinematic Segment Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11044)**
-
-**Author:** [Cathleen Pollard](https://x.com/SkylarknTexas) | **Source:** [Link](https://x.com/SkylarknTexas/status/2100982986418057358) | **Published:** Sep 18, 2026
-
----
-### Tesla EV Production Line
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt showing the assembly of a Tesla EV with precision robotics.
-
-#### 📝 Prompt
-
-```
-Part 3: 30-45sec|modern production 
-
-From an unfinished body to a finished EV  precision robotics, and technology come together on Tesla’s production line. ⚡🚗🏭
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100882331192147969/img/h5Qwl7hll7yEOEOG.jpg" width="600" alt="Tesla EV Production Line">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11269)**
-
-**Author:** [Ethan Ray](https://x.com/ItsEthanRay) | **Source:** [Link](https://x.com/ItsEthanRay/status/2100963304487166086) | **Published:** Sep 18, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2253,6 +2253,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-02T05:28:56.428Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-02T14:53:55.079Z</sub>
 
 </div>

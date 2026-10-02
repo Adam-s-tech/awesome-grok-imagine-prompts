@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2951** |
+| 📝 Total Prompts | **2957** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-02** |
 
@@ -189,6 +189,124 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### พรอมต์วิดีโอ Grok Imagine: Aveline และมังกรดำ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์เฉพาะสำหรับสร้างฉากวิดีโอที่ Aveline ยืนอยู่ข้างมังกรดำขนาดยักษ์ที่กำลังกางปีก
+
+#### 📝 Prompt
+
+```
+Aveline วัยเยาว์ยืนอยู่เคียงข้างมังกรดำขนาดมหึมาบนทิวทัศน์ภูเขา มังกรค่อยๆ ยกตัวขึ้นและกางปีกสีดำสนิทอันกว้างใหญ่ของมันออกจนสุดปลายอย่างทรงพลังและสง่างาม ลมพัดกระหน่ำออกมาจากการเคลื่อนไหว พัดพาเส้นผมของ Aveline...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105923128681549824/img/euC1usnvoptjCuG_.jpg" width="600" alt="พรอมต์วิดีโอ Grok Imagine: Aveline และมังกรดำ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11785)**
+
+**Author:** [Aveline](https://x.com/Avelinechronicl) | **Source:** [Link](https://x.com/Avelinechronicl/status/2105923166065353210) | **Published:** Oct 2, 2026
+
+---
+### หุ่นยนต์บินรอบค่ายพักแรม
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโอใน Grok Imagine โดยให้หุ่นยนต์บินรอบค่ายพักแรมขณะที่สุนัขกระโดดและเล่นกันอย่างสนุกสนาน
+
+#### 📝 Prompt
+
+```
+ช่วยทำให้หุ่นยนต์บินรอบค่ายพักแรมขณะที่สุนัขกระโดดและเล่นกันดูหน่อย...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105880308386283520/img/SJrgR8kVbB3AAn6z.jpg" width="600" alt="หุ่นยนต์บินรอบค่ายพักแรม">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11783)**
+
+**Author:** [Keith Michael Roads](https://x.com/yuinanotherlife) | **Source:** [Link](https://x.com/yuinanotherlife/status/2105880384777212078) | **Published:** Oct 2, 2026
+
+---
+### ฉากอารมณ์ระหว่างหุ่นยนต์และมนุษย์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำอธิบายรายละเอียดสำหรับฉากอบอุ่นหัวใจ involving หุ่นยนต์และชายคนหนึ่ง รวมถึงบทสนทนาและการกระทำของสัตว์พื้นหลัง
+
+#### 📝 Prompt
+
+```
+หุ่นยนต์จูบแก้มชายคนนั้นแล้วพูดว่า “รักนะพ่อ”
+ชายคนนั้นจูบหน้าผากหุ่นยนต์แล้วตอบกลับว่า “รักเหมือนกันนะ ร็อคเก็ต”
+ม้าและสุนัขวิ่งวนรอบพวกเขาอย่างร่าเริง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105877976160309248/img/EFzO6Am_qk7cmN6L.jpg" width="600" alt="ฉากอารมณ์ระหว่างหุ่นยนต์และมนุษย์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11781)**
+
+**Author:** [Keith Michael Roads](https://x.com/yuinanotherlife) | **Source:** [Link](https://x.com/yuinanotherlife/status/2105878077951926647) | **Published:** Oct 2, 2026
+
+---
+### Grok Imagine การต่อสู้ของอัศวินและมังกร
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์แอ็กชันสำหรับวิดีโอที่แสดงอัศวินสู้กับค้างคาวและมังกรพ่นไฟ
+
+#### 📝 Prompt
+
+```
+อัศวินต่อสู้กับค้างคาวสีดำจำนวนมาก มังกรลงจอดยืนเหนืออัศวิน พ่นไฟใส่ค้างคาวสีดำ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105688545579200512/img/zphFXUpu5B8StV8-.jpg" width="600" alt="Grok Imagine การต่อสู้ของอัศวินและมังกร">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11782)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2105688631835001069) | **Published:** Oct 1, 2026
+
+---
+### Grok Imagine Video Prompt: Runway Pad Deck
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอ Grok Imagine แบบมุมกว้างคงที่ แสดงรันเวย์ Pad Deck พร้อมเอฟเฟกต์หมอก น้ำ และ Strut Bite สร้างใหม่จาก Seedance Epic Prompt
+
+#### 📝 Prompt
+
+```
+Pad Deck มุมกล้องคงที่
+ห้าจังหวะของน้ำ หมอก และ Strut Bite
+รันเวย์ Seedance Epic สร้างใหม่ใน Grok Imagine
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105508222266142720/img/gYL1Vt8TdKWfItns.jpg" width="600" alt="Grok Imagine Video Prompt: Runway Pad Deck">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11786)**
+
+**Author:** [Jack](https://x.com/JacksAISites) | **Source:** [Link](https://x.com/JacksAISites/status/2105643905509421166) | **Published:** Oct 1, 2026
+
+---
+### Grok Imagine Video Prompt: คู่มือชมอัฒจันทร์อิตาลี
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโอใน Grok Imagine แสดงภาพอัฒจันทร์สไตล์อิตาลี โดยมีมัคคุเทศก์พูดกับกล้องเป็นภาษาอิตาลี ปรับปรุงจากพรอมต์ของ Morphic
+
+#### 📝 Prompt
+
+```
+อัฒจันทร์อิตาลี มัคคุเทศก์พูดกับกล้อง: “ที่นี่มีผู้คนหลายพันคนร้องเพลง”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105505175829897216/img/MV9cbfZU5Q9YDhzQ.jpg" width="600" alt="Grok Imagine Video Prompt: คู่มือชมอัฒจันทร์อิตาลี">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11784)**
+
+**Author:** [Jack](https://x.com/JacksAISites) | **Source:** [Link](https://x.com/JacksAISites/status/2105535178667929782) | **Published:** Oct 1, 2026
+
+---
 ### ชายหนุ่มจัดเรียงดาวเคราะห์และเผยให้เห็นสะดือ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2072,124 +2190,6 @@ AI video — ภาพยนตร์แนวตั้ง 9:16
 **Author:** [MentorCapitalist](https://x.com/mentorcapital1) | **Source:** [Link](https://x.com/mentorcapital1/status/2101107519833932137) | **Published:** Sep 19, 2026
 
 ---
-### การต่อสู้ระหว่างปูซามูไรกับปลาหมึกซามูไร
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างวิดีโอแอ็กชันสั้นๆ ที่นำเสนอฉากการต่อสู้สไตล์ซามูไรบนชายหาดระหว่างชายปูและชายปลาหมึก
-
-#### 📝 Prompt
-
-```
-สร้างวิดีโอสั้นๆ ของชายปูและชายปลาหมึกต่อสู้กันบนชายหาดในสไตล์ซามูไร
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101102985556488192/img/A7noR9mgexqrFpVc.jpg" width="600" alt="การต่อสู้ระหว่างปูซามูไรกับปลาหมึกซามูไร">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11040)**
-
-**Author:** [Wheez Keepee](https://x.com/Whizkeepee) | **Source:** [Link](https://x.com/Whizkeepee/status/2101103134366113855) | **Published:** Sep 19, 2026
-
----
-### ฉากการ์ดวันเกิดบนกล่องดนตรี
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> พรอมต์สำหรับฉากวิดีโอที่มีการ์ดวันเกิดวางอยู่บนกล่องดนตรี ขณะที่ใครบางคนกำลังร้องเพลงสุขสันต์วันเกิด
-
-#### 📝 Prompt
-
-```
-ฉากสไตล์วิดีโอเฉลิมฉลองโดยกล่าวคำว่า 'สุขสันต์วันเกิด' ออกมาดังๆ พร้อมการ์ด Happy Birthday ที่เขียนคำอวยพรด้วยความรัก ความไว้วางใจ ความฝัน และความหวัง สำหรับคู่ชีวิตที่เป็นชนพื้นเมือง วางอยู่บนกล่องดนตรี
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101048344114323456/img/TCmlGCRl2aRlhgNE.jpg" width="600" alt="ฉากการ์ดวันเกิดบนกล่องดนตรี">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11050)**
-
-**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2101048359973007552) | **Published:** Sep 18, 2026
-
----
-### ภาพมุมกว้างแบบ IMAX ของ Moonbase Alpha
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำอธิบายรายละเอียดสำหรับฉากเปิดเรื่องแบบ Ultra-wide IMAX ของ Moonbase Alpha จาก Space: 1999 ซึ่งบรรยายถึงตำแหน่งที่ตั้งและความสำคัญทางวิศวกรรม
-
-#### 📝 Prompt
-
-```
-ฉากเปิดเรื่องแบบ Ultra-wide IMAX ของ Moonbase Alpha จาก Space: 1999 สิ่งประดิษฐ์ทางวิศวกรรมแห่งสันติภาพที่ยิ่งใหญ่ที่สุดของมนุษยชาติ เมืองขนาดใหญ่ที่พึ่งพาตนเองได้ซึ่งสร้างขึ้นในหลุมอุกกาบาต Plato ที่ได้รับการปกป้องอย่างดีเหนือทะเล Showers บน...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101024426389037056/img/YbfyxYawHBDQVx8D.jpg" width="600" alt="ภาพมุมกว้างแบบ IMAX ของ Moonbase Alpha">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11043)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2101024443686379619) | **Published:** Sep 18, 2026
-
----
-### ฉากเบอร์เกอร์สไตล์ภาพยนตร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สร้างวิดีโอแบบละเอียดสำหรับ Grok Imagine ที่อธิบายฉากภาพยนตร์ของคนที่กำลังเพลิดเพลินกับเบอร์เกอร์และมิลค์เชคในช่วงเวลาทอง พร้อมรายละเอียดเสียงและภาพที่เฉพาะเจาะจง
-
-#### 📝 Prompt
-
-```
-พวกเขาหัวเราะและเชียร์กัน กัดเบอร์เกอร์ มิลค์เชคไหลเลอะเล็กน้อย เสียงใบแอสเพนเสียดสี แสงทองยามเย็นสไตล์ภาพยนตร์ สีขาว
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100991882725900288/img/0ZPDqDp6o_M86GDj.jpg" width="600" alt="ฉากเบอร์เกอร์สไตล์ภาพยนตร์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11049)**
-
-**Author:** [Connie Willis](https://x.com/conniewillisx) | **Source:** [Link](https://x.com/conniewillisx/status/2100991919103058329) | **Published:** Sep 18, 2026
-
----
-### พรอมต์ฉากภาพยนตร์เชิงอารมณ์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์รายละเอียดสำหรับฉากภาพยนตร์ที่เน้นการเล่าเรื่องเชิงอารมณ์ แสงยามเย็นสีทอง และรายละเอียดตัวละครเฉพาะ เช่น ผมพลิ้วไหวและชุดราตรีสีม่วง
-
-#### 📝 Prompt
-
-```
-Segment #8
-ฉากภาพยนตร์ความยาว 50–75 วินาที ในสไตล์การผลิตระดับสูงแบบเดียวกันกับ “An Ode to Freedom” / Ode to Courage การเปลี่ยนภาพช้าๆ แบบมีจังหวะหายใจ แสงยามเย็นสีทอง (Golden-hour) และแสงอุ่นจากโคมไฟ
-ผมของผู้อาวุโสยาวสยายตามสายลม และชุดราตรี Ball g...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100982964398051328/img/enDxCEoOnmh_GyMe.jpg" width="600" alt="พรอมต์ฉากภาพยนตร์เชิงอารมณ์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11044)**
-
-**Author:** [Cathleen Pollard](https://x.com/SkylarknTexas) | **Source:** [Link](https://x.com/SkylarknTexas/status/2100982986418057358) | **Published:** Sep 18, 2026
-
----
-### สายการผลิตรถยนต์ไฟฟ้า Tesla
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งสร้างวิดีโอที่แสดงกระบวนการประกอบรถยนต์ไฟฟ้า Tesla ด้วยหุ่นยนต์ที่มีความแม่นยำสูง
-
-#### 📝 Prompt
-
-```
-ส่วนที่ 3: 30-45 วินาที | การผลิตสมัยใหม่
-
-จากตัวถังที่ยังไม่เสร็จสมบูรณ์สู่รถยนต์ไฟฟ้าที่พร้อมใช้งาน หุ่นยนต์ที่มีความแม่นยำสูงและเทคโนโลยีขั้นสูงทำงานร่วมกันในสายการผลิตของ Tesla ⚡🚗🏭
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100882331192147969/img/h5Qwl7hll7yEOEOG.jpg" width="600" alt="สายการผลิตรถยนต์ไฟฟ้า Tesla">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11269)**
-
-**Author:** [Ethan Ray](https://x.com/ItsEthanRay) | **Source:** [Link](https://x.com/ItsEthanRay/status/2100963304487166086) | **Published:** Sep 18, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2251,6 +2251,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-02T05:28:59.949Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-02T14:54:00.838Z</sub>
 
 </div>

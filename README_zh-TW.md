@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2951** |
+| 📝 提示詞總數 | **2957** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-10-02** |
 
@@ -189,6 +189,124 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### Grok Imagine Aveline 與黑龍影片提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用於生成 Aveline 站在展開雙翼的巨大黑龍旁邊之影片場景的特定提示詞。
+
+#### 📝 提示詞
+
+```
+年輕的 Aveline 站在山景中她巨大的黑龍旁。黑龍突然抬起並緩緩展開其龐大的深色雙翼，直至完全伸展，氣勢磅礴且莊嚴雄偉。隨著動作產生的狂風向外席捲，吹動著 Aveline 的……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105923128681549824/img/euC1usnvoptjCuG_.jpg" width="600" alt="Grok Imagine Aveline 與黑龍影片提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11785)**
+
+**作者:** [Aveline](https://x.com/Avelinechronicl) | **來源:** [Link](https://x.com/Avelinechronicl/status/2105923166065353210) | **發布時間:** Oct 2, 2026
+
+---
+### 機器人環繞營地飛行
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 適用於 Grok Imagine 的影片生成提示詞，描述機器人在營地上空飛行，同時狗狗跳躍玩耍的場景。
+
+#### 📝 提示詞
+
+```
+請讓機器人環繞營地飛行，同時狗狗們跳躍玩耍並觀看......
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105880308386283520/img/SJrgR8kVbB3AAn6z.jpg" width="600" alt="機器人環繞營地飛行">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11783)**
+
+**作者:** [Keith Michael Roads](https://x.com/yuinanotherlife) | **來源:** [Link](https://x.com/yuinanotherlife/status/2105880384777212078) | **發布時間:** Oct 2, 2026
+
+---
+### 機器人與人類的情感場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段關於機器人與人類溫馨互動的詳細敘事提示，包含對話及背景中動物的動作描寫。
+
+#### 📝 提示詞
+
+```
+機器人親吻男子的臉頰並說：「我愛你，爸爸。」
+男子親吻機器人的額頭並說：「我也愛你，Rocket。」
+馬匹和狗在他們周圍嬉戲繞行。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105877976160309248/img/EFzO6Am_qk7cmN6L.jpg" width="600" alt="機器人與人類的情感場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11781)**
+
+**作者:** [Keith Michael Roads](https://x.com/yuinanotherlife) | **來源:** [Link](https://x.com/yuinanotherlife/status/2105878077951926647) | **發布時間:** Oct 2, 2026
+
+---
+### Grok Imagine 騎士與龍之戰鬥
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段動作片風格的影片提示，內容為騎士對抗蝙蝠以及噴火巨龍。
+
+#### 📝 提示詞
+
+```
+騎士與大量黑蝙蝠激戰，巨龍降落在騎士上方並用火焰攻擊黑蝙蝠
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105688545579200512/img/zphFXUpu5B8StV8-.jpg" width="600" alt="Grok Imagine 騎士與龍之戰鬥">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11782)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2105688631835001069) | **發布時間:** Oct 1, 2026
+
+---
+### Grok Imagine 影片提示詞：Runway Pad Deck
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 影片提示詞：展示帶有霧氣、水花與支柱咬合特效的跑道停機坪。此為從 Seedance 史詩級提示詞重新製作而成。
+
+#### 📝 提示詞
+
+```
+固定鏡頭拍攝停機坪。
+五個節奏展現水花、霧氣與支柱咬合特效。
+將 Runway Seedance 史詩級作品在 Grok Imagine 中重新演繹。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105508222266142720/img/gYL1Vt8TdKWfItns.jpg" width="600" alt="Grok Imagine 影片提示詞：Runway Pad Deck">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11786)**
+
+**作者:** [Jack](https://x.com/JacksAISites) | **來源:** [Link](https://x.com/JacksAISites/status/2105643905509421166) | **發布時間:** Oct 1, 2026
+
+---
+### Grok Imagine 影片提示詞：義大利圓形劇場導覽指南
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 影片生成提示詞：展示一座義大利圓形劇場，導覽員以義大利語對著鏡頭說話。由 Morphic 提示詞改編而成。
+
+#### 📝 提示詞
+
+```
+義大利圓形劇場，導覽員對著鏡頭說：「這裡曾有數千人齊聲歌唱。」
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105505175829897216/img/MV9cbfZU5Q9YDhzQ.jpg" width="600" alt="Grok Imagine 影片提示詞：義大利圓形劇場導覽指南">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11784)**
+
+**作者:** [Jack](https://x.com/JacksAISites) | **來源:** [Link](https://x.com/JacksAISites/status/2105535178667929782) | **發布時間:** Oct 1, 2026
+
+---
 ### 年輕男子排列行星與肚臍特寫
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2073,124 +2191,6 @@ Create a video of an old low rider Chevy car Hoping with air shocks 3 fr high th
 **作者:** [MentorCapitalist](https://x.com/mentorcapital1) | **來源:** [Link](https://x.com/mentorcapital1/status/2101107519833932137) | **發布時間:** Sep 19, 2026
 
 ---
-### 螃蟹人對戰章魚武士格鬥
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段短動作影片的提示詞，描繪螃蟹人與章魚人在海灘上進行武士風格的決鬥。
-
-#### 📝 提示詞
-
-```
-製作一段短片，內容為螃蟹人與章魚人在海灘上以武士風格進行格鬥
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101102985556488192/img/A7noR9mgexqrFpVc.jpg" width="600" alt="螃蟹人對戰章魚武士格鬥">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11040)**
-
-**作者:** [Wheez Keepee](https://x.com/Whizkeepee) | **來源:** [Link](https://x.com/Whizkeepee/status/2101103134366113855) | **發布時間:** Sep 19, 2026
-
----
-### 音樂盒場景中的生日卡片
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 用於生成影片場景的提示詞：一張生日卡片靜置在音樂盒上，背景有人正在唱生日快樂歌。
-
-#### 📝 提示詞
-
-```
-一段以歡唱「生日快樂」為主題的影片風格場景，畫面中一張寫滿愛、信任、夢想與希望祝福語的生日卡片，靜置於音樂盒之上，獻給他的原住民伴侶。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101048344114323456/img/TCmlGCRl2aRlhgNE.jpg" width="600" alt="音樂盒場景中的生日卡片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11050)**
-
-**作者:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **來源:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2101048359973007552) | **發布時間:** Sep 18, 2026
-
----
-### 《太空：1999》月球基地阿爾法電影級全景鏡頭
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 針對《太空：1999》中月球基地阿爾法的超寬幅 IMAX 電影級全景鏡頭所設計的詳細提示詞，描述其地理位置與工程意義。
-
-#### 📝 提示詞
-
-```
-《太空：1999》中月球基地阿爾法的超寬幅 IMAX 電影級全景鏡頭。作為人類和平時期最偉大的工程成就，這座龐大的自給自足城市建造於位於雨海上方、保護完善的柏拉圖隕石坑內……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101024426389037056/img/YbfyxYawHBDQVx8D.jpg" width="600" alt="《太空：1999》月球基地阿爾法電影級全景鏡頭">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11043)**
-
-**作者:** [Owen](https://x.com/owenxplore) | **來源:** [Link](https://x.com/owenxplore/status/2101024443686379619) | **發布時間:** Sep 18, 2026
-
----
-### 電影感漢堡場景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 為 Grok Imagine 設計的詳細影片生成提示詞，描述黃金時刻人們享用漢堡和奶昔的電影感場景，並包含特定的音訊與視覺線索。
-
-#### 📝 提示詞
-
-```
-他們歡笑喝彩，咬下漢堡，奶昔微微濺出，白楊樹葉沙沙作響，電影感黃金時刻白色調。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100991882725900288/img/0ZPDqDp6o_M86GDj.jpg" width="600" alt="電影感漢堡場景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11049)**
-
-**作者:** [Connie Willis](https://x.com/conniewillisx) | **來源:** [Link](https://x.com/conniewillisx/status/2100991919103058329) | **發布時間:** Sep 18, 2026
-
----
-### 情感電影片段提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個用於創作聚焦於情感敘事、黃金時段光線以及飄逸髮絲與紫色服飾等特定角色細節的電影級片段的詳細提示詞。
-
-#### 📝 提示詞
-
-```
-片段 #8
-以與《自由頌》/《勇氣頌》相同的高製作水準情感風格，呈現一段 50–75 秒的電影級片段。採用緩慢且具呼吸感的轉場。運用黃金時段與燈籠般的暖色光線。
-拉長長者隨風飄逸的髮絲，以及紫色流動的禮服...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100982964398051328/img/enDxCEoOnmh_GyMe.jpg" width="600" alt="情感電影片段提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11044)**
-
-**作者:** [Cathleen Pollard](https://x.com/SkylarknTexas) | **來源:** [Link](https://x.com/SkylarknTexas/status/2100982986418057358) | **發布時間:** Sep 18, 2026
-
----
-### Tesla EV Production Line
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt showing the assembly of a Tesla EV with precision robotics.
-
-#### 📝 提示詞
-
-```
-Part 3: 30-45sec|modern production 
-
-From an unfinished body to a finished EV  precision robotics, and technology come together on Tesla’s production line. ⚡🚗🏭
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100882331192147969/img/h5Qwl7hll7yEOEOG.jpg" width="600" alt="Tesla EV Production Line">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11269)**
-
-**作者:** [Ethan Ray](https://x.com/ItsEthanRay) | **來源:** [Link](https://x.com/ItsEthanRay/status/2100963304487166086) | **發布時間:** Sep 18, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2252,6 +2252,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-10-02T05:28:57.707Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-10-02T14:53:57.072Z</sub>
 
 </div>

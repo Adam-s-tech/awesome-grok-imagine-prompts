@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2951** |
+| 📝 Total Prompts | **2957** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-02** |
 
@@ -189,6 +189,124 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt vidéo Grok Imagine : Aveline et le Dragon Noir
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt spécifique pour générer une scène vidéo où Aveline se tient aux côtés d'un immense dragon noir qui déploie ses ailes.
+
+#### 📝 Prompt
+
+```
+La jeune Aveline se tient aux côtés de son immense dragon noir dans un paysage montagneux. Le dragon soulève soudainement et déploie lentement ses énormes ailes sombres jusqu'à leur envergure maximale, puissant et majestueux. Le vent s'engouffre avec force depuis ce mouvement, faisant voler les cheveux d'Aveline...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105923128681549824/img/euC1usnvoptjCuG_.jpg" width="600" alt="Prompt vidéo Grok Imagine : Aveline et le Dragon Noir">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11785)**
+
+**Author:** [Aveline](https://x.com/Avelinechronicl) | **Source:** [Link](https://x.com/Avelinechronicl/status/2105923166065353210) | **Published:** Oct 2, 2026
+
+---
+### Robot volant autour du campement
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de génération vidéo pour Grok Imagine où un robot vole autour d'un campement pendant que des chiens sautent et jouent.
+
+#### 📝 Prompt
+
+```
+Pouvez-vous faire voler le robot autour du campement pendant que les chiens sautent et jouent en observant....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105880308386283520/img/SJrgR8kVbB3AAn6z.jpg" width="600" alt="Robot volant autour du campement">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11783)**
+
+**Author:** [Keith Michael Roads](https://x.com/yuinanotherlife) | **Source:** [Link](https://x.com/yuinanotherlife/status/2105880384777212078) | **Published:** Oct 2, 2026
+
+---
+### Scène émotionnelle entre un robot et un homme
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt narratif détaillé pour une scène attendrissante impliquant un robot et un homme, incluant des dialogues et les actions d'animaux en arrière-plan.
+
+#### 📝 Prompt
+
+```
+Le robot embrasse l'homme sur la joue et dit « Je t'aime papa »
+L'homme embrasse le robot sur le front et dit « Je t'aime aussi Rocket »
+Les chevaux et les chiens tournent autour d'eux de manière ludique.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105877976160309248/img/EFzO6Am_qk7cmN6L.jpg" width="600" alt="Scène émotionnelle entre un robot et un homme">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11781)**
+
+**Author:** [Keith Michael Roads](https://x.com/yuinanotherlife) | **Source:** [Link](https://x.com/yuinanotherlife/status/2105878077951926647) | **Published:** Oct 2, 2026
+
+---
+### Grok Imagine : Bataille de Chevalier contre Dragon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt d'action pour une vidéo mettant en scène un chevalier combattant des chauves-souris et un dragon crachant du feu.
+
+#### 📝 Prompt
+
+```
+Chevalier combattant de nombreuses chauves-souris noires, le dragon se pose, se tient au-dessus du chevalier et brûle les chauves-souris avec son souffle de feu
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105688545579200512/img/zphFXUpu5B8StV8-.jpg" width="600" alt="Grok Imagine : Bataille de Chevalier contre Dragon">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11782)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2105688631835001069) | **Published:** Oct 1, 2026
+
+---
+### Grok Imagine Video Prompt : Deck de Piste d'Atterrissage
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt vidéo Grok Imagine : Deck de piste d'atterrissage. Un prompt vidéo à angle large fixe pour Grok Imagine, montrant un deck de piste avec des effets de brume, de lavage et de morsure de train. Recréé à partir d'un prompt épique Seedance.
+
+#### 📝 Prompt
+
+```
+Deck de piste fixe.
+Cinq temps de lavage, de brume et de morsure du train.
+Le prompt épique Seedance Runway recréé dans Grok Imagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105508222266142720/img/gYL1Vt8TdKWfItns.jpg" width="600" alt="Grok Imagine Video Prompt : Deck de Piste d'Atterrissage">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11786)**
+
+**Author:** [Jack](https://x.com/JacksAISites) | **Source:** [Link](https://x.com/JacksAISites/status/2105643905509421166) | **Published:** Oct 1, 2026
+
+---
+### Prompt vidéo Grok Imagine : Guide de l'amphithéâtre italien
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de génération vidéo pour Grok Imagine montrant un amphithéâtre italien où un guide touristique s'adresse à la caméra en italien. Recréé à partir d'un prompt Morphic.
+
+#### 📝 Prompt
+
+```
+Amphithéâtre italien, le guide s'adresse à la caméra : « Ici, des milliers de personnes chantaient. »
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105505175829897216/img/MV9cbfZU5Q9YDhzQ.jpg" width="600" alt="Prompt vidéo Grok Imagine : Guide de l'amphithéâtre italien">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11784)**
+
+**Author:** [Jack](https://x.com/JacksAISites) | **Source:** [Link](https://x.com/JacksAISites/status/2105535178667929782) | **Published:** Oct 1, 2026
+
+---
 ### Jeune homme arrangeant des planètes et révélant son nombril
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2068,124 +2186,6 @@ Créez une vidéo montrant une vieille voiture Chevy low rider sautant à 3 pied
 **Author:** [MentorCapitalist](https://x.com/mentorcapital1) | **Source:** [Link](https://x.com/mentorcapital1/status/2101107519833932137) | **Published:** Sep 19, 2026
 
 ---
-### Combat entre l'Homme Crabe et le Samouraï Pieuvre
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour une courte vidéo d'action mettant en scène un homme-crabe et un homme-pieuvre s'affrontant dans un combat de style samouraï sur une plage.
-
-#### 📝 Prompt
-
-```
-Créez une courte vidéo montrant un homme-crabe et un homme-pieuvre se battant sur la plage, dans un style samouraï.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101102985556488192/img/A7noR9mgexqrFpVc.jpg" width="600" alt="Combat entre l'Homme Crabe et le Samouraï Pieuvre">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11040)**
-
-**Author:** [Wheez Keepee](https://x.com/Whizkeepee) | **Source:** [Link](https://x.com/Whizkeepee/status/2101103134366113855) | **Published:** Sep 19, 2026
-
----
-### Carte d'anniversaire sur une boîte à musique
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Prompt pour une scène vidéo où une carte d'anniversaire repose sur une boîte à musique pendant que quelqu'un chante joyeux anniversaire.
-
-#### 📝 Prompt
-
-```
-Une scène de style vidéo célébrant l'anniversaire en chantant « Joyeux anniversaire » à voix haute, avec une carte d'anniversaire contenant des vœux d'amour, de confiance, de rêves et d'espoir pour son partenaire autochtone, posée sur le dessus d'une boîte à musique.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101048344114323456/img/TCmlGCRl2aRlhgNE.jpg" width="600" alt="Carte d'anniversaire sur une boîte à musique">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11050)**
-
-**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2101048359973007552) | **Published:** Sep 18, 2026
-
----
-### Plan d'établissement cinématographique ultra-large de Moonbase Alpha
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé pour un plan d'établissement cinématographique IMAX ultra-large de Moonbase Alpha, tiré de la série Space: 1999, décrivant son emplacement et son importance technique.
-
-#### 📝 Prompt
-
-```
-Plan d'établissement cinématographique IMAX ultra-large de Moonbase Alpha, tiré de la série Space: 1999. Il s'agit du plus grand exploit d'ingénierie en temps de paix de l'humanité : une vaste ville autonome construite dans le cratère bien protégé de Platon, juste au-dessus de la Mer des Pluies sur...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101024426389037056/img/YbfyxYawHBDQVx8D.jpg" width="600" alt="Plan d'établissement cinématographique ultra-large de Moonbase Alpha">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11043)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2101024443686379619) | **Published:** Sep 18, 2026
-
----
-### Scène de Burger Cinématographique
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé pour la génération vidéo avec Grok Imagine, décrivant une scène cinématographique de personnes dégustant des burgers et des milkshakes pendant l'heure dorée, avec des indices audio et visuels spécifiques.
-
-#### 📝 Prompt
-
-```
-Ils rient et acclament, prennent des bouchées des burgers, le milkshake coule légèrement, bruissement d'Aspen, heure dorée cinématographique blanche.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100991882725900288/img/0ZPDqDp6o_M86GDj.jpg" width="600" alt="Scène de Burger Cinématographique">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11049)**
-
-**Author:** [Connie Willis](https://x.com/conniewillisx) | **Source:** [Link](https://x.com/conniewillisx/status/2100991919103058329) | **Published:** Sep 18, 2026
-
----
-### Prompt pour segment cinématographique émotionnel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé pour un segment cinématographique axé sur la narration émotionnelle, l'éclairage doré de l'heure magique et des détails spécifiques des personnages tels que les cheveux flottants et les vêtements violets.
-
-#### 📝 Prompt
-
-```
-Segment #8
-Segment cinématographique de 50 à 75 secondes dans le même style émotionnel à haute production que « An Ode to Freedom » / Ode to Courage. Transitions lentes et respirées. Éclairage doré de l'heure magique et lumière chaude des lanternes.
-Allonger les cheveux de l'aîné qui flottent dans la brise et la robe de bal violette fluide...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100982964398051328/img/enDxCEoOnmh_GyMe.jpg" width="600" alt="Prompt pour segment cinématographique émotionnel">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11044)**
-
-**Author:** [Cathleen Pollard](https://x.com/SkylarknTexas) | **Source:** [Link](https://x.com/SkylarknTexas/status/2100982986418057358) | **Published:** Sep 18, 2026
-
----
-### Ligne de production des VE Tesla
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Une invite de génération vidéo montrant l'assemblage d'une voiture électrique Tesla avec une robotique de précision.
-
-#### 📝 Prompt
-
-```
-Partie 3 : 30-45 secondes | Production moderne
-
-D'une carrosserie inachevée à un véhicule électrique fini, la robotique de précision et la technologie s'unissent sur la ligne de production de Tesla. ⚡🚗🏭
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100882331192147969/img/h5Qwl7hll7yEOEOG.jpg" width="600" alt="Ligne de production des VE Tesla">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11269)**
-
-**Author:** [Ethan Ray](https://x.com/ItsEthanRay) | **Source:** [Link](https://x.com/ItsEthanRay/status/2100963304487166086) | **Published:** Sep 18, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2247,6 +2247,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-02T05:29:04.198Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-02T14:54:07.514Z</sub>
 
 </div>

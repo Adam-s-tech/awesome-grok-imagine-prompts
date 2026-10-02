@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2951** |
+| 📝 プロンプト総数 | **2957** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-10-02** |
 
@@ -189,6 +189,124 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### Grok Imagine Aveline and Black Dragon Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A specific prompt for generating a video scene where Aveline stands beside a massive black dragon that spreads its wings.
+
+#### 📝 プロンプト
+
+```
+Young Aveline stands beside her massive black dragon on the mountain landscape. The dragon suddenly raises and slowly spreads its enormous dark wings to their full span, powerful and majestic. Wind rushes outward from the movement, blowing Aveline’s...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105923128681549824/img/euC1usnvoptjCuG_.jpg" width="600" alt="Grok Imagine Aveline and Black Dragon Video Prompt">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11785)**
+
+**作者:** [Aveline](https://x.com/Avelinechronicl) | **ソース:** [Link](https://x.com/Avelinechronicl/status/2105923166065353210) | **公開日:** Oct 2, 2026
+
+---
+### キャンプ場を飛び回るロボット
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 用の動画生成プロンプトです。犬が跳ねたり遊んだりしている中、ロボットがキャンプ場の上空を飛び回ります。
+
+#### 📝 プロンプト
+
+```
+犬がジャンプしたり遊んだりしている間、ロボットがキャンプ場の周りを飛んでくれるようにしてください....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105880308386283520/img/SJrgR8kVbB3AAn6z.jpg" width="600" alt="キャンプ場を飛び回るロボット">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11783)**
+
+**作者:** [Keith Michael Roads](https://x.com/yuinanotherlife) | **ソース:** [Link](https://x.com/yuinanotherlife/status/2105880384777212078) | **公開日:** Oct 2, 2026
+
+---
+### ロボットと男性の感情あふれるシーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ロボットと男性が織りなす心温まるシーンのための詳細なナラティブプロンプト。会話や背景の動物たちの動きを含みます。
+
+#### 📝 プロンプト
+
+```
+ロボットは男性の頬にキスをして「大好きだよ、パパ」と言います。
+男性はロボットの額にキスをして「僕も大好きだ、Rocket」と返します。
+馬や犬たちが彼らの周りを楽しく駆け巡ります。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105877976160309248/img/EFzO6Am_qk7cmN6L.jpg" width="600" alt="ロボットと男性の感情あふれるシーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11781)**
+
+**作者:** [Keith Michael Roads](https://x.com/yuinanotherlife) | **ソース:** [Link](https://x.com/yuinanotherlife/status/2105878077951926647) | **公開日:** Oct 2, 2026
+
+---
+### Grok Imagine: 騎士と竜の戦闘
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> コウモリと戦う騎士と、炎を吐くドラゴンを描いた動画向けのアクション満載のプロンプト。
+
+#### 📝 プロンプト
+
+```
+多数のコウモリと戦う騎士 ドラゴンが着地し騎士の上に立ち コウモリに火を放つ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105688545579200512/img/zphFXUpu5B8StV8-.jpg" width="600" alt="Grok Imagine: 騎士と竜の戦闘">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11782)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2105688631835001069) | **公開日:** Oct 1, 2026
+
+---
+### Grok Imagine ビデオプロンプト: Runway Pad Deck
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 霧、波状の揺れ、そしてストットの噛みつき効果を備えたランウェイパッドデッキを映す、固定ワイドアングルビデオプロンプトです。Seedance エピックプロンプトからリメイクされました。
+
+#### 📝 プロンプト
+
+```
+固定されたパッドデッキ。
+波状の揺れ、霧、そしてストットの噛みつき効果による5つのビート。
+Runway Seedance エピックを Grok Imagine でリメイク。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105508222266142720/img/gYL1Vt8TdKWfItns.jpg" width="600" alt="Grok Imagine ビデオプロンプト: Runway Pad Deck">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11786)**
+
+**作者:** [Jack](https://x.com/JacksAISites) | **ソース:** [Link](https://x.com/JacksAISites/status/2105643905509421166) | **公開日:** Oct 1, 2026
+
+---
+### Grok Imagine Video Prompt: イタリアの円形劇場ガイド
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> イタリアの円形劇場でガイドがカメラに向かってイタリア語で話す様子を生成するための Grok Imagine の動画プロンプトです。Morphic プロンプトをリメイクしました。
+
+#### 📝 プロンプト
+
+```
+イタリアの円形劇場、カメラに向かうガイド：「ここで数千人の人々が歌いました。」
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105505175829897216/img/MV9cbfZU5Q9YDhzQ.jpg" width="600" alt="Grok Imagine Video Prompt: イタリアの円形劇場ガイド">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11784)**
+
+**作者:** [Jack](https://x.com/JacksAISites) | **ソース:** [Link](https://x.com/JacksAISites/status/2105535178667929782) | **公開日:** Oct 1, 2026
+
+---
 ### 惑星を配置する青年とへその緒の露出
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2076,124 +2194,6 @@ Make the three goats talk like New York mobsters , asking for the grain and bed 
 **作者:** [MentorCapitalist](https://x.com/mentorcapital1) | **ソース:** [Link](https://x.com/mentorcapital1/status/2101107519833932137) | **公開日:** Sep 19, 2026
 
 ---
-### カニ男対タコ侍の決闘
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 砂浜でカニ男とタコ男が侍スタイルで戦うショートアクション動画のプロンプト。
-
-#### 📝 プロンプト
-
-```
-砂浜でカニ男とタコ男が侍スタイルで戦うショート動画を作成
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101102985556488192/img/A7noR9mgexqrFpVc.jpg" width="600" alt="カニ男対タコ侍の決闘">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11040)**
-
-**作者:** [Wheez Keepee](https://x.com/Whizkeepee) | **ソース:** [Link](https://x.com/Whizkeepee/status/2101103134366113855) | **公開日:** Sep 19, 2026
-
----
-### オルゴールの上のバースデーカード
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 誕生日の歌を歌いながら、オルゴールの上にバースデーカードが置かれている動画シーンのプロンプト。
-
-#### 📝 プロンプト
-
-```
-愛、信頼、夢、希望を込めた Happy Birthday カードをオルゴールの上に置き、パートナーに「ハッピーバースデー」と声に出して祝う動画スタイルのシーン。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101048344114323456/img/TCmlGCRl2aRlhgNE.jpg" width="600" alt="オルゴールの上のバースデーカード">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11050)**
-
-**作者:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **ソース:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2101048359973007552) | **公開日:** Sep 18, 2026
-
----
-### ムーンベース・アルファのシネマティックな確立ショット
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 『スペース:1999』におけるムーンベース・アルファの超広角IMAXシネマティック確立ショットの詳細プロンプト。その立地と工学的意義を描写します。
-
-#### 📝 プロンプト
-
-```
-『スペース:1999』に登場するムーンベース・アルファの超広角IMAXシネマティック確立ショット。人類史上最大の平和時における工学的達成であり、シャワーの海の直上にある保護されたプラトンクレーター内に建設された巨大な自給自足の都市...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101024426389037056/img/YbfyxYawHBDQVx8D.jpg" width="600" alt="ムーンベース・アルファのシネマティックな確立ショット">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11043)**
-
-**作者:** [Owen](https://x.com/owenxplore) | **ソース:** [Link](https://x.com/owenxplore/status/2101024443686379619) | **公開日:** Sep 18, 2026
-
----
-### シネマティック ハンバーガーシーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine向けのシネマティックなハンバーガーシーンの詳細な動画生成プロンプト。ゴールデンアワーにハンバーガーとシェイクを楽しむ人々を描き、具体的な音声・映像の指示を含みます。
-
-#### 📝 プロンプト
-
-```
-彼らは笑い合い、歓声を上げ、ハンバーガーにかぶりつきます。シェイクがわずかにこぼれ落ち、アスペンの葉擦れの音が響く中、シネマティックなゴールデンアワーの白い光が差し込みます。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100991882725900288/img/0ZPDqDp6o_M86GDj.jpg" width="600" alt="シネマティック ハンバーガーシーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11049)**
-
-**作者:** [Connie Willis](https://x.com/conniewillisx) | **ソース:** [Link](https://x.com/conniewillisx/status/2100991919103058329) | **公開日:** Sep 18, 2026
-
----
-### 感情的なシネマティック・セグメントのプロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 感情的なストーリーテリング、ゴールデンアワーの照明、流れる髪や紫色の衣装など、キャラクターの詳細に焦点を当てたシネマティック・セグメントのための詳細なプロンプトです。
-
-#### 📝 プロンプト
-
-```
-セグメント #8
-「自由へのオード」/「勇気へのオード」と同じ、高品質な感情表現スタイルのシネマティック 50〜75 秒間のセグメント。ゆっくりと呼吸するようなトランジション。ゴールデンアワーとランタンの暖かい光。
-老人の髪が風になびく様子を長く描き、紫色のフローリングボールガ...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100982964398051328/img/enDxCEoOnmh_GyMe.jpg" width="600" alt="感情的なシネマティック・セグメントのプロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11044)**
-
-**作者:** [Cathleen Pollard](https://x.com/SkylarknTexas) | **ソース:** [Link](https://x.com/SkylarknTexas/status/2100982986418057358) | **公開日:** Sep 18, 2026
-
----
-### Tesla EV 生産ライン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tesla EV の組み立てを精密なロボティクス技術で描く動画生成プロンプト。
-
-#### 📝 プロンプト
-
-```
-パート 3: 30〜45 秒 | モダンな生産
-
-未完成のボディから完成した EV へ。Tesla の生産ラインでは、精密なロボティクスとテクノロジーが融合します。⚡🚗🏭
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100882331192147969/img/h5Qwl7hll7yEOEOG.jpg" width="600" alt="Tesla EV 生産ライン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11269)**
-
-**作者:** [Ethan Ray](https://x.com/ItsEthanRay) | **ソース:** [Link](https://x.com/ItsEthanRay/status/2100963304487166086) | **公開日:** Sep 18, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2255,6 +2255,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-10-02T05:28:58.367Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-10-02T14:53:58.165Z</sub>
 
 </div>
