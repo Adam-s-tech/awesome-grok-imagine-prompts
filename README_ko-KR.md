@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2957** |
+| 📝 총 프롬프트 수 | **2962** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-10-03** |
 
@@ -189,6 +189,82 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### Grok Imagine VTuber 대결 포스터
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 라이벌 VTuber인 츠키모 로아와 유키 사쿠나의 상세한 외형 묘사를 담은 시네마틱 VS 대결 포스터 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+두 라이벌 VTuber의 시네마틱 VS 대결 포스터: 왼쪽은 첫 번째 참조 이미지의 츠키모 로아(파란 머리, 고양이 귀, 파란색과 흰색이 조화된 프릴 의상, 보라색 눈, 해파리 테마)이며, 오른쪽은 두 번째 참조 이미지의 유키 사쿠나(분홍색 땋은 머리, 캣 메이드...)
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106252891065581568/img/fSfnyfUoaaeT8LvL.jpg" width="600" alt="Grok Imagine VTuber 대결 포스터">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11838)**
+
+**작성자:** [ほてぷ🌙🪼☁️](https://x.com/hotepu_shio) | **출처:** [Link](https://x.com/hotepu_shio/status/2106252917145764123) | **게시일:** Oct 3, 2026
+
+---
+### Painting Ascention Color Edit
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt to enhance a painting by adding magenta and aqua green colors to take it to the next level.
+
+#### 📝 프롬프트
+
+```
+Take this painting to the next level of ascention. Include magenta and way more aqua green....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106246984671633408/img/8k0Uuq6GwcFN9tiw.jpg" width="600" alt="Painting Ascention Color Edit">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11836)**
+
+**작성자:** [Legend](https://x.com/AtlasGalatic) | **출처:** [Link](https://x.com/AtlasGalatic/status/2106247004292845784) | **게시일:** Oct 3, 2026
+
+---
+### 구리 기하학적 조각상 애니메이션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine을 사용하여 구리 기하학적 조각상이 숲에 영양분을 공급하는 아크릴 스타일 애니메이션을 생성하기 위한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+숲에 영양분을 공급하는 아름다운 구리 기하학적 조각상을 아크릴 스타일의 애니메이션으로 만들어 주세요
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106221437937659904/img/hqbXAewzsvAvamXq.jpg" width="600" alt="구리 기하학적 조각상 애니메이션">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11835)**
+
+**작성자:** [Legend](https://x.com/AtlasGalatic) | **출처:** [Link](https://x.com/AtlasGalatic/status/2106221457986797729) | **게시일:** Oct 3, 2026
+
+---
+### 회전하는 선풍기 용 장면
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 용과 선풍기가 있는 정지 이미지를 애니메이션화하기 위한 상세 프롬프트로, 다른 요소는 고정된 상태로 유지하면서 선풍기 날개의 사실적인 모션 블러에 중점을 둡니다.
+
+#### 📝 프롬프트
+
+```
+흰색 박스형 선풍기의 날개가 실제 찬 공기를 불어내는 것처럼 보이도록 사실적인 모션 블러를 적용하여 명확히 회전하는 것으로 만드세요. 노란색 용, 행복하게 눈을 감은 미소, 자세, 바위 절벽, 산, 하늘 및 기타 모든 요소는 완전히 정지된 상태로 유지하세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106057016313856000/img/MVCQJIjQkaWqPcRN.jpg" width="600" alt="회전하는 선풍기 용 장면">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11837)**
+
+**작성자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **출처:** [Link](https://x.com/HawkinsonLindy/status/2106057071141798014) | **게시일:** Oct 2, 2026
+
+---
 ### Grok Imagine Aveline과 Black Dragon 영상 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1099,6 +1175,25 @@ Stay with the wolf and the realm?
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11436)**
 
 **작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2104086484248666366) | **게시일:** Sep 27, 2026
+
+---
+### 불가능한 공간의 예술 프롬프트 챌린지
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine을 활용하여 불가능한 기하학, 강제 원근법, 충돌하는 중력을 가진 세계를 만드는 프롬프트 챌린지입니다.
+
+#### 📝 프롬프트
+
+```
+공간이 논리를 거부하는 세계를 만들어 보세요. 제자리로 돌아오는 계단. 밖보다 안이 더 넓은 방. 층마다 달라지는 중력. 불가능한 것을 설득력 있게 현실감 있게 표현하세요. 강제 원근법 • 깊은 스테이징 • 불가능한 기하학 • 충돌하는 중력
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104039668970831872/img/fZJHSmWnpSqgT6Um.jpg" width="600" alt="불가능한 공간의 예술 프롬프트 챌린지">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11839)**
+
+**작성자:** [Sherice](https://x.com/Sherice0799) | **출처:** [Link](https://x.com/Sherice0799/status/2104039760280842491) | **게시일:** Sep 27, 2026
 
 ---
 ### 날개 감싸기 용 애니메이션
@@ -2089,101 +2184,6 @@ Grok Imagine으로 제작되었습니다.
 **작성자:** [Bob - Art with a Hat](https://x.com/artwithahat0) | **출처:** [Link](https://x.com/artwithahat0/status/2101755863601922405) | **게시일:** Sep 20, 2026
 
 ---
-### 은하 회전 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 배경 별을 고정시킨 채 은하가 천천히 반시계 방향으로 회전하는 영상을 생성하기 위한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-배경 별은 제자리에 고정된 상태로 은하를 매우 천천히 반시계 방향으로 회전시키세요
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101690898513846273/img/QILOnSWZILYXSCLn.jpg" width="600" alt="은하 회전 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11103)**
-
-**작성자:** [Jack Light](https://x.com/Zagrag) | **출처:** [Link](https://x.com/Zagrag/status/2101690995314151607) | **게시일:** Sep 20, 2026
-
----
-### 다크 타워 고층 건물 변형
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 여러 참조 이미지를 활용하여 스콧 피츠제럴드의 시리즈 속 다크 타워로 고층 건물을 변환하는 상세 프롬프트.
-
-#### 📝 프롬프트
-
-```
-첫 번째 이미지의 밝게 빛나는 고층 건물을 스티븐 킹의 대작 시리즈에 등장하는 '다크 타워'로 변환하세요. 두 번째, 세 번째...
-```
-
-<img src="https://pbs.twimg.com/tweet_video_thumb/HSpV_2lagAESG4w.jpg" width="600" alt="다크 타워 고층 건물 변형">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11099)**
-
-**작성자:** [FutureMinted](https://x.com/futureminted) | **출처:** [Link](https://x.com/futureminted/status/2101586737931903064) | **게시일:** Sep 20, 2026
-
----
-### Grok Imagine: 남성과 비둘기 애니메이션 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 주방 환경에서 웃고 있는 남성과 부드럽게 움직이는 비둘기를 묘사한 상세한 애니메이션 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-남성이 자연스럽게 미소 짓고 웃으며, 밝은 표정으로 대화할 때 머리를 살짝 움직입니다. 어깨 위의 비둘기는 날개를 부드럽게 퍼덕이고 고개를 돌리며, YUP 텍스트가 계속 보입니다. 주방 배경의 미세한 움직임과 부드러운 조명이 특징입니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101572335836815360/img/kK-IVHNaPKD8_6iq.jpg" width="600" alt="Grok Imagine: 남성과 비둘기 애니메이션 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11104)**
-
-**작성자:** [quietrumble](https://x.com/BillHector2) | **출처:** [Link](https://x.com/BillHector2/status/2101572350319669727) | **게시일:** Sep 20, 2026
-
----
-### Grok Imagine 마피아 염소 영상 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 뉴욕 마피아처럼 말하는 세 마리 염소를 애니메이션화하는 유머러스한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-세 마리 염소가 곡물과 취침 전 땅콩 버터를 요구하며 뉴욕 마피아처럼 말하도록 하세요....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101503448478818304/img/R_RwnB3UVVUUDmYH.jpg" width="600" alt="Grok Imagine 마피아 염소 영상 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11102)**
-
-**작성자:** [Mr.Tibbs](https://x.com/BlizzardAd56304) | **출처:** [Link](https://x.com/BlizzardAd56304/status/2101503477981585539) | **게시일:** Sep 20, 2026
-
----
-### 로우 라이더 vs 테슬라 호버 챌린지
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 에어 쇼크를 사용하여 3피트 높이로 점프하는 클래식 로우 라이더 쉐보레와, 에어 제트를 이용해 10피트 높이로 발사되어 5초 동안 공중에 떠 있는 새로운 빨간색 테슬라 로드스터가 등장하는 경쟁적인 영상 시퀀스를 위한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-에어 쇼크를 사용하여 3피트 높이로 점프하는 오래된 로우 라이더 쉐보레 차량과, 에어 제트로 10피트 높이까지 발사되어 천천히 착지하기 전까지 5초 동안 공중에 떠 있는 새로운 빨간색 테슬라 로드스터가 등장하는 영상을 만들어 주세요.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101107409108541440/img/0jX7A6Jq22tgLJJ5.jpg" width="600" alt="로우 라이더 vs 테슬라 호버 챌린지">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11042)**
-
-**작성자:** [MentorCapitalist](https://x.com/mentorcapital1) | **출처:** [Link](https://x.com/mentorcapital1/status/2101107519833932137) | **게시일:** Sep 19, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2245,6 +2245,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-10-03T05:05:53.223Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-10-03T13:28:59.573Z</sub>
 
 </div>

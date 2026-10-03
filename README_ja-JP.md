@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2957** |
+| 📝 プロンプト総数 | **2962** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-10-03** |
 
@@ -189,6 +189,82 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### Grok Imagine VTuber対決ポスター
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> ライバルVTuberである九十九羅（Roa Tsukumo）と雪村サクナ（Sakuna Yuuki）を描いた、詳細な外見説明付きのシネマティックなVS対決ポスター用プロンプト。
+
+#### 📝 プロンプト
+
+```
+2人のライバルVTuberを描いたシネマティックなVS対決ポスター：左側は最初の参考画像から九十九羅（青い髪、猫耳、青白フリル衣装、紫の目、クラゲモチーフ）、右側は2番目の参考画像から雪村サクナ（ピンクの三つ編み、猫メイド...）
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106252891065581568/img/fSfnyfUoaaeT8LvL.jpg" width="600" alt="Grok Imagine VTuber対決ポスター">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11838)**
+
+**作者:** [ほてぷ🌙🪼☁️](https://x.com/hotepu_shio) | **ソース:** [Link](https://x.com/hotepu_shio/status/2106252917145764123) | **公開日:** Oct 3, 2026
+
+---
+### ペインティングの昇華カラー編集
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> マゼンタとアクアグリーンを追加し、ペインティングを一段階引き上げるためのプロンプト。
+
+#### 📝 プロンプト
+
+```
+このペインティングを昇華の域へと引き上げてください。マゼンタと、より多くのアクアグリーンを含めて....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106246984671633408/img/8k0Uuq6GwcFN9tiw.jpg" width="600" alt="ペインティングの昇華カラー編集">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11836)**
+
+**作者:** [Legend](https://x.com/AtlasGalatic) | **ソース:** [Link](https://x.com/AtlasGalatic/status/2106247004292845784) | **公開日:** Oct 3, 2026
+
+---
+### 銅製幾何学彫像アニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine を使用して、森を養う銅製の幾何学彫像をアクリル風アニメーションで生成するためのプロンプトです。
+
+#### 📝 プロンプト
+
+```
+森を養う美しい銅製の幾何学彫像を作成し、アニメーションスタイルはアクリル風にしてください
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106221437937659904/img/hqbXAewzsvAvamXq.jpg" width="600" alt="銅製幾何学彫像アニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11835)**
+
+**作者:** [Legend](https://x.com/AtlasGalatic) | **ソース:** [Link](https://x.com/AtlasGalatic/status/2106221457986797729) | **公開日:** Oct 3, 2026
+
+---
+### 回転する扇風機とドラゴンのシーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 静止画のドラゴンと扇風機をアニメーション化するための詳細なプロンプト。扇風機の羽根にリアルなモーションブラーを追加し、他の要素は静止させることに焦点を当てています。
+
+#### 📝 プロンプト
+
+```
+白い箱型扇風機の羽根がはっきりと回転しているように見せ、リアルなモーションブラーを加えて、冷たい空気を送っているような動きを表現してください。黄色いドラゴン、目を閉じて幸せそうに微笑む表情、ポーズ、岩場、山々、空、そしてその他のすべての要素は完全に静止させてください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106057016313856000/img/MVCQJIjQkaWqPcRN.jpg" width="600" alt="回転する扇風機とドラゴンのシーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11837)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2106057071141798014) | **公開日:** Oct 2, 2026
+
+---
 ### Grok Imagine Aveline and Black Dragon Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1102,6 +1178,25 @@ Stay with the wolf and the realm?
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11436)**
 
 **作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2104086484248666366) | **公開日:** Sep 27, 2026
+
+---
+### 不可能空間アート プロンプトチャレンジ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine を活用し、不可能な幾何学構造、強制遠近法、矛盾する重力を持つ世界を創造するためのプロンプトチャレンジです。
+
+#### 📝 プロンプト
+
+```
+空間が論理を拒絶する世界を創り出してください。無限にループする階段。外観よりも内部が広大な部屋。階ごとに異なる重力。不可能な現象を説得力のある現実として描き出しましょう。強制遠近法 • 奥行きのある構図 • 不可能な幾何学 • 矛盾する重力
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104039668970831872/img/fZJHSmWnpSqgT6Um.jpg" width="600" alt="不可能空間アート プロンプトチャレンジ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11839)**
+
+**作者:** [Sherice](https://x.com/Sherice0799) | **ソース:** [Link](https://x.com/Sherice0799/status/2104039760280842491) | **公開日:** Sep 27, 2026
 
 ---
 ### 翼が体を包み込むドラゴンのアニメーション
@@ -2099,101 +2194,6 @@ Grok Imagine で作成。
 **作者:** [Bob - Art with a Hat](https://x.com/artwithahat0) | **ソース:** [Link](https://x.com/artwithahat0/status/2101755863601922405) | **公開日:** Sep 20, 2026
 
 ---
-### 銀河回転動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 背景の星を固定したまま、銀河がゆっくりと反時計回りに回転する動画を生成するためのプロンプトです。
-
-#### 📝 プロンプト
-
-```
-背景の星を固定したまま、銀河を非常にゆっくりと反時計回りに回転させる
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101690898513846273/img/QILOnSWZILYXSCLn.jpg" width="600" alt="銀河回転動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11103)**
-
-**作者:** [Jack Light](https://x.com/Zagrag) | **ソース:** [Link](https://x.com/Zagrag/status/2101690995314151607) | **公開日:** Sep 20, 2026
-
----
-### ダークタワーの超高層ビル変身
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 複数の参照画像を活用し、超高層ビルの画像をスティーブン・キングのシリーズ『ダークタワー』に変換するための詳細なプロンプト。
-
-#### 📝 プロンプト
-
-```
-最初の画像にある明るく照らされた高層ビルを、スティーブン・キングの壮大なシリーズ『ダークタワー』へと変身させてください。2番目、3番目の画像からインスピレーションを得たゴシック様式または円筒形の建築構造を持つ、威圧的な古代の石造りの黒い塔へと建物を仕上げてください...
-```
-
-<img src="https://pbs.twimg.com/tweet_video_thumb/HSpV_2lagAESG4w.jpg" width="600" alt="ダークタワーの超高層ビル変身">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11099)**
-
-**作者:** [FutureMinted](https://x.com/futureminted) | **ソース:** [Link](https://x.com/futureminted/status/2101586737931903064) | **公開日:** Sep 20, 2026
-
----
-### Grok Imagine 男性とハトのアニメーションプロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> キッチン環境で笑う男性と、穏やかに動くハトを描写した詳細なアニメーションプロンプト。
-
-#### 📝 プロンプト
-
-```
-男性は自然に笑顔を見せ、楽しそうに話す際に頭をわずかに動かします。肩に乗ったハトは翼を優しく羽ばたかせ、首を回しますが、「YUP」のテキストは表示されたままです。背景のキッチンには微妙な動きがあり、柔らかい照明が特徴です。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101572335836815360/img/kK-IVHNaPKD8_6iq.jpg" width="600" alt="Grok Imagine 男性とハトのアニメーションプロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11104)**
-
-**作者:** [quietrumble](https://x.com/BillHector2) | **ソース:** [Link](https://x.com/BillHector2/status/2101572350319669727) | **公開日:** Sep 20, 2026
-
----
-### Grok Imagine Mobster Goats Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A humorous prompt for animating three goats speaking like New York mobsters.
-
-#### 📝 プロンプト
-
-```
-Make the three goats talk like New York mobsters , asking for the grain and bed time peanut butter ....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101503448478818304/img/R_RwnB3UVVUUDmYH.jpg" width="600" alt="Grok Imagine Mobster Goats Video Prompt">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11102)**
-
-**作者:** [Mr.Tibbs](https://x.com/BlizzardAd56304) | **ソース:** [Link](https://x.com/BlizzardAd56304/status/2101503477981585539) | **公開日:** Sep 20, 2026
-
----
-### ローライダー vs テスラ ホバー チャレンジ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> エアショックで3フィート（約90cm）高くジャンプするクラシックなローライダー シェビーと、エアジェットで10フィート（約3m）の高さまで発射され5秒間ホバリングする新型赤いテスラ ロードスターが登場する対決動画シーケンスのプロンプト。
-
-#### 📝 プロンプト
-
-```
-エアショックを使って3フィート（約90cm）の高さでホッピングする古いローライダー シェビーの動画を制作し、続いてエアジェットで10フィート（約3m）の高さまで発射され、ゆっくり着地する前に5秒間ホバリングする新型赤いテスラ ロードスターを描いてください
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101107409108541440/img/0jX7A6Jq22tgLJJ5.jpg" width="600" alt="ローライダー vs テスラ ホバー チャレンジ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11042)**
-
-**作者:** [MentorCapitalist](https://x.com/mentorcapital1) | **ソース:** [Link](https://x.com/mentorcapital1/status/2101107519833932137) | **公開日:** Sep 19, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2255,6 +2255,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-10-03T05:05:52.179Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-10-03T13:28:58.520Z</sub>
 
 </div>

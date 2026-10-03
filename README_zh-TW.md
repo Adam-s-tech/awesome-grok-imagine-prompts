@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2957** |
+| 📝 提示詞總數 | **2962** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-10-03** |
 
@@ -189,6 +189,82 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### Grok Imagine VTuber 對峙海報
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一張電影感的 VS 對峙海報提示詞，描繪了敵對 VTuber 九十九羅亞（Roa Tsukumo）與雪宮咲奈（Sakuna Yuuki），並附有詳細的外觀描述。
+
+#### 📝 提示詞
+
+```
+兩名敵對 VTuber 的電影感 VS 對峙海報：左側為來自第一張參考圖的九十九羅亞（藍髮、貓耳、藍白荷葉邊服裝、紫眼、水母主題），右側為來自第二張參考圖的雪宮咲奈（粉髮辮子、貓女僕……）
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106252891065581568/img/fSfnyfUoaaeT8LvL.jpg" width="600" alt="Grok Imagine VTuber 對峙海報">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11838)**
+
+**作者:** [ほてぷ🌙🪼☁️](https://x.com/hotepu_shio) | **來源:** [Link](https://x.com/hotepu_shio/status/2106252917145764123) | **發布時間:** Oct 3, 2026
+
+---
+### 繪畫昇華色彩編輯
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 透過添加洋紅色與水綠色來提升繪畫品質，使其達到更高層次的提示詞。
+
+#### 📝 提示詞
+
+```
+將這幅繪畫提升至更高的昇華層次。加入洋紅色以及更多的水綠色……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106246984671633408/img/8k0Uuq6GwcFN9tiw.jpg" width="600" alt="繪畫昇華色彩編輯">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11836)**
+
+**作者:** [Legend](https://x.com/AtlasGalatic) | **來源:** [Link](https://x.com/AtlasGalatic/status/2106247004292845784) | **發布時間:** Oct 3, 2026
+
+---
+### 銅製幾何雕像動畫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 使用 Grok Imagine 製作銅製幾何雕像滋養森林的壓克力風格動畫提示詞。
+
+#### 📝 提示詞
+
+```
+一座由銅製成的美麗幾何雕像正在滋養森林，請將動畫風格設定為壓克力風格
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106221437937659904/img/hqbXAewzsvAvamXq.jpg" width="600" alt="銅製幾何雕像動畫">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11835)**
+
+**作者:** [Legend](https://x.com/AtlasGalatic) | **來源:** [Link](https://x.com/AtlasGalatic/status/2106221457986797729) | **發布時間:** Oct 3, 2026
+
+---
+### 旋轉風扇與龍場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段詳細的提示詞，用於將靜態的龍與風扇圖像進行動畫化，重點在於為風扇葉片呈現逼真的動態模糊效果，同時保持其他元素靜止。
+
+#### 📝 提示詞
+
+```
+讓白色箱型風扇的葉片呈現清晰旋轉的效果，並具備逼真的動態模糊感，使其看起來正在主動吹送涼風。請保持黃色龍、其閉眼享受的微笑、姿勢、岩石突出部、山脈、天空以及其他所有元素完全靜止不動。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106057016313856000/img/MVCQJIjQkaWqPcRN.jpg" width="600" alt="旋轉風扇與龍場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11837)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2106057071141798014) | **發布時間:** Oct 2, 2026
+
+---
 ### Grok Imagine Aveline 與黑龍影片提示詞
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1106,6 +1182,25 @@ Madonna 身穿這件精確的粉色蕾絲束腰禮服、手套、外套和靴子
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11436)**
 
 **作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2104086484248666366) | **發布時間:** Sep 27, 2026
+
+---
+### 不可能空間藝術提示詞挑戰
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 使用 Grok Imagine 創建具有不可能幾何、強制透視和衝突重力的世界的提示詞挑戰。
+
+#### 📝 提示詞
+
+```
+創造一個空間拒絕遵循邏輯的世界。回到原點的階梯。內部比外部更大的房間。從一樓到下一樓重力不斷變化的環境。讓不可能的事物感覺真實可信。強制透視 • 深度佈局 • 不可能的幾何 • 衝突的重力
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104039668970831872/img/fZJHSmWnpSqgT6Um.jpg" width="600" alt="不可能空間藝術提示詞挑戰">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11839)**
+
+**作者:** [Sherice](https://x.com/Sherice0799) | **來源:** [Link](https://x.com/Sherice0799/status/2104039760280842491) | **發布時間:** Sep 27, 2026
 
 ---
 ### 龍的動畫：翅膀纏繞效果
@@ -2096,101 +2191,6 @@ Created with Grok Imagine.
 **作者:** [Bob - Art with a Hat](https://x.com/artwithahat0) | **來源:** [Link](https://x.com/artwithahat0/status/2101755863601922405) | **發布時間:** Sep 20, 2026
 
 ---
-### 銀河旋轉影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用於生成銀河緩慢逆時針旋轉且背景恆星保持靜止之影片的提示詞。
-
-#### 📝 提示詞
-
-```
-讓銀河非常緩慢地逆時針旋轉，同時保持背景恆星位置固定不變
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101690898513846273/img/QILOnSWZILYXSCLn.jpg" width="600" alt="銀河旋轉影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11103)**
-
-**作者:** [Jack Light](https://x.com/Zagrag) | **來源:** [Link](https://x.com/Zagrag/status/2101690995314151607) | **發布時間:** Sep 20, 2026
-
----
-### 黑塔摩天大樓視覺轉換
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 透過多張參考圖片，將摩天大樓圖像轉換為史蒂芬·金（Stephen King）系列小說中的《黑塔》（The Dark Tower）的詳細提示詞。
-
-#### 📝 提示詞
-
-```
-將第一張圖中亮燈的高聳摩天大樓轉換為史蒂芬·金史詩系列作品中的《黑塔》。請將該建築轉化為一座高聳、漆黑、充滿不祥氣息且古老的石造塔樓，採用哥德式或圓柱形建築風格，並參考第二張、第三張……
-```
-
-<img src="https://pbs.twimg.com/tweet_video_thumb/HSpV_2lagAESG4w.jpg" width="600" alt="黑塔摩天大樓視覺轉換">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11099)**
-
-**作者:** [FutureMinted](https://x.com/futureminted) | **來源:** [Link](https://x.com/futureminted/status/2101586737931903064) | **發布時間:** Sep 20, 2026
-
----
-### Grok Imagine 男子與鴿子動畫提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 詳細的動畫提示詞，描述一名男子在廚房場景中大笑，以及一隻鴿子輕柔移動的情景。
-
-#### 📝 提示詞
-
-```
-男子自然微笑並開懷大笑，說話時頭部輕微擺動，神情愉悅；停在他肩上的鴿子則輕輕扇動翅膀並轉動頭部，YUP 文字保持可見。背景廚房有細微動態，搭配柔和光線效果。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101572335836815360/img/kK-IVHNaPKD8_6iq.jpg" width="600" alt="Grok Imagine 男子與鴿子動畫提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11104)**
-
-**作者:** [quietrumble](https://x.com/BillHector2) | **來源:** [Link](https://x.com/BillHector2/status/2101572350319669727) | **發布時間:** Sep 20, 2026
-
----
-### Grok Imagine 黑幫山羊影片提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個幽默的提示詞，用於讓三隻山羊像紐約黑幫一樣說話。
-
-#### 📝 提示詞
-
-```
-讓這三隻山羊像紐約黑幫一樣說話，索要穀物和睡前花生醬……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101503448478818304/img/R_RwnB3UVVUUDmYH.jpg" width="600" alt="Grok Imagine 黑幫山羊影片提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11102)**
-
-**作者:** [Mr.Tibbs](https://x.com/BlizzardAd56304) | **來源:** [Link](https://x.com/BlizzardAd56304/status/2101503477981585539) | **發布時間:** Sep 20, 2026
-
----
-### Low Rider vs Tesla Hover Challenge
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for a competitive video sequence where a classic low rider Chevy hops three feet high using air shocks, followed by a new red Tesla Roadster launching ten feet high with air jets and hovering for five seconds.
-
-#### 📝 提示詞
-
-```
-Create a video of an old low rider Chevy car Hoping with air shocks 3 fr high then a new red Tesla roadster with the air jets launching up 10 ft and hovering for 5 seconds before slowly landing
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101107409108541440/img/0jX7A6Jq22tgLJJ5.jpg" width="600" alt="Low Rider vs Tesla Hover Challenge">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11042)**
-
-**作者:** [MentorCapitalist](https://x.com/mentorcapital1) | **來源:** [Link](https://x.com/mentorcapital1/status/2101107519833932137) | **發布時間:** Sep 19, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2252,6 +2252,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-10-03T05:05:51.080Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-10-03T13:28:57.491Z</sub>
 
 </div>

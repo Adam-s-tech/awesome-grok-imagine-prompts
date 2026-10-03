@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2957** |
+| 📝 Total Prompts | **2962** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-03** |
 
@@ -189,6 +189,82 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Bảng đối đầu VTuber Grok Imagine
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Prompt tạo bảng đối đầu VS điện ảnh giữa hai VTuber đối thủ Roa Tsukumo và Sakuna Yuuki với mô tả ngoại hình chi tiết.
+
+#### 📝 Prompt
+
+```
+Bảng đối đầu VS phong cách điện ảnh của hai VTuber đối thủ: bên trái là Tsukumo Roa từ tham chiếu đầu tiên (tóc xanh dương, tai mèo, trang phục xếp tầng xanh trắng, mắt tím, chủ đề sứa) và bên phải là Yuuki Sakuna từ tham chiếu thứ hai (bím tóc hồng, hầu gái mèo...)
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106252891065581568/img/fSfnyfUoaaeT8LvL.jpg" width="600" alt="Bảng đối đầu VTuber Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11838)**
+
+**Author:** [ほてぷ🌙🪼☁️](https://x.com/hotepu_shio) | **Source:** [Link](https://x.com/hotepu_shio/status/2106252917145764123) | **Published:** Oct 3, 2026
+
+---
+### Chỉnh sửa màu sắc cho bức tranh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt để nâng cao chất lượng bức tranh bằng cách thêm các màu magenta và xanh lục bảo, đưa tác phẩm lên một tầm cao mới.
+
+#### 📝 Prompt
+
+```
+Đưa bức tranh này lên một tầm cao mới. Hãy thêm màu magenta và nhiều hơn nữa màu xanh lục bảo....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106246984671633408/img/8k0Uuq6GwcFN9tiw.jpg" width="600" alt="Chỉnh sửa màu sắc cho bức tranh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11836)**
+
+**Author:** [Legend](https://x.com/AtlasGalatic) | **Source:** [Link](https://x.com/AtlasGalatic/status/2106247004292845784) | **Published:** Oct 3, 2026
+
+---
+### Hoạt hình Tượng Đồng Hình Học
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo hoạt hình phong cách acrylic cho tượng đồng hình học đang nuôi dưỡng một khu rừng bằng Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Một bức tượng hình học tuyệt đẹp làm từ đồng đang nuôi dưỡng một khu rừng, hãy sử dụng phong cách acrylic cho hoạt hình
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106221437937659904/img/hqbXAewzsvAvamXq.jpg" width="600" alt="Hoạt hình Tượng Đồng Hình Học">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11835)**
+
+**Author:** [Legend](https://x.com/AtlasGalatic) | **Source:** [Link](https://x.com/AtlasGalatic/status/2106221457986797729) | **Published:** Oct 3, 2026
+
+---
+### Cảnh Quạt Xoay và Rồng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt chi tiết để tạo hiệu ứng động cho hình ảnh tĩnh của một con rồng và chiếc quạt, tập trung vào hiệu ứng mờ chuyển động thực tế cho các cánh quạt trong khi giữ nguyên các yếu tố khác.
+
+#### 📝 Prompt
+
+```
+Làm cho các cánh quạt của chiếc quạt hộp màu trắng trông như đang quay rõ ràng với hiệu ứng mờ chuyển động thực tế, để tạo cảm giác nó đang thổi gió mát. Giữ nguyên hoàn toàn con rồng màu vàng, nụ cười mãn nguyện với đôi mắt nhắm nghiền, tư thế, mỏm đá, núi non, bầu trời và mọi thứ khác.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106057016313856000/img/MVCQJIjQkaWqPcRN.jpg" width="600" alt="Cảnh Quạt Xoay và Rồng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11837)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2106057071141798014) | **Published:** Oct 2, 2026
+
+---
 ### Grok Imagine Aveline và Black Dragon Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1107,6 +1183,25 @@ vẫn an toàn và khỏe mạnh ở nhà, khiêu vũ trong sân sau của cô �
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11436)**
 
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2104086484248666366) | **Published:** Sep 27, 2026
+
+---
+### Thử Thách Prompt Nghệ Thuật Không Gian Bất Khả Thi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Thử thách viết prompt để tạo ra những thế giới với hình học bất khả thi, phối cảnh cưỡng bức và trọng lực xung đột bằng Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Hãy tạo ra một thế giới nơi không gian từ chối tuân theo logic thông thường. Những cầu thang dẫn trở lại chính nó. Những căn phòng bên trong rộng hơn bên ngoài. Trọng lực thay đổi từ tầng này sang tầng khác. Hãy khiến điều bất khả thi trở nên chân thực đến khó tin. phối cảnh cưỡng bức • bố cục sâu • hình học bất khả thi • trọng lực xung đột
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104039668970831872/img/fZJHSmWnpSqgT6Um.jpg" width="600" alt="Thử Thách Prompt Nghệ Thuật Không Gian Bất Khả Thi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11839)**
+
+**Author:** [Sherice](https://x.com/Sherice0799) | **Source:** [Link](https://x.com/Sherice0799/status/2104039760280842491) | **Published:** Sep 27, 2026
 
 ---
 ### Hoạt ảnh Rồng với Cánh Cuộn
@@ -2097,101 +2192,6 @@ Cô ấy nhảy múa giữa những cột đá cẩm thạch mát lạnh, lụa 
 **Author:** [Bob - Art with a Hat](https://x.com/artwithahat0) | **Source:** [Link](https://x.com/artwithahat0/status/2101755863601922405) | **Published:** Sep 20, 2026
 
 ---
-### Video Xoay Thiên Hà
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Câu lệnh tạo video thiên hà xoay chậm ngược chiều kim đồng hồ trong khi giữ nguyên các ngôi sao nền.
-
-#### 📝 Prompt
-
-```
-Xoay thiên hà rất chậm theo hướng ngược chiều kim đồng hồ, đồng thời giữ cố định vị trí của các ngôi sao nền
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101690898513846273/img/QILOnSWZILYXSCLn.jpg" width="600" alt="Video Xoay Thiên Hà">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11103)**
-
-**Author:** [Jack Light](https://x.com/Zagrag) | **Source:** [Link](https://x.com/Zagrag/status/2101690995314151607) | **Published:** Sep 20, 2026
-
----
-### Biến đổi Tòa nhà chọc trời thành Tháp Tối
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt chi tiết biến đổi hình ảnh tòa nhà chọc trời thành The Dark Tower trong loạt truyện của Stephen King, sử dụng nhiều hình ảnh tham khảo.
-
-#### 📝 Prompt
-
-```
-Biến đổi tòa nhà chọc trời sáng đèn cao lớn từ hình ảnh đầu tiên thành The Dark Tower trong loạt truyện sử thi của Stephen King. Hãy biến tòa nhà này thành một ngọn tháp đá cổ kính, đen tối, uy nghi và đầy đe dọa với kiến trúc Gothic hoặc hình trụ, lấy cảm hứng từ hình ảnh thứ hai, thứ ba...
-```
-
-<img src="https://pbs.twimg.com/tweet_video_thumb/HSpV_2lagAESG4w.jpg" width="600" alt="Biến đổi Tòa nhà chọc trời thành Tháp Tối">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11099)**
-
-**Author:** [FutureMinted](https://x.com/futureminted) | **Source:** [Link](https://x.com/futureminted/status/2101586737931903064) | **Published:** Sep 20, 2026
-
----
-### Grok Imagine Prompt hoạt ảnh Người đàn ông và Chim bồ câu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt hoạt ảnh chi tiết mô tả một người đàn ông đang cười và một con chim bồ câu chuyển động nhẹ nhàng trong bối cảnh nhà bếp.
-
-#### 📝 Prompt
-
-```
-Người đàn ông mỉm cười và cười tự nhiên, đầu hơi cử động khi anh ấy nói chuyện vui vẻ, trong khi con chim bồ câu trên vai vỗ cánh nhẹ nhàng và quay đầu lại, với văn bản YUP vẫn hiển thị rõ. Chuyển động nền tinh tế của nhà bếp và ánh sáng dịu nhẹ.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101572335836815360/img/kK-IVHNaPKD8_6iq.jpg" width="600" alt="Grok Imagine Prompt hoạt ảnh Người đàn ông và Chim bồ câu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11104)**
-
-**Author:** [quietrumble](https://x.com/BillHector2) | **Source:** [Link](https://x.com/BillHector2/status/2101572350319669727) | **Published:** Sep 20, 2026
-
----
-### Grok Imagine Mobster Goats Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A humorous prompt for animating three goats speaking like New York mobsters.
-
-#### 📝 Prompt
-
-```
-Make the three goats talk like New York mobsters , asking for the grain and bed time peanut butter ....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101503448478818304/img/R_RwnB3UVVUUDmYH.jpg" width="600" alt="Grok Imagine Mobster Goats Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11102)**
-
-**Author:** [Mr.Tibbs](https://x.com/BlizzardAd56304) | **Source:** [Link](https://x.com/BlizzardAd56304/status/2101503477981585539) | **Published:** Sep 20, 2026
-
----
-### Thử thách Bay Lượn: Low Rider vs Tesla
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo chuỗi video cạnh tranh, nơi chiếc Chevy low rider cổ điển bật nhảy cao ba feet nhờ hệ thống giảm xóc khí nén, tiếp theo là chiếc Tesla Roadster màu đỏ mới phóng lên cao mười feet với các tia khí và lơ lửng trong năm giây.
-
-#### 📝 Prompt
-
-```
-Tạo một video về chiếc xe Chevy low rider cũ bật nhảy cao 3 ft bằng giảm xóc khí nén, sau đó là chiếc Tesla Roadster màu đỏ mới với các tia khí phóng lên cao 10 ft và lơ lửng trong 5 giây trước khi hạ cánh chậm rãi
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101107409108541440/img/0jX7A6Jq22tgLJJ5.jpg" width="600" alt="Thử thách Bay Lượn: Low Rider vs Tesla">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11042)**
-
-**Author:** [MentorCapitalist](https://x.com/mentorcapital1) | **Source:** [Link](https://x.com/mentorcapital1/status/2101107519833932137) | **Published:** Sep 19, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2253,6 +2253,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-03T05:05:55.385Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-03T13:29:01.969Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2957** |
+| 📝 Total Prompts | **2962** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-03** |
 
@@ -189,6 +189,82 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine VTuber टक्कर पोस्टर
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> एक सिनेमाई VS टक्कर पोस्टर प्रॉम्प्ट जिसमें प्रतिद्वंद्वी VTubers Roa Tsukumo और Sakuna Yuuki के विस्तृत रूप वर्णन शामिल हैं।
+
+#### 📝 Prompt
+
+```
+दो प्रतिद्वंद्वी VTubers का एक सिनेमाई VS टक्कर पोस्टर: बाईं ओर पहले संदर्भ से Tsukumo Roa (नीले बाल, बिल्ली के कान, नीला-सफेद फ्रिल वाला परिधान, बैंगनी आँखें, जेलीफिश थीम) और दाईं ओर दूसरे संदर्भ से Yuuki Sakuna (गुलाबी बालों की चोटियाँ, कैट मेड...)
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106252891065581568/img/fSfnyfUoaaeT8LvL.jpg" width="600" alt="Grok Imagine VTuber टक्कर पोस्टर">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11838)**
+
+**Author:** [ほてぷ🌙🪼☁️](https://x.com/hotepu_shio) | **Source:** [Link](https://x.com/hotepu_shio/status/2106252917145764123) | **Published:** Oct 3, 2026
+
+---
+### चित्र में जादुई रंगों का संयोजन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक प्रॉम्प्ट जो चित्र को अगले स्तर पर ले जाने के लिए मैजेंटा और एक्वा ग्रीन रंगों को जोड़कर उसे बेहतर बनाता है।
+
+#### 📝 Prompt
+
+```
+इस चित्र को एक नए स्तर की उन्नति तक ले जाएं। इसमें मैजेंटा और बहुत अधिक एक्वा ग्रीन रंग शामिल करें....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106246984671633408/img/8k0Uuq6GwcFN9tiw.jpg" width="600" alt="चित्र में जादुई रंगों का संयोजन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11836)**
+
+**Author:** [Legend](https://x.com/AtlasGalatic) | **Source:** [Link](https://x.com/AtlasGalatic/status/2106247004292845784) | **Published:** Oct 3, 2026
+
+---
+### कॉपर ज्योमेट्रिक स्टैच्यू एनिमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine का उपयोग करके एक कॉपर ज्योमेट्रिक स्टैच्यू के द्वारा जंगल को पोषण देते हुए एक एक्रेलिक-शैली एनिमेशन बनाने के लिए प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+एक सुंदर ज्योमेट्रिक स्टैच्यू जो कॉपर से बना है और जंगल को पोषण दे रहा है, इसे एनिमेशन स्टाइल के लिए एक्रेलिक बनाएं
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106221437937659904/img/hqbXAewzsvAvamXq.jpg" width="600" alt="कॉपर ज्योमेट्रिक स्टैच्यू एनिमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11835)**
+
+**Author:** [Legend](https://x.com/AtlasGalatic) | **Source:** [Link](https://x.com/AtlasGalatic/status/2106221457986797729) | **Published:** Oct 3, 2026
+
+---
+### घूमता हुआ पंखा और ड्रैगन दृश्य
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ड्रैगन और पंखे की स्थिर छवि को एनिमेट करने के लिए एक विस्तृत प्रॉम्प्ट, जिसमें पंखे के ब्लेड्स के लिए यथार्थवादी मोशन ब्लर पर ध्यान केंद्रित किया गया है जबकि अन्य तत्वों को स्थिर रखा गया है।
+
+#### 📝 Prompt
+
+```
+सफेद बॉक्स फैन के ब्लेड्स को स्पष्ट रूप से घूमते हुए दिखाएं ताकि वे ठंडी हवा को सक्रिय रूप से फेंक रहे हों, इसके लिए यथार्थवादी मोशन ब्लर का उपयोग करें। पीले रंग के ड्रैगन, उसकी आँखें बंद करके मुस्कान, मुद्रा, चट्टानी उभार, पहाड़, आकाश और बाकी सभी चीजों को पूरी तरह से स्थिर रखें।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106057016313856000/img/MVCQJIjQkaWqPcRN.jpg" width="600" alt="घूमता हुआ पंखा और ड्रैगन दृश्य">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11837)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2106057071141798014) | **Published:** Oct 2, 2026
+
+---
 ### Grok Imagine Aveline और Black Dragon वीडियो प्रॉम्प्ट
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1105,6 +1181,25 @@ Use one frame from a 6x6 grid image as the starting frame, referencing sequentia
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11436)**
 
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2104086484248666366) | **Published:** Sep 27, 2026
+
+---
+### असंभव स्थान कला प्रॉम्प्ट चैलेंज
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine का उपयोग करके असंभव ज्यामिति, बलपूर्वक परिप्रेक्ष्य और विरोधाभासी गुरुत्वाकर्षण वाले संसार बनाने के लिए एक प्रॉम्प्ट चैलेंज।
+
+#### 📝 Prompt
+
+```
+एक ऐसा संसार बनाएं जहाँ स्थान तर्क को मानने से इनकार करता है। सीढ़ियाँ जो वापस अपने ही पास आ जाती हैं। कमरे जो बाहर से छोटे लेकिन अंदर से बड़े हों। गुरुत्वाकर्षण जो एक मंजिल से दूसरी मंजिल पर बदल जाता हो। असंभव को विश्वसनीय रूप से वास्तविक महसूस कराएं। forced perspective • deep staging • impossible geometry • conflicting gravity
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104039668970831872/img/fZJHSmWnpSqgT6Um.jpg" width="600" alt="असंभव स्थान कला प्रॉम्प्ट चैलेंज">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11839)**
+
+**Author:** [Sherice](https://x.com/Sherice0799) | **Source:** [Link](https://x.com/Sherice0799/status/2104039760280842491) | **Published:** Sep 27, 2026
 
 ---
 ### पंखों को लपेटने वाले ड्रैगन एनिमेशन
@@ -2097,101 +2192,6 @@ Grok Imagine से बनाया गया।
 **Author:** [Bob - Art with a Hat](https://x.com/artwithahat0) | **Source:** [Link](https://x.com/artwithahat0/status/2101755863601922405) | **Published:** Sep 20, 2026
 
 ---
-### Galaxy Rotation Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक गैलेक्सी के धीरे-धीरे वामावर्त घूमने और पृष्ठभूमि में तारों को स्थिर रखते हुए वीडियो बनाने के लिए एक प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-गैलेक्सी को बहुत धीरे-धीरे वामावर्त घुमाएं, जबकि पृष्ठभूमि में तारों को अपनी जगह पर स्थिर रखें
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101690898513846273/img/QILOnSWZILYXSCLn.jpg" width="600" alt="Galaxy Rotation Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11103)**
-
-**Author:** [Jack Light](https://x.com/Zagrag) | **Source:** [Link](https://x.com/Zagrag/status/2101690995314151607) | **Published:** Sep 20, 2026
-
----
-### Dark Tower Skyscraper Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Stephen King की श्रृंखला से 'The Dark Tower' में एक स्काईस्क्रैपर छवि को बदलने के लिए विस्तृत प्रॉम्प्ट, जिसमें कई संदर्भ छवियों का उपयोग किया गया है।
-
-#### 📝 Prompt
-
-```
-पहली छवि में दिखाए गए ऊंचे रोशन स्काईस्क्रैपर को Stephen King की महाकाव्य श्रृंखला 'The Dark Tower' में बदलें। इमारत को एक विशाल, काले, भयानक प्राचीन पत्थर के मीनार में बदलें, जिसकी गॉथिक या बेलनाकार वास्तुकला दूसरी, तीसरी...
-```
-
-<img src="https://pbs.twimg.com/tweet_video_thumb/HSpV_2lagAESG4w.jpg" width="600" alt="Dark Tower Skyscraper Transformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11099)**
-
-**Author:** [FutureMinted](https://x.com/futureminted) | **Source:** [Link](https://x.com/futureminted/status/2101586737931903064) | **Published:** Sep 20, 2026
-
----
-### Grok Imagine: आदमी और कबूतर एनिमेशन प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक विस्तृत एनिमेशन प्रॉम्प्ट जिसमें एक रसोई के दृश्य में हंसते हुए आदमी और धीरे-धीरे हिलते हुए कबूतर को दर्शाया गया है।
-
-#### 📝 Prompt
-
-```
-आदमी स्वाभाविक रूप से मुस्कुराता और हंसता है, खुशी से बात करते समय उसका सिर थोड़ा हिलता है, जबकि उसके कंधे पर बैठा कबूतर अपने पंख धीरे-धीरे फड़फड़ाता है और अपना सिर घुमाता है, साथ ही YUP टेक्स्ट स्पष्ट रूप से दिखाई देता रहता है। रसोई की पृष्ठभूमि में सूक्ष्म गति और नरम रोशनी का प्रभाव।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101572335836815360/img/kK-IVHNaPKD8_6iq.jpg" width="600" alt="Grok Imagine: आदमी और कबूतर एनिमेशन प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11104)**
-
-**Author:** [quietrumble](https://x.com/BillHector2) | **Source:** [Link](https://x.com/BillHector2/status/2101572350319669727) | **Published:** Sep 20, 2026
-
----
-### Grok Imagine Mobster Goats वीडियो प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> तीन बकरियों को न्यू यॉर्क माफिया की तरह बात करते हुए एनिमेट करने के लिए एक हास्यपूर्ण प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-तीन बकरियों को न्यू यॉर्क माफिया की तरह बात करते हुए दिखाएं, जो अनाज और सोने से पहले मूंगफली का मक्खन मांग रहे हों ....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101503448478818304/img/R_RwnB3UVVUUDmYH.jpg" width="600" alt="Grok Imagine Mobster Goats वीडियो प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11102)**
-
-**Author:** [Mr.Tibbs](https://x.com/BlizzardAd56304) | **Source:** [Link](https://x.com/BlizzardAd56304/status/2101503477981585539) | **Published:** Sep 20, 2026
-
----
-### लो राइडर बनाम टेस्ला होवर चैलेंज
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक प्रतिस्पर्धी वीडियो सीक्वेंस के लिए एक प्रॉम्प्ट जिसमें एक क्लासिक लो राइडर शेवी एयर शॉक्स का उपयोग करके तीन फीट ऊपर उछलता है, इसके बाद एक नई लाल Tesla Roadster एयर जेट्स के साथ दस फीट ऊपर लॉन्च होती है और पांच सेकंड तक हवा में तैरती है।
-
-#### 📝 Prompt
-
-```
-एक वीडियो बनाएं जिसमें एक पुरानी लो राइडर शेवी कार एयर शॉक्स के साथ 3 फीट ऊपर उछलती है, फिर एक नई लाल Tesla Roadster एयर जेट्स के साथ 10 फीट ऊपर लॉन्च होती है और धीरे-धीरे लैंड करने से पहले 5 सेकंड तक हवा में तैरती है
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101107409108541440/img/0jX7A6Jq22tgLJJ5.jpg" width="600" alt="लो राइडर बनाम टेस्ला होवर चैलेंज">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11042)**
-
-**Author:** [MentorCapitalist](https://x.com/mentorcapital1) | **Source:** [Link](https://x.com/mentorcapital1/status/2101107519833932137) | **Published:** Sep 19, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2253,6 +2253,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-03T05:05:56.451Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-03T13:29:02.912Z</sub>
 
 </div>

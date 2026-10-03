@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2957** |
+| 📝 Total Prompts | **2962** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-03** |
 
@@ -189,6 +189,82 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 
 > 📝 Sorted by publish date (newest first)
 
+### Poster di Confronto VTuber Grok Imagine
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Prompt per un poster cinematografico di confronto VS che presenta le VTuber rivali Roa Tsukumo e Sakuna Yuuki con descrizioni dettagliate dell'aspetto.
+
+#### 📝 Prompt
+
+```
+Poster cinematografico di confronto VS tra due VTuber rivali: a sinistra Tsukumo Roa dal primo riferimento (capelli blu, orecchie da gatto, abito arricciato bianco-bluastro, occhi viola, tema medusa) e a destra Yuuki Sakuna dal secondo riferimento (trecce rosa, cameriera gatto...)
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106252891065581568/img/fSfnyfUoaaeT8LvL.jpg" width="600" alt="Poster di Confronto VTuber Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11838)**
+
+**Author:** [ほてぷ🌙🪼☁️](https://x.com/hotepu_shio) | **Source:** [Link](https://x.com/hotepu_shio/status/2106252917145764123) | **Published:** Oct 3, 2026
+
+---
+### Modifica colore per ascesa della pittura
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per migliorare un dipinto aggiungendo colori magenta e verde acqua, portandolo a un livello superiore.
+
+#### 📝 Prompt
+
+```
+Porta questo dipinto al prossimo livello di ascesa. Includi magenta e molto più verde acqueo....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106246984671633408/img/8k0Uuq6GwcFN9tiw.jpg" width="600" alt="Modifica colore per ascesa della pittura">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11836)**
+
+**Author:** [Legend](https://x.com/AtlasGalatic) | **Source:** [Link](https://x.com/AtlasGalatic/status/2106247004292845784) | **Published:** Oct 3, 2026
+
+---
+### Animazione Statua Geometrica in Rame
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt per creare un'animazione in stile acrilico di una statua geometrica in rame che nutre una foresta, utilizzando Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Una bellissima statua geometrica realizzata in rame che nutre una foresta. Usa lo stile acrilico per l'animazione.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106221437937659904/img/hqbXAewzsvAvamXq.jpg" width="600" alt="Animazione Statua Geometrica in Rame">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11835)**
+
+**Author:** [Legend](https://x.com/AtlasGalatic) | **Source:** [Link](https://x.com/AtlasGalatic/status/2106221457986797729) | **Published:** Oct 3, 2026
+
+---
+### Scena del Drago con Ventola Rotante
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt dettagliato per animare un'immagine statica di un drago e una ventola, concentrandosi sulla sfocatura da movimento realistica delle pale della ventola mantenendo statici gli altri elementi.
+
+#### 📝 Prompt
+
+```
+Fai apparire le pale della ventola bianca chiaramente in rotazione con una sfocatura da movimento realistica, in modo che sembri soffiare attivamente aria fresca. Mantieni completamente immobili il drago giallo, il suo sorriso beato a occhi chiusi, la sua posa, lo spuntone roccioso, le montagne, il cielo e tutti gli altri elementi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106057016313856000/img/MVCQJIjQkaWqPcRN.jpg" width="600" alt="Scena del Drago con Ventola Rotante">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11837)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2106057071141798014) | **Published:** Oct 2, 2026
+
+---
 ### Prompt Video Grok Imagine: Aveline e il Drago Nero
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1101,6 +1177,25 @@ ancora al sicuro e tranquilla a casa, danzava nel suo giardino sul retro sotto l
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11436)**
 
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2104086484248666366) | **Published:** Sep 27, 2026
+
+---
+### Sfida di Prompt: L'Arte dello Spazio Impossibile
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Una sfida di prompt per creare mondi con geometrie impossibili, prospettive forzate e gravità in conflitto utilizzando Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Crea un mondo dove lo spazio rifiuta la logica. Scale che tornano su sé stesse. Stanze più grandi all'interno che all'esterno. Gravità che cambia da un piano all'altro. Rendi l'impossibile incredibilmente reale. prospettiva forzata • messa in scena profonda • geometria impossibile • gravità in conflitto
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104039668970831872/img/fZJHSmWnpSqgT6Um.jpg" width="600" alt="Sfida di Prompt: L'Arte dello Spazio Impossibile">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11839)**
+
+**Author:** [Sherice](https://x.com/Sherice0799) | **Source:** [Link](https://x.com/Sherice0799/status/2104039760280842491) | **Published:** Sep 27, 2026
 
 ---
 ### Animazione del drago con avvolgimento delle ali
@@ -2091,101 +2186,6 @@ Creato con Grok Imagine.
 **Author:** [Bob - Art with a Hat](https://x.com/artwithahat0) | **Source:** [Link](https://x.com/artwithahat0/status/2101755863601922405) | **Published:** Sep 20, 2026
 
 ---
-### Video della Rotazione Galattica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per generare un video di una galassia che ruota lentamente in senso antiorario, mantenendo fisse le stelle sullo sfondo.
-
-#### 📝 Prompt
-
-```
-Ruota la galassia molto lentamente in senso antiorario mantenendo fisse le stelle sullo sfondo
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101690898513846273/img/QILOnSWZILYXSCLn.jpg" width="600" alt="Video della Rotazione Galattica">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11103)**
-
-**Author:** [Jack Light](https://x.com/Zagrag) | **Source:** [Link](https://x.com/Zagrag/status/2101690995314151607) | **Published:** Sep 20, 2026
-
----
-### Trasformazione in Torre Nera di un Grattacielo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt dettagliato per trasformare l'immagine di un grattacielo nella Torre Nera della serie di Stephen King, utilizzando più immagini di riferimento.
-
-#### 📝 Prompt
-
-```
-Trasforma il grattacielo illuminato e alto della prima immagine nella Torre Nera dell'epica serie di Stephen King. Converti l'edificio in una torre imponente, nera, oscura e antica, con architettura gotica o cilindrica ispirata alla seconda, terza...
-```
-
-<img src="https://pbs.twimg.com/tweet_video_thumb/HSpV_2lagAESG4w.jpg" width="600" alt="Trasformazione in Torre Nera di un Grattacielo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11099)**
-
-**Author:** [FutureMinted](https://x.com/futureminted) | **Source:** [Link](https://x.com/futureminted/status/2101586737931903064) | **Published:** Sep 20, 2026
-
----
-### Prompt di animazione Grok Imagine: uomo e piccione
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt di animazione dettagliato che descrive un uomo che ride e un piccione che si muove dolcemente in una cucina.
-
-#### 📝 Prompt
-
-```
-L'uomo sorride e ride in modo naturale, muovendo leggermente la testa mentre parla allegramente, mentre il piccione sulla sua spalla sbatte delicatamente le ali e gira la testa, con il testo YUP che rimane visibile. Sottile movimento sullo sfondo della cucina e illuminazione morbida.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101572335836815360/img/kK-IVHNaPKD8_6iq.jpg" width="600" alt="Prompt di animazione Grok Imagine: uomo e piccione">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11104)**
-
-**Author:** [quietrumble](https://x.com/BillHector2) | **Source:** [Link](https://x.com/BillHector2/status/2101572350319669727) | **Published:** Sep 20, 2026
-
----
-### Prompt Video Grok Imagine: Capre Gangster
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt umoristico per animare tre capre che parlano come mafiosi di New York.
-
-#### 📝 Prompt
-
-```
-Fai parlare le tre capre come mafiosi di New York, chiedendo il grano e il burro d'arachidi della buonanotte....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101503448478818304/img/R_RwnB3UVVUUDmYH.jpg" width="600" alt="Prompt Video Grok Imagine: Capre Gangster">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11102)**
-
-**Author:** [Mr.Tibbs](https://x.com/BlizzardAd56304) | **Source:** [Link](https://x.com/BlizzardAd56304/status/2101503477981585539) | **Published:** Sep 20, 2026
-
----
-### Sfida Low Rider vs Tesla Hover
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt per una sequenza video competitiva in cui un classico Chevrolet low rider salta di tre piedi grazie alle sospensioni ad aria, seguito da una nuova Tesla Roadster rossa che decolla di dieci piedi con getti d'aria e rimane in hovering per cinque secondi.
-
-#### 📝 Prompt
-
-```
-Crea un video di una vecchia auto Chevrolet low rider che salta di 3 ft con le sospensioni ad aria, poi una nuova Tesla Roadster rossa che decolla di 10 ft con i getti d'aria e rimane in hovering per 5 secondi prima di atterrare lentamente.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101107409108541440/img/0jX7A6Jq22tgLJJ5.jpg" width="600" alt="Sfida Low Rider vs Tesla Hover">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11042)**
-
-**Author:** [MentorCapitalist](https://x.com/mentorcapital1) | **Source:** [Link](https://x.com/mentorcapital1/status/2101107519833932137) | **Published:** Sep 19, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2247,6 +2247,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-03T05:06:03.246Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-03T13:29:07.871Z</sub>
 
 </div>

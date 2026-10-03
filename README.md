@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2957** |
+| 📝 Total Prompts | **2962** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-03** |
 
@@ -189,6 +189,82 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine VTuber Confrontation Poster
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A cinematic VS confrontation poster prompt featuring rival VTubers Roa Tsukumo and Sakuna Yuuki with detailed appearance descriptions.
+
+#### 📝 Prompt
+
+```
+Cinematic VS confrontation poster of two rival VTubers: left side Tsukumo Roa from the first reference (blue hair, cat ears, blue-white frilly outfit, purple eyes, jellyfish theme) and right side Yuuki Sakuna from the second reference (pink hair braids, cat maid...)
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106252891065581568/img/fSfnyfUoaaeT8LvL.jpg" width="600" alt="Grok Imagine VTuber Confrontation Poster">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11838)**
+
+**Author:** [ほてぷ🌙🪼☁️](https://x.com/hotepu_shio) | **Source:** [Link](https://x.com/hotepu_shio/status/2106252917145764123) | **Published:** Oct 3, 2026
+
+---
+### Painting Ascention Color Edit
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt to enhance a painting by adding magenta and aqua green colors to take it to the next level.
+
+#### 📝 Prompt
+
+```
+Take this painting to the next level of ascention. Include magenta and way more aqua green....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106246984671633408/img/8k0Uuq6GwcFN9tiw.jpg" width="600" alt="Painting Ascention Color Edit">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11836)**
+
+**Author:** [Legend](https://x.com/AtlasGalatic) | **Source:** [Link](https://x.com/AtlasGalatic/status/2106247004292845784) | **Published:** Oct 3, 2026
+
+---
+### Copper Geometric Statue Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for creating an acrylic-style animation of a copper geometric statue feeding a forest using Grok Imagine.
+
+#### 📝 Prompt
+
+```
+A beautiful geometric statue made out of copper feeding a forest make it acrylic for the animation style
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106221437937659904/img/hqbXAewzsvAvamXq.jpg" width="600" alt="Copper Geometric Statue Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11835)**
+
+**Author:** [Legend](https://x.com/AtlasGalatic) | **Source:** [Link](https://x.com/AtlasGalatic/status/2106221457986797729) | **Published:** Oct 3, 2026
+
+---
+### Spinning Fan Dragon Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt to animate a static image of a dragon and fan, focusing on realistic motion blur for the fan blades while keeping other elements static.
+
+#### 📝 Prompt
+
+```
+Make the blades of the white box fan appear clearly spinning with realistic motion blur, so it looks actively blowing cool air. Keep the yellow dragon, his blissful closed-eyed smile, pose, rocky outcrop, mountains, sky, and everything else completely still.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106057016313856000/img/MVCQJIjQkaWqPcRN.jpg" width="600" alt="Spinning Fan Dragon Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11837)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2106057071141798014) | **Published:** Oct 2, 2026
+
+---
 ### Grok Imagine Aveline and Black Dragon Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -227,11 +303,11 @@ Can you please have the robot fly around the camp as the dogs jumps and play wat
 **Author:** [Keith Michael Roads](https://x.com/yuinanotherlife) | **Source:** [Link](https://x.com/yuinanotherlife/status/2105880384777212078) | **Published:** Oct 2, 2026
 
 ---
-### Robot and Man Emotional Scene
+### Robot Kisses Man Dialogue
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed narrative prompt for a heartwarming scene involving a robot and a man, including dialogue and background animal actions.
+> A narrative prompt describing a scene where a robot kisses a man and exchanges dialogue about love, with animals playing around them.
 
 #### 📝 Prompt
 
@@ -241,7 +317,7 @@ The man kisses the robot on the forehead and says “I love you too Rocket”
 The horses and dogs circle around them playfully.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105877976160309248/img/EFzO6Am_qk7cmN6L.jpg" width="600" alt="Robot and Man Emotional Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105877976160309248/img/EFzO6Am_qk7cmN6L.jpg" width="600" alt="Robot Kisses Man Dialogue">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11781)**
 
@@ -1107,6 +1183,25 @@ still safe & sound at home, dancing in her back-yard under the new fall moonligh
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11436)**
 
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2104086484248666366) | **Published:** Sep 27, 2026
+
+---
+### Art of Impossible Space Prompt Challenge
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt challenge for creating worlds with impossible geometry, forced perspective, and conflicting gravity using Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Create a world where space refuses to make sense. Staircases that return to themselves. Rooms bigger inside than outside. Gravity that changes from one floor to the next. Make the impossible feel convincingly real. forced perspective • deep staging • impossible geometry • conflicting gravity
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104039668970831872/img/fZJHSmWnpSqgT6Um.jpg" width="600" alt="Art of Impossible Space Prompt Challenge">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11839)**
+
+**Author:** [Sherice](https://x.com/Sherice0799) | **Source:** [Link](https://x.com/Sherice0799/status/2104039760280842491) | **Published:** Sep 27, 2026
 
 ---
 ### Dragon Animation with Wing Wrapping
@@ -2097,101 +2192,6 @@ Created with Grok Imagine.
 **Author:** [Bob - Art with a Hat](https://x.com/artwithahat0) | **Source:** [Link](https://x.com/artwithahat0/status/2101755863601922405) | **Published:** Sep 20, 2026
 
 ---
-### Galaxy Rotation Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for generating a video of a galaxy rotating slowly counterclockwise while keeping background stars fixed.
-
-#### 📝 Prompt
-
-```
-Rotate the galaxy very slowly counterclockwise while maintaining the background stars fixed in place
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101690898513846273/img/QILOnSWZILYXSCLn.jpg" width="600" alt="Galaxy Rotation Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11103)**
-
-**Author:** [Jack Light](https://x.com/Zagrag) | **Source:** [Link](https://x.com/Zagrag/status/2101690995314151607) | **Published:** Sep 20, 2026
-
----
-### Dark Tower Skyscraper Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt transforming a skyscraper image into The Dark Tower from Stephen King's series, utilizing multiple reference images.
-
-#### 📝 Prompt
-
-```
-Transform the tall lit skyscraper from the first image into The Dark Tower from Stephen King's epic series. Turn the building into a towering dark black ominous ancient stone tower with gothic or cylindrical architecture inspired by the second, third...
-```
-
-<img src="https://pbs.twimg.com/tweet_video_thumb/HSpV_2lagAESG4w.jpg" width="600" alt="Dark Tower Skyscraper Transformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11099)**
-
-**Author:** [FutureMinted](https://x.com/futureminted) | **Source:** [Link](https://x.com/futureminted/status/2101586737931903064) | **Published:** Sep 20, 2026
-
----
-### Grok Imagine Man and Pigeon Animation Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed animation prompt describing a man laughing and a pigeon moving gently in a kitchen setting.
-
-#### 📝 Prompt
-
-```
-The man smiles and laughs naturally, his head moving slightly as he talks cheerfully, while the pigeon on his shoulder flaps its wings gently and turns its head, with the YUP text remaining visible. Subtle kitchen background motion and soft lighting.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101572335836815360/img/kK-IVHNaPKD8_6iq.jpg" width="600" alt="Grok Imagine Man and Pigeon Animation Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11104)**
-
-**Author:** [quietrumble](https://x.com/BillHector2) | **Source:** [Link](https://x.com/BillHector2/status/2101572350319669727) | **Published:** Sep 20, 2026
-
----
-### Grok Imagine Mobster Goats Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A humorous prompt for animating three goats speaking like New York mobsters.
-
-#### 📝 Prompt
-
-```
-Make the three goats talk like New York mobsters , asking for the grain and bed time peanut butter ....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101503448478818304/img/R_RwnB3UVVUUDmYH.jpg" width="600" alt="Grok Imagine Mobster Goats Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11102)**
-
-**Author:** [Mr.Tibbs](https://x.com/BlizzardAd56304) | **Source:** [Link](https://x.com/BlizzardAd56304/status/2101503477981585539) | **Published:** Sep 20, 2026
-
----
-### Low Rider vs Tesla Hover Challenge
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for a competitive video sequence where a classic low rider Chevy hops three feet high using air shocks, followed by a new red Tesla Roadster launching ten feet high with air jets and hovering for five seconds.
-
-#### 📝 Prompt
-
-```
-Create a video of an old low rider Chevy car Hoping with air shocks 3 fr high then a new red Tesla roadster with the air jets launching up 10 ft and hovering for 5 seconds before slowly landing
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101107409108541440/img/0jX7A6Jq22tgLJJ5.jpg" width="600" alt="Low Rider vs Tesla Hover Challenge">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11042)**
-
-**Author:** [MentorCapitalist](https://x.com/mentorcapital1) | **Source:** [Link](https://x.com/mentorcapital1/status/2101107519833932137) | **Published:** Sep 19, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2253,6 +2253,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-03T05:05:48.995Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-03T13:28:55.331Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2957** |
+| 📝 Total Prompts | **2962** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-03** |
 
@@ -189,6 +189,82 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine โปสเตอร์การเผชิญหน้าของ VTuber
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> พรอมต์โปสเตอร์การเผชิญหน้าแบบ VS ที่มีความเป็นภาพยนตร์ ซึ่งนำเสนอ VTuber คู่ปรับ Roa Tsukumo และ Sakuna Yuuki พร้อมคำอธิบายลักษณะที่ละเอียด
+
+#### 📝 Prompt
+
+```
+โปสเตอร์การเผชิญหน้าแบบ VS ที่มีสไตล์ภาพยนต์ระหว่าง VTuber คู่ปรับสองคน: ด้านซ้ายคือ Tsukumo Roa จากภาพอ้างอิงแรก (ผมสีน้ำเงิน หูแมว ชุดระบายสีฟ้า-ขาว ดวงตาสีม่วง ธีมแมงกะพรุน) และด้านขวาคือ Yuuki Sakuna จากภาพอ้างอิงที่สอง (ผมสีชมพูถักเปีย เมดสาวแมว...)
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106252891065581568/img/fSfnyfUoaaeT8LvL.jpg" width="600" alt="Grok Imagine โปสเตอร์การเผชิญหน้าของ VTuber">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11838)**
+
+**Author:** [ほてぷ🌙🪼☁️](https://x.com/hotepu_shio) | **Source:** [Link](https://x.com/hotepu_shio/status/2106252917145764123) | **Published:** Oct 3, 2026
+
+---
+### การแก้ไขสีภาพวาดเพื่อเพิ่มมิติ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับปรับปรุงภาพวาดโดยเติมสีม่วงแดงและสีเขียวอควาเพื่อยกระดับความสวยงามของงานศิลปะ
+
+#### 📝 Prompt
+
+```
+ยกระดับภาพวาดนี้ให้ดูมีมิติและลึกซึ้งยิ่งขึ้น โดยเติมสีม่วงแดง (Magenta) และสีเขียวอควา (Aqua Green) ให้มากขึ้น...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106246984671633408/img/8k0Uuq6GwcFN9tiw.jpg" width="600" alt="การแก้ไขสีภาพวาดเพื่อเพิ่มมิติ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11836)**
+
+**Author:** [Legend](https://x.com/AtlasGalatic) | **Source:** [Link](https://x.com/AtlasGalatic/status/2106247004292845784) | **Published:** Oct 3, 2026
+
+---
+### แอนิเมชันรูปปั้นทองแดงทรงเรขาคณิต
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างแอนิเมชันสไตล์อะคริลิกรูปปั้นทองแดงทรงเรขาคณิตที่เลี้ยงดูป่า โดยใช้ Grok Imagine
+
+#### 📝 Prompt
+
+```
+รูปปั้นทรงเรขาคณิตที่สวยงามทำจากทองแดงกำลังเลี้ยงดูป่า ทำให้เป็นสไตล์อะคริลิกสำหรับแอนิเมชัน
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106221437937659904/img/hqbXAewzsvAvamXq.jpg" width="600" alt="แอนิเมชันรูปปั้นทองแดงทรงเรขาคณิต">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11835)**
+
+**Author:** [Legend](https://x.com/AtlasGalatic) | **Source:** [Link](https://x.com/AtlasGalatic/status/2106221457986797729) | **Published:** Oct 3, 2026
+
+---
+### ฉากมังกรพัดลมหมุน
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ละเอียดสำหรับสร้างภาพเคลื่อนไหวจากภาพนิ่งของมังกรและพัดลม โดยเน้นเอฟเฟกต์เบลอจากการเคลื่อนไหวที่สมจริงของใบพัด ในขณะที่องค์ประกอบอื่นๆ ยังคงนิ่งสนิท
+
+#### 📝 Prompt
+
+```
+ทำให้ใบพัดของพัดลมกล่องสีขาวดูเหมือนกำลังหมุนอย่างชัดเจนพร้อมเอฟเฟกต์เบลอจากการเคลื่อนไหวที่สมจริง เพื่อให้ดูเสมือนว่ากำลังเป่าลมเย็นออกมา ส่วนมังกรสีเหลือง รอยยิ้มปิดตาอย่างมีความสุข ท่าทาง โขดหิน เทือกเขา ท้องฟ้า และองค์ประกอบอื่นๆ ทั้งหมดต้องอยู่นิ่งสนิท
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106057016313856000/img/MVCQJIjQkaWqPcRN.jpg" width="600" alt="ฉากมังกรพัดลมหมุน">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11837)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2106057071141798014) | **Published:** Oct 2, 2026
+
+---
 ### พรอมต์วิดีโอ Grok Imagine: Aveline และมังกรดำ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1105,6 +1181,25 @@ Eric Cartman ชกเอเลี่ยนจนตกจากที่นั�
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11436)**
 
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2104086484248666366) | **Published:** Sep 27, 2026
+
+---
+### Art of Impossible Space Prompt Challenge
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt challenge for creating worlds with impossible geometry, forced perspective, and conflicting gravity using Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Create a world where space refuses to make sense. Staircases that return to themselves. Rooms bigger inside than outside. Gravity that changes from one floor to the next. Make the impossible feel convincingly real. forced perspective • deep staging • impossible geometry • conflicting gravity
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104039668970831872/img/fZJHSmWnpSqgT6Um.jpg" width="600" alt="Art of Impossible Space Prompt Challenge">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11839)**
+
+**Author:** [Sherice](https://x.com/Sherice0799) | **Source:** [Link](https://x.com/Sherice0799/status/2104039760280842491) | **Published:** Sep 27, 2026
 
 ---
 ### การเคลื่อนไหวของมังกรพร้อมปีกที่ห่อหุ้ม
@@ -2095,101 +2190,6 @@ AI video — ภาพยนตร์แนวตั้ง 9:16
 **Author:** [Bob - Art with a Hat](https://x.com/artwithahat0) | **Source:** [Link](https://x.com/artwithahat0/status/2101755863601922405) | **Published:** Sep 20, 2026
 
 ---
-### วิดีโอการหมุนของกาแล็กซี
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งสำหรับสร้างวิดีโอแสดงกาแล็กซีที่หมุนทวนเข็มนาฬิกาอย่างช้าๆ โดยคงตำแหน่งดาวพื้นหลังให้หยุดนิ่ง
-
-#### 📝 Prompt
-
-```
-หมุนกาแล็กซีอย่างช้าๆ ในทิศทางทวนเข็มนาฬิกา โดยคงตำแหน่งดาวพื้นหลังให้อยู่นิ่ง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101690898513846273/img/QILOnSWZILYXSCLn.jpg" width="600" alt="วิดีโอการหมุนของกาแล็กซี">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11103)**
-
-**Author:** [Jack Light](https://x.com/Zagrag) | **Source:** [Link](https://x.com/Zagrag/status/2101690995314151607) | **Published:** Sep 20, 2026
-
----
-### การเปลี่ยนตึกระฟ้าให้เป็นหอคอยมืด
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ละเอียดสำหรับเปลี่ยนภาพตึกระฟ้าให้กลายเป็น The Dark Tower จากซีรีส์ของ Stephen King โดยใช้ภาพอ้างอิงหลายภาพ
-
-#### 📝 Prompt
-
-```
-เปลี่ยนตึกระฟ้าสูงที่มีแสงสว่างจากภาพแรกให้กลายเป็น The Dark Tower จากซีรีส์มหากาพย์ของ Stephen King เปลี่ยนอาคารให้กลายเป็นหอคอยหินโบราณสีดำทะมึนที่สูงตระหง่านและน่าสะพรึงกลัว โดยมีสถาปัตยกรรมแบบโกธิกหรือทรงกระบอกที่ได้รับแรงบันดาลใจจากภาพที่สอง ภาพที่สาม...
-```
-
-<img src="https://pbs.twimg.com/tweet_video_thumb/HSpV_2lagAESG4w.jpg" width="600" alt="การเปลี่ยนตึกระฟ้าให้เป็นหอคอยมืด">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11099)**
-
-**Author:** [FutureMinted](https://x.com/futureminted) | **Source:** [Link](https://x.com/futureminted/status/2101586737931903064) | **Published:** Sep 20, 2026
-
----
-### พรอมต์สร้างภาพเคลื่อนไหว Grok Imagine: ชายและนกพิราบ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สร้างภาพเคลื่อนไหวแบบละเอียดที่อธิบายฉากชายคนหนึ่งกำลังหัวเราะอย่างมีความสุข และนกพิราบขยับตัวเบาๆ ในบรรยากาศห้องครัว
-
-#### 📝 Prompt
-
-```
-ชายคนนั้นยิ้มและหัวเราะอย่างเป็นธรรมชาติ ศีรษะของเขาขยับเล็กน้อยขณะพูดคุยอย่างร่าเริง ในขณะที่นกพิราบบนไหล่กระพือปีกเบาๆ และหันศีรษะ โดยข้อความ YUP ยังคงมองเห็นได้ชัดเจน พื้นหลังห้องครัวมีการเคลื่อนไหวเพียงเล็กน้อยพร้อมแสงนุ่มนวล
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101572335836815360/img/kK-IVHNaPKD8_6iq.jpg" width="600" alt="พรอมต์สร้างภาพเคลื่อนไหว Grok Imagine: ชายและนกพิราบ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11104)**
-
-**Author:** [quietrumble](https://x.com/BillHector2) | **Source:** [Link](https://x.com/BillHector2/status/2101572350319669727) | **Published:** Sep 20, 2026
-
----
-### พรอมต์วิดีโอ Grok Imagine: แพะมาเฟีย
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ตลกขบขันสำหรับสร้างแอนิเมชันแพะสามตัวที่พูดจาเหมือนมาเฟียในนิวยอร์ก
-
-#### 📝 Prompt
-
-```
-ทำให้แพะสามตัวพูดจาเหมือนมาเฟียในนิวยอร์ก โดยเรียกร้องขออาหารสัตว์และเนยถั่วก่อนนอน...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101503448478818304/img/R_RwnB3UVVUUDmYH.jpg" width="600" alt="พรอมต์วิดีโอ Grok Imagine: แพะมาเฟีย">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11102)**
-
-**Author:** [Mr.Tibbs](https://x.com/BlizzardAd56304) | **Source:** [Link](https://x.com/BlizzardAd56304/status/2101503477981585539) | **Published:** Sep 20, 2026
-
----
-### การประชันระหว่างโลว์ไรเดอร์กับเทสลา: ท้าความสูงแบบลอยตัว
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับลำดับวิดีโอการแข่งขัน โดยรถเชฟวี่โลว์ไรเดอร์คลาสสิกกระโดดสูงสามฟุตโดยใช้โช้คอัพลม ตามด้วยเทสลาโรดสเตอร์สีแดงรุ่นใหม่ที่ใช้เจ็ตอากาศพุ่งขึ้นสูงสิบฟุตและลอยตัวค้างไว้ห้าวินาที
-
-#### 📝 Prompt
-
-```
-สร้างวิดีโอของรถเชฟวี่โลว์ไรเดอร์เก่าที่กระโดดสูง 3 ฟุตด้วยโช้คอัพลม จากนั้นเป็นเทสลาโรดสเตอร์สีแดงรุ่นใหม่ที่ใช้เจ็ตอากาศพุ่งขึ้นสูง 10 ฟุต และลอยตัวค้างไว้ 5 วินาทีก่อนที่จะลงจอดอย่างช้าๆ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101107409108541440/img/0jX7A6Jq22tgLJJ5.jpg" width="600" alt="การประชันระหว่างโลว์ไรเดอร์กับเทสลา: ท้าความสูงแบบลอยตัว">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11042)**
-
-**Author:** [MentorCapitalist](https://x.com/mentorcapital1) | **Source:** [Link](https://x.com/mentorcapital1/status/2101107519833932137) | **Published:** Sep 19, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2251,6 +2251,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-03T05:05:54.434Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-03T13:29:01.062Z</sub>
 
 </div>

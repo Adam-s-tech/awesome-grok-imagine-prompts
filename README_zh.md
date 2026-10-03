@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2957** |
+| 📝 提示词总数 | **2962** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-10-03** |
 
@@ -189,6 +189,82 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### Grok Imagine VTuber 对决海报
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一张电影感的 VS 对决海报提示词， featuring rival VTubers Roa Tsukumo and Sakuna Yuuki with detailed appearance descriptions.
+
+#### 📝 提示词
+
+```
+Cinematic VS confrontation poster of two rival VTubers: left side Tsukumo Roa from the first reference (blue hair, cat ears, blue-white frilly outfit, purple eyes, jellyfish theme) and right side Yuuki Sakuna from the second reference (pink hair braids, cat maid...)
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106252891065581568/img/fSfnyfUoaaeT8LvL.jpg" width="600" alt="Grok Imagine VTuber 对决海报">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11838)**
+
+**作者:** [ほてぷ🌙🪼☁️](https://x.com/hotepu_shio) | **来源:** [Link](https://x.com/hotepu_shio/status/2106252917145764123) | **发布时间:** Oct 3, 2026
+
+---
+### 绘画升华色彩编辑
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 通过添加品红色和青绿色来增强绘画效果，使其达到更高层次的提示词。
+
+#### 📝 提示词
+
+```
+将这幅画提升到更高的艺术境界。加入品红色以及更多的青绿色……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106246984671633408/img/8k0Uuq6GwcFN9tiw.jpg" width="600" alt="绘画升华色彩编辑">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11836)**
+
+**作者:** [Legend](https://x.com/AtlasGalatic) | **来源:** [Link](https://x.com/AtlasGalatic/status/2106247004292845784) | **发布时间:** Oct 3, 2026
+
+---
+### 铜制几何雕像动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 使用 Grok Imagine 创建铜制几何雕像滋养森林的亚克力风格动画提示词。
+
+#### 📝 提示词
+
+```
+一座由铜制成的精美几何雕像正在滋养一片森林，请将动画风格设置为亚克力效果
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106221437937659904/img/hqbXAewzsvAvamXq.jpg" width="600" alt="铜制几何雕像动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11835)**
+
+**作者:** [Legend](https://x.com/AtlasGalatic) | **来源:** [Link](https://x.com/AtlasGalatic/status/2106221457986797729) | **发布时间:** Oct 3, 2026
+
+---
+### 旋转风扇与龙场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个详细的提示词，用于将龙和风扇的静态图像进行动画处理，重点在于为风扇叶片添加逼真的运动模糊效果，同时保持其他元素静止。
+
+#### 📝 提示词
+
+```
+让白色箱式风扇的叶片呈现出清晰可见的旋转状态，并带有逼真的运动模糊效果，使其看起来正在主动吹出凉风。保持黄色龙、它闭眼享受的微笑、姿势、岩石露头、山脉、天空以及其他所有元素完全静止。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106057016313856000/img/MVCQJIjQkaWqPcRN.jpg" width="600" alt="旋转风扇与龙场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11837)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2106057071141798014) | **发布时间:** Oct 2, 2026
+
+---
 ### Grok Imagine Aveline 与黑龙视频提示词
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1106,6 +1182,25 @@ Madonna 身穿这件完全相同的粉色蕾丝紧身胸衣舞会礼服、手套
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11436)**
 
 **作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2104086484248666366) | **发布时间:** Sep 27, 2026
+
+---
+### 不可能的空间艺术提示词挑战
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 使用 Grok Imagine 创建具有不可能几何结构、强制透视和冲突重力的世界的提示词挑战。
+
+#### 📝 提示词
+
+```
+创造一个空间拒绝遵循逻辑的世界。回到原点的阶梯。内部比外部更宽敞的房间。每层楼重力都不同的环境。让不可能的事物显得真实可信。强制透视 • 深度布景 • 不可能的几何结构 • 冲突的重力
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104039668970831872/img/fZJHSmWnpSqgT6Um.jpg" width="600" alt="不可能的空间艺术提示词挑战">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11839)**
+
+**作者:** [Sherice](https://x.com/Sherice0799) | **来源:** [Link](https://x.com/Sherice0799/status/2104039760280842491) | **发布时间:** Sep 27, 2026
 
 ---
 ### 带有翅膀包裹效果的龙动画
@@ -2096,101 +2191,6 @@ AI 视频 — 9:16 电影感
 **作者:** [Bob - Art with a Hat](https://x.com/artwithahat0) | **来源:** [Link](https://x.com/artwithahat0/status/2101755863601922405) | **发布时间:** Sep 20, 2026
 
 ---
-### 星系旋转视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用于生成缓慢逆时针旋转星系的提示词，同时保持背景恒星固定不动。
-
-#### 📝 提示词
-
-```
-让星系非常缓慢地逆时针旋转，同时保持背景恒星位置固定
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101690898513846273/img/QILOnSWZILYXSCLn.jpg" width="600" alt="星系旋转视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11103)**
-
-**作者:** [Jack Light](https://x.com/Zagrag) | **来源:** [Link](https://x.com/Zagrag/status/2101690995314151607) | **发布时间:** Sep 20, 2026
-
----
-### 黑暗塔摩天大楼变身
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 利用多张参考图片，将摩天大楼图像转化为斯蒂芬·金系列小说中的黑暗塔的详细提示词。
-
-#### 📝 提示词
-
-```
-将第一张图片中灯火通明的摩天大楼转化为斯蒂芬·金史诗系列中的黑暗塔。受第二、第三……张图片的启发，将该建筑改造成一座高耸入云、漆黑阴沉、充满古老气息的石塔，采用哥特式或圆柱形建筑风格。
-```
-
-<img src="https://pbs.twimg.com/tweet_video_thumb/HSpV_2lagAESG4w.jpg" width="600" alt="黑暗塔摩天大楼变身">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11099)**
-
-**作者:** [FutureMinted](https://x.com/futureminted) | **来源:** [Link](https://x.com/futureminted/status/2101586737931903064) | **发布时间:** Sep 20, 2026
-
----
-### Grok Imagine 男子与鸽子动画提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个详细的动画提示词，描述了一名男子在厨房环境中开怀大笑，以及一只鸽子轻轻移动的场景。
-
-#### 📝 提示词
-
-```
-男子自然地微笑并开怀大笑，说话时头部轻微晃动，神情愉悦；他肩上的鸽子轻轻扇动翅膀并转动头部，YUP 文字保持可见。背景中厨房有细微的动态效果，光线柔和。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101572335836815360/img/kK-IVHNaPKD8_6iq.jpg" width="600" alt="Grok Imagine 男子与鸽子动画提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11104)**
-
-**作者:** [quietrumble](https://x.com/BillHector2) | **来源:** [Link](https://x.com/BillHector2/status/2101572350319669727) | **发布时间:** Sep 20, 2026
-
----
-### Grok Imagine 黑帮山羊视频提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个幽默的提示词，用于生成三只像纽约黑帮一样说话的山羊动画。
-
-#### 📝 提示词
-
-```
-让这三只山羊像纽约黑帮一样说话，索要谷物和睡前花生酱……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101503448478818304/img/R_RwnB3UVVUUDmYH.jpg" width="600" alt="Grok Imagine 黑帮山羊视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11102)**
-
-**作者:** [Mr.Tibbs](https://x.com/BlizzardAd56304) | **来源:** [Link](https://x.com/BlizzardAd56304/status/2101503477981585539) | **发布时间:** Sep 20, 2026
-
----
-### 低底盘车与特斯拉悬停挑战
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于生成竞技视频片段的提示词：一辆经典低底盘雪佛兰通过空气悬挂弹跳至三英尺高，随后一辆红色新款特斯拉 Roadster 借助气动喷射装置腾空十英尺并悬停五秒。
-
-#### 📝 提示词
-
-```
-创建一个视频片段：先展示一辆老式低底盘雪佛兰利用空气悬挂弹跳至 3 英尺高，接着展示一辆红色新款特斯拉 Roadster 通过气动喷射装置腾空至 10 英尺高，悬停 5 秒后缓缓落地
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101107409108541440/img/0jX7A6Jq22tgLJJ5.jpg" width="600" alt="低底盘车与特斯拉悬停挑战">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11042)**
-
-**作者:** [MentorCapitalist](https://x.com/mentorcapital1) | **来源:** [Link](https://x.com/mentorcapital1/status/2101107519833932137) | **发布时间:** Sep 19, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2252,6 +2252,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-10-03T05:05:50.071Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-10-03T13:28:56.208Z</sub>
 
 </div>

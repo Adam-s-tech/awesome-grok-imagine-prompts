@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2957** |
+| 📝 Total Prompts | **2962** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-03** |
 
@@ -189,6 +189,82 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine VTuber Yüzleşme Afişi
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Rakip VTuber'lar Roa Tsukumo ve Sakuna Yuuki'nin detaylı görünüm açıklamalarıyla yer aldığı sinematik bir VS yüzleşme afişi istemi.
+
+#### 📝 Prompt
+
+```
+İki rakip VTuber'ın sinematik VS yüzleşme afişi: Sol tarafta ilk referanstan (mavi saç, kedi kulakları, mavi-beyaz fırfırlı kıyafet, mor gözler, denizanası teması) Tsukumo Roa ve sağ tarafta ikinci referanstan (pembe örgülü saç, kedi hizmetçi...)
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106252891065581568/img/fSfnyfUoaaeT8LvL.jpg" width="600" alt="Grok Imagine VTuber Yüzleşme Afişi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11838)**
+
+**Author:** [ほてぷ🌙🪼☁️](https://x.com/hotepu_shio) | **Source:** [Link](https://x.com/hotepu_shio/status/2106252917145764123) | **Published:** Oct 3, 2026
+
+---
+### Resim Yükseliş Renk Düzenlemesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir resmi bir sonraki seviyeye taşımak için macenta ve aqua yeşili renklerini ekleyerek geliştirmek için bir istem.
+
+#### 📝 Prompt
+
+```
+Bu resmi yükselişin bir sonraki seviyesine taşıyın. Macenta ve çok daha fazla aqua yeşili dahil edin....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106246984671633408/img/8k0Uuq6GwcFN9tiw.jpg" width="600" alt="Resim Yükseliş Renk Düzenlemesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11836)**
+
+**Author:** [Legend](https://x.com/AtlasGalatic) | **Source:** [Link](https://x.com/AtlasGalatic/status/2106247004292845784) | **Published:** Oct 3, 2026
+
+---
+### Bakır Geometrik Heykel Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine kullanarak bakır geometrik bir heykelin ormanı beslediği akrilik tarzı bir animasyon oluşturmak için prompt.
+
+#### 📝 Prompt
+
+```
+Bakırdan yapılmış güzel bir geometrik heykel, ormanı besliyor. Animasyon stili için akrilik görünümü ver.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106221437937659904/img/hqbXAewzsvAvamXq.jpg" width="600" alt="Bakır Geometrik Heykel Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11835)**
+
+**Author:** [Legend](https://x.com/AtlasGalatic) | **Source:** [Link](https://x.com/AtlasGalatic/status/2106221457986797729) | **Published:** Oct 3, 2026
+
+---
+### Dönen Fan Ejderha Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Dönen Fan Ejderha Sahnesi
+
+#### 📝 Prompt
+
+```
+Beyaz kutu fanının kanatları, gerçekçi hareket bulanıklığıyla net bir şekilde dönüyor gibi görünsün ve aktif olarak serin hava üflüyormuş hissi versin. Sarı ejderhayı, gözlerini kapatarak gülümseyen huzurlu ifadesini, pozunu, kayalık çıkıntıyı, dağları, gökyüzünü ve diğer tüm unsurları tamamen sabit tutun.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106057016313856000/img/MVCQJIjQkaWqPcRN.jpg" width="600" alt="Dönen Fan Ejderha Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11837)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2106057071141798014) | **Published:** Oct 2, 2026
+
+---
 ### Grok Imagine Aveline ve Kara Ejderha Video İstemi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1100,6 +1176,25 @@ evde güvende ve sağlıklı, sonbaharın yeni ay ışığında arka bahçesinde
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11436)**
 
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2104086484248666366) | **Published:** Sep 27, 2026
+
+---
+### İmkânsız Uzay Sanatı Prompt Yarışması
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine kullanarak imkânsız geometri, zorlanmış perspektif ve çelişkili yerçekimi ile dünyalar yaratmak için bir prompt yarışması.
+
+#### 📝 Prompt
+
+```
+Uzayın mantıklı olmaktan kaçındığı bir dünya yarat. Kendine geri dönen merdivenler. Dışı kadar içi de büyük olan odalar. Bir kattan diğerine değişen yerçekimi. İmkânsızı inandırıcı derecede gerçekçi hissettir. zorlanmış perspektif • derin sahneleme • imkânsız geometri • çelişkili yerçekimi
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104039668970831872/img/fZJHSmWnpSqgT6Um.jpg" width="600" alt="İmkânsız Uzay Sanatı Prompt Yarışması">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11839)**
+
+**Author:** [Sherice](https://x.com/Sherice0799) | **Source:** [Link](https://x.com/Sherice0799/status/2104039760280842491) | **Published:** Sep 27, 2026
 
 ---
 ### Kanat Sarma Hareketli Ejderha Animasyonu
@@ -2090,101 +2185,6 @@ Grok Imagine ile oluşturuldu.
 **Author:** [Bob - Art with a Hat](https://x.com/artwithahat0) | **Source:** [Link](https://x.com/artwithahat0/status/2101755863601922405) | **Published:** Sep 20, 2026
 
 ---
-### Galaksi Dönüşü Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Arka plan yıldızlarını sabit tutarak galaksinin saat yönünün tersine yavaşça döndüğünü gösteren bir video oluşturmak için istem.
-
-#### 📝 Prompt
-
-```
-Arka plan yıldızlarını sabit tutarken galaksiyi çok yavaş bir şekilde saat yönünün tersine döndürün
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101690898513846273/img/QILOnSWZILYXSCLn.jpg" width="600" alt="Galaksi Dönüşü Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11103)**
-
-**Author:** [Jack Light](https://x.com/Zagrag) | **Source:** [Link](https://x.com/Zagrag/status/2101690995314151607) | **Published:** Sep 20, 2026
-
----
-### Kara Kule Gökdelen Dönüşümü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Stephen King'in serisindeki Kara Kule'ye dönüştürmek için birden fazla referans görsel kullanan, bir gökdelen görselini detaylı bir şekilde değiştiren prompt.
-
-#### 📝 Prompt
-
-```
-İlk görseldeki aydınlatılmış yüksek gökdelene Stephen King'in epik serisindeki Kara Kule görünümünü kazandırın. İkinci ve üçüncü görsellerden ilham alarak binayı gotik veya silindirik mimariye sahip, ürkütücü, kadim taştan yapılmış devasa siyah bir kuleye dönüştürün...
-```
-
-<img src="https://pbs.twimg.com/tweet_video_thumb/HSpV_2lagAESG4w.jpg" width="600" alt="Kara Kule Gökdelen Dönüşümü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11099)**
-
-**Author:** [FutureMinted](https://x.com/futureminted) | **Source:** [Link](https://x.com/futureminted/status/2101586737931903064) | **Published:** Sep 20, 2026
-
----
-### Grok Imagine Adam ve Güvercin Animasyon İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mutfak ortamında gülen bir adamı ve yumuşakça hareket eden bir güvercini betimleyen detaylı animasyon istemi.
-
-#### 📝 Prompt
-
-```
-Adam doğal bir şekilde gülümser ve güler, neşeli konuşurken başı hafifçe hareket eder; omzundaki güvercin kanatlarını yavaşça çırpıp başını çevirirken YUP yazısı görünür kalır. Arka planda mutfakta ince hareketler ve yumuşak aydınlatma.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101572335836815360/img/kK-IVHNaPKD8_6iq.jpg" width="600" alt="Grok Imagine Adam ve Güvercin Animasyon İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11104)**
-
-**Author:** [quietrumble](https://x.com/BillHector2) | **Source:** [Link](https://x.com/BillHector2/status/2101572350319669727) | **Published:** Sep 20, 2026
-
----
-### Grok Imagine Mobster Keçiler Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Üç keçinin New York mafyası gibi konuşarak animasyon haline getirilmesi için eğlenceli bir istem.
-
-#### 📝 Prompt
-
-```
-Üç keçi, taneleri ve yatmadan önceki fıstık ezmesini isteyen New York mafyası gibi konuşsun....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101503448478818304/img/R_RwnB3UVVUUDmYH.jpg" width="600" alt="Grok Imagine Mobster Keçiler Video İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11102)**
-
-**Author:** [Mr.Tibbs](https://x.com/BlizzardAd56304) | **Source:** [Link](https://x.com/BlizzardAd56304/status/2101503477981585539) | **Published:** Sep 20, 2026
-
----
-### Low Rider vs Tesla Hover Challenge
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Klasik bir low rider Chevy'nin hava amortisörleriyle üç feet yüksekliğinde zıpladığı, ardından yeni kırmızı bir Tesla Roadster'in hava jetleriyle on feet yüksekliğine fırlayıp beş saniye boyunca havada süzüldüğü rekabetçi bir video dizisi için prompt.
-
-#### 📝 Prompt
-
-```
-Hava amortisörleriyle 3 feet yüksekliğinde zıplayan eski bir low rider Chevy arabasının videosunu oluşturun; ardından hava jetleriyle 10 feet yükselen ve yavaşça inmeden önce 5 saniye boyunca havada süzülen yeni kırmızı bir Tesla Roadster gösterin.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101107409108541440/img/0jX7A6Jq22tgLJJ5.jpg" width="600" alt="Low Rider vs Tesla Hover Challenge">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11042)**
-
-**Author:** [MentorCapitalist](https://x.com/mentorcapital1) | **Source:** [Link](https://x.com/mentorcapital1/status/2101107519833932137) | **Published:** Sep 19, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2246,6 +2246,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-03T05:06:06.449Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-03T13:29:10.998Z</sub>
 
 </div>
