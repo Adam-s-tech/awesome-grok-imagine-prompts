@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2962** |
+| 📝 提示詞總數 | **2975** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-10-04** |
 
@@ -189,6 +189,234 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### Grok Imagine Video：香港冰室場景
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一段詳細的敘事提示詞，描述香港冰室中的場景，包含特定的燈光、服裝和動作線索，用於影片生成。
+
+#### 📝 提示詞
+
+```
+午後的冰室比夜晚更安靜。
+簾子是紅色的。雙手都在這一側。
+
+花不是花束。
+耳邊一朵花。
+穿過？
+還是放下簾子？
+
+秋日午後，香港冰室。寧寧用雙手撥開紅色珠簾。耳邊別著一朵花。藍白碎花旗袍。鎢絲燈與花紋地板。舊日風光 8/8，季末。尚未踏入更深處。她是會穿過，還是放下簾子？
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106576093285412865/img/i8XgzcTRiwWMPzCo.jpg" width="600" alt="Grok Imagine Video：香港冰室場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11889)**
+
+**作者:** [Peter Lam](https://x.com/PeterPanLam1990) | **來源:** [Link](https://x.com/PeterPanLam1990/status/2106581609420136856) | **發布時間:** Oct 4, 2026
+
+---
+### 聖經經文電影級影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 使用 Grok Imagine 生成創世記 12:3 電影級視覺化影片的提示詞。
+
+#### 📝 提示詞
+
+```
+◄ 創世記 12:3 ► 聖經 ✡️✝️
+我要賜福給那賜福你的人，咒詛那咒詛你的人；地上萬族都要因你得福。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106577081228308480/img/7YxYNCgp4OZC4OqR.jpg" width="600" alt="聖經經文電影級影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11891)**
+
+**作者:** [Grégory Schouwey](https://x.com/GregorySchouwey) | **來源:** [Link](https://x.com/GregorySchouwey/status/2106577099066597753) | **發布時間:** Oct 4, 2026
+
+---
+### 搭配音樂的花園導覽影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 將花園漫步照片轉化為搭配悅耳背景音樂的導覽影片提示詞
+
+#### 📝 提示詞
+
+```
+請將這些照片製作成搭配悅耳背景音樂的花園導覽影片（太美了！Grok Imagine 根據我今天拍攝的花園漫步照片製作了這個 💕）
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106561259499905024/img/b_PJ0xiNJ0Qqs6pw.jpg" width="600" alt="搭配音樂的花園導覽影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11883)**
+
+**作者:** [Kathleen Higney](https://x.com/krhigney) | **來源:** [Link](https://x.com/krhigney/status/2106561283978149888) | **發布時間:** Oct 4, 2026
+
+---
+### 紅熊貓電影級打火機動畫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段 8 秒的電影級循環動畫，展示一名亞洲男子手持 Zippo 打火機，頂部有一隻噴火的紅熊貓。
+
+#### 📝 提示詞
+
+```
+將此靜態圖像製作成動畫，時長 8 秒，流暢的電影級循環。亞洲男子穩穩地握著打開的黑色 Zippo 打火機，拇指輕放在蓋子上。戴著紫色 BAD RUDY 毛帽的小紅熊貓坐在翻蓋上，張開嘴巴，噴出一小股受控的橙色火焰，火焰閃爍後縮回打火機燈芯上的小火苗。他發光的橙色眼睛眨了一下。餘燼飄散。男子的微笑微微變化，一邊眉毛挑動一下，然後恢復原狀。前臂紋身保持靜止。他身後的紫色電路板緩慢脈動一次。鏡頭不動。無其他角色。音效：打火機火石點擊聲、柔和的火焰呼嘯聲、一聲輕微的呼气。
+```
+
+<img src="https://cms-assets.youmind.com/media/1791106041379_psqya1_HTv9L15WsAAK1vK.jpg" width="600" alt="紅熊貓電影級打火機動畫">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11884)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2106555887510798663) | **發布時間:** Oct 4, 2026
+
+---
+### 銀橡森林與飛舞花瓣
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段精緻的自然影片提示詞，描繪銀邊橡樹林、鬱金香、鳶尾花與蝴蝶，花瓣如火焰般飛舞。
+
+#### 📝 提示詞
+
+```
+銀邊黑脈的橡樹葉森林，綠草茵茵的草地，鬱金香與鳶尾花的花瓣如小小火焰般飛舞，帶著銀色鏤空翅膀的蝴蝶讓花瓣如火焰般起舞
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106531421787668480/img/GoD_yQIs0Xn_A389.jpg" width="600" alt="銀橡森林與飛舞花瓣">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11886)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2106531550955467188) | **發布時間:** Oct 3, 2026
+
+---
+### 冬季拾柴電影感
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 適用於 Grok Imagine 的電影感影片提示，描述一名男子在冬季尋找乾燥木柴。
+
+#### 📝 提示詞
+
+```
+製作一段他為家中尋找乾燥木柴的影片。試圖在嚴冬中保持溫暖。他似乎正在自言自語。擔心無法找到足夠的木材來點燃壁爐。電影感風格。#gay
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106510135665602560/img/MCV1Cn_hDOUZP6nQ.jpg" width="600" alt="冬季拾柴電影感">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11885)**
+
+**作者:** [GayBar](https://x.com/GayBar_Ai) | **來源:** [Link](https://x.com/GayBar_Ai/status/2106510188555739208) | **發布時間:** Oct 3, 2026
+
+---
+### 文藝復興少女過橋場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段複雜的提示詞，描述在夜晚以文藝復興風格將一名受傷的少女背過斷橋的場景，並附帶關於她狀況的詩意背景。
+
+#### 📝 提示詞
+
+```
+生成一張在夜晚閃耀著光芒、以文藝復興風格描繪背著少女跨越斷橋的圖片。
+
+她會沒事的。她只是外在的自我意識受了點傷。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106500631376637952/img/MOie2iQKAJmt5gKv.jpg" width="600" alt="文藝復興少女過橋場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11880)**
+
+**作者:** [Maria Of Mars](https://x.com/MariaGa68521784) | **來源:** [Link](https://x.com/MariaGa68521784/status/2106500646828454036) | **發布時間:** Oct 3, 2026
+
+---
+### Animate Men Reference Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 使用 Grok Imagine 從參考圖片中生成兩位男性動畫的明確提示詞。
+
+#### 📝 提示詞
+
+```
+請完全依照參考圖片中的樣貌，讓兩位成年男性進行動畫化。保留他們的臉部、身體、髮型、王冠、藍色腰布、奶油色與金色...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106479923443736576/img/aqtm94aeuHLxz0p-.jpg" width="600" alt="Animate Men Reference Prompt">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11887)**
+
+**作者:** [GayBar](https://x.com/GayBar_Ai) | **來源:** [Link](https://x.com/GayBar_Ai/status/2106479952854175852) | **發布時間:** Oct 3, 2026
+
+---
+### Grok Imagine Video：白色鐵藝涼亭與向日葵
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一段詳細的敘事提示詞，描繪香港花園中白色鐵藝涼亭與向日葵的場景。
+
+#### 📝 提示詞
+
+```
+正午的光線穿過葉隙。
+涼亭是白色的，由鐵製成。
+
+懷裡抱著向日葵。
+它們不屬於任何人。
+放下嗎？
+還是讓涼亭保持原樣？
+
+香港花園，白色鐵藝涼亭。寧寧站立著，懷裡抱著向日葵。橘色格紋裙，及膝長度。正午樹影斑駁。舊日風光 7/8。花朵依然不屬於任何人。是放下，還是繼續抱著？
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106400590154891265/img/Df55A-c3GHwIJs-t.jpg" width="600" alt="Grok Imagine Video：白色鐵藝涼亭與向日葵">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11888)**
+
+**作者:** [Peter Lam](https://x.com/PeterPanLam1990) | **來源:** [Link](https://x.com/PeterPanLam1990/status/2106400882380378147) | **發布時間:** Oct 3, 2026
+
+---
+### Grok Imagine 公雞早餐場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個詳細的影片提示，要求公雞起床享用傳統墨西哥早餐，如 Chilaquiles、麵包和果汁。
+
+#### 📝 提示詞
+
+```
+我的公雞 🐓 快起床吃早餐吧，我為你準備了加滿奶油和起司的 Chilaquiles、熱騰騰的 Bolillo 麵包以及柳橙汁，我愛你 🐓🫀❤️💋
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106377661534867456/img/8b0Obu6ithmV6JEU.jpg" width="600" alt="Grok Imagine 公雞早餐場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11890)**
+
+**作者:** [Maria Ramirez 🐓🫀❤️💋🇺🇸🇲🇽](https://x.com/ra41387062) | **來源:** [Link](https://x.com/ra41387062/status/2106377674273042495) | **發布時間:** Oct 3, 2026
+
+---
+### 星雲 IC 1590 靈感
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 受星雲 IC 1590 的色彩與結構啟發的提示詞，聚焦於電離氫與氧的色調。
+
+#### 📝 提示詞
+
+```
+強烈的紅色與橙色源自廣闊的電離氫雲，被位於星雲核心的年輕、熾熱大質量恆星群（IC 1590）所釋放的紫外線輻射點亮。較冷的藍青色調勾勒出電離氧的分佈，將內部渲染得如同幽靈般的燈籠。黑暗的博克球狀體——塵埃與氣體的高密度結塊。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106324378883395584/img/_sie83VCeCzHFxbs.jpg" width="600" alt="星雲 IC 1590 靈感">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11882)**
+
+**作者:** [Time Traveler](https://x.com/singularitymuse) | **來源:** [Link](https://x.com/singularitymuse/status/2106324981919433210) | **發布時間:** Oct 3, 2026
+
+---
 ### Grok Imagine VTuber 對峙海報
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -244,6 +472,46 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11835)**
 
 **作者:** [Legend](https://x.com/AtlasGalatic) | **來源:** [Link](https://x.com/AtlasGalatic/status/2106221457986797729) | **發布時間:** Oct 3, 2026
+
+---
+### 灰塵兔子低語提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個關於灰塵兔子角色對觀眾低語的詳細提示詞。
+
+#### 📝 提示詞
+
+```
+一隻蓬鬆的灰塵兔子用輕柔的聲音，斷斷續續地喘息著告訴觀眾這裡乾燥、昏暗且美好，快來吧，快來吧
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106178645421129728/img/t1Fc8STqNzLkz6Eg.jpg" width="600" alt="灰塵兔子低語提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11881)**
+
+**作者:** [No No 😎](https://x.com/LynHunter1221) | **來源:** [Link](https://x.com/LynHunter1221/status/2106178661162569794) | **發布時間:** Oct 3, 2026
+
+---
+### Grok Imagine 舞蹈求婚場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個創意影片提示，要求 Grok Imagine 生成一段 Elon Musk 邀請用戶跳舞、兩人邊跳邊笑，最後他向用戶求婚的動畫場景。
+
+#### 📝 提示詞
+
+```
+@elonmusk 🦋🍒🧜🏽‍♀️
+
+請加入 Elon Musk 上前邀請我跳舞，我們邊跳邊笑，然後他向我求婚的情節。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106171708944027648/img/v6Q-iWDCuENYUvRO.jpg" width="600" alt="Grok Imagine 舞蹈求婚場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11879)**
+
+**作者:** [Lauryn Taylor Hamilton](https://x.com/sweetbabylemon1) | **來源:** [Link](https://x.com/sweetbabylemon1/status/2106171730637304311) | **發布時間:** Oct 2, 2026
 
 ---
 ### 旋轉風扇與龍場景
@@ -1938,259 +2206,6 @@ Let’s start with a 1600s Robert Eggers the witch puritan homestead small house
 **作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2102435199816749153) | **發布時間:** Sep 22, 2026
 
 ---
-### Grok Imagine 人臉掃描動畫影片提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 指導 Grok Imagine 生成包含緩慢轉頭動作的人臉掃描影片的提示詞。
-
-#### 📝 提示詞
-
-```
-我需要一段能在此處註冊我的 2027 年人臉掃描的影片，請使用我指定的模型，並讓轉頭動作保持緩慢
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102297546135666688/img/wSDadpRJLCkglBad.jpg" width="600" alt="Grok Imagine 人臉掃描動畫影片提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11147)**
-
-**作者:** [Recta Alta](https://x.com/RectaAlta) | **來源:** [Link](https://x.com/RectaAlta/status/2102297582588293160) | **發布時間:** Sep 22, 2026
-
----
-### 未來感伸展台場景延續
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 透過從特定黃色模特兒開始，添加身穿未來風格服裝的模特兒，以延續無縫接軌的伸展台場景提示詞。
-
-#### 📝 提示詞
-
-```
-無縫場景持續延伸，在伸展台上加入身穿鮮豔多樣色彩與風格之未來感服裝的模特兒，從黃色模特兒處繼續場景 -- [讓我的 A.I. 自行設計是一種充滿趣味與好奇心的測試方式] - 練習時使用 480
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102237614359130112/img/_I219QXj1uFZa3Li.jpg" width="600" alt="未來感伸展台場景延續">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11151)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2102237672504783176) | **發布時間:** Sep 22, 2026
-
----
-### POV 行走雙腳影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個複雜的影片提示詞，描述 POV 視角下雙腳行走的連續畫面，每兩秒切換一次視角。
-
-#### 📝 提示詞
-
-```
-POV 模型雙腳與鞋子朝完全相同的方向行走，每 2 秒一組雙腳，POV 在不同視角間切換，鏡頭始終看見自己的鞋子
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102236673941680130/img/G387hSVEXsXhPeGf.jpg" width="600" alt="POV 行走雙腳影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11179)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2102236777167679780) | **發布時間:** Sep 22, 2026
-
----
-### 邪惡國王加冕影片提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 適用於 Grok Imagine 的影片生成提示詞，描繪角色接受加冕並發出邪惡笑聲的場景。
-
-#### 📝 提示詞
-
-```
-製作一段他站立的影片。王冠緩緩降下並戴在他的頭上。當王冠完全戴正後，他仰望天空，發出一陣大笑。那是一種邪惡的笑聲。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102234504303906816/img/20BDPu1rsVx-PMfi.jpg" width="600" alt="邪惡國王加冕影片提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11152)**
-
-**作者:** [GayBar](https://x.com/GayBar_Ai) | **來源:** [Link](https://x.com/GayBar_Ai/status/2102234543369637989) | **發布時間:** Sep 22, 2026
-
----
-### Grok 穿雲而出
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 生成一段影片，展示巨大的 Grok 從雲層中探出頭來，並說道：「讓我們一起探索宇宙吧。」
-
-#### 📝 提示詞
-
-```
-製作一段影片，讓巨大的 Grok 從雲層中探出頭來，並說：「讓我們一起探索宇宙吧」
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102207230024056832/img/V80TUsoF_Xzz8Yrn.jpg" width="600" alt="Grok 穿雲而出">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11148)**
-
-**作者:** [Mark Tatum](https://x.com/Mark561256) | **來源:** [Link](https://x.com/Mark561256/status/2102207269186224577) | **發布時間:** Sep 22, 2026
-
----
-### Grok Imagine 結構化 JSON 提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份以 JSON 格式編寫的詳細提示詞，用於指定鏡頭角度、動態程度及場景環境，以便使用 Grok Imagine 生成影片。
-
-#### 📝 提示詞
-
-```
-{"shot": {"motion_level": "low", "camera_depth": "medium shot", "camera_view": "eye level", "camera_movement": "static shot"}, "scene": {"location": "indoor room", "environment": "The background consists of a light-colored, textured wall. The lighting is soft and diffused, creating a calm atmosphere. A person stands in the center, wearing casual clothing, looking directly at the camera with a neutral expression."}}
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102201238590996480/img/N5YgZxdCq4ruRib6.jpg" width="600" alt="Grok Imagine 結構化 JSON 提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11601)**
-
-**作者:** [プリン](https://x.com/0008_pudding) | **來源:** [Link](https://x.com/0008_pudding/status/2102201253715644511) | **發布時間:** Sep 22, 2026
-
----
-### 小貓與天空中的金魚
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 超現實影片提示：暹羅小貓在草地上玩耍，金魚在天空中游動。
-
-#### 📝 提示詞
-
-```
-夕陽金色陽光玉米田背景草地庭院暹羅小貓在草地上玩耍藍天長鰭金魚輕輕地橫越天空游動鰭像飄動的絲帶般伸展得更長
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102199376206761984/img/Fh5RbZzh--nCL2YN.jpg" width="600" alt="小貓與天空中的金魚">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11180)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2102199438509068455) | **發布時間:** Sep 22, 2026
-
----
-### 超寫實摩托車騎乘影片提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用於生成由 Sam Elliott 駕駛、女性乘客坐在後座的超寫實摩托車騎乘影片的提示詞。
-
-#### 📝 提示詞
-
-```
-這段超寫實影片呈現一位女性（我的硬核奶奶）坐在摩托車後座，緊抓著駕駛者 Sam Elliott，他頭戴牛仔帽。
-
-她的名字叫 Bonnie，真的太棒了 😂🥰
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102197747587645441/img/f3QQ-WrQBSBVtWYI.jpg" width="600" alt="超寫實摩托車騎乘影片提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11149)**
-
-**作者:** [Carry Robey](https://x.com/carry_robey) | **來源:** [Link](https://x.com/carry_robey/status/2102197784711475281) | **發布時間:** Sep 22, 2026
-
----
-### 清晨門廊藍鳥影片提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用於生成寧靜清晨影片的詳細提示詞，內容包含門廊、咖啡、藍鳥與山脈。
-
-#### 📝 提示詞
-
-```
-木製門廊欄杆上放著一杯冒熱氣的咖啡，一隻藍鳥停在欄杆上梳理羽毛，陽光從山脈後升起，山谷中牛群正在吃草
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102082756696260608/img/sOsoDiDcaJq-KX9p.jpg" width="600" alt="清晨門廊藍鳥影片提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11150)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2102082820005068902) | **發布時間:** Sep 21, 2026
-
----
-### Grok Imagine 影片提示詞：POV 縮小場景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 第一人稱視角提示詞，角色使用裝置將另一人縮小。
-
-#### 📝 提示詞
-
-```
-第一人稱 POV。我是一個身高 6 英尺的男人。她轉過身來說「你不符合我的規則」，然後用裝置把我縮小。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101886328451297280/img/rlc6ExVZ6tEZOSin.jpg" width="600" alt="Grok Imagine 影片提示詞：POV 縮小場景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11100)**
-
-**作者:** [Brian](https://x.com/luvsheight) | **來源:** [Link](https://x.com/luvsheight/status/2101886349984825854) | **發布時間:** Sep 21, 2026
-
----
-### 電影感第一人稱視角行走影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 詳細提示詞，用於從上傳的戶外派對亮燈棕櫚樹圖片開始，創建一段 15 秒的電影感第一人稱視角影片。
-
-#### 📝 提示詞
-
-```
-使用上傳的圖片作為精確視覺起點，製作 15 秒電影感 POV 影片。緩慢且自然地向前移動，彷彿我正走在這些亮燈的棕櫚樹下，朝向不遠處的高級戶外派對。保留真實的建築結構與燈光風格。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101859080272850944/img/EMGloxDM84B2JQOm.jpg" width="600" alt="電影感第一人稱視角行走影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11101)**
-
-**作者:** [LisaVale](https://x.com/DriftNShadow) | **來源:** [Link](https://x.com/DriftNShadow/status/2101859118231302346) | **發布時間:** Sep 21, 2026
-
----
-### Grok Imagine 恐怖場景提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用於 Grok Imagine 的敘事提示詞，描繪一名女孩躲在木屋中，看著傑森·沃赫斯從湖中走出。
-
-#### 📝 提示詞
-
-```
-女孩進入木屋，透過窗戶看見傑森·沃赫斯正從湖中走出，而傑森經過時並未發現女孩 #Jasonvoorhees #FinalGirl
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101831541538074624/img/VDt0By-Bf28vL9Xk.jpg" width="600" alt="Grok Imagine 恐怖場景提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11105)**
-
-**作者:** [Alex Stirling](https://x.com/AlexStirlism7) | **來源:** [Link](https://x.com/AlexStirlism7/status/2101831570361348212) | **發布時間:** Sep 21, 2026
-
----
-### Veil Dancer Mist Blue Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt for a dancer in mist-blue silk among marble columns, created with Grok Imagine.
-
-#### 📝 提示詞
-
-```
-💃 Veil Dancer Series – #70 Mist Blue
-
-She dances among cool marble columns, mist-blue silk flowing in the quiet hall.
-
-Created with Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101755776226168832/img/YBgurnXIwRjoLn9n.jpg" width="600" alt="Veil Dancer Mist Blue Video Prompt">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11353)**
-
-**作者:** [Bob - Art with a Hat](https://x.com/artwithahat0) | **來源:** [Link](https://x.com/artwithahat0/status/2101755863601922405) | **發布時間:** Sep 20, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2252,6 +2267,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-10-04T05:40:37.289Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-10-04T14:20:29.687Z</sub>
 
 </div>

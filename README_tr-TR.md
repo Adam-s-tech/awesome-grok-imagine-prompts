@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2962** |
+| 📝 Total Prompts | **2975** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-04** |
 
@@ -189,6 +189,234 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine Video: Hong Kong Buz Odası Sahnesi
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Video üretimi için özel aydınlatma, kostüm ve hareket ipuçları içeren, Hong Kong buz odası sahnesini anlatan detaylı bir senaryo istemi.
+
+#### 📝 Prompt
+
+```
+Öğleden sonra buz odası geceden daha sessizdir.
+Perde kırmızıdır. Her iki el de bu taraftadır.
+
+Çiçek bir buket değildir.
+Kulağının yanında tek bir çiçek.
+Geçecek mi?
+Perdeyi geri çekecek mi?
+
+Sonbahar öğleden sonrası, Hong Kong buz odası. Ningning her iki eliyle kırmızı boncuklu perdeyi aralar. Kulağının yanında tek bir çiçek var. Mavi-beyaz çiçekli cheongsam giyiyor. Tungsten ışık ve desenli zemin. Eski günlerin manzarası 8/8, sezonun sonu. Henüz ötesine geçmedi. Geçecek mi yoksa perdeyi geri mi çekecek?
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106576093285412865/img/i8XgzcTRiwWMPzCo.jpg" width="600" alt="Grok Imagine Video: Hong Kong Buz Odası Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11889)**
+
+**Author:** [Peter Lam](https://x.com/PeterPanLam1990) | **Source:** [Link](https://x.com/PeterPanLam1990/status/2106581609420136856) | **Published:** Oct 4, 2026
+
+---
+### İncet Ayeti Sinematik Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine kullanarak Tekvin 12:3'ün sinematik video görselleştirmesini oluşturmak için bir istem.
+
+#### 📝 Prompt
+
+```
+◄ Tekvin 12:3 ► İncet ✡️✝️
+Seni kutsayanları ben de kutsayacağım; seni lanetleyenleri ise ben lanetleyeceğim. Yeryüzündeki bütün halklar senin aracılığınla kutsanacak.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106577081228308480/img/7YxYNCgp4OZC4OqR.jpg" width="600" alt="İncet Ayeti Sinematik Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11891)**
+
+**Author:** [Grégory Schouwey](https://x.com/GregorySchouwey) | **Source:** [Link](https://x.com/GregorySchouwey/status/2106577099066597753) | **Published:** Oct 4, 2026
+
+---
+### Müzikli Bahçe Turu Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bahçe yürüyüşü fotoğraflarını, keyifli bir arka plan müziği eşliğinde tur videosuna dönüştüren istem.
+
+#### 📝 Prompt
+
+```
+Lütfen bunları, keyifli bir arka plan müziği ile bahçe turu videosuna dönüştür. (Çok güzel! Grok Imagine, bugünkü bahçe yürüyüşü fotoğraflarımdan bunu oluşturdu 💕)
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106561259499905024/img/b_PJ0xiNJ0Qqs6pw.jpg" width="600" alt="Müzikli Bahçe Turu Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11883)**
+
+**Author:** [Kathleen Higney](https://x.com/krhigney) | **Source:** [Link](https://x.com/krhigney/status/2106561283978149888) | **Published:** Oct 4, 2026
+
+---
+### Kızıl Panda ile Sinematik Çakmak Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Üzerinde ateş püskürten bir kızıl pandanın olduğu, Zippo çakmak tutan Asyalı bir adamın yer aldığı 8 saniyelik sinematik döngü animasyonu.
+
+#### 📝 Prompt
+
+```
+Bu sabit görüntüyü canlandır: 8 saniye, akıcı sinematik döngü. Asyalı adam, açık siyah Zippo çakmağı sabit tutuyor; başparmağı kapakta duruyor. Mor BAD RUDY bere takan küçük kızıl panda, kapağın üzerinde oturuyor, ağzı açık ve kısa, kontrollü bir turuncu alev patlaması üflüyor; bu alev titriyor ve çakmak fitilinde küçük bir aleve dönüşerek sönüyor. Parlayan turuncu gözleri bir kez kırpıyor. Kıvılcımlar süzülüyor. Adamın sırıtışı çok hafif değişiyor, kaşı biraz kalkıyor ve sonra yerine oturuyor. Ön kolundaki dövmeler hareketsiz kalıyor. Arkasındaki mor devre kartı yavaşça bir kez parlıyor. Kamera hareketi yok. Ekstra karakter yok. Ses: Çakmak taşının tık sesi, yumuşak alev uğultusu, tek bir sessiz nefes verme.
+```
+
+<img src="https://cms-assets.youmind.com/media/1791106041379_psqya1_HTv9L15WsAAK1vK.jpg" width="600" alt="Kızıl Panda ile Sinematik Çakmak Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11884)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2106555887510798663) | **Published:** Oct 4, 2026
+
+---
+### Dans Eden Yapraklarıyla Gümüş Meşe Ormanı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gümüş kenarlı yapraklara sahip meşe ağaçlarından oluşan bir orman, laleler, süsenler ve yaprakların alev gibi dans etmesine neden olan kelebekleri içeren detaylı bir doğa videosu istemi.
+
+#### 📝 Prompt
+
+```
+Siyah kenarlı gümüş yapraklı meşe ağacı ormanı, yeşil çimenlik alan, lale ve süsen çiçekleri, küçük alevler gibi dans eden renkli yapraklar, gümüş filigranlı kanatları olan kelebekler yaprakları alev gibi dans ettiriyor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106531421787668480/img/GoD_yQIs0Xn_A389.jpg" width="600" alt="Dans Eden Yapraklarıyla Gümüş Meşe Ormanı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11886)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2106531550955467188) | **Published:** Oct 3, 2026
+
+---
+### Kışın Odun Toplama Sinematik Görüntü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için kışın kuru odun arayan bir adamı gösteren sinematik video istemi.
+
+#### 📝 Prompt
+
+```
+Evine kuru odun ararken onu gösteren bir video yap. Kışın sıcak kalmaya çalışıyor. Kendi kendine konuşuyor gibi görünüyor. Şömine için yeterli odun bulamamaktan endişeli. Sinematik. #gay
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106510135665602560/img/MCV1Cn_hDOUZP6nQ.jpg" width="600" alt="Kışın Odun Toplama Sinematik Görüntü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11885)**
+
+**Author:** [GayBar](https://x.com/GayBar_Ai) | **Source:** [Link](https://x.com/GayBar_Ai/status/2106510188555739208) | **Published:** Oct 3, 2026
+
+---
+### Rönesans Genç Kız Köprü Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Rönesans tarzında, gece vakti kırık bir köprüden taşınan bir genç kızı tasvir eden; kızın durumuyla ilgili şiirsel bağlam içeren karmaşık bir istem.
+
+#### 📝 Prompt
+
+```
+Gece boyunca parlayan ve kırık bir köprü üzerinden Rönesans tarzında bir genç kızı taşıyan bir görüntü oluşturun.
+
+İyi olacak. Sadece dışsal egosunda morluklar var.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106500631376637952/img/MOie2iQKAJmt5gKv.jpg" width="600" alt="Rönesans Genç Kız Köprü Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11880)**
+
+**Author:** [Maria Of Mars](https://x.com/MariaGa68521784) | **Source:** [Link](https://x.com/MariaGa68521784/status/2106500646828454036) | **Published:** Oct 3, 2026
+
+---
+### Erkekleri Canlandırma Referans İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine kullanarak referans görüntüdeki iki erkeği canlandırmak için açıklayıcı istem.
+
+#### 📝 Prompt
+
+```
+Referans görüntüde görünen iki yetişkin erkeği, tıpkı orijinal halleriyle canlandırın. Yüzlerini, vücutlarını, saç stillerini, taçlarını, mavi bel sargılarını ve krem rengi-gol...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106479923443736576/img/aqtm94aeuHLxz0p-.jpg" width="600" alt="Erkekleri Canlandırma Referans İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11887)**
+
+**Author:** [GayBar](https://x.com/GayBar_Ai) | **Source:** [Link](https://x.com/GayBar_Ai/status/2106479952854175852) | **Published:** Oct 3, 2026
+
+---
+### Grok Imagine Video: Beyaz Demir Köşk ve Ayçiçekleri
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Hong Kong'daki bir bahçede beyaz demir köşk ve ayçiçeklerinin yer aldığı sahneyi betimleyen detaylı anlatısal istem.
+
+#### 📝 Prompt
+
+```
+Öğle güneşi yaprakların arasından süzülüyor.
+Köşk beyaz ve demirden yapılmış.
+
+Ayçiçekleri kollarında.
+Kimseye ait değiller.
+Bırakmalı mı?
+Köşkü olduğu gibi bırakmalı mı?
+
+Hong Kong bahçesi, beyaz demir köşk. Ningning, kollarında ayçiçekleriyle ayakta duruyor. Turuncu gingham desenli, diz boyu elbise. Öğle vakti yaprak gölgeleri. Eski günlerin manzarası 7/8. Çiçekler hâlâ kimseye ait değil. Bırakmalı mı yoksa taşımaya devam etmeli mi?
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106400590154891265/img/Df55A-c3GHwIJs-t.jpg" width="600" alt="Grok Imagine Video: Beyaz Demir Köşk ve Ayçiçekleri">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11888)**
+
+**Author:** [Peter Lam](https://x.com/PeterPanLam1990) | **Source:** [Link](https://x.com/PeterPanLam1990/status/2106400882380378147) | **Published:** Oct 3, 2026
+
+---
+### Grok Imagine ile Horozlu Kahvaltı Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Horozun uyanıp chilaquiles, ekmek ve meyve suyu gibi geleneksel Meksika kahvaltılık yiyecekleri yemesini isteyen detaylı bir video istemi.
+
+#### 📝 Prompt
+
+```
+Horozum 🐓 kalk yataktan, kahvaltı hazır. Sana bol kremalı ve peynirli chilaquiles yaptım, yanında sıcak bolillo ekmeği ve taze sıkılmış portakal suyu var. Seni çok seviyorum 🐓🫀❤️💋
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106377661534867456/img/8b0Obu6ithmV6JEU.jpg" width="600" alt="Grok Imagine ile Horozlu Kahvaltı Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11890)**
+
+**Author:** [Maria Ramirez 🐓🫀❤️💋🇺🇸🇲🇽](https://x.com/ra41387062) | **Source:** [Link](https://x.com/ra41387062/status/2106377674273042495) | **Published:** Oct 3, 2026
+
+---
+### Nebula IC 1590 İlhamı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> IC 1590 bulutsusunun renklerinden ve yapısından ilham alan, iyonize hidrojen ve oksijen tonlarına odaklanan bir istem.
+
+#### 📝 Prompt
+
+```
+Şiddetli kırmızılar ve turuncular, devasa yıldızlardan oluşan genç ve kavurucu bir kümenin (IC 1590) morötesi patlamasıyla alevlenen geniş iyonize hidrojen bulutlarından gelir. Daha soğuk mavi-camgöbeği tonları ise iyonize oksijeni izler ve bulutsunun içini hayaletimsi bir fener gibi boyar. Karanlık Bok globülleri — yoğun toz ve gaz düğümleri.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106324378883395584/img/_sie83VCeCzHFxbs.jpg" width="600" alt="Nebula IC 1590 İlhamı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11882)**
+
+**Author:** [Time Traveler](https://x.com/singularitymuse) | **Source:** [Link](https://x.com/singularitymuse/status/2106324981919433210) | **Published:** Oct 3, 2026
+
+---
 ### Grok Imagine VTuber Yüzleşme Afişi
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -244,6 +472,46 @@ Bakırdan yapılmış güzel bir geometrik heykel, ormanı besliyor. Animasyon s
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11835)**
 
 **Author:** [Legend](https://x.com/AtlasGalatic) | **Source:** [Link](https://x.com/AtlasGalatic/status/2106221457986797729) | **Published:** Oct 3, 2026
+
+---
+### Toz Tavşanı Fısıltı İstemcisi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> İzleyiciyle konuşan animasyonlu bir toz tavşanı karakteri için detaylı istem.
+
+#### 📝 Prompt
+
+```
+Fısıltılı sesiyle nefes alan, izleyiciye kesik kesik ve nefes nefese burada kuru, karanlık ve güzel olduğunu söyleyen, gelin gelin gelin diyen bir toz tavşanı
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106178645421129728/img/t1Fc8STqNzLkz6Eg.jpg" width="600" alt="Toz Tavşanı Fısıltı İstemcisi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11881)**
+
+**Author:** [No No 😎](https://x.com/LynHunter1221) | **Source:** [Link](https://x.com/LynHunter1221/status/2106178661162569794) | **Published:** Oct 3, 2026
+
+---
+### Grok Imagine Dans Teklif Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Elon Musk'ın kullanıcıya dans etmesini söylediği, birlikte gülerken dans ettikleri ve sonunda evlilik teklifi ettiği bir sahneyi canlandırması için Grok Imagine'e verilen yaratıcı bir video istemi.
+
+#### 📝 Prompt
+
+```
+@elonmusk 🦋🍒🧜🏽‍♀️
+
+Elon Musk'ın yanıma gelip beni dansa kaldırmasını, birlikte gülerek dans etmemizi ve ardından bana evlilik teklif etmesini içeren bir sahne ekleyin.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106171708944027648/img/v6Q-iWDCuENYUvRO.jpg" width="600" alt="Grok Imagine Dans Teklif Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11879)**
+
+**Author:** [Lauryn Taylor Hamilton](https://x.com/sweetbabylemon1) | **Source:** [Link](https://x.com/sweetbabylemon1/status/2106171730637304311) | **Published:** Oct 2, 2026
 
 ---
 ### Dönen Fan Ejderha Sahnesi
@@ -1932,259 +2200,6 @@ Kuş yemliğindeki öten kuşlar, yemlikten sarkan zarif bir rüzgar çanı; bu 
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2102435199816749153) | **Published:** Sep 22, 2026
 
 ---
-### Grok Imagine Video Prompt for Face Scan Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt instructing Grok Imagine to generate a video of a face scan with slow head turns.
-
-#### 📝 Prompt
-
-```
-I need a video that would register my 2k27 face scan here’s the model that I want to go with make the head turns slow
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102297546135666688/img/wSDadpRJLCkglBad.jpg" width="600" alt="Grok Imagine Video Prompt for Face Scan Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11147)**
-
-**Author:** [Recta Alta](https://x.com/RectaAlta) | **Source:** [Link](https://x.com/RectaAlta/status/2102297582588293160) | **Published:** Sep 22, 2026
-
----
-### Fütüristik Podyum Sahnesi Devamı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Belirli bir sarı modelden başlayarak, fütüristik kıyafetler giyen modeller ekleyerek kesintisiz bir podyum sahnesini devam ettirmek için bir istem.
-
-#### 📝 Prompt
-
-```
-Kesintisiz sahne devam ediyor; podyuma parlak renk ve stillerde fütüristik kıyafetler giyen modeller ekle, sahneyi sarı modelden itibaren sürdür -- [Yapay Zekamın kendi başına tasarım yapmasına izin vermek, kontrol etmek için eğlenceli ve merak uyandıran bir yöntemdir] - pratik yaparken 480 kullan
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102237614359130112/img/_I219QXj1uFZa3Li.jpg" width="600" alt="Fütüristik Podyum Sahnesi Devamı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11151)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2102237672504783176) | **Published:** Sep 22, 2026
-
----
-### POV Yürüyen Ayaklar Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ayakların yürüyüşünü gösteren ve her iki saniyede bir bakış açısını değiştiren karmaşık bir POV video istemi.
-
-#### 📝 Prompt
-
-```
-POV modeller ayakları, ayakkabıları tam olarak aynı yönde yürüyor, her 2 saniyede bir ayak seti, pov perspektifler arasında geçiş yapıyor, kamera her zaman kendi ayakkabılarını görüyor
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102236673941680130/img/G387hSVEXsXhPeGf.jpg" width="600" alt="POV Yürüyen Ayaklar Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11179)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2102236777167679780) | **Published:** Sep 22, 2026
-
----
-### Kötü Kral Taç Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için bir karakterin taç alıp kötüce güldüğü video üretim istemi.
-
-#### 📝 Prompt
-
-```
-Onun ayakta durduğu bir video yapın. Taç iner ve başına konur. Taç başına yerleştirildikten sonra gökyüzüne bakar ve güler. Kötü bir kahkaha.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102234504303906816/img/20BDPu1rsVx-PMfi.jpg" width="600" alt="Kötü Kral Taç Video İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11152)**
-
-**Author:** [GayBar](https://x.com/GayBar_Ai) | **Source:** [Link](https://x.com/GayBar_Ai/status/2102234543369637989) | **Published:** Sep 22, 2026
-
----
-### Grok'un Bulutların Üzerinden Başını Uzattığı An
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok'un bulutların arasından başını uzatıp 'Hadi evreni birlikte keşfedelim' dediği devasa bir video oluşturur.
-
-#### 📝 Prompt
-
-```
-Grok'u devasa boyutta gösteren ve bulutların arasından başını uzatarak “Hadi evreni birlikte keşfedelim” dediği bir video oluşturalım.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102207230024056832/img/V80TUsoF_Xzz8Yrn.jpg" width="600" alt="Grok'un Bulutların Üzerinden Başını Uzattığı An">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11148)**
-
-**Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2102207269186224577) | **Published:** Sep 22, 2026
-
----
-### Grok Imagine İçin Yapılandırılmış JSON İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine ile video oluşturmak için kamera çekimlerini, hareket seviyelerini ve sahne ortamını belirten JSON formatında detaylı bir istem.
-
-#### 📝 Prompt
-
-```
-{"shot": {"motion_level": "low", "camera_depth": "medium shot", "camera_view": "eye level", "camera_movement": "static shot"}, "scene": {"location": "indoor room", "environment": "The background consists of a light-colored, textured wall. The lighting is soft and diffused, creating a calm atmosphere. A person stands in the center, wearing casual clothing, looking directly at the camera with a neutral expression."}}
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102201238590996480/img/N5YgZxdCq4ruRib6.jpg" width="600" alt="Grok Imagine İçin Yapılandırılmış JSON İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11601)**
-
-**Author:** [プリン](https://x.com/0008_pudding) | **Source:** [Link](https://x.com/0008_pudding/status/2102201253715644511) | **Published:** Sep 22, 2026
-
----
-### Yavrular ve Gökyüzündeki Altın Balıkları
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Siyam kedisi yavrularının çimenlerde oynadığı ve altın balıkların gökyüzünde yüzdüğü sürreal bir video promptu.
-
-#### 📝 Prompt
-
-```
-Gün batımı altın güneş ışığı arka planda mısır tarlası çim avlu Siyam kedisi yavruları çimenlerde oynuyor mavi gökyüzü uzun yüzgeçli altın balıklar yüzgeçleri akıp giden kurdeleler gibi uzatılmış halde gökyüzünde nazikçe süzülüyor
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102199376206761984/img/Fh5RbZzh--nCL2YN.jpg" width="600" alt="Yavrular ve Gökyüzündeki Altın Balıkları">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11180)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2102199438509068455) | **Published:** Sep 22, 2026
-
----
-### Fotogerçekçi Motosiklet Sürüşü Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sam Elliott'ın sürdüğü bir motosikletin arkasında yolculuk yapan bir kadının fotogerçekçi videosunu oluşturmak için istem.
-
-#### 📝 Prompt
-
-```
-Bu kadın (benim havalı üvey büyükannem) Sam Elliott'ın sürdüğü motosikletin arkasında, şapkasını takmış olan Sam'e sıkıca tutunuyor. 
-
-Adı Bonnie ve harika biri 😂🥰
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102197747587645441/img/f3QQ-WrQBSBVtWYI.jpg" width="600" alt="Fotogerçekçi Motosiklet Sürüşü Video İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11149)**
-
-**Author:** [Carry Robey](https://x.com/carry_robey) | **Source:** [Link](https://x.com/carry_robey/status/2102197784711475281) | **Published:** Sep 22, 2026
-
----
-### Mavi Kuşlu Sabah Verandası Sahnesi Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Veranda, kahve, mavi kuş ve dağların yer aldığı huzurlu bir sabah videosu oluşturmak için betimleyici istem.
-
-#### 📝 Prompt
-
-```
-Verandada ahşap korkuluk, üzerinde buharı tüten bir fincan kahve duruyor. Korkuluğun üzerinde bir mavi kuş konmuş, tüylerini kabartıyor. Güneş dağların arkasından doğuyor, vadide sığır otluyor
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102082756696260608/img/sOsoDiDcaJq-KX9p.jpg" width="600" alt="Mavi Kuşlu Sabah Verandası Sahnesi Video İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11150)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2102082820005068902) | **Published:** Sep 21, 2026
-
----
-### Grok Imagine Video İstemi: POV Küçülme Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir karakterin cihazla diğerini küçülttüğü birinci şahıs bakış açısına sahip istem.
-
-#### 📝 Prompt
-
-```
-Birinci şahıs POV. Ben 1,80 metre boyunda bir erkeğim. Arkasını dönüyor ve “kurallarıma uymuyorsun” diyor, ardından cihazla beni küçültmeye başlıyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101886328451297280/img/rlc6ExVZ6tEZOSin.jpg" width="600" alt="Grok Imagine Video İstemi: POV Küçülme Sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11100)**
-
-**Author:** [Brian](https://x.com/luvsheight) | **Source:** [Link](https://x.com/luvsheight/status/2101886349984825854) | **Published:** Sep 21, 2026
-
----
-### Sinematik POV Yürüyüş Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Dışarıda düzenlenen bir partide aydınlatılmış palmiye ağaçlarının yüklendiği görselden başlayan, 15 saniyelik sinematik birinci şahıs bakış açısı (POV) videosu oluşturmak için detaylı istem.
-
-#### 📝 Prompt
-
-```
-Yüklenen görseli tam olarak başlangıç noktası olarak kullanan 15 saniyelik sinematik POV videosu. Önümde lüks bir açık hava partisi varmış gibi, bu aydınlatılmış palmiye ağaçlarının altından yavaşça ve doğal bir şekilde yürüyormuşum gibi ilerle. Gerçek mimariyi ve ışıklandırma stilini koru.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101859080272850944/img/EMGloxDM84B2JQOm.jpg" width="600" alt="Sinematik POV Yürüyüş Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11101)**
-
-**Author:** [LisaVale](https://x.com/DriftNShadow) | **Source:** [Link](https://x.com/DriftNShadow/status/2101859118231302346) | **Published:** Sep 21, 2026
-
----
-### Grok Imagine Korku Sahnesi İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir kızın kulübede saklanıp Jason Voorhees'in gölden çıkışını izlediği Grok Imagine için anlatısal bir istem.
-
-#### 📝 Prompt
-
-```
-Kız kulübeye girer ve pencereden Jason Voorhees'in gölden çıktığını görür, Jason kızı fark etmeden yanından geçer #Jasonvoorhees #FinalGirl
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101831541538074624/img/VDt0By-Bf28vL9Xk.jpg" width="600" alt="Grok Imagine Korku Sahnesi İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11105)**
-
-**Author:** [Alex Stirling](https://x.com/AlexStirlism7) | **Source:** [Link](https://x.com/AlexStirlism7/status/2101831570361348212) | **Published:** Sep 21, 2026
-
----
-### Peçe Dansçısı Sis Mavisi Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine ile oluşturulan, mermer sütunlar arasında sis mavisi ipek kumaşla dans eden bir dansçı için video üretim istemi.
-
-#### 📝 Prompt
-
-```
-💃 Peçe Dansçısı Serisi – #70 Sis Mavisi
-
-Soğuk mermer sütunların arasında dans ediyor, sessiz salonda sis mavisi ipek uçuşuyor.
-
-Grok Imagine ile oluşturuldu.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101755776226168832/img/YBgurnXIwRjoLn9n.jpg" width="600" alt="Peçe Dansçısı Sis Mavisi Video İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11353)**
-
-**Author:** [Bob - Art with a Hat](https://x.com/artwithahat0) | **Source:** [Link](https://x.com/artwithahat0/status/2101755863601922405) | **Published:** Sep 20, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2246,6 +2261,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-04T05:40:51.313Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-04T14:20:44.200Z</sub>
 
 </div>

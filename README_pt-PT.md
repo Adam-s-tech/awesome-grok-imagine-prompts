@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2962** |
+| 📝 Total Prompts | **2975** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-04** |
 
@@ -189,6 +189,234 @@ Uma Valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine Video: Cena da Sala de Gelo em Hong Kong
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Um prompt narrativo detalhado descrevendo uma cena em uma sala de gelo em Hong Kong, com instruções específicas de iluminação, figurino e ação para geração de vídeo.
+
+#### 📝 Prompt
+
+```
+A sala de gelo à tarde é mais silenciosa do que à noite.
+A cortina é vermelha. Ambas as mãos estão deste lado.
+
+A flor não é um buquê.
+Uma flor junto à orelha.
+Pasar?
+Devolver a cortina?
+
+Tarde de outono, sala de gelo em Hong Kong. Ningning afasta a cortina de contas vermelhas com ambas as mãos. Uma flor junto à orelha. Qipao azul e branco com estampa floral. Luz de tungstênio e piso estampado. Cenário dos velhos tempos 8/8, fim da temporada. Ainda não entrou além. Ela passará ou devolverá a cortina?
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106576093285412865/img/i8XgzcTRiwWMPzCo.jpg" width="600" alt="Grok Imagine Video: Cena da Sala de Gelo em Hong Kong">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11889)**
+
+**Author:** [Peter Lam](https://x.com/PeterPanLam1990) | **Source:** [Link](https://x.com/PeterPanLam1990/status/2106581609420136856) | **Published:** Oct 4, 2026
+
+---
+### Vídeo Cinematográfico de Versículo Bíblico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para gerar uma visualização cinematográfica de Gênesis 12:3 usando o Grok Imagine.
+
+#### 📝 Prompt
+
+```
+◄ Gênesis 12:3 ► Bíblia ✡️✝️
+Abençoarei os que te abençoarem, e amaldiçoarei os que te amaldiçoarem; em ti serão benditas todas as famílias da terra.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106577081228308480/img/7YxYNCgp4OZC4OqR.jpg" width="600" alt="Vídeo Cinematográfico de Versículo Bíblico">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11891)**
+
+**Author:** [Grégory Schouwey](https://x.com/GregorySchouwey) | **Source:** [Link](https://x.com/GregorySchouwey/status/2106577099066597753) | **Published:** Oct 4, 2026
+
+---
+### Vídeo de Tour pelo Jardim com Música
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para transformar fotos de um passeio pelo jardim em um vídeo de tour com música de fundo agradável.
+
+#### 📝 Prompt
+
+```
+Por favor, transforme isso em um vídeo de tour pelo jardim com música de fundo agradável (Tão bonito! O Grok Imagine criou isto a partir das minhas fotos do passeio pelo jardim de hoje 💕)
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106561259499905024/img/b_PJ0xiNJ0Qqs6pw.jpg" width="600" alt="Vídeo de Tour pelo Jardim com Música">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11883)**
+
+**Author:** [Kathleen Higney](https://x.com/krhigney) | **Source:** [Link](https://x.com/krhigney/status/2106561283978149888) | **Published:** Oct 4, 2026
+
+---
+### Animação Cinematográfica de Isqueiro com Panda Vermelho
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Uma animação em loop cinematográfico de 8 segundos, apresentando um homem asiático segurando um isqueiro Zippo com um panda vermelho que solta fogo na parte superior.
+
+#### 📝 Prompt
+
+```
+Anime esta imagem estática, 8 segundos, loop cinematográfico suave. O homem asiático segura o Zippo preto aberto com firmeza, o polegar repousa sobre a tampa. O pequeno panda vermelho, usando um gorro roxo BAD RUDY, está sentado na tampa articulada, com a boca aberta, soprando uma rajada curta e controlada de fogo laranja que tremula e diminui até virar uma pequena chama no pavio do isqueiro. Seus olhos brilhantes de cor laranja piscam uma vez. Brasas flutuam. O sorriso do homem muda ligeiramente, uma sobrancelha se ergue e depois volta ao normal. As tatuagens no antebraço permanecem imóveis. O circuito de placa roxa atrás dele pulsa uma vez, lentamente. Sem movimento de câmera. Sem personagens extras. Som: clique da pedra do isqueiro, sopro suave da chama, uma expiração tranquila.
+```
+
+<img src="https://cms-assets.youmind.com/media/1791106041379_psqya1_HTv9L15WsAAK1vK.jpg" width="600" alt="Animação Cinematográfica de Isqueiro com Panda Vermelho">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11884)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2106555887510798663) | **Published:** Oct 4, 2026
+
+---
+### Floresta de Carvalhos Prateados com Pétalas Dançantes
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo detalhado sobre a natureza, apresentando uma floresta de carvalhos com folhas de bordas prateadas, tulipas, íris e borboletas que fazem as pétalas dançarem como chamas.
+
+#### 📝 Prompt
+
+```
+Floresta de carvalhos com folhas de bordas prateadas em preto, campo de grama verde, flores de tulipa e íris, pétalas coloridas dançando como pequenas chamas, borboletas com asas de filigrana prateada fazendo as pétalas dançarem como uma chama
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106531421787668480/img/GoD_yQIs0Xn_A389.jpg" width="600" alt="Floresta de Carvalhos Prateados com Pétalas Dançantes">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11886)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2106531550955467188) | **Published:** Oct 3, 2026
+
+---
+### Cinematográfico: Coleta de Lenha no Inverno
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico para o Grok Imagine, mostrando um homem procurando gravetos secos no inverno.
+
+#### 📝 Prompt
+
+```
+Faça um vídeo dele procurando gravetos secos para sua casa. Tentando se manter aquecido no inverno. Ele parece estar falando consigo mesmo. Preocupado que não consiga encontrar lenha suficiente para sua lareira. Cinematográfico. #gay
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106510135665602560/img/MCV1Cn_hDOUZP6nQ.jpg" width="600" alt="Cinematográfico: Coleta de Lenha no Inverno">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11885)**
+
+**Author:** [GayBar](https://x.com/GayBar_Ai) | **Source:** [Link](https://x.com/GayBar_Ai/status/2106510188555739208) | **Published:** Oct 3, 2026
+
+---
+### Cena Renascentista: Donzela na Ponte
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt complexo descrevendo uma donzela sendo carregada através de uma ponte quebrada à noite, em estilo renascentista, com contexto poético sobre sua condição.
+
+#### 📝 Prompt
+
+```
+Crie uma imagem noturna e brilhante mostrando uma donzela sendo carregada através de uma ponte quebrada, em estilo renascentista.
+
+Ela ficará bem. Está apenas com o ego externo machucado.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106500631376637952/img/MOie2iQKAJmt5gKv.jpg" width="600" alt="Cena Renascentista: Donzela na Ponte">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11880)**
+
+**Author:** [Maria Of Mars](https://x.com/MariaGa68521784) | **Source:** [Link](https://x.com/MariaGa68521784/status/2106500646828454036) | **Published:** Oct 3, 2026
+
+---
+### Prompt de Referência para Animação de Homens
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt explícito para animar dois homens a partir de uma imagem de referência usando o Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Anime os dois homens adultos exatamente como aparecem na imagem de referência. Mantenha seus rostos, corpos, penteados, coroa, faixa azul na cintura, creme e gol...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106479923443736576/img/aqtm94aeuHLxz0p-.jpg" width="600" alt="Prompt de Referência para Animação de Homens">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11887)**
+
+**Author:** [GayBar](https://x.com/GayBar_Ai) | **Source:** [Link](https://x.com/GayBar_Ai/status/2106479952854175852) | **Published:** Oct 3, 2026
+
+---
+### Grok Imagine Video: Gazebo de Ferro Branco e Girassóis
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Um prompt narrativo detalhado descrevendo uma cena em um jardim de Hong Kong com um gazebo de ferro branco e girassóis.
+
+#### 📝 Prompt
+
+```
+O meio-dia entra pelas frestas das folhas.
+O pavilhão é branco e feito de ferro.
+
+Os girassóis estão nos braços.
+Eles não pertencem a ninguém.
+Colocá-los no chão?
+Deixar o pavilhão como está?
+
+Jardim em Hong Kong, gazebo de ferro branco. Ningning está de pé segurando girassóis nos braços. Vestido xadrez laranja, comprimento até os joelhos. Luz do meio-dia filtrada pelas folhas. Cenário dos velhos tempos 7/8. As flores ainda não pertencem a ninguém. Colocá-las no chão ou continuar carregando-as?
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106400590154891265/img/Df55A-c3GHwIJs-t.jpg" width="600" alt="Grok Imagine Video: Gazebo de Ferro Branco e Girassóis">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11888)**
+
+**Author:** [Peter Lam](https://x.com/PeterPanLam1990) | **Source:** [Link](https://x.com/PeterPanLam1990/status/2106400882380378147) | **Published:** Oct 3, 2026
+
+---
+### Cena de Café da Manhã com Galo no Grok Imagine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo detalhado pedindo que um galo acorde e coma itens tradicionais do café da manhã mexicano, como chilaquiles, pão e suco.
+
+#### 📝 Prompt
+
+```
+Meu galo 🐓 levanta da cama para tomar o café da manhã, fiz chilaquiles para você com muito creme e queijo, bolillo quente, suco de laranja, te amo 🐓🫀❤️💋
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106377661534867456/img/8b0Obu6ithmV6JEU.jpg" width="600" alt="Cena de Café da Manhã com Galo no Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11890)**
+
+**Author:** [Maria Ramirez 🐓🫀❤️💋🇺🇸🇲🇽](https://x.com/ra41387062) | **Source:** [Link](https://x.com/ra41387062/status/2106377674273042495) | **Published:** Oct 3, 2026
+
+---
+### Inspiração Nebulosa IC 1590
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt inspirado nas cores e na estrutura da nebulosa IC 1590, com foco nos tons de hidrogênio e oxigênio ionizados.
+
+#### 📝 Prompt
+
+```
+Os intensos vermelhos e laranjas vêm de vastas nuvens de hidrogênio ionizado, iluminadas pela explosão ultravioleta de um jovem e escaldante aglomerado de estrelas massivas (IC 1590) no coração da nebulosa. Tons mais frios de azul-ciano traçam o oxigênio ionizado, pintando o interior como uma lanterna fantasmagórica. Glóbulos de Bok escuros — nós densos de poeira e gás.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106324378883395584/img/_sie83VCeCzHFxbs.jpg" width="600" alt="Inspiração Nebulosa IC 1590">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11882)**
+
+**Author:** [Time Traveler](https://x.com/singularitymuse) | **Source:** [Link](https://x.com/singularitymuse/status/2106324981919433210) | **Published:** Oct 3, 2026
+
+---
 ### Pôster de Confronto Grok Imagine VTuber
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -244,6 +472,46 @@ Uma bela estátua geométrica feita de cobre alimentando uma floresta, com estil
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11835)**
 
 **Author:** [Legend](https://x.com/AtlasGalatic) | **Source:** [Link](https://x.com/AtlasGalatic/status/2106221457986797729) | **Published:** Oct 3, 2026
+
+---
+### Prompt de Sussurro do Coelhinho de Poeira
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado para um personagem animado de coelhinho de poeira falando com o espectador.
+
+#### 📝 Prompt
+
+```
+Um coelhinho de poeira fofinho, com voz sussurrante, dizendo ao espectador em frases entrecortadas e ofegantes que aqui é seco, escuro e encantador, venha, venha, venha
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106178645421129728/img/t1Fc8STqNzLkz6Eg.jpg" width="600" alt="Prompt de Sussurro do Coelhinho de Poeira">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11881)**
+
+**Author:** [No No 😎](https://x.com/LynHunter1221) | **Source:** [Link](https://x.com/LynHunter1221/status/2106178661162569794) | **Published:** Oct 3, 2026
+
+---
+### Cena de Pedido de Casamento Dançante com Grok Imagine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo criativo solicitando ao Grok Imagine que anime uma cena onde Elon Musk convida o usuário para dançar, eles riem enquanto dançam e ele faz um pedido de casamento.
+
+#### 📝 Prompt
+
+```
+@elonmusk 🦋🍒🧜🏽‍♀️
+
+adicione elon musk se aproximando para me convidar para dançar, nós dançando e rindo, e depois ele me pedindo em casamento.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106171708944027648/img/v6Q-iWDCuENYUvRO.jpg" width="600" alt="Cena de Pedido de Casamento Dançante com Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11879)**
+
+**Author:** [Lauryn Taylor Hamilton](https://x.com/sweetbabylemon1) | **Source:** [Link](https://x.com/sweetbabylemon1/status/2106171730637304311) | **Published:** Oct 2, 2026
 
 ---
 ### Cena do Dragão com Ventilador Girando
@@ -1933,259 +2201,6 @@ Pássaros cantores em um comedouro; pendurado no comedouro, há um sino de vento
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2102435199816749153) | **Published:** Sep 22, 2026
 
 ---
-### Prompt de Vídeo do Grok Imagine para Animação de Escaneamento Facial
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt que instrui o Grok Imagine a gerar um vídeo de escaneamento facial com movimentos lentos da cabeça.
-
-#### 📝 Prompt
-
-```
-Preciso de um vídeo que registre meu escaneamento facial do modelo 2027. Aqui está o modelo que quero usar: faça os movimentos da cabeça serem lentos.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102297546135666688/img/wSDadpRJLCkglBad.jpg" width="600" alt="Prompt de Vídeo do Grok Imagine para Animação de Escaneamento Facial">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11147)**
-
-**Author:** [Recta Alta](https://x.com/RectaAlta) | **Source:** [Link](https://x.com/RectaAlta/status/2102297582588293160) | **Published:** Sep 22, 2026
-
----
-### Continuação de Cena de Passarela Futurista
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para continuar uma cena de passarela fluida adicionando modelos com vestuário futurista, começando a partir de um modelo amarelo específico.
-
-#### 📝 Prompt
-
-```
-A cena fluida continua, adicione modelos usando vestuário futurista em cores e estilos variados e brilhantes na passarela, continue a cena a partir do modelo amarelo -- [deixar minha IA projetar por conta própria é uma forma lúdica e curiosa de testar] - use 480 enquanto pratica
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102237614359130112/img/_I219QXj1uFZa3Li.jpg" width="600" alt="Continuação de Cena de Passarela Futurista">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11151)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2102237672504783176) | **Published:** Sep 22, 2026
-
----
-### Vídeo POV de Pés Caminhando
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo complexo que descreve uma sequência em primeira pessoa (POV) de pés caminhando, alternando perspectivas a cada dois segundos.
-
-#### 📝 Prompt
-
-```
-Modelos POV, pés e sapatos caminhando na mesma direção exata, um par de pés a cada 2 segundos, troca de perspectiva entre os planos, câmera sempre focada nos próprios sapatos
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102236673941680130/img/G387hSVEXsXhPeGf.jpg" width="600" alt="Vídeo POV de Pés Caminhando">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11179)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2102236777167679780) | **Published:** Sep 22, 2026
-
----
-### Prompt de Vídeo: Coroa do Rei Maligno
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para geração de vídeo no Grok Imagine, descrevendo um personagem recebendo uma coroa e rindo malignamente.
-
-#### 📝 Prompt
-
-```
-Crie um vídeo dele em pé. A coroa desce e é colocada sobre sua cabeça. Assim que a coroa está posicionada, ele olha para o céu e ri. Uma risada maligna.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102234504303906816/img/20BDPu1rsVx-PMfi.jpg" width="600" alt="Prompt de Vídeo: Coroa do Rei Maligno">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11152)**
-
-**Author:** [GayBar](https://x.com/GayBar_Ai) | **Source:** [Link](https://x.com/GayBar_Ai/status/2102234543369637989) | **Published:** Sep 22, 2026
-
----
-### Grok Emergindo das Nuvens
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Cria um vídeo de um Grok gigante emergindo das nuvens e dizendo: 'vamos descobrir o universo juntos'.
-
-#### 📝 Prompt
-
-```
-Vamos fazer um Grok gigante emergir das nuvens e dizer “vamos descobrir o universo juntos”
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102207230024056832/img/V80TUsoF_Xzz8Yrn.jpg" width="600" alt="Grok Emergindo das Nuvens">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11148)**
-
-**Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2102207269186224577) | **Published:** Sep 22, 2026
-
----
-### Prompt JSON Estruturado para o Grok Imagine
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado formatado em JSON que especifica planos de câmera, níveis de movimento e ambiente da cena para gerar um vídeo com o Grok Imagine.
-
-#### 📝 Prompt
-
-```
-{"shot": {"motion_level": "low", "camera_depth": "medium shot", "camera_view": "eye level", "camera_movement": "static shot"}, "scene": {"location": "indoor room", "environment": "The background consists of a light-colored, textured wall. The lighting is soft and diffused, creating a calm atmosphere. A person stands in the center, wearing casual clothing, looking directly at the camera with a neutral expression."}}
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102201238590996480/img/N5YgZxdCq4ruRib6.jpg" width="600" alt="Prompt JSON Estruturado para o Grok Imagine">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11601)**
-
-**Author:** [プリン](https://x.com/0008_pudding) | **Source:** [Link](https://x.com/0008_pudding/status/2102201253715644511) | **Published:** Sep 22, 2026
-
----
-### Gatinhos e Peixes-Dourados no Céu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo surrealista apresentando gatinhos siameses brincando na grama enquanto peixes-dourados nadam pelo céu.
-
-#### 📝 Prompt
-
-```
-Campo de milho ao pôr do sol com luz dourada ao fundo, quintal gramado, gatinhos siameses brincando na grama, céu azul, peixes-dourados de barbatanas longas nadando suavemente pelo céu com as barbatanas estendidas como fitas fluidas
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102199376206761984/img/Fh5RbZzh--nCL2YN.jpg" width="600" alt="Gatinhos e Peixes-Dourados no Céu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11180)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2102199438509068455) | **Published:** Sep 22, 2026
-
----
-### Prompt de Vídeo Realista de Passeio de Motocicleta
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para gerar um vídeo fotorrealista de uma mulher na garupa de uma motocicleta conduzida por Sam Elliott.
-
-#### 📝 Prompt
-
-```
-Vídeo fotorrealista desta mulher (minha avó adotiva badass) na garupa de uma motocicleta, agarrada em Sam Elliott, que é o piloto e está usando um chapéu de cowboy. 
-
-O nome dela é Bonnie e ela é incrível 😂🥰
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102197747587645441/img/f3QQ-WrQBSBVtWYI.jpg" width="600" alt="Prompt de Vídeo Realista de Passeio de Motocicleta">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11149)**
-
-**Author:** [Carry Robey](https://x.com/carry_robey) | **Source:** [Link](https://x.com/carry_robey/status/2102197784711475281) | **Published:** Sep 22, 2026
-
----
-### Prompt de Vídeo: Cena Matinal na Varanda com Pássaro Azul
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt descritivo para gerar um vídeo sereno de manhã, apresentando uma varanda, café, um pássaro azul e montanhas.
-
-#### 📝 Prompt
-
-```
-Corrimão de madeira em uma varanda. Uma xícara de café fumegante está sobre o corrimão. Um pássaro azul pousa no corrimão e ajeita suas penas. O nascer do sol surge por trás das montanhas. Gado pasta no vale.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102082756696260608/img/sOsoDiDcaJq-KX9p.jpg" width="600" alt="Prompt de Vídeo: Cena Matinal na Varanda com Pássaro Azul">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11150)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2102082820005068902) | **Published:** Sep 21, 2026
-
----
-### Prompt de Vídeo Grok Imagine: Cena POV de Encolhimento
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt em primeira pessoa onde um personagem encolhe outro com um dispositivo.
-
-#### 📝 Prompt
-
-```
-POV em primeira pessoa. Sou um cara de 1,80m. Ela se vira e diz “você não está cumprindo minhas regras” e procede a me encolher com o dispositivo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101886328451297280/img/rlc6ExVZ6tEZOSin.jpg" width="600" alt="Prompt de Vídeo Grok Imagine: Cena POV de Encolhimento">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11100)**
-
-**Author:** [Brian](https://x.com/luvsheight) | **Source:** [Link](https://x.com/luvsheight/status/2101886349984825854) | **Published:** Sep 21, 2026
-
----
-### Vídeo Cinematográfico em POV Caminhando
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado para criar um vídeo cinematográfico de 15 segundos em ponto de vista, começando a partir de uma imagem enviada de palmeiras iluminadas em uma festa ao ar livre.
-
-#### 📝 Prompt
-
-```
-Vídeo cinematográfico em POV de 15 segundos usando a imagem enviada como o ponto de partida visual exato. Mova-se para frente lentamente e naturalmente, como se eu estivesse caminhando sob estas palmeiras iluminadas em direção a uma festa sofisticada ao ar livre logo à frente. Preserve a arquitetura real e o estilo de iluminação.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101859080272850944/img/EMGloxDM84B2JQOm.jpg" width="600" alt="Vídeo Cinematográfico em POV Caminhando">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11101)**
-
-**Author:** [LisaVale](https://x.com/DriftNShadow) | **Source:** [Link](https://x.com/DriftNShadow/status/2101859118231302346) | **Published:** Sep 21, 2026
-
----
-### Prompt de Cena de Terror para Grok Imagine
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt narrativo para o Grok Imagine que retrata uma garota se escondendo em uma cabana enquanto observa Jason Voorhees emergir de um lago.
-
-#### 📝 Prompt
-
-```
-A garota entra na cabana e vê pela janela Jason Voorhees saindo do lago, e Jason passa sem notar a garota #Jasonvoorhees #FinalGirl
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101831541538074624/img/VDt0By-Bf28vL9Xk.jpg" width="600" alt="Prompt de Cena de Terror para Grok Imagine">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11105)**
-
-**Author:** [Alex Stirling](https://x.com/AlexStirlism7) | **Source:** [Link](https://x.com/AlexStirlism7/status/2101831570361348212) | **Published:** Sep 21, 2026
-
----
-### Prompt de Vídeo: Dançarina do Véu Azul Névoa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de geração de vídeo para uma dançarina em seda azul-névoa entre colunas de mármore, criado com Grok Imagine.
-
-#### 📝 Prompt
-
-```
-💃 Série Dançarina do Véu – #70 Azul Névoa
-
-Ela dança entre frias colunas de mármore, a seda azul-névoa flui no salão silencioso.
-
-Criado com Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101755776226168832/img/YBgurnXIwRjoLn9n.jpg" width="600" alt="Prompt de Vídeo: Dançarina do Véu Azul Névoa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11353)**
-
-**Author:** [Bob - Art with a Hat](https://x.com/artwithahat0) | **Source:** [Link](https://x.com/artwithahat0/status/2101755863601922405) | **Published:** Sep 20, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2247,6 +2262,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-04T05:40:50.491Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-04T14:20:43.280Z</sub>
 
 </div>
